@@ -1,0 +1,3756 @@
+,Date,Home,Away,Bet
+0,2012-03-08,Arsenal Sarandi,Union de Santa Fe,1.76
+1,2012-04-08,Velez Sarsfield,Argentinos Jrs,1.97
+2,2012-04-08,Racing Club,Atl. Rafaela,0.0
+3,2012-04-08,Colon Santa FE,Lanus,0.0
+4,2012-04-08,Quilmes,Boca Juniors,0.0
+5,2012-05-08,Newells Old Boys,Independiente,0.0
+6,2012-05-08,Godoy Cruz,All Boys,0.0
+7,2012-05-08,San Lorenzo,San Martin S.J.,1.89
+8,2012-05-08,River Plate,Belgrano,0.0
+9,2012-07-08,Tigre,Estudiantes L.P.,0.0
+10,2012-10-08,San Martin S.J.,Colon Santa FE,0.0
+11,2012-11-08,Lanus,Newells Old Boys,0.0
+12,2012-11-08,Estudiantes L.P.,River Plate,0.0
+13,2012-11-08,All Boys,Quilmes,2.95
+14,2012-11-08,Belgrano,San Lorenzo,3.0
+15,2012-12-08,Argentinos Jrs,Racing Club,0.0
+16,2012-12-08,Union de Santa Fe,Godoy Cruz,0.0
+17,2012-08-13,Boca Juniors,Tigre,1.85
+18,2012-08-13,Atl. Rafaela,Arsenal Sarandi,3.05
+19,2012-08-14,Independiente,Velez Sarsfield,3.02
+20,2012-08-18,Boca Juniors,All Boys,1.73
+21,2012-08-18,Colon Santa FE,Belgrano,0.0
+22,2012-08-19,San Lorenzo,Estudiantes L.P.,0.0
+23,2012-08-19,Racing Club,Independiente,0.0
+24,2012-08-19,Godoy Cruz,Atl. Rafaela,2.13
+25,2012-08-19,Velez Sarsfield,Lanus,0.0
+26,2012-08-19,Tigre,River Plate,0.0
+27,2012-08-20,Quilmes,Union de Santa Fe,2.06
+28,2012-08-20,Arsenal Sarandi,Argentinos Jrs,0.0
+29,2012-08-20,Newells Old Boys,San Martin S.J.,1.72
+30,2012-08-25,All Boys,Tigre,3.0
+31,2012-08-25,Union de Santa Fe,Boca Juniors,0.0
+32,2012-08-25,Argentinos Jrs,Godoy Cruz,0.0
+33,2012-08-26,Independiente,Arsenal Sarandi,0.0
+34,2012-08-26,Atl. Rafaela,Quilmes,2.99
+35,2012-08-26,Belgrano,Newells Old Boys,2.93
+36,2012-08-26,Lanus,Racing Club,0.0
+37,2012-08-26,San Martin S.J.,Velez Sarsfield,0.0
+38,2012-08-26,River Plate,San Lorenzo,0.0
+39,2012-08-27,Estudiantes L.P.,Colon Santa FE,0.0
+40,2012-01-09,All Boys,Union de Santa Fe,1.9
+41,2012-01-09,Newells Old Boys,Estudiantes L.P.,2.1
+42,2012-01-09,Arsenal Sarandi,Lanus,0.0
+43,2012-02-09,Velez Sarsfield,Belgrano,1.75
+44,2012-02-09,Tigre,San Lorenzo,3.07
+45,2012-02-09,Boca Juniors,Atl. Rafaela,1.59
+46,2012-02-09,Godoy Cruz,Independiente,2.03
+47,2012-03-09,Colon Santa FE,River Plate,3.0
+48,2012-03-09,Quilmes,Argentinos Jrs,0.0
+49,2012-04-09,Racing Club,San Martin S.J.,1.77
+50,2012-08-09,San Martin S.J.,Arsenal Sarandi,0.0
+51,2012-08-09,Atl. Rafaela,All Boys,0.0
+52,2012-08-09,Estudiantes L.P.,Velez Sarsfield,3.05
+53,2012-09-09,San Lorenzo,Colon Santa FE,0.0
+54,2012-09-09,Argentinos Jrs,Boca Juniors,3.05
+55,2012-09-09,Belgrano,Racing Club,0.0
+56,2012-09-09,Independiente,Quilmes,2.96
+57,2012-10-09,River Plate,Newells Old Boys,0.0
+58,2012-10-09,Union de Santa Fe,Tigre,3.02
+59,2012-10-09,Lanus,Godoy Cruz,2.06
+60,2012-09-15,Tigre,Colon Santa FE,3.04
+61,2012-09-15,All Boys,Argentinos Jrs,0.0
+62,2012-09-15,Godoy Cruz,San Martin S.J.,1.84
+63,2012-09-16,Racing Club,Estudiantes L.P.,0.0
+64,2012-09-16,Boca Juniors,Independiente,1.68
+65,2012-09-16,Newells Old Boys,San Lorenzo,1.99
+66,2012-09-16,Arsenal Sarandi,Belgrano,0.0
+67,2012-09-17,Velez Sarsfield,River Plate,2.09
+68,2012-09-17,Union de Santa Fe,Atl. Rafaela,2.98
+69,2012-09-18,Quilmes,Lanus,2.96
+70,2012-09-21,Belgrano,Godoy Cruz,0.0
+71,2012-09-22,Atl. Rafaela,Tigre,0.0
+72,2012-09-22,Argentinos Jrs,Union de Santa Fe,0.0
+73,2012-09-22,San Lorenzo,Velez Sarsfield,0.0
+74,2012-09-23,Independiente,All Boys,3.01
+75,2012-09-23,River Plate,Racing Club,0.0
+76,2012-09-23,Colon Santa FE,Newells Old Boys,0.0
+77,2012-09-23,San Martin S.J.,Quilmes,0.0
+78,2012-09-23,Lanus,Boca Juniors,0.0
+79,2012-09-24,Estudiantes L.P.,Arsenal Sarandi,2.15
+80,2012-09-28,Quilmes,Belgrano,3.0
+81,2012-09-29,All Boys,Lanus,0.0
+82,2012-09-29,Godoy Cruz,Estudiantes L.P.,0.0
+83,2012-09-29,Atl. Rafaela,Argentinos Jrs,0.0
+84,2012-09-30,Racing Club,San Lorenzo,0.0
+85,2012-09-30,Arsenal Sarandi,River Plate,0.0
+86,2012-09-30,Tigre,Newells Old Boys,3.04
+87,2012-09-30,Union de Santa Fe,Independiente,0.0
+88,2012-09-30,Velez Sarsfield,Colon Santa FE,0.0
+89,2012-09-30,Boca Juniors,San Martin S.J.,0.0
+90,2012-05-10,Lanus,Union de Santa Fe,1.59
+91,2012-06-10,Argentinos Jrs,Tigre,0.0
+92,2012-06-10,San Martin S.J.,All Boys,0.0
+93,2012-06-10,San Lorenzo,Arsenal Sarandi,3.0
+94,2012-06-10,Estudiantes L.P.,Quilmes,1.87
+95,2012-07-10,Colon Santa FE,Racing Club,0.0
+96,2012-07-10,Belgrano,Boca Juniors,0.0
+97,2012-07-10,Independiente,Atl. Rafaela,0.0
+98,2012-07-10,Newells Old Boys,Velez Sarsfield,0.0
+99,2012-07-10,River Plate,Godoy Cruz,1.82
+100,2012-10-19,Arsenal Sarandi,Colon Santa FE,0.0
+101,2012-10-20,Argentinos Jrs,Independiente,0.0
+102,2012-10-20,All Boys,Belgrano,0.0
+103,2012-10-20,Union de Santa Fe,San Martin S.J.,0.0
+104,2012-10-20,Godoy Cruz,San Lorenzo,0.0
+105,2012-10-20,Tigre,Velez Sarsfield,2.13
+106,2012-10-21,Racing Club,Newells Old Boys,2.99
+107,2012-10-21,Quilmes,River Plate,0.0
+108,2012-10-21,Atl. Rafaela,Lanus,0.0
+109,2012-10-21,Boca Juniors,Estudiantes L.P.,0.0
+110,2012-10-27,San Lorenzo,Quilmes,0.0
+111,2012-10-27,San Martin S.J.,Atl. Rafaela,0.0
+112,2012-10-27,Estudiantes L.P.,All Boys,0.0
+113,2012-10-27,Newells Old Boys,Arsenal Sarandi,1.79
+114,2012-10-28,Velez Sarsfield,Racing Club,1.9
+115,2012-10-28,River Plate,Boca Juniors,3.07
+116,2012-10-28,Belgrano,Union de Santa Fe,1.78
+117,2012-10-28,Lanus,Argentinos Jrs,1.89
+118,2012-10-29,Colon Santa FE,Godoy Cruz,0.0
+119,2012-02-11,Atl. Rafaela,Belgrano,0.0
+120,2012-03-11,Argentinos Jrs,San Martin S.J.,3.12
+121,2012-03-11,Union de Santa Fe,Estudiantes L.P.,3.04
+122,2012-03-11,Boca Juniors,San Lorenzo,1.86
+123,2012-03-11,Arsenal Sarandi,Velez Sarsfield,0.0
+124,2012-04-11,Godoy Cruz,Newells Old Boys,2.98
+125,2012-04-11,Quilmes,Colon Santa FE,3.01
+126,2012-04-11,All Boys,River Plate,3.06
+127,2012-05-11,Tigre,Racing Club,2.95
+128,2012-06-11,Independiente,Lanus,0.0
+129,2012-09-11,Belgrano,Argentinos Jrs,0.0
+130,2012-09-11,Newells Old Boys,Quilmes,0.0
+131,2012-10-11,Velez Sarsfield,Godoy Cruz,1.54
+132,2012-10-11,San Lorenzo,All Boys,0.0
+133,2012-10-11,River Plate,Union de Santa Fe,1.54
+134,2012-10-11,Estudiantes L.P.,Atl. Rafaela,1.79
+135,2012-11-11,Lanus,Tigre,1.73
+136,2012-11-11,San Martin S.J.,Independiente,0.0
+137,2012-11-11,Colon Santa FE,Boca Juniors,3.11
+138,2012-11-11,Racing Club,Arsenal Sarandi,0.0
+139,2012-11-13,Argentinos Jrs,Estudiantes L.P.,0.0
+140,2012-11-13,Union de Santa Fe,San Lorenzo,3.03
+141,2012-11-14,Quilmes,Velez Sarsfield,1.92
+142,2012-11-14,All Boys,Colon Santa FE,3.06
+143,2012-11-15,Atl. Rafaela,River Plate,3.1
+144,2012-11-15,Godoy Cruz,Racing Club,0.0
+145,2012-11-15,Lanus,San Martin S.J.,1.53
+146,2012-11-16,Boca Juniors,Newells Old Boys,2.93
+147,2012-11-16,Tigre,Arsenal Sarandi,0.0
+148,2012-11-17,San Lorenzo,Atl. Rafaela,1.88
+149,2012-11-17,Estudiantes L.P.,Independiente,1.97
+150,2012-11-18,Arsenal Sarandi,Godoy Cruz,2.02
+151,2012-11-18,Colon Santa FE,Union de Santa Fe,1.68
+152,2012-11-18,San Martin S.J.,Tigre,0.0
+153,2012-11-18,Newells Old Boys,All Boys,0.0
+154,2012-11-18,Velez Sarsfield,Boca Juniors,0.0
+155,2012-11-19,Belgrano,Lanus,0.0
+156,2012-11-19,Racing Club,Quilmes,1.76
+157,2012-11-20,River Plate,Argentinos Jrs,0.0
+158,2012-11-24,Independiente,River Plate,3.04
+159,2012-11-24,Union de Santa Fe,Newells Old Boys,0.0
+160,2012-11-24,San Martin S.J.,Belgrano,2.99
+161,2012-11-25,Argentinos Jrs,San Lorenzo,0.0
+162,2012-11-25,All Boys,Velez Sarsfield,2.04
+163,2012-11-25,Lanus,Estudiantes L.P.,0.0
+164,2012-11-25,Tigre,Godoy Cruz,2.12
+165,2012-11-25,Boca Juniors,Racing Club,0.0
+166,2012-11-26,Quilmes,Arsenal Sarandi,0.0
+167,2012-11-27,Atl. Rafaela,Colon Santa FE,0.0
+168,2012-11-28,Independiente,Belgrano,0.0
+169,2012-01-12,Godoy Cruz,Quilmes,0.0
+170,2012-01-12,Colon Santa FE,Argentinos Jrs,1.83
+171,2012-02-12,Racing Club,All Boys,1.82
+172,2012-02-12,Belgrano,Tigre,1.71
+173,2012-02-12,River Plate,Lanus,0.0
+174,2012-02-12,Velez Sarsfield,Union de Santa Fe,1.3
+175,2012-02-12,San Lorenzo,Independiente,1.99
+176,2012-02-12,Arsenal Sarandi,Boca Juniors,0.0
+177,2012-03-12,Newells Old Boys,Atl. Rafaela,1.6
+178,2012-03-12,Estudiantes L.P.,San Martin S.J.,1.87
+179,2012-07-12,All Boys,Arsenal Sarandi,0.0
+180,2012-08-12,Union de Santa Fe,Racing Club,0.0
+181,2012-08-12,Argentinos Jrs,Newells Old Boys,0.0
+182,2012-08-12,Boca Juniors,Godoy Cruz,1.65
+183,2012-08-12,Atl. Rafaela,Velez Sarsfield,2.06
+184,2012-08-12,Belgrano,Estudiantes L.P.,0.0
+185,2012-09-12,Lanus,San Lorenzo,0.0
+186,2012-09-12,Independiente,Colon Santa FE,3.04
+187,2012-09-12,San Martin S.J.,River Plate,0.0
+188,2013-03-02,Independiente,Tigre,0.0
+189,2013-08-02,Union de Santa Fe,Arsenal Sarandi,2.98
+190,2013-09-02,Argentinos Jrs,Velez Sarsfield,1.98
+191,2013-09-02,All Boys,Godoy Cruz,3.03
+192,2013-09-02,Estudiantes L.P.,Tigre,0.0
+193,2013-09-02,Boca Juniors,Quilmes,1.65
+194,2013-10-02,San Martin S.J.,San Lorenzo,2.96
+195,2013-10-02,Atl. Rafaela,Racing Club,0.0
+196,2013-10-02,Independiente,Newells Old Boys,0.0
+197,2013-10-02,Belgrano,River Plate,0.0
+198,2013-11-02,Lanus,Colon Santa FE,1.99
+199,2013-02-13,Quilmes,Tigre,3.07
+200,2013-02-16,Racing Club,Argentinos Jrs,1.78
+201,2013-02-16,Godoy Cruz,Union de Santa Fe,1.84
+202,2013-02-16,San Lorenzo,Belgrano,0.0
+203,2013-02-16,Colon Santa FE,San Martin S.J.,0.0
+204,2013-02-16,Velez Sarsfield,Independiente,0.0
+205,2013-02-17,Tigre,Boca Juniors,3.1
+206,2013-02-17,Quilmes,All Boys,0.0
+207,2013-02-17,Newells Old Boys,Lanus,0.0
+208,2013-02-17,River Plate,Estudiantes L.P.,1.91
+209,2013-02-18,Arsenal Sarandi,Atl. Rafaela,0.0
+210,2013-02-22,Argentinos Jrs,Arsenal Sarandi,0.0
+211,2013-02-23,Estudiantes L.P.,San Lorenzo,2.98
+212,2013-02-23,Union de Santa Fe,Quilmes,0.0
+213,2013-02-23,All Boys,Boca Juniors,0.0
+214,2013-02-23,Lanus,Velez Sarsfield,1.95
+215,2013-02-24,Atl. Rafaela,Godoy Cruz,0.0
+216,2013-02-24,Independiente,Racing Club,0.0
+217,2013-02-24,Belgrano,Colon Santa FE,0.0
+218,2013-02-24,River Plate,Tigre,1.67
+219,2013-02-26,San Martin S.J.,Newells Old Boys,2.98
+220,2013-01-03,Quilmes,Atl. Rafaela,0.0
+221,2013-02-03,Newells Old Boys,Belgrano,1.98
+222,2013-02-03,Colon Santa FE,Estudiantes L.P.,3.06
+223,2013-02-03,Arsenal Sarandi,Independiente,0.0
+224,2013-03-03,Godoy Cruz,Argentinos Jrs,0.0
+225,2013-03-03,San Lorenzo,River Plate,0.0
+226,2013-03-03,Tigre,All Boys,0.0
+227,2013-03-03,Racing Club,Lanus,2.98
+228,2013-03-03,Boca Juniors,Union de Santa Fe,0.0
+229,2013-05-03,Velez Sarsfield,San Martin S.J.,1.54
+230,2013-08-03,Belgrano,Velez Sarsfield,0.0
+231,2013-09-03,Independiente,Godoy Cruz,0.0
+232,2013-09-03,Union de Santa Fe,All Boys,3.03
+233,2013-09-03,Estudiantes L.P.,Newells Old Boys,0.0
+234,2013-09-03,San Martin S.J.,Racing Club,0.0
+235,2013-10-03,San Lorenzo,Tigre,0.0
+236,2013-10-03,River Plate,Colon Santa FE,1.75
+237,2013-10-03,Atl. Rafaela,Boca Juniors,3.06
+238,2013-11-03,Lanus,Arsenal Sarandi,1.72
+239,2013-12-03,Argentinos Jrs,Quilmes,0.0
+240,2013-03-16,Tigre,Union de Santa Fe,0.0
+241,2013-03-16,Colon Santa FE,San Lorenzo,0.0
+242,2013-03-16,Quilmes,Independiente,3.09
+243,2013-03-17,Godoy Cruz,Lanus,0.0
+244,2013-03-17,Newells Old Boys,River Plate,0.0
+245,2013-03-17,Racing Club,Belgrano,0.0
+246,2013-03-17,Velez Sarsfield,Estudiantes L.P.,0.0
+247,2013-03-17,Boca Juniors,Argentinos Jrs,0.0
+248,2013-03-18,Arsenal Sarandi,San Martin S.J.,1.73
+249,2013-03-19,All Boys,Atl. Rafaela,0.0
+250,2013-03-29,Colon Santa FE,Tigre,2.16
+251,2013-03-30,Belgrano,Arsenal Sarandi,2.98
+252,2013-03-30,Argentinos Jrs,All Boys,0.0
+253,2013-03-30,River Plate,Velez Sarsfield,3.03
+254,2013-03-30,Estudiantes L.P.,Racing Club,0.0
+255,2013-03-31,Independiente,Boca Juniors,3.03
+256,2013-03-31,San Martin S.J.,Godoy Cruz,0.0
+257,2013-03-31,Atl. Rafaela,Union de Santa Fe,2.03
+258,2013-03-31,San Lorenzo,Newells Old Boys,0.0
+259,2013-01-04,Lanus,Quilmes,0.0
+260,2013-06-04,All Boys,Independiente,0.0
+261,2013-06-04,Tigre,Atl. Rafaela,0.0
+262,2013-06-04,Velez Sarsfield,San Lorenzo,0.0
+263,2013-06-04,Union de Santa Fe,Argentinos Jrs,3.04
+264,2013-06-04,Godoy Cruz,Belgrano,2.99
+265,2013-07-04,Quilmes,San Martin S.J.,0.0
+266,2013-07-04,Racing Club,River Plate,0.0
+267,2013-07-04,Newells Old Boys,Colon Santa FE,0.0
+268,2013-08-04,Boca Juniors,Lanus,3.03
+269,2013-09-04,Arsenal Sarandi,Estudiantes L.P.,0.0
+270,2013-12-04,Independiente,Union de Santa Fe,0.0
+271,2013-04-13,Argentinos Jrs,Atl. Rafaela,3.06
+272,2013-04-13,San Martin S.J.,Boca Juniors,0.0
+273,2013-04-13,San Lorenzo,Racing Club,0.0
+274,2013-04-14,Lanus,All Boys,1.58
+275,2013-04-14,Estudiantes L.P.,Godoy Cruz,0.0
+276,2013-04-14,Colon Santa FE,Velez Sarsfield,0.0
+277,2013-04-14,Newells Old Boys,Tigre,1.79
+278,2013-04-15,River Plate,Arsenal Sarandi,0.0
+279,2013-04-16,Belgrano,Quilmes,2.06
+280,2013-04-19,Velez Sarsfield,Newells Old Boys,0.0
+281,2013-04-20,Racing Club,Colon Santa FE,0.0
+282,2013-04-20,All Boys,San Martin S.J.,0.0
+283,2013-04-21,Quilmes,Estudiantes L.P.,0.0
+284,2013-04-21,Atl. Rafaela,Independiente,0.0
+285,2013-04-21,Arsenal Sarandi,San Lorenzo,0.0
+286,2013-04-21,Boca Juniors,Belgrano,2.98
+287,2013-04-22,Godoy Cruz,River Plate,0.0
+288,2013-04-22,Union de Santa Fe,Lanus,0.0
+289,2013-04-23,Tigre,Argentinos Jrs,0.0
+290,2013-04-27,Estudiantes L.P.,Boca Juniors,2.02
+291,2013-04-27,San Lorenzo,Godoy Cruz,0.0
+292,2013-04-27,Colon Santa FE,Arsenal Sarandi,2.11
+293,2013-04-28,San Martin S.J.,Union de Santa Fe,2.0
+294,2013-04-28,Independiente,Argentinos Jrs,2.09
+295,2013-04-28,Newells Old Boys,Racing Club,1.91
+296,2013-04-29,River Plate,Quilmes,0.0
+297,2013-04-29,Belgrano,All Boys,0.0
+298,2013-04-30,Lanus,Atl. Rafaela,0.0
+299,2013-03-05,Godoy Cruz,Colon Santa FE,0.0
+300,2013-04-05,Quilmes,San Lorenzo,0.0
+301,2013-04-05,Union de Santa Fe,Belgrano,2.95
+302,2013-04-05,Argentinos Jrs,Lanus,1.91
+303,2013-05-05,Racing Club,Velez Sarsfield,2.98
+304,2013-05-05,Tigre,Independiente,0.0
+305,2013-05-05,Boca Juniors,River Plate,2.98
+306,2013-06-05,Atl. Rafaela,San Martin S.J.,2.15
+307,2013-06-05,All Boys,Estudiantes L.P.,2.95
+308,2013-07-05,Arsenal Sarandi,Newells Old Boys,0.0
+309,2013-09-05,Velez Sarsfield,Tigre,0.0
+310,2013-11-05,Belgrano,Atl. Rafaela,0.0
+311,2013-11-05,San Lorenzo,Boca Juniors,1.91
+312,2013-11-05,Newells Old Boys,Godoy Cruz,1.78
+313,2013-11-05,Velez Sarsfield,Arsenal Sarandi,2.95
+314,2013-12-05,Racing Club,Tigre,1.84
+315,2013-12-05,Lanus,Independiente,0.0
+316,2013-12-05,San Martin S.J.,Argentinos Jrs,1.98
+317,2013-12-05,Colon Santa FE,Quilmes,0.0
+318,2013-05-13,River Plate,All Boys,1.79
+319,2013-05-14,Estudiantes L.P.,Union de Santa Fe,1.82
+320,2013-05-18,Arsenal Sarandi,Racing Club,0.0
+321,2013-05-18,Atl. Rafaela,Estudiantes L.P.,0.0
+322,2013-05-18,Godoy Cruz,Velez Sarsfield,0.0
+323,2013-05-18,Quilmes,Newells Old Boys,2.95
+324,2013-05-19,Boca Juniors,Colon Santa FE,0.0
+325,2013-05-19,Independiente,San Martin S.J.,2.07
+326,2013-05-19,Union de Santa Fe,River Plate,0.0
+327,2013-05-20,All Boys,San Lorenzo,0.0
+328,2013-05-20,Argentinos Jrs,Belgrano,0.0
+329,2013-05-21,Tigre,Lanus,0.0
+330,2013-05-24,Colon Santa FE,All Boys,2.08
+331,2013-05-25,Velez Sarsfield,Quilmes,2.08
+332,2013-05-26,Belgrano,Independiente,2.99
+333,2013-05-26,Racing Club,Godoy Cruz,0.0
+334,2013-05-26,San Martin S.J.,Lanus,0.0
+335,2013-05-26,River Plate,Atl. Rafaela,1.61
+336,2013-05-27,Newells Old Boys,Boca Juniors,1.62
+337,2013-05-27,Arsenal Sarandi,Tigre,1.85
+338,2013-05-27,Estudiantes L.P.,Argentinos Jrs,0.0
+339,2013-05-28,San Lorenzo,Union de Santa Fe,1.51
+340,2013-01-06,Quilmes,Racing Club,1.52
+341,2013-01-06,Independiente,Estudiantes L.P.,0.0
+342,2013-01-06,Godoy Cruz,Arsenal Sarandi,2.14
+343,2013-02-06,Atl. Rafaela,San Lorenzo,3.05
+344,2013-02-06,Union de Santa Fe,Colon Santa FE,0.0
+345,2013-02-06,Lanus,Belgrano,0.0
+346,2013-02-06,Boca Juniors,Velez Sarsfield,2.98
+347,2013-03-06,Argentinos Jrs,River Plate,0.0
+348,2013-03-06,Tigre,San Martin S.J.,0.0
+349,2013-04-06,All Boys,Newells Old Boys,0.0
+350,2013-08-06,Belgrano,San Martin S.J.,0.0
+351,2013-08-06,Arsenal Sarandi,Quilmes,0.0
+352,2013-08-06,Godoy Cruz,Tigre,0.0
+353,2013-09-06,River Plate,Independiente,1.79
+354,2013-09-06,Colon Santa FE,Atl. Rafaela,3.03
+355,2013-10-06,Racing Club,Boca Juniors,0.0
+356,2013-10-06,Newells Old Boys,Union de Santa Fe,1.28
+357,2013-11-06,San Lorenzo,Argentinos Jrs,0.0
+358,2013-12-06,Velez Sarsfield,All Boys,0.0
+359,2013-06-15,Tigre,Belgrano,3.07
+360,2013-06-15,Argentinos Jrs,Colon Santa FE,1.88
+361,2013-06-15,Independiente,San Lorenzo,0.0
+362,2013-06-15,San Martin S.J.,Estudiantes L.P.,1.95
+363,2013-06-16,Union de Santa Fe,Velez Sarsfield,0.0
+364,2013-06-16,All Boys,Racing Club,0.0
+365,2013-06-16,Atl. Rafaela,Newells Old Boys,1.88
+366,2013-06-16,Boca Juniors,Arsenal Sarandi,1.97
+367,2013-06-17,Lanus,River Plate,0.0
+368,2013-06-18,Quilmes,Godoy Cruz,0.0
+369,2013-06-19,Estudiantes L.P.,Lanus,0.0
+370,2013-06-22,Racing Club,Union de Santa Fe,1.52
+371,2013-06-22,Estudiantes L.P.,Belgrano,2.96
+372,2013-06-22,Tigre,Quilmes,0.0
+373,2013-06-23,Colon Santa FE,Independiente,0.0
+374,2013-06-23,Newells Old Boys,Argentinos Jrs,0.0
+375,2013-06-23,River Plate,San Martin S.J.,0.0
+376,2013-06-23,Velez Sarsfield,Atl. Rafaela,2.12
+377,2013-06-23,Arsenal Sarandi,All Boys,1.95
+378,2013-06-23,San Lorenzo,Lanus,3.1
+379,2013-06-24,Godoy Cruz,Boca Juniors,0.0
+380,2013-06-29,Velez Sarsfield,Newells Old Boys,0.0
+381,2013-02-08,Godoy Cruz,Argentinos Jrs,1.82
+382,2013-03-08,Arsenal Sarandi,Estudiantes L.P.,2.88
+383,2013-03-08,All Boys,Atl. Rafaela,0.0
+384,2013-03-08,Tigre,Velez Sarsfield,0.0
+385,2013-04-08,Colon Santa FE,Racing Club,3.01
+386,2013-04-08,San Lorenzo,Olimpo Bahia Blanca,1.57
+387,2013-04-08,Lanus,Belgrano,1.81
+388,2013-04-08,Gimnasia L.P.,River Plate,0.0
+389,2013-05-08,Rosario Central,Quilmes,1.82
+390,2013-07-08,Argentinos Jrs,Colon Santa FE,0.0
+391,2013-07-08,Belgrano,Boca Juniors,0.0
+392,2013-08-08,Estudiantes L.P.,All Boys,1.9
+393,2013-08-08,Atl. Rafaela,Lanus,0.0
+394,2013-08-08,Quilmes,Godoy Cruz,0.0
+395,2013-09-08,Velez Sarsfield,Arsenal Sarandi,0.0
+396,2013-09-08,Olimpo Bahia Blanca,Tigre,3.05
+397,2013-09-08,Racing Club,San Lorenzo,0.0
+398,2013-10-08,River Plate,Rosario Central,2.0
+399,2013-08-13,Boca Juniors,Newells Old Boys,0.0
+400,2013-08-16,Arsenal Sarandi,Olimpo Bahia Blanca,1.92
+401,2013-08-17,Colon Santa FE,Quilmes,2.18
+402,2013-08-17,Gimnasia L.P.,Rosario Central,0.0
+403,2013-08-18,San Lorenzo,Argentinos Jrs,0.0
+404,2013-08-18,Newells Old Boys,Belgrano,0.0
+405,2013-08-18,Tigre,Racing Club,0.0
+406,2013-08-18,Boca Juniors,Atl. Rafaela,1.67
+407,2013-08-19,Godoy Cruz,River Plate,2.98
+408,2013-08-19,All Boys,Velez Sarsfield,2.9
+409,2013-08-20,Lanus,Estudiantes L.P.,0.0
+410,2013-08-23,Belgrano,Gimnasia L.P.,0.0
+411,2013-08-23,Atl. Rafaela,Newells Old Boys,0.0
+412,2013-08-24,Racing Club,Arsenal Sarandi,0.0
+413,2013-08-24,Velez Sarsfield,Lanus,2.91
+414,2013-08-24,Argentinos Jrs,Tigre,0.0
+415,2013-08-24,Rosario Central,Godoy Cruz,2.13
+416,2013-08-25,Olimpo Bahia Blanca,All Boys,2.91
+417,2013-08-25,River Plate,Colon Santa FE,0.0
+418,2013-08-26,Estudiantes L.P.,Boca Juniors,0.0
+419,2013-08-27,Quilmes,San Lorenzo,0.0
+420,2013-08-27,Newells Old Boys,Gimnasia L.P.,1.84
+421,2013-08-31,Newells Old Boys,Estudiantes L.P.,0.0
+422,2013-08-31,Tigre,Quilmes,0.0
+423,2013-01-09,All Boys,Racing Club,0.0
+424,2013-01-09,Gimnasia L.P.,Godoy Cruz,0.0
+425,2013-01-09,Colon Santa FE,Rosario Central,0.0
+426,2013-01-09,Boca Juniors,Velez Sarsfield,0.0
+427,2013-02-09,San Lorenzo,River Plate,0.0
+428,2013-02-09,Arsenal Sarandi,Argentinos Jrs,0.0
+429,2013-02-09,Belgrano,Atl. Rafaela,1.95
+430,2013-03-09,Lanus,Olimpo Bahia Blanca,1.54
+431,2013-07-09,Velez Sarsfield,Newells Old Boys,0.0
+432,2013-07-09,Estudiantes L.P.,Belgrano,0.0
+433,2013-07-09,Godoy Cruz,Colon Santa FE,1.92
+434,2013-07-09,Argentinos Jrs,All Boys,0.0
+435,2013-07-09,Atl. Rafaela,Gimnasia L.P.,0.0
+436,2013-08-09,Racing Club,Lanus,3.01
+437,2013-08-09,Quilmes,Arsenal Sarandi,0.0
+438,2013-08-09,Rosario Central,San Lorenzo,0.0
+439,2013-08-09,River Plate,Tigre,1.81
+440,2013-09-09,Olimpo Bahia Blanca,Boca Juniors,0.0
+441,2013-09-13,Lanus,Argentinos Jrs,1.79
+442,2013-09-14,Belgrano,Velez Sarsfield,0.0
+443,2013-09-14,Newells Old Boys,Olimpo Bahia Blanca,1.56
+444,2013-09-14,All Boys,Quilmes,2.2
+445,2013-09-15,San Lorenzo,Godoy Cruz,0.0
+446,2013-09-15,Atl. Rafaela,Estudiantes L.P.,0.0
+447,2013-09-15,Tigre,Rosario Central,0.0
+448,2013-09-15,Boca Juniors,Racing Club,2.02
+449,2013-09-16,Arsenal Sarandi,River Plate,2.93
+450,2013-09-17,Gimnasia L.P.,Colon Santa FE,1.96
+451,2013-09-20,Godoy Cruz,Tigre,1.84
+452,2013-09-21,Racing Club,Newells Old Boys,0.0
+453,2013-09-21,Olimpo Bahia Blanca,Belgrano,2.95
+454,2013-09-22,Rosario Central,Arsenal Sarandi,0.0
+455,2013-09-22,Quilmes,Lanus,0.0
+456,2013-09-22,Colon Santa FE,San Lorenzo,0.0
+457,2013-09-22,Estudiantes L.P.,Gimnasia L.P.,3.0
+458,2013-09-22,Argentinos Jrs,Boca Juniors,2.97
+459,2013-09-23,River Plate,All Boys,1.88
+460,2013-09-24,Velez Sarsfield,Atl. Rafaela,1.63
+461,2013-09-27,Arsenal Sarandi,Godoy Cruz,2.17
+462,2013-09-27,All Boys,Rosario Central,2.96
+463,2013-09-28,Estudiantes L.P.,Velez Sarsfield,2.9
+464,2013-09-28,San Lorenzo,Gimnasia L.P.,1.88
+465,2013-09-28,Atl. Rafaela,Olimpo Bahia Blanca,2.04
+466,2013-09-29,Newells Old Boys,Argentinos Jrs,1.6
+467,2013-09-29,Tigre,Colon Santa FE,2.16
+468,2013-09-29,Belgrano,Racing Club,2.14
+469,2013-09-29,Boca Juniors,Quilmes,1.6
+470,2013-09-30,Lanus,River Plate,0.0
+471,2013-04-10,Argentinos Jrs,Belgrano,0.0
+472,2013-05-10,Olimpo Bahia Blanca,Estudiantes L.P.,2.89
+473,2013-05-10,Quilmes,Newells Old Boys,2.15
+474,2013-06-10,San Lorenzo,Tigre,0.0
+475,2013-06-10,River Plate,Boca Juniors,0.0
+476,2013-07-10,Racing Club,Atl. Rafaela,0.0
+477,2013-07-10,Colon Santa FE,Arsenal Sarandi,0.0
+478,2013-07-10,Godoy Cruz,All Boys,2.03
+479,2013-07-10,Gimnasia L.P.,Velez Sarsfield,0.0
+480,2013-08-10,Rosario Central,Lanus,0.0
+481,2013-12-10,All Boys,Colon Santa FE,0.0
+482,2013-12-10,Atl. Rafaela,Argentinos Jrs,2.0
+483,2013-12-10,Belgrano,Quilmes,0.0
+484,2013-10-13,Arsenal Sarandi,San Lorenzo,0.0
+485,2013-10-13,Estudiantes L.P.,Racing Club,1.83
+486,2013-10-13,Velez Sarsfield,Olimpo Bahia Blanca,0.0
+487,2013-10-13,Boca Juniors,Rosario Central,0.0
+488,2013-10-14,Newells Old Boys,River Plate,2.0
+489,2013-10-14,Tigre,Gimnasia L.P.,3.0
+490,2013-10-15,Lanus,Godoy Cruz,0.0
+491,2013-10-18,Quilmes,Atl. Rafaela,3.01
+492,2013-10-18,Argentinos Jrs,Estudiantes L.P.,0.0
+493,2013-10-19,Racing Club,Velez Sarsfield,2.12
+494,2013-10-19,Colon Santa FE,Lanus,0.0
+495,2013-10-20,San Lorenzo,All Boys,1.83
+496,2013-10-20,Gimnasia L.P.,Olimpo Bahia Blanca,0.0
+497,2013-10-20,Rosario Central,Newells Old Boys,0.0
+498,2013-10-20,Tigre,Arsenal Sarandi,0.0
+499,2013-10-20,River Plate,Belgrano,0.0
+500,2013-10-21,Godoy Cruz,Boca Juniors,2.94
+501,2013-10-23,Velez Sarsfield,Argentinos Jrs,1.58
+502,2013-10-23,All Boys,Tigre,0.0
+503,2013-10-23,Atl. Rafaela,River Plate,2.94
+504,2013-10-24,Lanus,San Lorenzo,0.0
+505,2013-10-25,Belgrano,Rosario Central,0.0
+506,2013-10-25,Newells Old Boys,Godoy Cruz,0.0
+507,2013-10-25,Boca Juniors,Colon Santa FE,1.47
+508,2013-10-26,Arsenal Sarandi,Gimnasia L.P.,0.0
+509,2013-10-28,Estudiantes L.P.,Quilmes,1.78
+510,2013-10-28,Olimpo Bahia Blanca,Racing Club,0.0
+511,2013-01-11,Arsenal Sarandi,All Boys,0.0
+512,2013-01-11,Colon Santa FE,Newells Old Boys,0.0
+513,2013-02-11,Argentinos Jrs,Olimpo Bahia Blanca,0.0
+514,2013-02-11,Rosario Central,Atl. Rafaela,1.83
+515,2013-02-11,Godoy Cruz,Belgrano,2.99
+516,2013-02-11,Gimnasia L.P.,Racing Club,0.0
+517,2013-03-11,Quilmes,Velez Sarsfield,2.96
+518,2013-03-11,Tigre,Lanus,0.0
+519,2013-03-11,San Lorenzo,Boca Juniors,2.08
+520,2013-04-11,River Plate,Estudiantes L.P.,0.0
+521,2013-08-11,Atl. Rafaela,Godoy Cruz,0.0
+522,2013-09-11,Olimpo Bahia Blanca,Quilmes,0.0
+523,2013-09-11,All Boys,Gimnasia L.P.,0.0
+524,2013-09-11,Estudiantes L.P.,Rosario Central,0.0
+525,2013-09-11,Newells Old Boys,San Lorenzo,0.0
+526,2013-10-11,Belgrano,Colon Santa FE,1.64
+527,2013-10-11,Boca Juniors,Tigre,1.82
+528,2013-10-11,Racing Club,Argentinos Jrs,0.0
+529,2013-11-11,Velez Sarsfield,River Plate,0.0
+530,2013-11-11,Lanus,Arsenal Sarandi,1.98
+531,2013-11-15,Gimnasia L.P.,Argentinos Jrs,0.0
+532,2013-11-16,All Boys,Lanus,0.0
+533,2013-11-16,Godoy Cruz,Estudiantes L.P.,0.0
+534,2013-11-16,Quilmes,Racing Club,2.93
+535,2013-11-16,San Lorenzo,Belgrano,1.71
+536,2013-11-17,Rosario Central,Velez Sarsfield,0.0
+537,2013-11-17,River Plate,Olimpo Bahia Blanca,0.0
+538,2013-11-18,Arsenal Sarandi,Boca Juniors,0.0
+539,2013-11-18,Tigre,Newells Old Boys,0.0
+540,2013-11-18,Colon Santa FE,Atl. Rafaela,0.0
+541,2013-11-22,Velez Sarsfield,Godoy Cruz,1.71
+542,2013-11-23,Argentinos Jrs,Quilmes,0.0
+543,2013-11-23,Olimpo Bahia Blanca,Rosario Central,0.0
+544,2013-11-23,Atl. Rafaela,San Lorenzo,3.11
+545,2013-11-24,Lanus,Gimnasia L.P.,0.0
+546,2013-11-24,Boca Juniors,All Boys,0.0
+547,2013-11-24,Newells Old Boys,Arsenal Sarandi,0.0
+548,2013-11-25,Racing Club,River Plate,0.0
+549,2013-11-25,Estudiantes L.P.,Colon Santa FE,1.58
+550,2013-11-26,Belgrano,Tigre,1.94
+551,2013-11-29,Godoy Cruz,Olimpo Bahia Blanca,0.0
+552,2013-11-29,Rosario Central,Racing Club,0.0
+553,2013-11-30,Colon Santa FE,Velez Sarsfield,1.91
+554,2013-11-30,Tigre,Atl. Rafaela,2.18
+555,2013-11-30,Arsenal Sarandi,Belgrano,0.0
+556,2013-11-30,All Boys,Newells Old Boys,0.0
+557,2013-01-12,Gimnasia L.P.,Quilmes,1.95
+558,2013-01-12,San Lorenzo,Estudiantes L.P.,0.0
+559,2013-01-12,Lanus,Boca Juniors,3.13
+560,2013-02-12,River Plate,Argentinos Jrs,2.0
+561,2013-06-12,Belgrano,All Boys,2.09
+562,2013-06-12,Racing Club,Godoy Cruz,2.16
+563,2013-07-12,Argentinos Jrs,Rosario Central,0.0
+564,2013-07-12,Atl. Rafaela,Arsenal Sarandi,3.05
+565,2013-08-12,Estudiantes L.P.,Tigre,0.0
+566,2013-08-12,Boca Juniors,Gimnasia L.P.,0.0
+567,2013-09-12,Quilmes,River Plate,2.88
+568,2013-09-12,Olimpo Bahia Blanca,Colon Santa FE,1.87
+569,2013-12-15,Newells Old Boys,Lanus,0.0
+570,2013-12-15,Velez Sarsfield,San Lorenzo,2.98
+571,2014-07-02,Estudiantes L.P.,Arsenal Sarandi,0.0
+572,2014-07-02,Velez Sarsfield,Tigre,0.0
+573,2014-08-02,Olimpo Bahia Blanca,San Lorenzo,0.0
+574,2014-08-02,Argentinos Jrs,Godoy Cruz,0.0
+575,2014-08-02,Atl. Rafaela,All Boys,0.0
+576,2014-08-02,Racing Club,Colon Santa FE,1.77
+577,2014-09-02,Quilmes,Rosario Central,0.0
+578,2014-09-02,Newells Old Boys,Boca Juniors,0.0
+579,2014-10-02,River Plate,Gimnasia L.P.,2.02
+580,2014-11-02,Belgrano,Lanus,2.9
+581,2014-02-14,Godoy Cruz,Quilmes,1.91
+582,2014-02-15,All Boys,Estudiantes L.P.,0.0
+583,2014-02-15,Arsenal Sarandi,Velez Sarsfield,0.0
+584,2014-02-15,Tigre,Olimpo Bahia Blanca,0.0
+585,2014-02-15,San Lorenzo,Racing Club,1.9
+586,2014-02-16,Colon Santa FE,Argentinos Jrs,0.0
+587,2014-02-16,Gimnasia L.P.,Newells Old Boys,0.0
+588,2014-02-16,Lanus,Atl. Rafaela,0.0
+589,2014-02-16,Rosario Central,River Plate,2.89
+590,2014-02-17,Boca Juniors,Belgrano,0.0
+591,2014-02-18,Olimpo Bahia Blanca,Arsenal Sarandi,0.0
+592,2014-02-18,Velez Sarsfield,All Boys,1.66
+593,2014-02-19,Racing Club,Tigre,0.0
+594,2014-02-19,Quilmes,Colon Santa FE,0.0
+595,2014-02-19,Argentinos Jrs,San Lorenzo,2.04
+596,2014-02-19,Estudiantes L.P.,Lanus,0.0
+597,2014-02-20,River Plate,Godoy Cruz,0.0
+598,2014-02-20,Belgrano,Newells Old Boys,2.96
+599,2014-02-20,Rosario Central,Gimnasia L.P.,2.04
+600,2014-02-21,Atl. Rafaela,Boca Juniors,0.0
+601,2014-02-22,Lanus,Velez Sarsfield,0.0
+602,2014-02-22,All Boys,Olimpo Bahia Blanca,0.0
+603,2014-02-22,Arsenal Sarandi,Racing Club,0.0
+604,2014-02-23,Newells Old Boys,Atl. Rafaela,1.65
+605,2014-02-23,San Lorenzo,Quilmes,1.5
+606,2014-02-23,Boca Juniors,Estudiantes L.P.,0.0
+607,2014-02-24,Colon Santa FE,River Plate,0.0
+608,2014-02-24,Godoy Cruz,Rosario Central,0.0
+609,2014-02-24,Tigre,Argentinos Jrs,0.0
+610,2014-02-25,Gimnasia L.P.,Belgrano,0.0
+611,2014-02-28,Godoy Cruz,Gimnasia L.P.,0.0
+612,2014-02-28,Racing Club,All Boys,0.0
+613,2014-01-03,Velez Sarsfield,Boca Juniors,2.02
+614,2014-01-03,Atl. Rafaela,Belgrano,0.0
+615,2014-01-03,Argentinos Jrs,Arsenal Sarandi,0.0
+616,2014-01-03,Rosario Central,Colon Santa FE,0.0
+617,2014-02-03,Olimpo Bahia Blanca,Lanus,0.0
+618,2014-02-03,Quilmes,Tigre,0.0
+619,2014-02-03,River Plate,San Lorenzo,0.0
+620,2014-03-03,Estudiantes L.P.,Newells Old Boys,2.95
+621,2014-04-03,Colon Santa FE,Godoy Cruz,2.97
+622,2014-04-03,Gimnasia L.P.,Atl. Rafaela,0.0
+623,2014-05-03,All Boys,Argentinos Jrs,0.0
+624,2014-05-03,Belgrano,Estudiantes L.P.,2.92
+625,2014-05-03,Lanus,Racing Club,1.87
+626,2014-05-03,Boca Juniors,Olimpo Bahia Blanca,1.71
+627,2014-06-03,Newells Old Boys,Velez Sarsfield,0.0
+628,2014-06-03,Arsenal Sarandi,Quilmes,0.0
+629,2014-06-03,San Lorenzo,Rosario Central,1.98
+630,2014-07-03,Tigre,River Plate,2.84
+631,2014-08-03,Argentinos Jrs,Lanus,2.18
+632,2014-08-03,Colon Santa FE,Gimnasia L.P.,2.95
+633,2014-08-03,Estudiantes L.P.,Atl. Rafaela,0.0
+634,2014-09-03,Velez Sarsfield,Belgrano,1.75
+635,2014-09-03,Godoy Cruz,San Lorenzo,0.0
+636,2014-09-03,Olimpo Bahia Blanca,Newells Old Boys,0.0
+637,2014-09-03,River Plate,Arsenal Sarandi,1.71
+638,2014-10-03,Racing Club,Boca Juniors,0.0
+639,2014-10-03,Quilmes,All Boys,0.0
+640,2014-11-03,Rosario Central,Tigre,0.0
+641,2014-03-14,Atl. Rafaela,Velez Sarsfield,0.0
+642,2014-03-15,Tigre,Godoy Cruz,2.93
+643,2014-03-15,Belgrano,Olimpo Bahia Blanca,0.0
+644,2014-03-15,San Lorenzo,Colon Santa FE,0.0
+645,2014-03-16,Gimnasia L.P.,Estudiantes L.P.,0.0
+646,2014-03-16,Arsenal Sarandi,Rosario Central,2.93
+647,2014-03-16,Newells Old Boys,Racing Club,1.83
+648,2014-03-16,Boca Juniors,Argentinos Jrs,0.0
+649,2014-03-17,All Boys,River Plate,0.0
+650,2014-03-17,Lanus,Quilmes,1.56
+651,2014-03-21,Olimpo Bahia Blanca,Atl. Rafaela,2.1
+652,2014-03-21,Colon Santa FE,Tigre,0.0
+653,2014-03-22,Racing Club,Belgrano,0.0
+654,2014-03-22,Argentinos Jrs,Newells Old Boys,2.93
+655,2014-03-22,Rosario Central,All Boys,1.77
+656,2014-03-22,Velez Sarsfield,Estudiantes L.P.,0.0
+657,2014-03-23,Godoy Cruz,Arsenal Sarandi,2.0
+658,2014-03-23,Gimnasia L.P.,San Lorenzo,0.0
+659,2014-03-23,River Plate,Lanus,2.08
+660,2014-03-24,Quilmes,Boca Juniors,0.0
+661,2014-03-28,All Boys,Godoy Cruz,2.89
+662,2014-03-28,Estudiantes L.P.,Olimpo Bahia Blanca,0.0
+663,2014-03-29,Belgrano,Argentinos Jrs,0.0
+664,2014-03-29,Velez Sarsfield,Gimnasia L.P.,2.0
+665,2014-03-29,Newells Old Boys,Quilmes,0.0
+666,2014-03-29,Atl. Rafaela,Racing Club,3.02
+667,2014-03-30,Lanus,Rosario Central,2.08
+668,2014-03-30,Arsenal Sarandi,Colon Santa FE,1.88
+669,2014-03-30,Boca Juniors,River Plate,0.0
+670,2014-03-31,Tigre,San Lorenzo,2.84
+671,2014-01-04,Quilmes,Belgrano,0.0
+672,2014-01-04,Olimpo Bahia Blanca,Velez Sarsfield,0.0
+673,2014-01-04,Argentinos Jrs,Atl. Rafaela,0.0
+674,2014-02-04,Racing Club,Estudiantes L.P.,2.83
+675,2014-02-04,Godoy Cruz,Lanus,0.0
+676,2014-02-04,Colon Santa FE,All Boys,2.21
+677,2014-02-04,Rosario Central,Boca Juniors,2.09
+678,2014-03-04,River Plate,Newells Old Boys,1.95
+679,2014-03-04,Gimnasia L.P.,Tigre,1.96
+680,2014-04-04,San Lorenzo,Arsenal Sarandi,2.03
+681,2014-05-04,Lanus,Colon Santa FE,1.69
+682,2014-06-04,Velez Sarsfield,Racing Club,0.0
+683,2014-06-04,Newells Old Boys,Rosario Central,0.0
+684,2014-06-04,Atl. Rafaela,Quilmes,0.0
+685,2014-06-04,All Boys,San Lorenzo,0.0
+686,2014-06-04,Arsenal Sarandi,Tigre,0.0
+687,2014-06-04,Boca Juniors,Godoy Cruz,1.91
+688,2014-07-04,Belgrano,River Plate,0.0
+689,2014-08-04,Estudiantes L.P.,Argentinos Jrs,1.65
+690,2014-08-04,Olimpo Bahia Blanca,Gimnasia L.P.,0.0
+691,2014-11-04,Tigre,All Boys,2.03
+692,2014-12-04,Rosario Central,Belgrano,0.0
+693,2014-12-04,Quilmes,Estudiantes L.P.,0.0
+694,2014-12-04,Argentinos Jrs,Velez Sarsfield,0.0
+695,2014-12-04,Racing Club,Olimpo Bahia Blanca,0.0
+696,2014-04-13,San Lorenzo,Lanus,0.0
+697,2014-04-13,Gimnasia L.P.,Arsenal Sarandi,2.02
+698,2014-04-13,Godoy Cruz,Newells Old Boys,0.0
+699,2014-04-13,River Plate,Atl. Rafaela,1.54
+700,2014-04-14,Colon Santa FE,Boca Juniors,3.0
+701,2014-04-15,Olimpo Bahia Blanca,Argentinos Jrs,2.21
+702,2014-04-15,Velez Sarsfield,Quilmes,0.0
+703,2014-04-16,Atl. Rafaela,Rosario Central,0.0
+704,2014-04-16,Estudiantes L.P.,River Plate,2.83
+705,2014-04-16,Newells Old Boys,Colon Santa FE,0.0
+706,2014-04-17,Boca Juniors,San Lorenzo,2.93
+707,2014-04-17,All Boys,Arsenal Sarandi,2.87
+708,2014-04-17,Belgrano,Godoy Cruz,0.0
+709,2014-04-18,Racing Club,Gimnasia L.P.,0.0
+710,2014-04-19,Rosario Central,Estudiantes L.P.,2.98
+711,2014-04-19,Quilmes,Olimpo Bahia Blanca,0.0
+712,2014-04-20,San Lorenzo,Newells Old Boys,2.96
+713,2014-04-20,Colon Santa FE,Belgrano,2.9
+714,2014-04-20,Argentinos Jrs,Racing Club,0.0
+715,2014-04-20,Arsenal Sarandi,Lanus,0.0
+716,2014-04-20,River Plate,Velez Sarsfield,1.95
+717,2014-04-21,Tigre,Boca Juniors,0.0
+718,2014-04-21,Godoy Cruz,Atl. Rafaela,1.93
+719,2014-04-21,Gimnasia L.P.,All Boys,1.69
+720,2014-04-25,Newells Old Boys,Tigre,2.19
+721,2014-04-26,Belgrano,San Lorenzo,2.93
+722,2014-04-26,Atl. Rafaela,Colon Santa FE,0.0
+723,2014-04-26,Argentinos Jrs,Gimnasia L.P.,0.0
+724,2014-04-26,Velez Sarsfield,Rosario Central,0.0
+725,2014-04-27,Racing Club,Quilmes,0.0
+726,2014-04-27,Estudiantes L.P.,Godoy Cruz,0.0
+727,2014-04-27,Lanus,All Boys,1.66
+728,2014-04-27,Boca Juniors,Arsenal Sarandi,1.75
+729,2014-04-28,Olimpo Bahia Blanca,River Plate,2.85
+730,2014-01-05,Lanus,Tigre,0.0
+731,2014-03-05,Quilmes,Argentinos Jrs,1.84
+732,2014-03-05,Colon Santa FE,Estudiantes L.P.,0.0
+733,2014-03-05,Rosario Central,Olimpo Bahia Blanca,0.0
+734,2014-03-05,Godoy Cruz,Velez Sarsfield,0.0
+735,2014-04-05,San Lorenzo,Atl. Rafaela,2.0
+736,2014-04-05,Arsenal Sarandi,Newells Old Boys,0.0
+737,2014-04-05,Gimnasia L.P.,Lanus,0.0
+738,2014-04-05,River Plate,Racing Club,1.57
+739,2014-05-05,All Boys,Boca Juniors,0.0
+740,2014-06-05,Tigre,Belgrano,2.2
+741,2014-09-05,Olimpo Bahia Blanca,Godoy Cruz,0.0
+742,2014-10-05,Estudiantes L.P.,San Lorenzo,1.61
+743,2014-10-05,Newells Old Boys,All Boys,1.56
+744,2014-10-05,Atl. Rafaela,Tigre,2.98
+745,2014-10-05,Velez Sarsfield,Colon Santa FE,1.78
+746,2014-11-05,Racing Club,Rosario Central,3.03
+747,2014-11-05,Belgrano,Arsenal Sarandi,0.0
+748,2014-11-05,Quilmes,Gimnasia L.P.,0.0
+749,2014-11-05,Boca Juniors,Lanus,1.99
+750,2014-12-05,Argentinos Jrs,River Plate,1.66
+751,2014-05-17,All Boys,Belgrano,2.87
+752,2014-05-18,Rosario Central,Argentinos Jrs,1.47
+753,2014-05-18,Arsenal Sarandi,Atl. Rafaela,0.0
+754,2014-05-18,Colon Santa FE,Olimpo Bahia Blanca,1.83
+755,2014-05-18,Godoy Cruz,Racing Club,1.56
+756,2014-05-18,Gimnasia L.P.,Boca Juniors,0.0
+757,2014-05-18,River Plate,Quilmes,1.37
+758,2014-05-18,Tigre,Estudiantes L.P.,0.0
+759,2014-05-19,Lanus,Newells Old Boys,0.0
+760,2014-05-20,San Lorenzo,Velez Sarsfield,0.0
+761,2014-05-24,Colon Santa FE,Atl. Rafaela,0.0
+762,2014-05-25,San Lorenzo,River Plate,0.0
+763,2015-01-29,Boca Juniors,Velez Sarsfield,1.98
+764,2014-08-08,Godoy Cruz,Banfield,0.0
+765,2014-09-08,Rosario Central,Quilmes,1.87
+766,2014-10-08,Defensa y Justicia,Racing Club,0.0
+767,2014-10-08,Independiente,Atl. Rafaela,1.95
+768,2014-10-08,Boca Juniors,Newells Old Boys,0.0
+769,2014-11-08,Gimnasia L.P.,River Plate,2.83
+770,2014-11-08,Arsenal Sarandi,Estudiantes L.P.,0.0
+771,2014-12-08,Tigre,Velez Sarsfield,0.0
+772,2014-08-13,Lanus,Belgrano,1.85
+773,2014-08-16,Newells Old Boys,Gimnasia L.P.,0.0
+774,2014-08-16,Olimpo Bahia Blanca,Tigre,0.0
+775,2014-08-16,Banfield,Defensa y Justicia,0.0
+776,2014-08-16,Velez Sarsfield,Arsenal Sarandi,1.79
+777,2014-08-17,Estudiantes L.P.,Independiente,1.95
+778,2014-08-17,Racing Club,San Lorenzo,0.0
+779,2014-08-17,River Plate,Rosario Central,1.91
+780,2014-08-18,Belgrano,Boca Juniors,0.0
+781,2014-08-18,Quilmes,Godoy Cruz,0.0
+782,2014-08-19,Atl. Rafaela,Lanus,0.0
+783,2014-08-22,Arsenal Sarandi,Olimpo Bahia Blanca,0.0
+784,2014-08-23,Tigre,Racing Club,0.0
+785,2014-08-23,Gimnasia L.P.,Rosario Central,0.0
+786,2014-08-23,Newells Old Boys,Belgrano,0.0
+787,2014-08-24,Independiente,Velez Sarsfield,0.0
+788,2014-08-24,San Lorenzo,Banfield,0.0
+789,2014-08-24,Lanus,Estudiantes L.P.,0.0
+790,2014-08-24,Defensa y Justicia,Quilmes,0.0
+791,2014-08-24,Boca Juniors,Atl. Rafaela,0.0
+792,2014-08-25,Godoy Cruz,River Plate,0.0
+793,2014-08-26,Belgrano,Gimnasia L.P.,0.0
+794,2014-08-26,Olimpo Bahia Blanca,Independiente,0.0
+795,2014-08-27,Racing Club,Arsenal Sarandi,1.99
+796,2014-08-27,Atl. Rafaela,Newells Old Boys,0.0
+797,2014-08-27,Rosario Central,Godoy Cruz,0.0
+798,2014-08-27,River Plate,Defensa y Justicia,1.52
+799,2014-08-28,Estudiantes L.P.,Boca Juniors,2.02
+800,2014-08-28,Banfield,Tigre,2.03
+801,2014-08-28,Velez Sarsfield,Lanus,0.0
+802,2014-08-29,Quilmes,San Lorenzo,0.0
+803,2014-08-30,Gimnasia L.P.,Godoy Cruz,1.85
+804,2014-08-30,Defensa y Justicia,Rosario Central,0.0
+805,2014-08-31,Newells Old Boys,Estudiantes L.P.,2.09
+806,2014-08-31,Belgrano,Atl. Rafaela,1.79
+807,2014-08-31,Independiente,Racing Club,0.0
+808,2014-08-31,Boca Juniors,Velez Sarsfield,0.0
+809,2014-01-09,San Lorenzo,River Plate,0.0
+810,2014-01-09,Lanus,Olimpo Bahia Blanca,0.0
+811,2014-01-09,Arsenal Sarandi,Banfield,0.0
+812,2014-02-09,Tigre,Quilmes,0.0
+813,2014-06-09,Atl. Rafaela,Gimnasia L.P.,0.0
+814,2014-06-09,Velez Sarsfield,Newells Old Boys,0.0
+815,2014-06-09,Estudiantes L.P.,Belgrano,2.02
+816,2014-07-09,Banfield,Independiente,0.0
+817,2014-07-09,Rosario Central,San Lorenzo,2.93
+818,2014-07-09,Godoy Cruz,Defensa y Justicia,3.12
+819,2014-07-09,Racing Club,Lanus,0.0
+820,2014-07-09,River Plate,Tigre,1.48
+821,2014-08-09,Olimpo Bahia Blanca,Boca Juniors,0.0
+822,2014-09-09,Quilmes,Arsenal Sarandi,0.0
+823,2014-09-13,Gimnasia L.P.,Defensa y Justicia,0.0
+824,2014-09-13,San Lorenzo,Godoy Cruz,1.71
+825,2014-09-13,Tigre,Rosario Central,0.0
+826,2014-09-13,Atl. Rafaela,Estudiantes L.P.,2.07
+827,2014-09-14,Independiente,Quilmes,1.94
+828,2014-09-14,Lanus,Banfield,1.88
+829,2014-09-14,Belgrano,Velez Sarsfield,0.0
+830,2014-09-16,Newells Old Boys,Olimpo Bahia Blanca,1.6
+831,2014-09-20,Quilmes,Lanus,2.08
+832,2014-09-20,Estudiantes L.P.,Gimnasia L.P.,0.0
+833,2014-09-20,Olimpo Bahia Blanca,Belgrano,0.0
+834,2014-09-21,Velez Sarsfield,Atl. Rafaela,0.0
+835,2014-09-21,Rosario Central,Arsenal Sarandi,2.03
+836,2014-09-21,Banfield,Boca Juniors,3.03
+837,2014-09-22,River Plate,Independiente,1.4
+838,2014-09-22,Defensa y Justicia,San Lorenzo,0.0
+839,2014-09-23,Racing Club,Newells Old Boys,2.96
+840,2014-09-25,Boca Juniors,Racing Club,0.0
+841,2014-09-25,Arsenal Sarandi,River Plate,0.0
+842,2014-09-26,Estudiantes L.P.,Velez Sarsfield,2.13
+843,2014-09-27,Atl. Rafaela,Olimpo Bahia Blanca,0.0
+844,2014-09-27,Independiente,Rosario Central,2.15
+845,2014-09-28,San Lorenzo,Gimnasia L.P.,0.0
+846,2014-09-28,Tigre,Defensa y Justicia,0.0
+847,2014-09-28,Belgrano,Racing Club,0.0
+848,2014-09-28,Boca Juniors,Quilmes,1.54
+849,2014-09-29,Lanus,River Plate,3.03
+850,2014-09-29,Arsenal Sarandi,Godoy Cruz,1.98
+851,2014-09-30,Newells Old Boys,Banfield,0.0
+852,2014-01-10,San Lorenzo,Olimpo Bahia Blanca,1.94
+853,2014-04-10,Gimnasia L.P.,Velez Sarsfield,0.0
+854,2014-04-10,Banfield,Belgrano,0.0
+855,2014-04-10,San Lorenzo,Tigre,0.0
+856,2014-04-10,Defensa y Justicia,Arsenal Sarandi,1.99
+857,2014-05-10,Olimpo Bahia Blanca,Estudiantes L.P.,0.0
+858,2014-05-10,Quilmes,Newells Old Boys,3.0
+859,2014-05-10,River Plate,Boca Juniors,0.0
+860,2014-06-10,Racing Club,Atl. Rafaela,0.0
+861,2014-06-10,Rosario Central,Lanus,0.0
+862,2014-07-10,Godoy Cruz,Independiente,3.08
+863,2014-10-10,Tigre,Gimnasia L.P.,0.0
+864,2014-11-10,Lanus,Godoy Cruz,0.0
+865,2014-11-10,Velez Sarsfield,Olimpo Bahia Blanca,1.74
+866,2014-11-10,Belgrano,Quilmes,0.0
+867,2014-12-10,Estudiantes L.P.,Racing Club,0.0
+868,2014-12-10,Atl. Rafaela,Banfield,3.14
+869,2014-12-10,Independiente,Defensa y Justicia,3.19
+870,2014-12-10,Boca Juniors,Rosario Central,1.71
+871,2014-10-13,Newells Old Boys,River Plate,0.0
+872,2014-10-14,Arsenal Sarandi,San Lorenzo,2.94
+873,2014-10-15,Godoy Cruz,Tigre,2.13
+874,2014-10-17,Gimnasia L.P.,Olimpo Bahia Blanca,0.0
+875,2014-10-18,Quilmes,Atl. Rafaela,2.97
+876,2014-10-18,Banfield,Estudiantes L.P.,0.0
+877,2014-10-18,San Lorenzo,Independiente,0.0
+878,2014-10-19,Defensa y Justicia,Lanus,0.0
+879,2014-10-19,Rosario Central,Newells Old Boys,0.0
+880,2014-10-19,Racing Club,Velez Sarsfield,2.01
+881,2014-10-19,River Plate,Belgrano,1.44
+882,2014-10-20,Godoy Cruz,Boca Juniors,0.0
+883,2014-10-21,Tigre,Arsenal Sarandi,0.0
+884,2014-10-25,Belgrano,Rosario Central,2.06
+885,2014-10-25,Independiente,Tigre,1.95
+886,2014-10-25,Velez Sarsfield,Banfield,2.02
+887,2014-10-25,Newells Old Boys,Godoy Cruz,0.0
+888,2014-10-26,Olimpo Bahia Blanca,Racing Club,2.96
+889,2014-10-26,Estudiantes L.P.,Quilmes,2.02
+890,2014-10-26,Lanus,San Lorenzo,2.16
+891,2014-10-26,Boca Juniors,Defensa y Justicia,1.97
+892,2014-10-27,Atl. Rafaela,River Plate,1.77
+893,2014-10-27,Arsenal Sarandi,Gimnasia L.P.,0.0
+894,2014-10-31,Banfield,Olimpo Bahia Blanca,1.75
+895,2014-01-11,Godoy Cruz,Belgrano,0.0
+896,2014-01-11,Gimnasia L.P.,Racing Club,0.0
+897,2014-01-11,Quilmes,Velez Sarsfield,0.0
+898,2014-01-11,Rosario Central,Atl. Rafaela,0.0
+899,2014-02-11,San Lorenzo,Boca Juniors,0.0
+900,2014-07-11,Lanus,Arsenal Sarandi,1.62
+901,2014-08-11,Atl. Rafaela,Godoy Cruz,0.0
+902,2014-08-11,Olimpo Bahia Blanca,Quilmes,2.11
+903,2014-08-11,Belgrano,Defensa y Justicia,1.93
+904,2014-08-11,Independiente,Gimnasia L.P.,0.0
+905,2014-09-11,Estudiantes L.P.,Rosario Central,1.82
+906,2014-09-11,Racing Club,Banfield,1.77
+907,2014-09-11,Boca Juniors,Tigre,1.66
+908,2014-10-11,Velez Sarsfield,River Plate,0.0
+909,2014-10-11,Newells Old Boys,San Lorenzo,2.16
+910,2014-12-11,Tigre,Lanus,0.0
+911,2014-12-11,River Plate,Estudiantes L.P.,0.0
+912,2014-11-13,Arsenal Sarandi,Independiente,3.05
+913,2014-11-14,Defensa y Justicia,Atl. Rafaela,1.89
+914,2014-11-15,Rosario Central,Velez Sarsfield,3.02
+915,2014-11-15,Gimnasia L.P.,Banfield,0.0
+916,2014-11-15,San Lorenzo,Belgrano,2.17
+917,2014-11-15,Quilmes,Racing Club,1.99
+918,2014-11-16,Godoy Cruz,Estudiantes L.P.,3.08
+919,2014-11-16,Tigre,Newells Old Boys,0.0
+920,2014-11-16,River Plate,Olimpo Bahia Blanca,0.0
+921,2014-11-17,Arsenal Sarandi,Boca Juniors,2.98
+922,2014-11-17,Independiente,Lanus,0.0
+923,2014-11-20,Defensa y Justicia,Newells Old Boys,0.0
+924,2014-11-21,Banfield,Quilmes,1.71
+925,2014-11-22,Atl. Rafaela,San Lorenzo,0.0
+926,2014-11-22,Olimpo Bahia Blanca,Rosario Central,0.0
+927,2014-11-22,Velez Sarsfield,Godoy Cruz,0.0
+928,2014-11-22,Lanus,Gimnasia L.P.,2.06
+929,2014-11-23,Belgrano,Tigre,0.0
+930,2014-11-23,Estudiantes L.P.,Defensa y Justicia,0.0
+931,2014-11-23,Boca Juniors,Independiente,0.0
+932,2014-11-24,Racing Club,River Plate,0.0
+933,2014-11-25,Newells Old Boys,Arsenal Sarandi,0.0
+934,2014-11-28,Gimnasia L.P.,Quilmes,1.73
+935,2014-11-28,Defensa y Justicia,Velez Sarsfield,0.0
+936,2014-11-29,San Lorenzo,Estudiantes L.P.,0.0
+937,2014-11-30,Independiente,Newells Old Boys,2.03
+938,2014-11-30,Rosario Central,Racing Club,2.04
+939,2014-11-30,Tigre,Atl. Rafaela,2.15
+940,2014-11-30,River Plate,Banfield,1.58
+941,2014-01-12,Lanus,Boca Juniors,0.0
+942,2014-01-12,Godoy Cruz,Olimpo Bahia Blanca,0.0
+943,2014-01-12,Arsenal Sarandi,Belgrano,0.0
+944,2014-05-12,Estudiantes L.P.,Tigre,1.75
+945,2014-05-12,Velez Sarsfield,San Lorenzo,0.0
+946,2014-06-12,Atl. Rafaela,Arsenal Sarandi,0.0
+947,2014-06-12,Banfield,Rosario Central,0.0
+948,2014-06-12,Olimpo Bahia Blanca,Defensa y Justicia,3.09
+949,2014-07-12,Belgrano,Independiente,2.06
+950,2014-07-12,Newells Old Boys,Lanus,0.0
+951,2014-07-12,Boca Juniors,Gimnasia L.P.,0.0
+952,2014-12-14,Quilmes,River Plate,1.42
+953,2014-12-14,Racing Club,Godoy Cruz,1.34
+954,2015-02-13,Velez Sarsfield,Aldosivi,1.74
+955,2015-02-14,Racing Club,Rosario Central,0.0
+956,2015-02-14,Gimnasia L.P.,Defensa y Justicia,0.0
+957,2015-02-14,San Lorenzo,Colon Santa FE,1.7
+958,2015-02-14,Godoy Cruz,San Martin S.J.,0.0
+959,2015-02-14,Newells Old Boys,Independiente,0.0
+960,2015-02-14,Banfield,Temperley,0.0
+961,2015-02-15,Crucero del Norte,Tigre,2.99
+962,2015-02-15,Quilmes,Lanus,0.0
+963,2015-02-15,Union de Santa Fe,Huracan,0.0
+964,2015-02-15,Boca Juniors,Olimpo Bahia Blanca,1.47
+965,2015-02-15,Argentinos Jrs,Atl. Rafaela,0.0
+966,2015-02-16,Sarmiento Junin,River Plate,1.7
+967,2015-02-16,Arsenal Sarandi,Estudiantes L.P.,0.0
+968,2015-02-17,Belgrano,Nueva Chicago,1.66
+969,2015-02-21,Atl. Rafaela,Banfield,0.0
+970,2015-02-21,Huracan,Arsenal Sarandi,2.06
+971,2015-02-21,Estudiantes L.P.,Godoy Cruz,1.61
+972,2015-02-21,Rosario Central,Tigre,1.92
+973,2015-02-21,Olimpo Bahia Blanca,Racing Club,2.9
+974,2015-02-21,Velez Sarsfield,Crucero del Norte,1.58
+975,2015-02-22,San Martin S.J.,Gimnasia L.P.,2.89
+976,2015-02-22,Aldosivi,Newells Old Boys,0.0
+977,2015-02-22,Independiente,Sarmiento Junin,0.0
+978,2015-02-22,Nueva Chicago,Union de Santa Fe,2.9
+979,2015-02-22,River Plate,Quilmes,0.0
+980,2015-02-22,Colon Santa FE,Argentinos Jrs,0.0
+981,2015-02-23,Temperley,Boca Juniors,1.65
+982,2015-02-23,Lanus,Belgrano,0.0
+983,2015-02-24,Defensa y Justicia,San Lorenzo,0.0
+984,2015-02-27,Arsenal Sarandi,Nueva Chicago,0.0
+985,2015-02-28,Godoy Cruz,Huracan,1.8
+986,2015-02-28,Tigre,Olimpo Bahia Blanca,2.03
+987,2015-02-28,Crucero del Norte,Rosario Central,0.0
+988,2015-02-28,Union de Santa Fe,Lanus,2.96
+989,2015-02-28,Quilmes,Independiente,0.0
+990,2015-02-28,San Lorenzo,San Martin S.J.,0.0
+991,2015-01-03,Gimnasia L.P.,Estudiantes L.P.,0.0
+992,2015-01-03,Boca Juniors,Atl. Rafaela,1.37
+993,2015-01-03,Argentinos Jrs,Defensa y Justicia,0.0
+994,2015-01-03,Racing Club,Temperley,1.45
+995,2015-02-03,Belgrano,River Plate,0.0
+996,2015-02-03,Sarmiento Junin,Aldosivi,0.0
+997,2015-02-03,Banfield,Colon Santa FE,0.0
+998,2015-03-03,Newells Old Boys,Velez Sarsfield,3.03
+999,2015-06-03,Huracan,Gimnasia L.P.,2.93
+1000,2015-07-03,Atl. Rafaela,Racing Club,2.99
+1001,2015-07-03,Nueva Chicago,Godoy Cruz,0.0
+1002,2015-07-03,Olimpo Bahia Blanca,Rosario Central,0.0
+1003,2015-07-03,Aldosivi,Quilmes,0.0
+1004,2015-07-03,Independiente,Belgrano,0.0
+1005,2015-07-03,Newells Old Boys,Crucero del Norte,1.55
+1006,2015-08-03,Defensa y Justicia,Banfield,0.0
+1007,2015-08-03,Lanus,Arsenal Sarandi,0.0
+1008,2015-08-03,Velez Sarsfield,Sarmiento Junin,0.0
+1009,2015-08-03,River Plate,Union de Santa Fe,0.0
+1010,2015-08-03,San Martin S.J.,Argentinos Jrs,0.0
+1011,2015-09-03,Colon Santa FE,Boca Juniors,0.0
+1012,2015-09-03,Temperley,Tigre,2.89
+1013,2015-10-03,Estudiantes L.P.,San Lorenzo,0.0
+1014,2015-03-13,Crucero del Norte,Olimpo Bahia Blanca,2.86
+1015,2015-03-14,Racing Club,Colon Santa FE,2.01
+1016,2015-03-14,Banfield,San Martin S.J.,1.67
+1017,2015-03-14,Boca Juniors,Defensa y Justicia,1.39
+1018,2015-03-14,Union de Santa Fe,Independiente,3.04
+1019,2015-03-14,Sarmiento Junin,Newells Old Boys,0.0
+1020,2015-03-15,Quilmes,Velez Sarsfield,0.0
+1021,2015-03-15,Argentinos Jrs,Estudiantes L.P.,2.86
+1022,2015-03-15,San Lorenzo,Huracan,1.67
+1023,2015-03-15,Tigre,Atl. Rafaela,1.97
+1024,2015-03-16,Godoy Cruz,Lanus,0.0
+1025,2015-03-16,Rosario Central,Temperley,1.44
+1026,2015-03-16,Belgrano,Aldosivi,0.0
+1027,2015-03-17,Arsenal Sarandi,River Plate,0.0
+1028,2015-03-17,Gimnasia L.P.,Nueva Chicago,1.69
+1029,2015-03-20,Newells Old Boys,Quilmes,0.0
+1030,2015-03-21,Lanus,Gimnasia L.P.,1.83
+1031,2015-03-21,Colon Santa FE,Tigre,0.0
+1032,2015-03-21,Velez Sarsfield,Belgrano,0.0
+1033,2015-03-21,Independiente,Arsenal Sarandi,1.8
+1034,2015-03-21,Huracan,Argentinos Jrs,2.02
+1035,2015-03-21,Sarmiento Junin,Crucero del Norte,1.97
+1036,2015-03-22,Atl. Rafaela,Rosario Central,3.08
+1037,2015-03-22,Defensa y Justicia,Racing Club,3.07
+1038,2015-03-22,Estudiantes L.P.,Banfield,0.0
+1039,2015-03-22,River Plate,Godoy Cruz,1.4
+1040,2015-03-23,San Martin S.J.,Boca Juniors,0.0
+1041,2015-03-23,Nueva Chicago,San Lorenzo,1.94
+1042,2015-03-23,Aldosivi,Union de Santa Fe,3.01
+1043,2015-03-24,Temperley,Olimpo Bahia Blanca,2.9
+1044,2015-03-27,Quilmes,Sarmiento Junin,0.0
+1045,2015-03-28,Rosario Central,Colon Santa FE,0.0
+1046,2015-03-28,Olimpo Bahia Blanca,Atl. Rafaela,0.0
+1047,2015-03-28,Banfield,Huracan,1.91
+1048,2015-03-28,Godoy Cruz,Independiente,3.14
+1049,2015-03-28,San Lorenzo,Lanus,2.11
+1050,2015-03-29,Crucero del Norte,Temperley,0.0
+1051,2015-03-29,Belgrano,Newells Old Boys,2.13
+1052,2015-03-29,Racing Club,San Martin S.J.,1.54
+1053,2015-03-29,Boca Juniors,Estudiantes L.P.,1.78
+1054,2015-03-29,Union de Santa Fe,Velez Sarsfield,0.0
+1055,2015-03-30,Gimnasia L.P.,River Plate,2.2
+1056,2015-03-31,Argentinos Jrs,Nueva Chicago,0.0
+1057,2015-03-31,Tigre,Defensa y Justicia,0.0
+1058,2015-03-04,Sarmiento Junin,Belgrano,0.0
+1059,2015-04-04,Estudiantes L.P.,Racing Club,2.95
+1060,2015-04-04,Atl. Rafaela,Temperley,0.0
+1061,2015-04-04,Defensa y Justicia,Rosario Central,3.08
+1062,2015-04-04,Aldosivi,Godoy Cruz,1.95
+1063,2015-05-04,Independiente,Gimnasia L.P.,0.0
+1064,2015-05-04,Velez Sarsfield,Arsenal Sarandi,1.82
+1065,2015-05-04,River Plate,San Lorenzo,1.87
+1066,2015-05-04,Lanus,Argentinos Jrs,0.0
+1067,2015-05-04,Colon Santa FE,Olimpo Bahia Blanca,0.0
+1068,2015-05-04,Huracan,Boca Juniors,1.76
+1069,2015-06-04,Quilmes,Crucero del Norte,2.11
+1070,2015-06-04,San Martin S.J.,Tigre,0.0
+1071,2015-06-04,Nueva Chicago,Banfield,1.92
+1072,2015-07-04,Newells Old Boys,Union de Santa Fe,1.94
+1073,2015-10-04,Crucero del Norte,Atl. Rafaela,3.01
+1074,2015-11-04,Temperley,Colon Santa FE,0.0
+1075,2015-11-04,Godoy Cruz,Velez Sarsfield,3.03
+1076,2015-11-04,Gimnasia L.P.,Aldosivi,1.8
+1077,2015-11-04,Rosario Central,San Martin S.J.,1.6
+1078,2015-12-04,Racing Club,Huracan,1.59
+1079,2015-12-04,San Lorenzo,Independiente,2.1
+1080,2015-12-04,Banfield,Lanus,0.0
+1081,2015-12-04,Olimpo Bahia Blanca,Defensa y Justicia,3.01
+1082,2015-12-04,Union de Santa Fe,Sarmiento Junin,0.0
+1083,2015-12-04,Boca Juniors,Nueva Chicago,0.0
+1084,2015-04-13,Argentinos Jrs,River Plate,2.01
+1085,2015-04-13,Arsenal Sarandi,Newells Old Boys,0.0
+1086,2015-04-14,Tigre,Estudiantes L.P.,0.0
+1087,2015-04-14,Belgrano,Quilmes,1.59
+1088,2015-04-18,Estudiantes L.P.,Rosario Central,2.94
+1089,2015-04-18,Sarmiento Junin,Arsenal Sarandi,0.0
+1090,2015-04-18,Huracan,Tigre,0.0
+1091,2015-04-18,Defensa y Justicia,Temperley,0.0
+1092,2015-04-19,Independiente,Argentinos Jrs,0.0
+1093,2015-04-19,Velez Sarsfield,Gimnasia L.P.,0.0
+1094,2015-04-19,Belgrano,Crucero del Norte,1.4
+1095,2015-04-19,Nueva Chicago,Racing Club,0.0
+1096,2015-04-19,Aldosivi,San Lorenzo,0.0
+1097,2015-04-19,River Plate,Banfield,1.55
+1098,2015-04-19,San Martin S.J.,Olimpo Bahia Blanca,0.0
+1099,2015-04-20,Lanus,Boca Juniors,2.16
+1100,2015-04-21,Quilmes,Union de Santa Fe,0.0
+1101,2015-04-21,Colon Santa FE,Atl. Rafaela,0.0
+1102,2015-04-22,Newells Old Boys,Godoy Cruz,1.88
+1103,2015-04-25,Arsenal Sarandi,Aldosivi,0.0
+1104,2015-04-30,Godoy Cruz,Sarmiento Junin,2.1
+1105,2015-02-05,Olimpo Bahia Blanca,Estudiantes L.P.,2.87
+1106,2015-02-05,Gimnasia L.P.,Newells Old Boys,0.0
+1107,2015-02-05,San Lorenzo,Velez Sarsfield,1.9
+1108,2015-02-05,Argentinos Jrs,Aldosivi,0.0
+1109,2015-03-05,Racing Club,Lanus,1.99
+1110,2015-03-05,Rosario Central,Huracan,0.0
+1111,2015-03-05,Atl. Rafaela,Defensa y Justicia,1.97
+1112,2015-03-05,Banfield,Independiente,3.18
+1113,2015-03-05,Tigre,Nueva Chicago,1.66
+1114,2015-03-05,Boca Juniors,River Plate,0.0
+1115,2015-04-05,Union de Santa Fe,Belgrano,2.96
+1116,2015-04-05,Arsenal Sarandi,Quilmes,0.0
+1117,2015-05-05,Crucero del Norte,Colon Santa FE,2.85
+1118,2015-05-05,Temperley,San Martin S.J.,0.0
+1119,2015-08-05,Nueva Chicago,Rosario Central,1.86
+1120,2015-09-05,Lanus,Tigre,0.0
+1121,2015-09-05,Estudiantes L.P.,Temperley,1.87
+1122,2015-09-05,Quilmes,Godoy Cruz,3.07
+1123,2015-09-05,Huracan,Olimpo Bahia Blanca,0.0
+1124,2015-09-05,Union de Santa Fe,Crucero del Norte,1.68
+1125,2015-10-05,Newells Old Boys,San Lorenzo,2.91
+1126,2015-10-05,Velez Sarsfield,Argentinos Jrs,0.0
+1127,2015-10-05,Aldosivi,Banfield,0.0
+1128,2015-10-05,Belgrano,Arsenal Sarandi,1.57
+1129,2015-10-05,River Plate,Racing Club,0.0
+1130,2015-11-05,San Martin S.J.,Atl. Rafaela,0.0
+1131,2015-11-05,Independiente,Boca Juniors,3.03
+1132,2015-11-05,Sarmiento Junin,Gimnasia L.P.,2.93
+1133,2015-12-05,Defensa y Justicia,Colon Santa FE,0.0
+1134,2015-05-22,Gimnasia L.P.,Quilmes,1.75
+1135,2015-05-23,Crucero del Norte,Defensa y Justicia,0.0
+1136,2015-05-23,Temperley,Huracan,2.92
+1137,2015-05-23,Arsenal Sarandi,Union de Santa Fe,2.97
+1138,2015-05-23,Rosario Central,Lanus,0.0
+1139,2015-05-23,Colon Santa FE,San Martin S.J.,3.01
+1140,2015-05-23,Banfield,Velez Sarsfield,0.0
+1141,2015-05-23,Olimpo Bahia Blanca,Nueva Chicago,0.0
+1142,2015-05-24,San Lorenzo,Sarmiento Junin,1.56
+1143,2015-05-24,Atl. Rafaela,Estudiantes L.P.,0.0
+1144,2015-05-24,Racing Club,Independiente,0.0
+1145,2015-05-24,Argentinos Jrs,Newells Old Boys,0.0
+1146,2015-05-24,Boca Juniors,Aldosivi,0.0
+1147,2015-05-24,Godoy Cruz,Belgrano,0.0
+1148,2015-05-30,Quilmes,San Lorenzo,1.94
+1149,2015-05-30,Nueva Chicago,Temperley,0.0
+1150,2015-05-30,Sarmiento Junin,Argentinos Jrs,0.0
+1151,2015-05-30,Belgrano,Gimnasia L.P.,0.0
+1152,2015-05-31,Independiente,Tigre,2.03
+1153,2015-05-31,Newells Old Boys,Banfield,3.08
+1154,2015-05-31,Union de Santa Fe,Godoy Cruz,1.91
+1155,2015-05-31,Aldosivi,Racing Club,0.0
+1156,2015-05-31,San Martin S.J.,Defensa y Justicia,0.0
+1157,2015-05-31,River Plate,Rosario Central,1.63
+1158,2015-05-31,Estudiantes L.P.,Colon Santa FE,0.0
+1159,2015-01-06,Velez Sarsfield,Boca Juniors,0.0
+1160,2015-01-06,Arsenal Sarandi,Crucero del Norte,1.88
+1161,2015-02-06,Huracan,Atl. Rafaela,0.0
+1162,2015-02-06,Lanus,Olimpo Bahia Blanca,1.62
+1163,2015-05-06,Gimnasia L.P.,Union de Santa Fe,1.83
+1164,2015-06-06,Banfield,Sarmiento Junin,0.0
+1165,2015-06-06,Argentinos Jrs,Quilmes,0.0
+1166,2015-06-06,Colon Santa FE,Huracan,3.0
+1167,2015-06-06,Temperley,Lanus,0.0
+1168,2015-06-06,San Lorenzo,Belgrano,0.0
+1169,2015-07-06,Crucero del Norte,San Martin S.J.,0.0
+1170,2015-07-06,Rosario Central,Independiente,0.0
+1171,2015-07-06,Atl. Rafaela,Nueva Chicago,1.51
+1172,2015-07-06,Racing Club,Velez Sarsfield,1.77
+1173,2015-07-06,Boca Juniors,Newells Old Boys,1.55
+1174,2015-08-06,Godoy Cruz,Arsenal Sarandi,0.0
+1175,2015-08-06,Olimpo Bahia Blanca,River Plate,0.0
+1176,2015-08-06,Tigre,Aldosivi,1.88
+1177,2015-09-06,Defensa y Justicia,Estudiantes L.P.,0.0
+1178,2015-09-07,Tigre,River Plate,2.98
+1179,2015-10-07,Arsenal Sarandi,Gimnasia L.P.,0.0
+1180,2015-11-07,Estudiantes L.P.,San Martin S.J.,0.0
+1181,2015-11-07,Belgrano,Argentinos Jrs,1.58
+1182,2015-11-07,River Plate,Temperley,0.0
+1183,2015-11-07,Quilmes,Banfield,0.0
+1184,2015-11-07,Union de Santa Fe,San Lorenzo,3.05
+1185,2015-12-07,Huracan,Defensa y Justicia,3.12
+1186,2015-12-07,Lanus,Atl. Rafaela,1.74
+1187,2015-12-07,Nueva Chicago,Colon Santa FE,2.88
+1188,2015-12-07,Independiente,Olimpo Bahia Blanca,1.69
+1189,2015-12-07,Newells Old Boys,Racing Club,0.0
+1190,2015-12-07,Godoy Cruz,Crucero del Norte,1.79
+1191,2015-07-13,Sarmiento Junin,Boca Juniors,1.76
+1192,2015-07-13,Aldosivi,Rosario Central,2.17
+1193,2015-07-14,Velez Sarsfield,Tigre,2.93
+1194,2015-07-17,San Lorenzo,Arsenal Sarandi,1.51
+1195,2015-07-18,Banfield,Belgrano,0.0
+1196,2015-07-18,Olimpo Bahia Blanca,Aldosivi,0.0
+1197,2015-07-18,Boca Juniors,Quilmes,1.29
+1198,2015-07-18,Defensa y Justicia,Nueva Chicago,1.67
+1199,2015-07-18,Atl. Rafaela,River Plate,0.0
+1200,2015-07-19,Racing Club,Sarmiento Junin,1.5
+1201,2015-07-19,Colon Santa FE,Lanus,0.0
+1202,2015-07-19,San Martin S.J.,Huracan,0.0
+1203,2015-07-19,Tigre,Newells Old Boys,2.97
+1204,2015-07-19,Rosario Central,Velez Sarsfield,0.0
+1205,2015-07-20,Temperley,Independiente,0.0
+1206,2015-07-20,Gimnasia L.P.,Godoy Cruz,1.8
+1207,2015-07-21,Crucero del Norte,Estudiantes L.P.,2.09
+1208,2015-07-21,Argentinos Jrs,Union de Santa Fe,0.0
+1209,2015-07-25,Aldosivi,Temperley,0.0
+1210,2015-07-25,Gimnasia L.P.,Crucero del Norte,1.41
+1211,2015-07-25,Sarmiento Junin,Tigre,0.0
+1212,2015-07-25,River Plate,Colon Santa FE,1.42
+1213,2015-07-25,Union de Santa Fe,Banfield,3.03
+1214,2015-07-26,Independiente,Atl. Rafaela,1.46
+1215,2015-07-26,Velez Sarsfield,Olimpo Bahia Blanca,0.0
+1216,2015-07-26,Godoy Cruz,San Lorenzo,2.92
+1217,2015-07-26,Newells Old Boys,Rosario Central,0.0
+1218,2015-07-26,Quilmes,Racing Club,0.0
+1219,2015-07-26,Huracan,Estudiantes L.P.,0.0
+1220,2015-07-26,Lanus,Defensa y Justicia,0.0
+1221,2015-07-27,Belgrano,Boca Juniors,0.0
+1222,2015-07-27,Nueva Chicago,San Martin S.J.,2.87
+1223,2015-07-27,Arsenal Sarandi,Argentinos Jrs,0.0
+1224,2015-07-31,Atl. Rafaela,Aldosivi,0.0
+1225,2015-01-08,Temperley,Velez Sarsfield,0.0
+1226,2015-01-08,Argentinos Jrs,Godoy Cruz,2.84
+1227,2015-01-08,Estudiantes L.P.,Nueva Chicago,1.52
+1228,2015-01-08,San Lorenzo,Gimnasia L.P.,2.13
+1229,2015-02-08,Colon Santa FE,Independiente,2.13
+1230,2015-02-08,Rosario Central,Sarmiento Junin,0.0
+1231,2015-02-08,Olimpo Bahia Blanca,Newells Old Boys,0.0
+1232,2015-02-08,Racing Club,Belgrano,0.0
+1233,2015-02-08,Crucero del Norte,Huracan,3.0
+1234,2015-02-08,Boca Juniors,Union de Santa Fe,0.0
+1235,2015-03-08,Tigre,Quilmes,0.0
+1236,2015-04-08,Banfield,Arsenal Sarandi,1.69
+1237,2015-12-08,San Martin S.J.,Lanus,3.04
+1238,2015-08-14,Sarmiento Junin,Olimpo Bahia Blanca,2.85
+1239,2015-08-15,Belgrano,Tigre,1.94
+1240,2015-08-15,Independiente,Defensa y Justicia,1.66
+1241,2015-08-15,Nueva Chicago,Huracan,0.0
+1242,2015-08-15,Godoy Cruz,Banfield,0.0
+1243,2015-08-15,Aldosivi,Colon Santa FE,0.0
+1244,2015-08-15,Union de Santa Fe,Racing Club,0.0
+1245,2015-08-16,Lanus,Estudiantes L.P.,2.9
+1246,2015-08-16,Gimnasia L.P.,Argentinos Jrs,1.55
+1247,2015-08-16,San Lorenzo,Crucero del Norte,1.3
+1248,2015-08-16,Velez Sarsfield,Atl. Rafaela,0.0
+1249,2015-08-16,Newells Old Boys,Temperley,0.0
+1250,2015-08-17,Arsenal Sarandi,Boca Juniors,1.44
+1251,2015-08-17,River Plate,San Martin S.J.,0.0
+1252,2015-08-18,Quilmes,Rosario Central,0.0
+1253,2015-08-22,Atl. Rafaela,Newells Old Boys,3.0
+1254,2015-08-22,Banfield,Gimnasia L.P.,0.0
+1255,2015-08-22,Olimpo Bahia Blanca,Quilmes,0.0
+1256,2015-08-22,Racing Club,Arsenal Sarandi,1.43
+1257,2015-08-22,Colon Santa FE,Velez Sarsfield,2.9
+1258,2015-08-22,San Martin S.J.,Independiente,2.98
+1259,2015-08-23,Argentinos Jrs,San Lorenzo,1.97
+1260,2015-08-23,Crucero del Norte,Nueva Chicago,0.0
+1261,2015-08-23,Huracan,Lanus,2.98
+1262,2015-08-23,Rosario Central,Belgrano,2.16
+1263,2015-08-23,Tigre,Union de Santa Fe,1.86
+1264,2015-08-23,Boca Juniors,Godoy Cruz,1.36
+1265,2015-08-24,Estudiantes L.P.,River Plate,0.0
+1266,2015-08-25,Defensa y Justicia,Aldosivi,1.89
+1267,2015-08-25,Temperley,Sarmiento Junin,2.75
+1268,2015-08-29,Argentinos Jrs,Crucero del Norte,2.01
+1269,2015-08-29,Quilmes,Temperley,0.0
+1270,2015-08-29,Aldosivi,San Martin S.J.,0.0
+1271,2015-08-29,Gimnasia L.P.,Boca Juniors,0.0
+1272,2015-08-30,Newells Old Boys,Colon Santa FE,0.0
+1273,2015-08-30,Velez Sarsfield,Defensa y Justicia,0.0
+1274,2015-08-30,Arsenal Sarandi,Tigre,0.0
+1275,2015-08-30,San Lorenzo,Banfield,0.0
+1276,2015-08-30,Sarmiento Junin,Atl. Rafaela,0.0
+1277,2015-08-30,River Plate,Huracan,0.0
+1278,2015-08-30,Union de Santa Fe,Rosario Central,0.0
+1279,2015-08-31,Independiente,Estudiantes L.P.,2.87
+1280,2015-01-09,Belgrano,Olimpo Bahia Blanca,0.0
+1281,2015-01-09,Lanus,Nueva Chicago,1.44
+1282,2015-04-09,Banfield,Argentinos Jrs,0.0
+1283,2015-04-09,Tigre,Godoy Cruz,1.99
+1284,2015-05-09,Crucero del Norte,Lanus,2.03
+1285,2015-05-09,Rosario Central,Arsenal Sarandi,1.58
+1286,2015-05-09,Colon Santa FE,Sarmiento Junin,0.0
+1287,2015-05-09,Huracan,Independiente,2.97
+1288,2015-05-09,Defensa y Justicia,Newells Old Boys,0.0
+1289,2015-06-09,Temperley,Belgrano,0.0
+1290,2015-06-09,Nueva Chicago,River Plate,1.68
+1291,2015-06-09,San Martin S.J.,Velez Sarsfield,0.0
+1292,2015-06-09,Boca Juniors,San Lorenzo,0.0
+1293,2015-06-09,Olimpo Bahia Blanca,Union de Santa Fe,0.0
+1294,2015-07-09,Racing Club,Gimnasia L.P.,0.0
+1295,2015-08-09,Atl. Rafaela,Quilmes,0.0
+1296,2015-08-09,Estudiantes L.P.,Aldosivi,1.54
+1297,2015-12-09,Defensa y Justicia,Arsenal Sarandi,1.75
+1298,2015-12-09,Nueva Chicago,Argentinos Jrs,0.0
+1299,2015-12-09,Independiente,Racing Club,0.0
+1300,2015-12-09,San Martin S.J.,Godoy Cruz,0.0
+1301,2015-12-09,Huracan,San Lorenzo,0.0
+1302,2015-12-09,Olimpo Bahia Blanca,Sarmiento Junin,0.0
+1303,2015-09-13,Atl. Rafaela,Belgrano,3.02
+1304,2015-09-13,Tigre,Velez Sarsfield,1.81
+1305,2015-09-13,Rosario Central,Newells Old Boys,0.0
+1306,2015-09-13,Estudiantes L.P.,Gimnasia L.P.,2.92
+1307,2015-09-13,Colon Santa FE,Union de Santa Fe,2.88
+1308,2015-09-13,River Plate,Boca Juniors,0.0
+1309,2015-09-14,Lanus,Banfield,0.0
+1310,2015-09-14,Aldosivi,Crucero del Norte,1.68
+1311,2015-09-15,Temperley,Quilmes,2.84
+1312,2015-09-19,Sarmiento Junin,Defensa y Justicia,0.0
+1313,2015-09-19,Aldosivi,Huracan,3.03
+1314,2015-09-19,Argentinos Jrs,Boca Juniors,1.64
+1315,2015-09-19,Godoy Cruz,Rosario Central,0.0
+1316,2015-09-19,Independiente,Nueva Chicago,1.43
+1317,2015-09-19,Gimnasia L.P.,Tigre,0.0
+1318,2015-09-19,Newells Old Boys,San Martin S.J.,1.66
+1319,2015-09-20,Velez Sarsfield,Estudiantes L.P.,0.0
+1320,2015-09-20,Arsenal Sarandi,Olimpo Bahia Blanca,0.0
+1321,2015-09-20,Banfield,Crucero del Norte,1.32
+1322,2015-09-20,Union de Santa Fe,Temperley,1.85
+1323,2015-09-20,River Plate,Lanus,0.0
+1324,2015-09-21,San Lorenzo,Racing Club,2.18
+1325,2015-09-22,Belgrano,Atl. Rafaela,0.0
+1326,2015-09-22,Quilmes,Colon Santa FE,2.02
+1327,2015-09-26,Olimpo Bahia Blanca,Godoy Cruz,0.0
+1328,2015-09-26,Atl. Rafaela,Union de Santa Fe,0.0
+1329,2015-09-26,Nueva Chicago,Aldosivi,0.0
+1330,2015-09-26,Tigre,San Lorenzo,2.9
+1331,2015-09-26,Colon Santa FE,Belgrano,0.0
+1332,2015-09-27,Crucero del Norte,River Plate,1.43
+1333,2015-09-27,Racing Club,Argentinos Jrs,1.42
+1334,2015-09-27,Huracan,Velez Sarsfield,2.99
+1335,2015-09-27,Rosario Central,Gimnasia L.P.,2.06
+1336,2015-09-27,Defensa y Justicia,Quilmes,0.0
+1337,2015-09-27,Boca Juniors,Banfield,1.59
+1338,2015-09-27,San Martin S.J.,Sarmiento Junin,0.0
+1339,2015-09-28,Lanus,Independiente,2.84
+1340,2015-09-28,Temperley,Arsenal Sarandi,0.0
+1341,2015-09-29,Estudiantes L.P.,Newells Old Boys,0.0
+1342,2015-09-30,Godoy Cruz,Racing Club,0.0
+1343,2015-03-10,Belgrano,Defensa y Justicia,1.92
+1344,2015-03-10,Quilmes,San Martin S.J.,2.09
+1345,2015-03-10,Arsenal Sarandi,Atl. Rafaela,0.0
+1346,2015-03-10,Sarmiento Junin,Estudiantes L.P.,0.0
+1347,2015-03-10,Argentinos Jrs,Tigre,0.0
+1348,2015-03-10,San Lorenzo,Rosario Central,2.97
+1349,2015-04-10,Gimnasia L.P.,Olimpo Bahia Blanca,0.0
+1350,2015-04-10,Velez Sarsfield,Nueva Chicago,0.0
+1351,2015-04-10,Union de Santa Fe,Colon Santa FE,0.0
+1352,2015-04-10,Godoy Cruz,Temperley,1.93
+1353,2015-04-10,Boca Juniors,Crucero del Norte,1.14
+1354,2015-04-10,Newells Old Boys,Huracan,1.93
+1355,2015-05-10,Independiente,River Plate,0.0
+1356,2015-06-10,Aldosivi,Lanus,0.0
+1357,2015-06-10,Banfield,Racing Club,3.0
+1358,2015-10-15,Defensa y Justicia,River Plate,0.0
+1359,2015-10-17,Huracan,Sarmiento Junin,2.01
+1360,2015-10-17,Crucero del Norte,Independiente,1.55
+1361,2015-10-17,Nueva Chicago,Newells Old Boys,0.0
+1362,2015-10-17,Atl. Rafaela,Godoy Cruz,0.0
+1363,2015-10-17,Colon Santa FE,Arsenal Sarandi,0.0
+1364,2015-10-17,San Martin S.J.,Belgrano,2.91
+1365,2015-10-18,Estudiantes L.P.,Quilmes,1.73
+1366,2015-10-18,Lanus,Velez Sarsfield,0.0
+1367,2015-10-18,Olimpo Bahia Blanca,San Lorenzo,0.0
+1368,2015-10-18,Rosario Central,Argentinos Jrs,1.46
+1369,2015-10-18,Tigre,Banfield,0.0
+1370,2015-10-18,River Plate,Aldosivi,0.0
+1371,2015-10-19,Racing Club,Boca Juniors,0.0
+1372,2015-10-20,Defensa y Justicia,Union de Santa Fe,0.0
+1373,2015-10-20,Temperley,Gimnasia L.P.,0.0
+1374,2015-10-31,Godoy Cruz,Colon Santa FE,0.0
+1375,2015-10-31,Sarmiento Junin,Nueva Chicago,0.0
+1376,2015-10-31,Belgrano,Estudiantes L.P.,0.0
+1377,2015-10-31,Gimnasia L.P.,Atl. Rafaela,1.57
+1378,2015-10-31,Velez Sarsfield,River Plate,0.0
+1379,2015-10-31,Union de Santa Fe,San Martin S.J.,0.0
+1380,2015-10-31,Racing Club,Crucero del Norte,1.17
+1381,2015-01-11,Newells Old Boys,Lanus,2.94
+1382,2015-01-11,Quilmes,Huracan,2.07
+1383,2015-01-11,Banfield,Rosario Central,0.0
+1384,2015-01-11,Boca Juniors,Tigre,1.42
+1385,2015-01-11,San Lorenzo,Temperley,1.44
+1386,2015-02-11,Aldosivi,Independiente,0.0
+1387,2015-02-11,Arsenal Sarandi,Defensa y Justicia,0.0
+1388,2015-03-11,Argentinos Jrs,Olimpo Bahia Blanca,0.0
+1389,2015-07-11,Lanus,Sarmiento Junin,1.84
+1390,2015-07-11,Defensa y Justicia,Godoy Cruz,0.0
+1391,2015-07-11,Colon Santa FE,Gimnasia L.P.,0.0
+1392,2015-07-11,San Martin S.J.,Arsenal Sarandi,1.84
+1393,2015-07-11,Estudiantes L.P.,Union de Santa Fe,1.44
+1394,2015-07-11,Olimpo Bahia Blanca,Banfield,0.0
+1395,2015-08-11,River Plate,Newells Old Boys,0.0
+1396,2015-08-11,Atl. Rafaela,San Lorenzo,1.8
+1397,2015-08-11,Rosario Central,Boca Juniors,1.89
+1398,2015-08-11,Tigre,Racing Club,3.11
+1399,2015-09-11,Independiente,Velez Sarsfield,1.56
+1400,2015-09-11,Huracan,Belgrano,2.09
+1401,2015-09-11,Nueva Chicago,Quilmes,1.78
+1402,2015-09-11,Temperley,Argentinos Jrs,2.05
+1403,2015-09-11,Crucero del Norte,Aldosivi,2.05
+1404,2015-11-19,Tigre,Colon Santa FE,0.0
+1405,2015-11-20,Independiente,Belgrano,1.84
+1406,2015-11-20,Gimnasia L.P.,San Martin S.J.,1.69
+1407,2015-11-21,Racing Club,Estudiantes L.P.,2.1
+1408,2015-11-21,Union de Santa Fe,Aldosivi,0.0
+1409,2015-11-23,Quilmes,Olimpo Bahia Blanca,0.0
+1410,2015-11-24,Lanus,Newells Old Boys,2.09
+1411,2015-11-25,Banfield,Argentinos Jrs,1.98
+1412,2015-11-28,Colon Santa FE,Belgrano,0.0
+1413,2015-11-28,Olimpo Bahia Blanca,Estudiantes L.P.,0.0
+1414,2015-11-28,Lanus,Gimnasia L.P.,0.0
+1415,2015-11-29,Independiente,Racing Club,0.0
+1416,2015-11-30,Aldosivi,Banfield,0.0
+1417,2015-05-12,Banfield,Aldosivi,0.0
+1418,2015-05-12,Belgrano,Colon Santa FE,0.0
+1419,2015-06-12,Estudiantes L.P.,Olimpo Bahia Blanca,1.7
+1420,2015-06-12,Racing Club,Independiente,0.0
+1421,2015-07-12,Gimnasia L.P.,Lanus,0.0
+1422,2016-05-02,Banfield,Gimnasia L.P.,1.72
+1423,2016-05-02,Huracan,Atl. Rafaela,0.0
+1424,2016-06-02,Rosario Central,Godoy Cruz,1.56
+1425,2016-06-02,Aldosivi,Olimpo Bahia Blanca,0.0
+1426,2016-06-02,Argentinos Jrs,Tigre,2.93
+1427,2016-06-02,Patronato,San Lorenzo,2.93
+1428,2016-06-02,San Martin S.J.,Newells Old Boys,0.0
+1429,2016-07-02,Temperley,Boca Juniors,0.0
+1430,2016-07-02,Defensa y Justicia,Union de Santa Fe,0.0
+1431,2016-07-02,Independiente,Belgrano,1.89
+1432,2016-07-02,Colon Santa FE,Arsenal Sarandi,1.98
+1433,2016-08-02,Atl. Tucuman,Racing Club,0.0
+1434,2016-08-02,Estudiantes L.P.,Lanus,0.0
+1435,2016-08-02,River Plate,Quilmes,1.42
+1436,2016-09-02,Sarmiento Junin,Velez Sarsfield,0.0
+1437,2016-12-02,Arsenal Sarandi,Banfield,0.0
+1438,2016-12-02,Union de Santa Fe,Temperley,1.9
+1439,2016-02-13,Godoy Cruz,Independiente,2.99
+1440,2016-02-13,Quilmes,Colon Santa FE,0.0
+1441,2016-02-13,Aldosivi,Argentinos Jrs,1.87
+1442,2016-02-13,Atl. Rafaela,Estudiantes L.P.,0.0
+1443,2016-02-13,San Lorenzo,Sarmiento Junin,1.57
+1444,2016-02-14,Racing Club,San Martin S.J.,0.0
+1445,2016-02-14,Velez Sarsfield,Olimpo Bahia Blanca,1.99
+1446,2016-02-14,Lanus,Defensa y Justicia,1.8
+1447,2016-02-14,Rosario Central,Newells Old Boys,1.84
+1448,2016-02-14,Gimnasia L.P.,Patronato,2.19
+1449,2016-02-14,Boca Juniors,Atl. Tucuman,0.0
+1450,2016-02-15,Belgrano,River Plate,0.0
+1451,2016-02-16,Banfield,Quilmes,0.0
+1452,2016-02-16,Olimpo Bahia Blanca,San Lorenzo,0.0
+1453,2016-02-17,Argentinos Jrs,Velez Sarsfield,0.0
+1454,2016-02-17,Defensa y Justicia,Atl. Rafaela,1.97
+1455,2016-02-17,Newells Old Boys,Racing Club,0.0
+1456,2016-02-17,Independiente,Rosario Central,0.0
+1457,2016-02-17,Patronato,Arsenal Sarandi,0.0
+1458,2016-02-18,San Martin S.J.,Boca Juniors,2.08
+1459,2016-02-18,Sarmiento Junin,Gimnasia L.P.,0.0
+1460,2016-02-18,Estudiantes L.P.,Tigre,0.0
+1461,2016-02-18,Colon Santa FE,Belgrano,0.0
+1462,2016-02-18,Temperley,Lanus,2.09
+1463,2016-02-19,Atl. Tucuman,Union de Santa Fe,2.09
+1464,2016-02-19,River Plate,Godoy Cruz,0.0
+1465,2016-02-20,San Lorenzo,Velez Sarsfield,1.76
+1466,2016-02-20,Gimnasia L.P.,Olimpo Bahia Blanca,1.74
+1467,2016-02-21,Boca Juniors,Newells Old Boys,1.6
+1468,2016-02-21,Belgrano,Banfield,0.0
+1469,2016-02-21,Tigre,Defensa y Justicia,0.0
+1470,2016-02-21,Godoy Cruz,Colon Santa FE,0.0
+1471,2016-02-21,Independiente,Racing Club,2.95
+1472,2016-02-22,Rosario Central,River Plate,0.0
+1473,2016-02-22,Quilmes,Patronato,3.03
+1474,2016-02-23,Arsenal Sarandi,Sarmiento Junin,0.0
+1475,2016-02-23,Union de Santa Fe,San Martin S.J.,0.0
+1476,2016-02-23,Atl. Rafaela,Temperley,0.0
+1477,2016-02-24,Aldosivi,Estudiantes L.P.,0.0
+1478,2016-02-24,Lanus,Atl. Tucuman,1.89
+1479,2016-02-26,Newells Old Boys,Union de Santa Fe,0.0
+1480,2016-02-27,Banfield,Godoy Cruz,0.0
+1481,2016-02-27,Estudiantes L.P.,Argentinos Jrs,1.64
+1482,2016-02-27,Sarmiento Junin,Quilmes,0.0
+1483,2016-02-27,Defensa y Justicia,Aldosivi,1.72
+1484,2016-02-27,Huracan,San Lorenzo,3.11
+1485,2016-02-28,Patronato,Belgrano,0.0
+1486,2016-02-28,Colon Santa FE,Rosario Central,0.0
+1487,2016-02-28,Atl. Tucuman,Atl. Rafaela,1.64
+1488,2016-02-28,Olimpo Bahia Blanca,Arsenal Sarandi,2.1
+1489,2016-02-28,Racing Club,Boca Juniors,0.0
+1490,2016-02-29,San Martin S.J.,Lanus,3.03
+1491,2016-02-29,Velez Sarsfield,Gimnasia L.P.,0.0
+1492,2016-01-03,River Plate,Independiente,2.05
+1493,2016-01-03,Temperley,Tigre,0.0
+1494,2016-04-03,Quilmes,Olimpo Bahia Blanca,3.04
+1495,2016-04-03,Argentinos Jrs,Defensa y Justicia,0.0
+1496,2016-05-03,Arsenal Sarandi,Velez Sarsfield,0.0
+1497,2016-05-03,Lanus,Newells Old Boys,1.88
+1498,2016-05-03,Atl. Rafaela,San Martin S.J.,0.0
+1499,2016-05-03,Huracan,Estudiantes L.P.,0.0
+1500,2016-05-03,Belgrano,Sarmiento Junin,1.73
+1501,2016-05-03,Gimnasia L.P.,San Lorenzo,3.08
+1502,2016-06-03,Independiente,Colon Santa FE,1.65
+1503,2016-06-03,River Plate,Boca Juniors,3.0
+1504,2016-06-03,Rosario Central,Banfield,0.0
+1505,2016-06-03,Aldosivi,Temperley,0.0
+1506,2016-07-03,Union de Santa Fe,Racing Club,0.0
+1507,2016-07-03,Tigre,Atl. Tucuman,0.0
+1508,2016-08-03,Godoy Cruz,Patronato,1.89
+1509,2016-11-03,Racing Club,Lanus,0.0
+1510,2016-12-03,Newells Old Boys,Atl. Rafaela,0.0
+1511,2016-12-03,Defensa y Justicia,Huracan,0.0
+1512,2016-12-03,Olimpo Bahia Blanca,Belgrano,0.0
+1513,2016-12-03,Banfield,Independiente,0.0
+1514,2016-12-03,San Martin S.J.,Tigre,2.11
+1515,2016-12-03,San Lorenzo,Arsenal Sarandi,0.0
+1516,2016-03-13,Temperley,Argentinos Jrs,0.0
+1517,2016-03-13,Estudiantes L.P.,Gimnasia L.P.,0.0
+1518,2016-03-13,Patronato,Rosario Central,0.0
+1519,2016-03-13,Atl. Tucuman,Aldosivi,0.0
+1520,2016-03-13,Colon Santa FE,River Plate,0.0
+1521,2016-03-14,Sarmiento Junin,Godoy Cruz,3.02
+1522,2016-03-15,Boca Juniors,Union de Santa Fe,1.45
+1523,2016-03-17,Tigre,Huracan,0.0
+1524,2016-03-18,Aldosivi,San Martin S.J.,0.0
+1525,2016-03-18,Arsenal Sarandi,Gimnasia L.P.,0.0
+1526,2016-03-19,Estudiantes L.P.,Defensa y Justicia,1.99
+1527,2016-03-19,Belgrano,Velez Sarsfield,0.0
+1528,2016-03-19,Colon Santa FE,Union de Santa Fe,0.0
+1529,2016-03-19,Argentinos Jrs,Atl. Tucuman,0.0
+1530,2016-03-19,Godoy Cruz,Olimpo Bahia Blanca,1.86
+1531,2016-03-19,Independiente,Patronato,1.49
+1532,2016-03-20,Quilmes,San Lorenzo,0.0
+1533,2016-03-20,River Plate,Banfield,0.0
+1534,2016-03-20,Huracan,Temperley,1.89
+1535,2016-03-20,Lanus,Boca Juniors,0.0
+1536,2016-03-21,Rosario Central,Sarmiento Junin,1.37
+1537,2016-03-22,Atl. Rafaela,Racing Club,2.08
+1538,2016-03-22,Tigre,Newells Old Boys,0.0
+1539,2016-03-24,Huracan,Aldosivi,1.93
+1540,2016-03-28,Velez Sarsfield,Quilmes,0.0
+1541,2016-03-29,Argentinos Jrs,Huracan,0.0
+1542,2016-01-04,Atl. Tucuman,Huracan,2.03
+1543,2016-02-04,Olimpo Bahia Blanca,Rosario Central,2.98
+1544,2016-02-04,Temperley,Estudiantes L.P.,2.11
+1545,2016-02-04,Racing Club,Tigre,0.0
+1546,2016-02-04,Boca Juniors,Atl. Rafaela,1.29
+1547,2016-03-04,Banfield,Colon Santa FE,0.0
+1548,2016-03-04,Patronato,River Plate,0.0
+1549,2016-03-04,Newells Old Boys,Aldosivi,0.0
+1550,2016-03-04,San Lorenzo,Belgrano,1.7
+1551,2016-03-04,San Martin S.J.,Argentinos Jrs,1.79
+1552,2016-03-04,Defensa y Justicia,Arsenal Sarandi,0.0
+1553,2016-03-04,Velez Sarsfield,Godoy Cruz,0.0
+1554,2016-04-04,Sarmiento Junin,Independiente,0.0
+1555,2016-05-04,Gimnasia L.P.,Quilmes,1.73
+1556,2016-05-04,Union de Santa Fe,Lanus,0.0
+1557,2016-09-04,Colon Santa FE,Patronato,0.0
+1558,2016-09-04,Godoy Cruz,San Lorenzo,0.0
+1559,2016-09-04,Huracan,San Martin S.J.,2.06
+1560,2016-09-04,Defensa y Justicia,Temperley,1.61
+1561,2016-09-04,River Plate,Sarmiento Junin,0.0
+1562,2016-10-04,Independiente,Olimpo Bahia Blanca,0.0
+1563,2016-10-04,Banfield,Lanus,0.0
+1564,2016-10-04,Argentinos Jrs,Newells Old Boys,3.08
+1565,2016-10-04,Aldosivi,Racing Club,0.0
+1566,2016-10-04,Rosario Central,Velez Sarsfield,0.0
+1567,2016-11-04,Belgrano,Gimnasia L.P.,0.0
+1568,2016-11-04,Tigre,Boca Juniors,0.0
+1569,2016-11-04,Atl. Rafaela,Union de Santa Fe,3.17
+1570,2016-11-04,Quilmes,Arsenal Sarandi,0.0
+1571,2016-12-04,Estudiantes L.P.,Atl. Tucuman,1.83
+1572,2016-04-15,Sarmiento Junin,Colon Santa FE,0.0
+1573,2016-04-16,Gimnasia L.P.,Godoy Cruz,0.0
+1574,2016-04-16,Lanus,Atl. Rafaela,1.32
+1575,2016-04-16,Atl. Tucuman,Defensa y Justicia,0.0
+1576,2016-04-16,Newells Old Boys,Huracan,2.11
+1577,2016-04-16,Boca Juniors,Aldosivi,1.62
+1578,2016-04-16,Union de Santa Fe,Tigre,0.0
+1579,2016-04-17,Racing Club,Argentinos Jrs,0.0
+1580,2016-04-17,San Lorenzo,Rosario Central,2.18
+1581,2016-04-17,San Martin S.J.,Estudiantes L.P.,0.0
+1582,2016-04-17,Temperley,Quilmes,0.0
+1583,2016-04-17,Velez Sarsfield,Independiente,2.12
+1584,2016-04-18,Olimpo Bahia Blanca,River Plate,0.0
+1585,2016-04-18,Patronato,Banfield,0.0
+1586,2016-04-18,Arsenal Sarandi,Belgrano,3.04
+1587,2016-04-22,Atl. Rafaela,Patronato,0.0
+1588,2016-04-23,Olimpo Bahia Blanca,Aldosivi,2.08
+1589,2016-04-23,Velez Sarsfield,Argentinos Jrs,2.06
+1590,2016-04-23,Union de Santa Fe,Colon Santa FE,0.0
+1591,2016-04-23,Arsenal Sarandi,Defensa y Justicia,3.14
+1592,2016-04-23,San Lorenzo,Huracan,1.6
+1593,2016-04-23,Godoy Cruz,San Martin S.J.,1.81
+1594,2016-04-23,Lanus,Banfield,1.58
+1595,2016-04-24,Gimnasia L.P.,Estudiantes L.P.,3.04
+1596,2016-04-24,Newells Old Boys,Rosario Central,3.02
+1597,2016-04-24,Boca Juniors,River Plate,0.0
+1598,2016-04-24,Racing Club,Independiente,3.04
+1599,2016-04-25,Belgrano,Atl. Tucuman,3.09
+1600,2016-04-25,Tigre,Sarmiento Junin,1.93
+1601,2016-04-26,Quilmes,Temperley,0.0
+1602,2016-04-29,Aldosivi,Union de Santa Fe,0.0
+1603,2016-04-29,Estudiantes L.P.,Newells Old Boys,0.0
+1604,2016-04-30,Colon Santa FE,Olimpo Bahia Blanca,2.2
+1605,2016-04-30,Patronato,Atl. Rafaela,1.74
+1606,2016-04-30,Independiente,San Lorenzo,0.0
+1607,2016-04-30,Belgrano,Quilmes,0.0
+1608,2016-04-30,River Plate,Velez Sarsfield,0.0
+1609,2016-04-30,Godoy Cruz,Arsenal Sarandi,1.73
+1610,2016-04-30,Huracan,Racing Club,0.0
+1611,2016-04-30,Defensa y Justicia,San Martin S.J.,0.0
+1612,2016-01-05,Argentinos Jrs,Boca Juniors,0.0
+1613,2016-02-05,Rosario Central,Gimnasia L.P.,0.0
+1614,2016-02-05,Tigre,Lanus,2.12
+1615,2016-03-05,Temperley,Atl. Tucuman,2.9
+1616,2016-04-05,Banfield,Sarmiento Junin,0.0
+1617,2016-06-05,Union de Santa Fe,Argentinos Jrs,0.0
+1618,2016-07-05,Quilmes,Godoy Cruz,0.0
+1619,2016-07-05,Newells Old Boys,Defensa y Justicia,0.0
+1620,2016-07-05,San Martin S.J.,Temperley,2.07
+1621,2016-07-05,Velez Sarsfield,Colon Santa FE,0.0
+1622,2016-07-05,San Lorenzo,River Plate,1.9
+1623,2016-08-05,Racing Club,Estudiantes L.P.,3.03
+1624,2016-08-05,Arsenal Sarandi,Rosario Central,2.14
+1625,2016-08-05,Lanus,Aldosivi,1.47
+1626,2016-08-05,Atl. Tucuman,Belgrano,1.8
+1627,2016-08-05,Boca Juniors,Huracan,0.0
+1628,2016-09-05,Atl. Rafaela,Tigre,3.08
+1629,2016-09-05,Gimnasia L.P.,Independiente,2.95
+1630,2016-09-05,Olimpo Bahia Blanca,Banfield,3.01
+1631,2016-10-05,Sarmiento Junin,Patronato,2.17
+1632,2016-05-13,Huracan,Union de Santa Fe,0.0
+1633,2016-05-14,Atl. Tucuman,San Martin S.J.,1.44
+1634,2016-05-14,Defensa y Justicia,Racing Club,0.0
+1635,2016-05-14,Colon Santa FE,San Lorenzo,1.83
+1636,2016-05-14,Godoy Cruz,Belgrano,1.57
+1637,2016-05-14,River Plate,Gimnasia L.P.,1.85
+1638,2016-05-15,Independiente,Arsenal Sarandi,1.67
+1639,2016-05-15,Argentinos Jrs,Lanus,3.13
+1640,2016-05-15,Sarmiento Junin,Tigre,0.0
+1641,2016-05-15,Temperley,Newells Old Boys,2.1
+1642,2016-05-15,Aldosivi,Atl. Rafaela,1.75
+1643,2016-05-15,Rosario Central,Quilmes,0.0
+1644,2016-05-16,Estudiantes L.P.,Boca Juniors,1.53
+1645,2016-05-16,Patronato,Olimpo Bahia Blanca,1.93
+1646,2016-05-17,Banfield,Velez Sarsfield,3.17
+1647,2016-05-21,Arsenal Sarandi,River Plate,0.0
+1648,2016-05-21,Tigre,Aldosivi,1.77
+1649,2016-05-21,Atl. Rafaela,Argentinos Jrs,0.0
+1650,2016-05-21,Olimpo Bahia Blanca,Sarmiento Junin,0.0
+1651,2016-05-21,Racing Club,Temperley,1.53
+1652,2016-05-22,Quilmes,Independiente,2.13
+1653,2016-05-22,Velez Sarsfield,Patronato,3.08
+1654,2016-05-22,San Lorenzo,Banfield,0.0
+1655,2016-05-22,San Martin S.J.,Godoy Cruz,0.0
+1656,2016-05-22,Boca Juniors,Defensa y Justicia,3.1
+1657,2016-05-22,Newells Old Boys,Atl. Tucuman,0.0
+1658,2016-05-22,Union de Santa Fe,Estudiantes L.P.,0.0
+1659,2016-05-23,Lanus,Huracan,0.0
+1660,2016-05-23,Belgrano,Rosario Central,0.0
+1661,2016-05-24,Gimnasia L.P.,Colon Santa FE,1.82
+1662,2016-05-28,Godoy Cruz,Estudiantes L.P.,2.08
+1663,2016-05-29,San Lorenzo,Lanus,0.0
+1664,2016-08-26,Sarmiento Junin,Arsenal Sarandi,0.0
+1665,2016-08-27,Godoy Cruz,Huracan,2.19
+1666,2016-08-27,Gimnasia L.P.,Velez Sarsfield,1.96
+1667,2016-08-27,Rosario Central,Defensa y Justicia,0.0
+1668,2016-08-27,Racing Club,Talleres Cordoba,0.0
+1669,2016-08-27,Atl. Tucuman,Atl. Rafaela,1.53
+1670,2016-08-28,San Lorenzo,San Martin S.J.,0.0
+1671,2016-08-28,Tigre,Estudiantes L.P.,0.0
+1672,2016-08-28,Quilmes,Newells Old Boys,0.0
+1673,2016-08-28,Belgrano,Independiente,0.0
+1674,2016-08-28,Union de Santa Fe,Olimpo Bahia Blanca,2.14
+1675,2016-08-28,River Plate,Banfield,1.63
+1676,2016-08-29,Lanus,Boca Juniors,0.0
+1677,2016-08-29,Aldosivi,Colon Santa FE,0.0
+1678,2016-08-30,Temperley,Patronato,0.0
+1679,2016-09-09,Patronato,Gimnasia L.P.,0.0
+1680,2016-10-09,Huracan,Quilmes,0.0
+1681,2016-10-09,Olimpo Bahia Blanca,Lanus,2.92
+1682,2016-10-09,Banfield,Colon Santa FE,2.99
+1683,2016-10-09,San Martin S.J.,Racing Club,0.0
+1684,2016-10-09,Union de Santa Fe,Aldosivi,0.0
+1685,2016-10-09,Defensa y Justicia,San Lorenzo,0.0
+1686,2016-11-09,Independiente,Godoy Cruz,1.65
+1687,2016-11-09,Newells Old Boys,Tigre,1.93
+1688,2016-11-09,Velez Sarsfield,Rosario Central,0.0
+1689,2016-11-09,Estudiantes L.P.,Sarmiento Junin,1.65
+1690,2016-11-09,Boca Juniors,Belgrano,1.5
+1691,2016-12-09,Talleres Cordoba,River Plate,2.06
+1692,2016-12-09,Arsenal Sarandi,Atl. Tucuman,0.0
+1693,2016-09-13,Atl. Rafaela,Temperley,0.0
+1694,2016-09-17,Colon Santa FE,Talleres Cordoba,2.12
+1695,2016-09-17,Lanus,Union de Santa Fe,0.0
+1696,2016-09-17,San Lorenzo,Velez Sarsfield,1.73
+1697,2016-09-17,Rosario Central,Patronato,1.59
+1698,2016-09-17,Aldosivi,Banfield,0.0
+1699,2016-09-17,Quilmes,Independiente,0.0
+1700,2016-09-18,Sarmiento Junin,Newells Old Boys,2.9
+1701,2016-09-18,Atl. Tucuman,Estudiantes L.P.,0.0
+1702,2016-09-18,Temperley,Arsenal Sarandi,2.9
+1703,2016-09-18,Belgrano,Olimpo Bahia Blanca,2.89
+1704,2016-09-18,Godoy Cruz,Boca Juniors,2.98
+1705,2016-09-18,River Plate,San Martin S.J.,0.0
+1706,2016-09-19,Racing Club,Defensa y Justicia,0.0
+1707,2016-09-19,Tigre,Huracan,3.02
+1708,2016-09-20,Gimnasia L.P.,Atl. Rafaela,0.0
+1709,2016-09-24,Olimpo Bahia Blanca,Godoy Cruz,0.0
+1710,2016-09-24,Newells Old Boys,Atl. Tucuman,2.11
+1711,2016-09-24,Atl. Rafaela,Rosario Central,0.0
+1712,2016-09-24,Velez Sarsfield,Racing Club,0.0
+1713,2016-09-25,Independiente,Tigre,0.0
+1714,2016-09-25,Huracan,Sarmiento Junin,0.0
+1715,2016-09-25,Estudiantes L.P.,Temperley,1.54
+1716,2016-09-25,Union de Santa Fe,Belgrano,0.0
+1717,2016-09-25,Talleres Cordoba,Banfield,0.0
+1718,2016-09-25,Patronato,San Lorenzo,3.01
+1719,2016-09-25,Boca Juniors,Quilmes,1.39
+1720,2016-09-25,Lanus,Aldosivi,0.0
+1721,2016-09-26,Defensa y Justicia,River Plate,3.07
+1722,2016-09-26,Arsenal Sarandi,Gimnasia L.P.,2.94
+1723,2016-09-27,San Martin S.J.,Colon Santa FE,3.04
+1724,2016-09-30,Quilmes,Olimpo Bahia Blanca,0.0
+1725,2016-01-10,Godoy Cruz,Union de Santa Fe,2.1
+1726,2016-01-10,Rosario Central,Arsenal Sarandi,1.48
+1727,2016-01-10,Aldosivi,Talleres Cordoba,0.0
+1728,2016-01-10,Temperley,Newells Old Boys,2.89
+1729,2016-01-10,Racing Club,Patronato,1.51
+1730,2016-02-10,River Plate,Velez Sarsfield,1.38
+1731,2016-02-10,San Lorenzo,Atl. Rafaela,1.51
+1732,2016-02-10,Belgrano,Lanus,2.85
+1733,2016-02-10,Gimnasia L.P.,Estudiantes L.P.,2.75
+1734,2016-02-10,Banfield,San Martin S.J.,1.99
+1735,2016-02-10,Colon Santa FE,Defensa y Justicia,0.0
+1736,2016-02-10,Sarmiento Junin,Independiente,2.15
+1737,2016-03-10,Tigre,Boca Juniors,0.0
+1738,2016-04-10,Atl. Tucuman,Huracan,0.0
+1739,2016-10-14,Defensa y Justicia,Banfield,2.13
+1740,2016-10-15,Belgrano,Aldosivi,0.0
+1741,2016-10-15,Velez Sarsfield,Colon Santa FE,0.0
+1742,2016-10-15,Atl. Rafaela,Racing Club,0.0
+1743,2016-10-15,Huracan,Temperley,0.0
+1744,2016-10-15,Estudiantes L.P.,Rosario Central,0.0
+1745,2016-10-15,San Martin S.J.,Talleres Cordoba,0.0
+1746,2016-10-16,Independiente,Atl. Tucuman,0.0
+1747,2016-10-16,Lanus,Godoy Cruz,1.54
+1748,2016-10-16,Boca Juniors,Sarmiento Junin,1.4
+1749,2016-10-16,Olimpo Bahia Blanca,Tigre,0.0
+1750,2016-10-16,Newells Old Boys,Gimnasia L.P.,2.15
+1751,2016-10-16,Arsenal Sarandi,San Lorenzo,1.92
+1752,2016-10-17,Patronato,River Plate,0.0
+1753,2016-10-18,Union de Santa Fe,Quilmes,0.0
+1754,2016-10-21,Sarmiento Junin,Olimpo Bahia Blanca,2.84
+1755,2016-10-22,Talleres Cordoba,Defensa y Justicia,0.0
+1756,2016-10-22,Quilmes,Lanus,0.0
+1757,2016-10-22,Godoy Cruz,Belgrano,0.0
+1758,2016-10-22,Temperley,Independiente,2.05
+1759,2016-10-22,Colon Santa FE,Patronato,0.0
+1760,2016-10-22,Racing Club,Arsenal Sarandi,1.48
+1761,2016-10-23,River Plate,Atl. Rafaela,1.4
+1762,2016-10-23,Gimnasia L.P.,Huracan,2.01
+1763,2016-10-23,Banfield,Velez Sarsfield,2.07
+1764,2016-10-23,Rosario Central,Newells Old Boys,0.0
+1765,2016-10-23,Tigre,Union de Santa Fe,1.7
+1766,2016-10-23,San Lorenzo,Estudiantes L.P.,0.0
+1767,2016-10-24,Atl. Tucuman,Boca Juniors,3.09
+1768,2016-10-25,Aldosivi,San Martin S.J.,0.0
+1769,2016-10-28,Olimpo Bahia Blanca,Atl. Tucuman,0.0
+1770,2016-10-29,Patronato,Banfield,0.0
+1771,2016-10-29,Velez Sarsfield,Talleres Cordoba,0.0
+1772,2016-10-29,Belgrano,Quilmes,0.0
+1773,2016-10-29,Boca Juniors,Temperley,1.4
+1774,2016-10-29,Independiente,Gimnasia L.P.,0.0
+1775,2016-10-29,Huracan,Rosario Central,2.95
+1776,2016-10-30,Estudiantes L.P.,Racing Club,2.18
+1777,2016-10-30,Lanus,Tigre,0.0
+1778,2016-10-30,Godoy Cruz,Aldosivi,2.02
+1779,2016-10-30,Newells Old Boys,San Lorenzo,0.0
+1780,2016-10-30,Atl. Rafaela,Colon Santa FE,0.0
+1781,2016-10-30,Arsenal Sarandi,River Plate,0.0
+1782,2016-10-31,Defensa y Justicia,San Martin S.J.,0.0
+1783,2016-01-11,Union de Santa Fe,Sarmiento Junin,2.07
+1784,2016-05-11,Temperley,Olimpo Bahia Blanca,2.84
+1785,2016-05-11,Quilmes,Godoy Cruz,0.0
+1786,2016-05-11,River Plate,Estudiantes L.P.,3.06
+1787,2016-05-11,Sarmiento Junin,Lanus,2.1
+1788,2016-05-11,Colon Santa FE,Arsenal Sarandi,1.93
+1789,2016-05-11,Racing Club,Newells Old Boys,1.68
+1790,2016-05-11,San Martin S.J.,Velez Sarsfield,1.93
+1791,2016-06-11,Banfield,Atl. Rafaela,0.0
+1792,2016-06-11,San Lorenzo,Huracan,1.63
+1793,2016-06-11,Tigre,Belgrano,2.11
+1794,2016-06-11,Talleres Cordoba,Patronato,1.96
+1795,2016-06-11,Rosario Central,Independiente,2.95
+1796,2016-06-11,Gimnasia L.P.,Boca Juniors,2.2
+1797,2016-07-11,Aldosivi,Defensa y Justicia,2.94
+1798,2016-09-11,Atl. Tucuman,Union de Santa Fe,0.0
+1799,2016-11-13,Velez Sarsfield,Defensa y Justicia,0.0
+1800,2016-11-19,Arsenal Sarandi,Banfield,0.0
+1801,2016-11-19,Estudiantes L.P.,Colon Santa FE,1.59
+1802,2016-11-19,Godoy Cruz,Tigre,0.0
+1803,2016-11-19,Lanus,Atl. Tucuman,1.62
+1804,2016-11-19,Union de Santa Fe,Temperley,1.99
+1805,2016-11-19,Huracan,Racing Club,3.09
+1806,2016-11-20,Belgrano,Sarmiento Junin,0.0
+1807,2016-11-20,Independiente,San Lorenzo,0.0
+1808,2016-11-20,Quilmes,Aldosivi,2.2
+1809,2016-11-20,Boca Juniors,Rosario Central,0.0
+1810,2016-11-20,Atl. Rafaela,Talleres Cordoba,0.0
+1811,2016-11-20,Newells Old Boys,River Plate,0.0
+1812,2016-11-21,Olimpo Bahia Blanca,Gimnasia L.P.,2.86
+1813,2016-11-22,Patronato,San Martin S.J.,2.15
+1814,2016-11-25,Temperley,Lanus,1.95
+1815,2016-11-26,Talleres Cordoba,Arsenal Sarandi,0.0
+1816,2016-11-26,Colon Santa FE,Newells Old Boys,0.0
+1817,2016-11-26,Tigre,Quilmes,1.79
+1818,2016-11-26,Banfield,Estudiantes L.P.,0.0
+1819,2016-11-26,Atl. Tucuman,Belgrano,0.0
+1820,2016-11-26,Rosario Central,Olimpo Bahia Blanca,2.85
+1821,2016-11-27,Aldosivi,Velez Sarsfield,2.98
+1822,2016-11-27,River Plate,Huracan,1.61
+1823,2016-11-27,Sarmiento Junin,Godoy Cruz,2.94
+1824,2016-11-27,San Lorenzo,Boca Juniors,0.0
+1825,2016-11-27,Racing Club,Independiente,0.0
+1826,2016-11-28,Defensa y Justicia,Patronato,0.0
+1827,2016-11-28,Gimnasia L.P.,Union de Santa Fe,2.94
+1828,2016-11-29,San Martin S.J.,Atl. Rafaela,0.0
+1829,2016-03-12,Quilmes,Sarmiento Junin,0.0
+1830,2016-03-12,Huracan,Colon Santa FE,0.0
+1831,2016-03-12,Atl. Rafaela,Defensa y Justicia,0.0
+1832,2016-03-12,Newells Old Boys,Banfield,0.0
+1833,2016-03-12,Tigre,Aldosivi,0.0
+1834,2016-03-12,Godoy Cruz,Atl. Tucuman,0.0
+1835,2016-03-12,Olimpo Bahia Blanca,San Lorenzo,0.0
+1836,2016-04-12,Estudiantes L.P.,Talleres Cordoba,0.0
+1837,2016-04-12,Union de Santa Fe,Rosario Central,0.0
+1838,2016-04-12,Boca Juniors,Racing Club,1.87
+1839,2016-04-12,Patronato,Velez Sarsfield,0.0
+1840,2016-04-12,Belgrano,Temperley,0.0
+1841,2016-04-12,Independiente,River Plate,2.04
+1842,2016-05-12,Arsenal Sarandi,San Martin S.J.,3.08
+1843,2016-06-12,Lanus,Gimnasia L.P.,1.58
+1844,2016-09-12,Aldosivi,Patronato,3.01
+1845,2016-09-12,Sarmiento Junin,Tigre,0.0
+1846,2016-10-12,Temperley,Godoy Cruz,0.0
+1847,2016-10-12,San Lorenzo,Union de Santa Fe,1.7
+1848,2016-10-12,Talleres Cordoba,Newells Old Boys,0.0
+1849,2016-10-12,Velez Sarsfield,Atl. Rafaela,2.17
+1850,2016-10-12,Gimnasia L.P.,Belgrano,0.0
+1851,2016-10-12,Racing Club,Olimpo Bahia Blanca,0.0
+1852,2016-11-12,River Plate,Boca Juniors,0.0
+1853,2016-11-12,Banfield,Huracan,1.98
+1854,2016-11-12,San Martin S.J.,Estudiantes L.P.,0.0
+1855,2016-11-12,Colon Santa FE,Independiente,0.0
+1856,2016-11-12,Rosario Central,Lanus,2.11
+1857,2016-12-12,Atl. Tucuman,Quilmes,1.66
+1858,2016-12-13,Defensa y Justicia,Arsenal Sarandi,1.62
+1859,2016-12-16,Huracan,Talleres Cordoba,0.0
+1860,2016-12-17,Godoy Cruz,Gimnasia L.P.,0.0
+1861,2016-12-17,Estudiantes L.P.,Defensa y Justicia,0.0
+1862,2016-12-17,Sarmiento Junin,Aldosivi,0.0
+1863,2016-12-17,Union de Santa Fe,Racing Club,0.0
+1864,2016-12-17,Atl. Rafaela,Patronato,2.03
+1865,2016-12-17,Independiente,Banfield,0.0
+1866,2016-12-18,Belgrano,Rosario Central,0.0
+1867,2016-12-18,Lanus,San Lorenzo,0.0
+1868,2016-12-18,Arsenal Sarandi,Velez Sarsfield,0.0
+1869,2016-12-18,Boca Juniors,Colon Santa FE,1.35
+1870,2016-12-18,Newells Old Boys,San Martin S.J.,1.64
+1871,2016-12-18,Olimpo Bahia Blanca,River Plate,0.0
+1872,2016-12-19,Quilmes,Temperley,0.0
+1873,2016-12-20,Tigre,Atl. Tucuman,0.0
+1874,2017-10-03,Velez Sarsfield,Estudiantes L.P.,0.0
+1875,2017-11-03,Patronato,Arsenal Sarandi,2.04
+1876,2017-11-03,Defensa y Justicia,Newells Old Boys,0.0
+1877,2017-11-03,San Lorenzo,Belgrano,1.72
+1878,2017-11-03,Banfield,Boca Juniors,2.09
+1879,2017-11-03,San Martin S.J.,Huracan,0.0
+1880,2017-12-03,Gimnasia L.P.,Quilmes,1.82
+1881,2017-12-03,Racing Club,Lanus,1.98
+1882,2017-12-03,Temperley,Tigre,0.0
+1883,2017-12-03,River Plate,Union de Santa Fe,0.0
+1884,2017-12-03,Rosario Central,Godoy Cruz,0.0
+1885,2017-03-13,Atl. Tucuman,Sarmiento Junin,1.9
+1886,2017-03-13,Aldosivi,Atl. Rafaela,0.0
+1887,2017-03-14,Colon Santa FE,Olimpo Bahia Blanca,0.0
+1888,2017-03-18,Quilmes,Rosario Central,2.19
+1889,2017-03-18,Union de Santa Fe,Colon Santa FE,0.0
+1890,2017-03-18,Newells Old Boys,Velez Sarsfield,1.87
+1891,2017-03-18,Tigre,Gimnasia L.P.,0.0
+1892,2017-03-18,Independiente,San Martin S.J.,0.0
+1893,2017-03-18,Huracan,Defensa y Justicia,0.0
+1894,2017-03-19,Belgrano,Racing Club,0.0
+1895,2017-03-19,Sarmiento Junin,Temperley,2.2
+1896,2017-03-19,Estudiantes L.P.,Patronato,1.56
+1897,2017-03-19,Godoy Cruz,San Lorenzo,0.0
+1898,2017-03-19,Olimpo Bahia Blanca,Banfield,0.0
+1899,2017-03-19,Boca Juniors,Talleres Cordoba,0.0
+1900,2017-03-20,Arsenal Sarandi,Atl. Rafaela,0.0
+1901,2017-03-21,Atl. Tucuman,Aldosivi,0.0
+1902,2017-03-22,Lanus,River Plate,0.0
+1903,2017-03-25,Patronato,Newells Old Boys,2.97
+1904,2017-03-25,Banfield,Union de Santa Fe,2.15
+1905,2017-03-25,Rosario Central,Tigre,1.89
+1906,2017-03-25,San Lorenzo,Quilmes,1.57
+1907,2017-03-25,Gimnasia L.P.,Sarmiento Junin,1.88
+1908,2017-03-25,Racing Club,Godoy Cruz,1.62
+1909,2017-03-25,Atl. Rafaela,Estudiantes L.P.,3.03
+1910,2017-03-26,Colon Santa FE,Lanus,0.0
+1911,2017-03-26,San Martin S.J.,Boca Juniors,1.66
+1912,2017-03-26,River Plate,Belgrano,1.57
+1913,2017-03-26,Temperley,Atl. Tucuman,2.92
+1914,2017-03-27,Aldosivi,Arsenal Sarandi,1.84
+1915,2017-03-27,Velez Sarsfield,Huracan,0.0
+1916,2017-03-28,Talleres Cordoba,Olimpo Bahia Blanca,1.66
+1917,2017-01-04,Atl. Tucuman,Gimnasia L.P.,0.0
+1918,2017-01-04,Independiente,Velez Sarsfield,0.0
+1919,2017-01-04,Newells Old Boys,Atl. Rafaela,1.82
+1920,2017-01-04,Temperley,Aldosivi,0.0
+1921,2017-01-04,Quilmes,Racing Club,1.78
+1922,2017-01-04,Belgrano,Colon Santa FE,0.0
+1923,2017-02-04,Boca Juniors,Defensa y Justicia,1.65
+1924,2017-02-04,Estudiantes L.P.,Arsenal Sarandi,1.41
+1925,2017-02-04,Lanus,Banfield,1.91
+1926,2017-02-04,Sarmiento Junin,Rosario Central,2.93
+1927,2017-02-04,Tigre,San Lorenzo,0.0
+1928,2017-02-04,Huracan,Patronato,0.0
+1929,2017-03-04,Godoy Cruz,River Plate,2.05
+1930,2017-03-04,Olimpo Bahia Blanca,San Martin S.J.,0.0
+1931,2017-04-04,Union de Santa Fe,Talleres Cordoba,0.0
+1932,2017-07-04,Aldosivi,Estudiantes L.P.,0.0
+1933,2017-08-04,Colon Santa FE,Godoy Cruz,1.73
+1934,2017-08-04,Rosario Central,Atl. Tucuman,1.76
+1935,2017-08-04,Arsenal Sarandi,Newells Old Boys,2.11
+1936,2017-08-04,San Lorenzo,Sarmiento Junin,1.57
+1937,2017-08-04,Atl. Rafaela,Huracan,0.0
+1938,2017-08-04,Talleres Cordoba,Lanus,0.0
+1939,2017-09-04,Banfield,Belgrano,2.01
+1940,2017-09-04,Patronato,Independiente,0.0
+1941,2017-09-04,San Martin S.J.,Union de Santa Fe,3.02
+1942,2017-09-04,River Plate,Quilmes,1.28
+1943,2017-10-04,Velez Sarsfield,Boca Juniors,1.87
+1944,2017-10-04,Defensa y Justicia,Olimpo Bahia Blanca,0.0
+1945,2017-11-04,Gimnasia L.P.,Temperley,0.0
+1946,2017-04-14,Huracan,Arsenal Sarandi,0.0
+1947,2017-04-15,Lanus,San Martin S.J.,0.0
+1948,2017-04-15,Newells Old Boys,Estudiantes L.P.,0.0
+1949,2017-04-15,Belgrano,Talleres Cordoba,2.9
+1950,2017-04-15,Independiente,Atl. Rafaela,0.0
+1951,2017-04-15,Olimpo Bahia Blanca,Velez Sarsfield,0.0
+1952,2017-04-16,Sarmiento Junin,Racing Club,2.01
+1953,2017-04-16,Godoy Cruz,Banfield,0.0
+1954,2017-04-16,Atl. Tucuman,San Lorenzo,0.0
+1955,2017-04-16,Boca Juniors,Patronato,0.0
+1956,2017-04-16,Quilmes,Colon Santa FE,0.0
+1957,2017-04-17,Tigre,River Plate,2.16
+1958,2017-04-17,Union de Santa Fe,Defensa y Justicia,0.0
+1959,2017-04-17,Temperley,Rosario Central,0.0
+1960,2017-04-18,Gimnasia L.P.,Aldosivi,1.92
+1961,2017-04-19,Racing Club,Tigre,1.77
+1962,2017-04-20,Talleres Cordoba,Independiente,0.0
+1963,2017-04-22,San Lorenzo,Temperley,0.0
+1964,2017-04-22,Aldosivi,Newells Old Boys,0.0
+1965,2017-04-22,Racing Club,Atl. Tucuman,1.49
+1966,2017-04-22,Banfield,Quilmes,1.6
+1967,2017-04-22,Defensa y Justicia,Lanus,2.03
+1968,2017-04-22,Velez Sarsfield,Union de Santa Fe,0.0
+1969,2017-04-23,Rosario Central,Gimnasia L.P.,1.9
+1970,2017-04-23,Estudiantes L.P.,Huracan,0.0
+1971,2017-04-23,Atl. Rafaela,Boca Juniors,0.0
+1972,2017-04-23,San Martin S.J.,Belgrano,0.0
+1973,2017-04-23,River Plate,Sarmiento Junin,0.0
+1974,2017-04-23,Talleres Cordoba,Godoy Cruz,1.62
+1975,2017-04-24,Arsenal Sarandi,Independiente,1.81
+1976,2017-04-24,Patronato,Olimpo Bahia Blanca,0.0
+1977,2017-04-25,Colon Santa FE,Tigre,2.11
+1978,2017-04-28,Quilmes,Talleres Cordoba,0.0
+1979,2017-04-29,Independiente,Estudiantes L.P.,0.0
+1980,2017-04-29,Gimnasia L.P.,San Lorenzo,0.0
+1981,2017-04-29,Huracan,Newells Old Boys,0.0
+1982,2017-04-29,Sarmiento Junin,Colon Santa FE,0.0
+1983,2017-04-29,Tigre,Banfield,0.0
+1984,2017-04-30,Temperley,Racing Club,0.0
+1985,2017-04-30,Union de Santa Fe,Patronato,0.0
+1986,2017-04-30,Godoy Cruz,San Martin S.J.,0.0
+1987,2017-04-30,Rosario Central,Aldosivi,1.59
+1988,2017-04-30,Boca Juniors,Arsenal Sarandi,1.28
+1989,2017-04-30,Olimpo Bahia Blanca,Atl. Rafaela,0.0
+1990,2017-02-05,Belgrano,Defensa y Justicia,0.0
+1991,2017-03-05,Lanus,Velez Sarsfield,1.98
+1992,2017-06-05,San Martin S.J.,Quilmes,1.93
+1993,2017-06-05,Talleres Cordoba,Tigre,0.0
+1994,2017-06-05,Patronato,Lanus,2.14
+1995,2017-06-05,Racing Club,Gimnasia L.P.,1.55
+1996,2017-06-05,Atl. Rafaela,Union de Santa Fe,1.94
+1997,2017-07-05,Estudiantes L.P.,Boca Juniors,3.12
+1998,2017-07-05,River Plate,Temperley,1.39
+1999,2017-07-05,Aldosivi,Huracan,0.0
+2000,2017-07-05,Defensa y Justicia,Godoy Cruz,0.0
+2001,2017-07-05,San Lorenzo,Rosario Central,2.19
+2002,2017-08-05,Colon Santa FE,Atl. Tucuman,0.0
+2003,2017-08-05,Newells Old Boys,Independiente,0.0
+2004,2017-09-05,Banfield,Sarmiento Junin,1.44
+2005,2017-09-05,Velez Sarsfield,Belgrano,0.0
+2006,2017-05-13,San Martin S.J.,Godoy Cruz,0.0
+2007,2017-05-13,Estudiantes L.P.,Gimnasia L.P.,1.98
+2008,2017-05-13,Talleres Cordoba,Belgrano,0.0
+2009,2017-05-13,Banfield,Lanus,0.0
+2010,2017-05-13,Atl. Rafaela,Atl. Tucuman,1.94
+2011,2017-05-13,Huracan,San Lorenzo,0.0
+2012,2017-05-13,Olimpo Bahia Blanca,Aldosivi,1.94
+2013,2017-05-14,Colon Santa FE,Union de Santa Fe,0.0
+2014,2017-05-14,Newells Old Boys,Rosario Central,0.0
+2015,2017-05-14,Boca Juniors,River Plate,0.0
+2016,2017-05-14,Independiente,Racing Club,2.03
+2017,2017-05-14,Patronato,Sarmiento Junin,0.0
+2018,2017-05-15,Arsenal Sarandi,Temperley,0.0
+2019,2017-05-15,Defensa y Justicia,Quilmes,1.43
+2020,2017-05-16,Velez Sarsfield,Tigre,2.03
+2021,2017-05-20,Atl. Tucuman,Banfield,0.0
+2022,2017-05-20,Belgrano,Patronato,0.0
+2023,2017-05-20,Lanus,Atl. Rafaela,0.0
+2024,2017-05-20,Sarmiento Junin,Talleres Cordoba,0.0
+2025,2017-05-20,Boca Juniors,Newells Old Boys,1.56
+2026,2017-05-20,Tigre,San Martin S.J.,0.0
+2027,2017-05-21,Union de Santa Fe,Arsenal Sarandi,0.0
+2028,2017-05-21,Independiente,Huracan,1.51
+2029,2017-05-21,Godoy Cruz,Velez Sarsfield,0.0
+2030,2017-05-21,San Lorenzo,Aldosivi,0.0
+2031,2017-05-21,Temperley,Colon Santa FE,0.0
+2032,2017-05-21,Quilmes,Defensa y Justicia,1.84
+2033,2017-05-22,Rosario Central,Racing Club,2.05
+2034,2017-05-22,Olimpo Bahia Blanca,Estudiantes L.P.,0.0
+2035,2017-05-23,Gimnasia L.P.,River Plate,1.73
+2036,2017-05-26,Aldosivi,Independiente,0.0
+2037,2017-05-27,Colon Santa FE,Gimnasia L.P.,0.0
+2038,2017-05-27,Banfield,Temperley,1.63
+2039,2017-05-27,Newells Old Boys,Olimpo Bahia Blanca,1.85
+2040,2017-05-27,Huracan,Boca Juniors,0.0
+2041,2017-05-27,San Martin S.J.,Sarmiento Junin,1.95
+2042,2017-05-28,Racing Club,San Lorenzo,0.0
+2043,2017-05-28,Defensa y Justicia,Tigre,1.79
+2044,2017-05-28,Arsenal Sarandi,Lanus,2.15
+2045,2017-05-28,Talleres Cordoba,Atl. Tucuman,1.46
+2046,2017-05-28,River Plate,Rosario Central,0.0
+2047,2017-05-28,Atl. Rafaela,Belgrano,0.0
+2048,2017-05-29,Patronato,Godoy Cruz,0.0
+2049,2017-05-29,Estudiantes L.P.,Union de Santa Fe,1.61
+2050,2017-05-30,Velez Sarsfield,Quilmes,0.0
+2051,2017-01-06,Atl. Tucuman,River Plate,1.93
+2052,2017-01-06,Arsenal Sarandi,Olimpo Bahia Blanca,0.0
+2053,2017-02-06,Sarmiento Junin,Defensa y Justicia,0.0
+2054,2017-03-06,Godoy Cruz,Atl. Rafaela,0.0
+2055,2017-03-06,Tigre,Velez Sarsfield,0.0
+2056,2017-03-06,Temperley,Talleres Cordoba,0.0
+2057,2017-03-06,Rosario Central,Colon Santa FE,0.0
+2058,2017-03-06,Union de Santa Fe,Newells Old Boys,0.0
+2059,2017-04-06,Lanus,Estudiantes L.P.,0.0
+2060,2017-04-06,San Lorenzo,River Plate,0.0
+2061,2017-04-06,Gimnasia L.P.,Banfield,0.0
+2062,2017-04-06,Belgrano,Arsenal Sarandi,0.0
+2063,2017-04-06,Olimpo Bahia Blanca,Huracan,0.0
+2064,2017-04-06,Atl. Tucuman,San Martin S.J.,0.0
+2065,2017-04-06,Boca Juniors,Independiente,0.0
+2066,2017-05-06,Quilmes,Patronato,0.0
+2067,2017-06-06,Racing Club,Aldosivi,0.0
+2068,2017-06-15,Defensa y Justicia,Independiente,0.0
+2069,2017-06-16,Colon Santa FE,San Lorenzo,0.0
+2070,2017-06-16,San Martin S.J.,Temperley,0.0
+2071,2017-06-16,Huracan,Union de Santa Fe,1.87
+2072,2017-06-17,Talleres Cordoba,Gimnasia L.P.,0.0
+2073,2017-06-17,Banfield,Rosario Central,0.0
+2074,2017-06-17,Arsenal Sarandi,Godoy Cruz,0.0
+2075,2017-06-17,Estudiantes L.P.,Belgrano,1.51
+2076,2017-06-17,Atl. Rafaela,Quilmes,0.0
+2077,2017-06-17,Aldosivi,Boca Juniors,1.61
+2078,2017-06-17,Velez Sarsfield,Sarmiento Junin,1.49
+2079,2017-06-18,Newells Old Boys,Lanus,3.0
+2080,2017-06-18,Patronato,Tigre,0.0
+2081,2017-06-18,Independiente,Olimpo Bahia Blanca,0.0
+2082,2017-06-18,Defensa y Justicia,Atl. Tucuman,1.53
+2083,2017-06-18,River Plate,Racing Club,0.0
+2084,2017-06-20,San Lorenzo,Banfield,2.1
+2085,2017-06-20,Gimnasia L.P.,San Martin S.J.,1.73
+2086,2017-06-21,Rosario Central,Talleres Cordoba,0.0
+2087,2017-06-21,Quilmes,Arsenal Sarandi,0.0
+2088,2017-06-21,Temperley,Defensa y Justicia,2.05
+2089,2017-06-21,Racing Club,Colon Santa FE,1.74
+2090,2017-06-21,Olimpo Bahia Blanca,Boca Juniors,3.21
+2091,2017-06-22,River Plate,Aldosivi,1.25
+2092,2017-06-22,Belgrano,Newells Old Boys,0.0
+2093,2017-06-22,Lanus,Huracan,1.88
+2094,2017-06-22,Sarmiento Junin,Patronato,0.0
+2095,2017-06-22,Godoy Cruz,Estudiantes L.P.,0.0
+2096,2017-06-22,Tigre,Atl. Rafaela,1.81
+2097,2017-06-23,Atl. Tucuman,Velez Sarsfield,3.14
+2098,2017-06-23,Union de Santa Fe,Independiente,1.75
+2099,2017-06-24,Defensa y Justicia,Gimnasia L.P.,1.58
+2100,2017-06-24,San Martin S.J.,Rosario Central,3.22
+2101,2017-06-25,Boca Juniors,Union de Santa Fe,1.22
+2102,2017-06-25,Atl. Rafaela,Sarmiento Junin,0.0
+2103,2017-06-25,Banfield,Racing Club,0.0
+2104,2017-06-26,Colon Santa FE,River Plate,3.32
+2105,2017-06-26,Arsenal Sarandi,Tigre,0.0
+2106,2017-06-26,Patronato,Atl. Tucuman,3.15
+2107,2017-06-27,Aldosivi,Olimpo Bahia Blanca,0.0
+2108,2017-06-27,Huracan,Belgrano,0.0
+2109,2017-06-27,Velez Sarsfield,Temperley,3.09
+2110,2017-06-27,Estudiantes L.P.,Quilmes,1.17
+2111,2017-06-27,Newells Old Boys,Godoy Cruz,0.0
+2112,2017-06-28,Independiente,Lanus,0.0
+2113,2017-06-28,Talleres Cordoba,San Lorenzo,3.29
+2114,2017-08-25,Tigre,Velez Sarsfield,0.0
+2115,2017-08-26,Banfield,Belgrano,2.06
+2116,2017-08-26,Defensa y Justicia,Gimnasia L.P.,0.0
+2117,2017-08-26,Colon Santa FE,Rosario Central,3.02
+2118,2017-08-26,Talleres Cordoba,Lanus,0.0
+2119,2017-08-27,Independiente,Huracan,1.64
+2120,2017-08-27,San Martin S.J.,Patronato,2.04
+2121,2017-08-27,Atl. Tucuman,Godoy Cruz,0.0
+2122,2017-08-27,San Lorenzo,Racing Club,3.23
+2123,2017-08-27,Boca Juniors,Olimpo Bahia Blanca,1.34
+2124,2017-08-28,Temperley,River Plate,1.56
+2125,2017-08-28,Newells Old Boys,Union de Santa Fe,0.0
+2126,2017-08-29,Estudiantes L.P.,Arsenal Sarandi,1.44
+2127,2017-08-09,Arsenal Sarandi,Colon Santa FE,0.0
+2128,2017-08-09,Velez Sarsfield,Atl. Tucuman,1.78
+2129,2017-09-09,Olimpo Bahia Blanca,Independiente,3.04
+2130,2017-09-09,Belgrano,San Martin S.J.,2.0
+2131,2017-09-09,Estudiantes L.P.,Defensa y Justicia,0.0
+2132,2017-09-09,Patronato,Argentinos Jrs,0.0
+2133,2017-10-09,Racing Club,Temperley,1.48
+2134,2017-10-09,Chacarita Juniors,Tigre,3.08
+2135,2017-10-09,Godoy Cruz,Talleres Cordoba,0.0
+2136,2017-10-09,Rosario Central,San Lorenzo,0.0
+2137,2017-10-09,River Plate,Banfield,1.84
+2138,2017-11-09,Lanus,Boca Juniors,1.75
+2139,2017-11-09,Union de Santa Fe,Gimnasia L.P.,2.18
+2140,2017-12-09,Huracan,Newells Old Boys,2.18
+2141,2017-09-15,Tigre,Patronato,0.0
+2142,2017-09-16,Colon Santa FE,Estudiantes L.P.,2.93
+2143,2017-09-16,Argentinos Jrs,Belgrano,0.0
+2144,2017-09-16,Defensa y Justicia,Union de Santa Fe,0.0
+2145,2017-09-16,Newells Old Boys,Olimpo Bahia Blanca,2.12
+2146,2017-09-16,San Lorenzo,Arsenal Sarandi,1.89
+2147,2017-09-17,Independiente,Lanus,0.0
+2148,2017-09-17,Talleres Cordoba,Velez Sarsfield,0.0
+2149,2017-09-17,Atl. Tucuman,Chacarita Juniors,0.0
+2150,2017-09-17,Banfield,Racing Club,2.0
+2151,2017-09-17,Boca Juniors,Godoy Cruz,1.3
+2152,2017-09-18,San Martin S.J.,River Plate,0.0
+2153,2017-09-18,Gimnasia L.P.,Huracan,0.0
+2154,2017-09-19,Temperley,Rosario Central,0.0
+2155,2017-09-22,Belgrano,Tigre,0.0
+2156,2017-09-23,Patronato,Atl. Tucuman,0.0
+2157,2017-09-23,Arsenal Sarandi,Temperley,0.0
+2158,2017-09-23,Huracan,Union de Santa Fe,0.0
+2159,2017-09-23,Chacarita Juniors,Talleres Cordoba,2.1
+2160,2017-09-23,Velez Sarsfield,Boca Juniors,1.94
+2161,2017-09-24,Godoy Cruz,Independiente,0.0
+2162,2017-09-24,Colon Santa FE,Defensa y Justicia,0.0
+2163,2017-09-24,Olimpo Bahia Blanca,Gimnasia L.P.,0.0
+2164,2017-09-24,Rosario Central,Banfield,0.0
+2165,2017-09-24,River Plate,Argentinos Jrs,0.0
+2166,2017-09-25,Racing Club,San Martin S.J.,0.0
+2167,2017-09-25,Lanus,Newells Old Boys,2.14
+2168,2017-09-26,Estudiantes L.P.,San Lorenzo,0.0
+2169,2017-09-29,Defensa y Justicia,Huracan,0.0
+2170,2017-09-29,Union de Santa Fe,Olimpo Bahia Blanca,1.72
+2171,2017-09-30,Atl. Tucuman,Belgrano,3.04
+2172,2017-09-30,San Lorenzo,Colon Santa FE,0.0
+2173,2017-09-30,Temperley,Estudiantes L.P.,2.12
+2174,2017-09-30,Gimnasia L.P.,Lanus,0.0
+2175,2017-01-10,Argentinos Jrs,Racing Club,0.0
+2176,2017-01-10,Talleres Cordoba,Patronato,1.54
+2177,2017-01-10,San Martin S.J.,Rosario Central,0.0
+2178,2017-01-10,Independiente,Velez Sarsfield,1.76
+2179,2017-01-10,Boca Juniors,Chacarita Juniors,1.23
+2180,2017-02-10,Tigre,River Plate,0.0
+2181,2017-02-10,Banfield,Arsenal Sarandi,0.0
+2182,2017-03-10,Newells Old Boys,Godoy Cruz,0.0
+2183,2017-08-10,Argentinos Jrs,Chacarita Juniors,1.83
+2184,2017-10-13,Lanus,Union de Santa Fe,2.04
+2185,2017-10-14,San Lorenzo,Defensa y Justicia,2.19
+2186,2017-10-14,Colon Santa FE,Temperley,1.61
+2187,2017-10-14,Rosario Central,Argentinos Jrs,0.0
+2188,2017-10-14,Estudiantes L.P.,Banfield,0.0
+2189,2017-10-14,Velez Sarsfield,Newells Old Boys,2.02
+2190,2017-10-15,Racing Club,Tigre,1.81
+2191,2017-10-15,Chacarita Juniors,Independiente,1.74
+2192,2017-10-15,Godoy Cruz,Gimnasia L.P.,2.14
+2193,2017-10-15,Belgrano,Talleres Cordoba,2.9
+2194,2017-10-15,River Plate,Atl. Tucuman,0.0
+2195,2017-10-16,Patronato,Boca Juniors,1.6
+2196,2017-10-16,Olimpo Bahia Blanca,Huracan,0.0
+2197,2017-10-17,Arsenal Sarandi,San Martin S.J.,0.0
+2198,2017-10-27,Banfield,Colon Santa FE,0.0
+2199,2017-10-28,Argentinos Jrs,Arsenal Sarandi,1.9
+2200,2017-10-28,Huracan,Lanus,1.85
+2201,2017-10-28,Union de Santa Fe,Godoy Cruz,1.96
+2202,2017-10-28,San Martin S.J.,Estudiantes L.P.,0.0
+2203,2017-10-28,Atl. Tucuman,Racing Club,0.0
+2204,2017-10-29,Talleres Cordoba,River Plate,1.74
+2205,2017-10-29,Newells Old Boys,Chacarita Juniors,1.79
+2206,2017-10-29,Gimnasia L.P.,Velez Sarsfield,0.0
+2207,2017-10-29,Temperley,San Lorenzo,1.89
+2208,2017-10-29,Boca Juniors,Belgrano,1.4
+2209,2017-10-29,Independiente,Patronato,0.0
+2210,2017-10-30,Defensa y Justicia,Olimpo Bahia Blanca,0.0
+2211,2017-10-31,Tigre,Rosario Central,3.21
+2212,2017-03-11,Chacarita Juniors,Gimnasia L.P.,0.0
+2213,2017-04-11,Godoy Cruz,Huracan,0.0
+2214,2017-04-11,Colon Santa FE,San Martin S.J.,0.0
+2215,2017-04-11,Lanus,Olimpo Bahia Blanca,0.0
+2216,2017-04-11,San Lorenzo,Banfield,0.0
+2217,2017-04-11,Rosario Central,Atl. Tucuman,0.0
+2218,2017-05-11,Racing Club,Talleres Cordoba,3.09
+2219,2017-05-11,Temperley,Defensa y Justicia,1.92
+2220,2017-05-11,Belgrano,Independiente,2.99
+2221,2017-05-11,Estudiantes L.P.,Argentinos Jrs,1.97
+2222,2017-05-11,River Plate,Boca Juniors,0.0
+2223,2017-06-11,Arsenal Sarandi,Tigre,3.06
+2224,2017-06-11,Patronato,Newells Old Boys,2.97
+2225,2017-07-11,Velez Sarsfield,Union de Santa Fe,0.0
+2226,2017-11-17,Argentinos Jrs,Colon Santa FE,0.0
+2227,2017-11-17,Atl. Tucuman,Arsenal Sarandi,0.0
+2228,2017-11-18,Newells Old Boys,Belgrano,0.0
+2229,2017-11-18,Banfield,Temperley,0.0
+2230,2017-11-18,Defensa y Justicia,Lanus,1.61
+2231,2017-11-18,San Martin S.J.,San Lorenzo,0.0
+2232,2017-11-19,Independiente,River Plate,0.0
+2233,2017-11-19,Tigre,Estudiantes L.P.,0.0
+2234,2017-11-19,Union de Santa Fe,Chacarita Juniors,0.0
+2235,2017-11-19,Boca Juniors,Racing Club,0.0
+2236,2017-11-20,Talleres Cordoba,Rosario Central,0.0
+2237,2017-11-20,Gimnasia L.P.,Patronato,1.72
+2238,2017-11-20,Olimpo Bahia Blanca,Godoy Cruz,3.09
+2239,2017-11-21,Huracan,Velez Sarsfield,2.12
+2240,2017-11-22,River Plate,Union de Santa Fe,1.68
+2241,2017-11-23,Velez Sarsfield,Godoy Cruz,0.0
+2242,2017-11-24,Banfield,Defensa y Justicia,0.0
+2243,2017-11-24,Chacarita Juniors,Huracan,0.0
+2244,2017-11-25,Colon Santa FE,Tigre,1.97
+2245,2017-11-25,Belgrano,Gimnasia L.P.,2.14
+2246,2017-11-25,Patronato,Union de Santa Fe,2.1
+2247,2017-11-25,San Lorenzo,Argentinos Jrs,1.76
+2248,2017-11-26,Racing Club,Independiente,0.0
+2249,2017-11-26,Estudiantes L.P.,Atl. Tucuman,1.73
+2250,2017-11-26,River Plate,Newells Old Boys,0.0
+2251,2017-11-27,Rosario Central,Boca Juniors,0.0
+2252,2017-11-27,Arsenal Sarandi,Talleres Cordoba,2.09
+2253,2017-11-27,Velez Sarsfield,Olimpo Bahia Blanca,1.82
+2254,2017-11-28,Temperley,San Martin S.J.,0.0
+2255,2017-11-30,San Lorenzo,Atl. Tucuman,1.58
+2256,2017-01-12,Union de Santa Fe,Belgrano,0.0
+2257,2017-01-12,Defensa y Justicia,Godoy Cruz,1.71
+2258,2017-02-12,Huracan,Patronato,0.0
+2259,2017-02-12,Argentinos Jrs,Temperley,0.0
+2260,2017-02-12,Olimpo Bahia Blanca,Chacarita Juniors,2.15
+2261,2017-03-12,Newells Old Boys,Racing Club,2.94
+2262,2017-03-12,Talleres Cordoba,Estudiantes L.P.,0.0
+2263,2017-03-12,Tigre,San Lorenzo,0.0
+2264,2017-03-12,Boca Juniors,Arsenal Sarandi,1.25
+2265,2017-04-12,Gimnasia L.P.,River Plate,0.0
+2266,2017-04-12,Lanus,Velez Sarsfield,0.0
+2267,2017-04-12,Atl. Tucuman,Colon Santa FE,0.0
+2268,2017-05-12,San Martin S.J.,Banfield,0.0
+2269,2017-08-12,Temperley,Tigre,0.0
+2270,2017-08-12,Patronato,Olimpo Bahia Blanca,0.0
+2271,2017-09-12,Belgrano,Huracan,0.0
+2272,2017-09-12,Banfield,Argentinos Jrs,0.0
+2273,2017-10-12,Arsenal Sarandi,Independiente,0.0
+2274,2017-10-12,Rosario Central,Newells Old Boys,1.92
+2275,2017-10-12,Colon Santa FE,Talleres Cordoba,0.0
+2276,2017-10-12,Racing Club,Gimnasia L.P.,1.86
+2277,2017-11-12,Estudiantes L.P.,Boca Juniors,0.0
+2278,2017-11-12,San Martin S.J.,Defensa y Justicia,0.0
+2279,2017-12-12,Chacarita Juniors,Lanus,0.0
+2280,2018-01-25,Independiente,Rosario Central,0.0
+2281,2018-01-26,Godoy Cruz,Chacarita Juniors,1.76
+2282,2018-01-26,Tigre,Banfield,0.0
+2283,2018-01-27,Talleres Cordoba,San Lorenzo,2.17
+2284,2018-01-27,Defensa y Justicia,Velez Sarsfield,0.0
+2285,2018-01-27,Newells Old Boys,Arsenal Sarandi,1.82
+2286,2018-01-27,Lanus,Patronato,0.0
+2287,2018-01-28,Boca Juniors,Colon Santa FE,1.45
+2288,2018-01-28,Argentinos Jrs,San Martin S.J.,1.76
+2289,2018-01-28,Olimpo Bahia Blanca,Belgrano,0.0
+2290,2018-01-28,Huracan,River Plate,0.0
+2291,2018-01-29,Union de Santa Fe,Racing Club,2.2
+2292,2018-01-29,Atl. Tucuman,Temperley,1.64
+2293,2018-01-29,Gimnasia L.P.,Rosario Central,0.0
+2294,2018-01-30,Independiente,Estudiantes L.P.,0.0
+2295,2018-02-02,Argentinos Jrs,Defensa y Justicia,0.0
+2296,2018-02-02,Patronato,Godoy Cruz,3.08
+2297,2018-03-02,Belgrano,Lanus,0.0
+2298,2018-03-02,Banfield,Atl. Tucuman,3.04
+2299,2018-03-02,Rosario Central,Union de Santa Fe,0.0
+2300,2018-03-02,Colon Santa FE,Independiente,0.0
+2301,2018-04-02,River Plate,Olimpo Bahia Blanca,1.19
+2302,2018-04-02,Arsenal Sarandi,Gimnasia L.P.,3.08
+2303,2018-04-02,Estudiantes L.P.,Newells Old Boys,1.72
+2304,2018-04-02,San Lorenzo,Boca Juniors,3.06
+2305,2018-05-02,Racing Club,Huracan,2.05
+2306,2018-05-02,Chacarita Juniors,Velez Sarsfield,0.0
+2307,2018-05-02,Temperley,Talleres Cordoba,2.0
+2308,2018-06-02,San Martin S.J.,Tigre,3.02
+2309,2018-08-02,Godoy Cruz,Lanus,1.87
+2310,2018-09-02,Defensa y Justicia,Chacarita Juniors,1.47
+2311,2018-09-02,Union de Santa Fe,Arsenal Sarandi,0.0
+2312,2018-10-02,Newells Old Boys,Colon Santa FE,0.0
+2313,2018-10-02,Gimnasia L.P.,Estudiantes L.P.,2.83
+2314,2018-10-02,Velez Sarsfield,Patronato,0.0
+2315,2018-10-02,Olimpo Bahia Blanca,Racing Club,1.95
+2316,2018-11-02,Godoy Cruz,Belgrano,2.01
+2317,2018-11-02,Talleres Cordoba,Banfield,1.37
+2318,2018-11-02,Boca Juniors,Temperley,1.23
+2319,2018-12-02,Lanus,River Plate,0.0
+2320,2018-12-02,Atl. Tucuman,San Martin S.J.,1.75
+2321,2018-12-02,Tigre,Argentinos Jrs,0.0
+2322,2018-02-13,Huracan,Rosario Central,0.0
+2323,2018-02-16,Estudiantes L.P.,Union de Santa Fe,2.15
+2324,2018-02-16,Racing Club,Lanus,1.67
+2325,2018-02-17,Belgrano,Velez Sarsfield,2.83
+2326,2018-02-17,Argentinos Jrs,Atl. Tucuman,0.0
+2327,2018-02-17,San Lorenzo,Newells Old Boys,1.76
+2328,2018-02-17,Temperley,Independiente,0.0
+2329,2018-02-18,Rosario Central,Olimpo Bahia Blanca,1.42
+2330,2018-02-18,Arsenal Sarandi,Huracan,2.97
+2331,2018-02-18,San Martin S.J.,Talleres Cordoba,2.95
+2332,2018-02-18,River Plate,Godoy Cruz,0.0
+2333,2018-02-19,Banfield,Boca Juniors,1.48
+2334,2018-02-19,Patronato,Chacarita Juniors,2.13
+2335,2018-02-19,Tigre,Defensa y Justicia,3.06
+2336,2018-02-20,Colon Santa FE,Gimnasia L.P.,1.93
+2337,2018-02-23,Huracan,Estudiantes L.P.,0.0
+2338,2018-02-23,Olimpo Bahia Blanca,Arsenal Sarandi,0.0
+2339,2018-02-24,Godoy Cruz,Racing Club,0.0
+2340,2018-02-24,Defensa y Justicia,Patronato,1.47
+2341,2018-02-24,Lanus,Rosario Central,0.0
+2342,2018-02-24,Velez Sarsfield,River Plate,0.0
+2343,2018-02-25,Atl. Tucuman,Tigre,3.21
+2344,2018-02-25,Chacarita Juniors,Belgrano,0.0
+2345,2018-02-25,Independiente,Banfield,1.91
+2346,2018-02-25,Boca Juniors,San Martin S.J.,1.26
+2347,2018-02-25,Union de Santa Fe,Colon Santa FE,0.0
+2348,2018-02-26,Newells Old Boys,Temperley,0.0
+2349,2018-02-26,Talleres Cordoba,Argentinos Jrs,1.72
+2350,2018-02-27,Gimnasia L.P.,San Lorenzo,0.0
+2351,2018-02-03,Arsenal Sarandi,Lanus,0.0
+2352,2018-02-03,Belgrano,Patronato,0.0
+2353,2018-03-03,Colon Santa FE,Huracan,0.0
+2354,2018-03-03,San Lorenzo,Union de Santa Fe,3.04
+2355,2018-03-03,Tigre,Talleres Cordoba,3.03
+2356,2018-03-03,Rosario Central,Godoy Cruz,0.0
+2357,2018-04-03,Temperley,Gimnasia L.P.,2.88
+2358,2018-04-03,Atl. Tucuman,Defensa y Justicia,0.0
+2359,2018-04-03,Banfield,Newells Old Boys,0.0
+2360,2018-04-03,River Plate,Chacarita Juniors,0.0
+2361,2018-05-03,Racing Club,Velez Sarsfield,1.74
+2362,2018-05-03,Estudiantes L.P.,Olimpo Bahia Blanca,1.4
+2363,2018-05-03,San Martin S.J.,Independiente,1.82
+2364,2018-06-03,Argentinos Jrs,Boca Juniors,0.0
+2365,2018-09-03,Gimnasia L.P.,Banfield,0.0
+2366,2018-09-03,Godoy Cruz,Arsenal Sarandi,1.67
+2367,2018-10-03,Talleres Cordoba,Atl. Tucuman,1.55
+2368,2018-10-03,Chacarita Juniors,Racing Club,0.0
+2369,2018-10-03,Olimpo Bahia Blanca,Colon Santa FE,0.0
+2370,2018-10-03,Boca Juniors,Tigre,1.44
+2371,2018-11-03,Patronato,River Plate,1.94
+2372,2018-11-03,Huracan,San Lorenzo,2.89
+2373,2018-11-03,Lanus,Estudiantes L.P.,0.0
+2374,2018-11-03,Velez Sarsfield,Rosario Central,3.13
+2375,2018-12-03,Independiente,Argentinos Jrs,1.54
+2376,2018-12-03,Defensa y Justicia,Belgrano,0.0
+2377,2018-12-03,Union de Santa Fe,Temperley,1.57
+2378,2018-03-13,Newells Old Boys,San Martin S.J.,1.68
+2379,2018-03-16,Rosario Central,Chacarita Juniors,1.53
+2380,2018-03-17,Colon Santa FE,Lanus,0.0
+2381,2018-03-17,Argentinos Jrs,Newells Old Boys,2.03
+2382,2018-03-17,Temperley,Huracan,0.0
+2383,2018-03-17,San Martin S.J.,Gimnasia L.P.,0.0
+2384,2018-03-17,San Lorenzo,Olimpo Bahia Blanca,1.34
+2385,2018-03-17,Talleres Cordoba,Defensa y Justicia,2.1
+2386,2018-03-18,Racing Club,Patronato,1.35
+2387,2018-03-18,Arsenal Sarandi,Velez Sarsfield,0.0
+2388,2018-03-18,Estudiantes L.P.,Godoy Cruz,0.0
+2389,2018-03-18,Atl. Tucuman,Boca Juniors,0.0
+2390,2018-03-18,River Plate,Belgrano,1.56
+2391,2018-03-19,Banfield,Union de Santa Fe,0.0
+2392,2018-03-20,Tigre,Independiente,3.23
+2393,2018-03-30,Huracan,Banfield,2.97
+2394,2018-03-31,Belgrano,Racing Club,3.17
+2395,2018-03-31,Newells Old Boys,Tigre,0.0
+2396,2018-03-31,Velez Sarsfield,Estudiantes L.P.,2.87
+2397,2018-03-31,Gimnasia L.P.,Argentinos Jrs,0.0
+2398,2018-03-31,Union de Santa Fe,San Martin S.J.,0.0
+2399,2018-01-04,Independiente,Atl. Tucuman,0.0
+2400,2018-01-04,Defensa y Justicia,River Plate,0.0
+2401,2018-01-04,Chacarita Juniors,Arsenal Sarandi,3.15
+2402,2018-01-04,Patronato,Rosario Central,0.0
+2403,2018-01-04,Boca Juniors,Talleres Cordoba,1.8
+2404,2018-02-04,Lanus,San Lorenzo,0.0
+2405,2018-02-04,Olimpo Bahia Blanca,Temperley,3.03
+2406,2018-03-04,Godoy Cruz,Colon Santa FE,2.0
+2407,2018-05-04,Independiente,San Lorenzo,0.0
+2408,2018-06-04,Tigre,Gimnasia L.P.,1.82
+2409,2018-07-04,Argentinos Jrs,Union de Santa Fe,0.0
+2410,2018-07-04,Rosario Central,Belgrano,2.2
+2411,2018-07-04,Temperley,Lanus,2.91
+2412,2018-07-04,Banfield,Olimpo Bahia Blanca,1.65
+2413,2018-08-04,Boca Juniors,Defensa y Justicia,0.0
+2414,2018-08-04,San Lorenzo,Godoy Cruz,0.0
+2415,2018-08-04,San Martin S.J.,Huracan,0.0
+2416,2018-08-04,Atl. Tucuman,Newells Old Boys,0.0
+2417,2018-08-04,Talleres Cordoba,Independiente,0.0
+2418,2018-09-04,Racing Club,River Plate,0.0
+2419,2018-09-04,Arsenal Sarandi,Patronato,3.03
+2420,2018-10-04,Estudiantes L.P.,Chacarita Juniors,0.0
+2421,2018-04-13,Gimnasia L.P.,Atl. Tucuman,0.0
+2422,2018-04-14,Huracan,Argentinos Jrs,0.0
+2423,2018-04-14,Godoy Cruz,Temperley,1.44
+2424,2018-04-14,Olimpo Bahia Blanca,San Martin S.J.,0.0
+2425,2018-04-14,Lanus,Banfield,2.99
+2426,2018-04-14,Belgrano,Arsenal Sarandi,1.46
+2427,2018-04-15,Defensa y Justicia,Racing Club,0.0
+2428,2018-04-15,Union de Santa Fe,Tigre,0.0
+2429,2018-04-15,Patronato,Estudiantes L.P.,2.16
+2430,2018-04-15,Chacarita Juniors,Colon Santa FE,0.0
+2431,2018-04-15,River Plate,Rosario Central,1.52
+2432,2018-04-16,Independiente,Boca Juniors,0.0
+2433,2018-04-16,Newells Old Boys,Talleres Cordoba,0.0
+2434,2018-04-17,Velez Sarsfield,San Lorenzo,3.1
+2435,2018-04-20,Argentinos Jrs,Olimpo Bahia Blanca,1.2
+2436,2018-04-21,Estudiantes L.P.,Belgrano,0.0
+2437,2018-04-21,San Martin S.J.,Lanus,3.05
+2438,2018-04-21,Temperley,Velez Sarsfield,1.88
+2439,2018-04-21,Talleres Cordoba,Gimnasia L.P.,1.43
+2440,2018-04-21,Banfield,Godoy Cruz,3.03
+2441,2018-04-22,San Lorenzo,Chacarita Juniors,1.45
+2442,2018-04-22,Tigre,Huracan,0.0
+2443,2018-04-22,Rosario Central,Racing Club,0.0
+2444,2018-04-22,Atl. Tucuman,Union de Santa Fe,3.07
+2445,2018-04-22,Arsenal Sarandi,River Plate,1.45
+2446,2018-04-23,Boca Juniors,Newells Old Boys,1.34
+2447,2018-04-23,Colon Santa FE,Patronato,1.67
+2448,2018-04-24,Independiente,Defensa y Justicia,0.0
+2449,2018-04-27,Chacarita Juniors,Temperley,0.0
+2450,2018-04-28,Godoy Cruz,San Martin S.J.,1.57
+2451,2018-04-28,Defensa y Justicia,Rosario Central,1.78
+2452,2018-04-28,Velez Sarsfield,Banfield,2.08
+2453,2018-04-28,Newells Old Boys,Independiente,0.0
+2454,2018-04-28,Lanus,Argentinos Jrs,3.03
+2455,2018-04-29,Huracan,Atl. Tucuman,1.58
+2456,2018-04-29,Patronato,San Lorenzo,3.09
+2457,2018-04-29,Belgrano,Colon Santa FE,2.14
+2458,2018-04-30,Union de Santa Fe,Talleres Cordoba,0.0
+2459,2018-01-05,Olimpo Bahia Blanca,Tigre,1.79
+2460,2018-04-05,San Martin S.J.,Velez Sarsfield,2.17
+2461,2018-05-05,San Lorenzo,Belgrano,0.0
+2462,2018-05-05,Argentinos Jrs,Godoy Cruz,0.0
+2463,2018-05-05,Arsenal Sarandi,Rosario Central,0.0
+2464,2018-05-05,Newells Old Boys,Defensa y Justicia,0.0
+2465,2018-05-05,Talleres Cordoba,Huracan,0.0
+2466,2018-06-05,Atl. Tucuman,Olimpo Bahia Blanca,0.0
+2467,2018-06-05,Temperley,Patronato,0.0
+2468,2018-06-05,Independiente,Gimnasia L.P.,0.0
+2469,2018-06-05,Tigre,Lanus,0.0
+2470,2018-06-05,Boca Juniors,Union de Santa Fe,1.63
+2471,2018-07-05,Estudiantes L.P.,Racing Club,0.0
+2472,2018-07-05,Banfield,Chacarita Juniors,1.58
+2473,2018-08-05,Colon Santa FE,River Plate,0.0
+2474,2018-09-05,Racing Club,Arsenal Sarandi,1.15
+2475,2018-09-05,Gimnasia L.P.,Boca Juniors,0.0
+2476,2018-10-05,Colon Santa FE,Velez Sarsfield,0.0
+2477,2018-11-05,River Plate,Estudiantes L.P.,1.5
+2478,2018-11-05,Chacarita Juniors,San Martin S.J.,0.0
+2479,2018-12-05,Lanus,Atl. Tucuman,0.0
+2480,2018-12-05,Huracan,Boca Juniors,0.0
+2481,2018-12-05,Patronato,Banfield,3.02
+2482,2018-12-05,Defensa y Justicia,Arsenal Sarandi,1.28
+2483,2018-12-05,Olimpo Bahia Blanca,Talleres Cordoba,0.0
+2484,2018-12-05,Union de Santa Fe,Independiente,0.0
+2485,2018-05-13,Belgrano,Temperley,0.0
+2486,2018-05-13,Godoy Cruz,Tigre,1.82
+2487,2018-05-14,Velez Sarsfield,Argentinos Jrs,0.0
+2488,2018-05-14,Racing Club,Colon Santa FE,0.0
+2489,2018-05-14,Rosario Central,Estudiantes L.P.,0.0
+2490,2018-05-15,Gimnasia L.P.,Newells Old Boys,0.0
+2491,2018-05-15,River Plate,San Lorenzo,1.39
+2492,2018-10-08,Velez Sarsfield,Newells Old Boys,2.15
+2493,2018-11-08,Tigre,San Lorenzo,3.14
+2494,2018-11-08,Gimnasia L.P.,Argentinos Jrs,0.0
+2495,2018-11-08,Union de Santa Fe,Aldosivi,1.61
+2496,2018-11-08,Patronato,Colon Santa FE,2.92
+2497,2018-12-08,Belgrano,San Martin S.J.,0.0
+2498,2018-12-08,Boca Juniors,Talleres Cordoba,1.51
+2499,2018-12-08,Godoy Cruz,Estudiantes L.P.,0.0
+2500,2018-12-08,Lanus,Defensa y Justicia,2.88
+2501,2018-12-08,Rosario Central,Banfield,1.8
+2502,2018-08-13,Huracan,River Plate,0.0
+2503,2018-08-14,Atl. Tucuman,Racing Club,3.19
+2504,2018-08-17,Talleres Cordoba,Rosario Central,0.0
+2505,2018-08-18,Newells Old Boys,Independiente,2.9
+2506,2018-08-18,Defensa y Justicia,Atl. Tucuman,0.0
+2507,2018-08-18,Banfield,Gimnasia L.P.,0.0
+2508,2018-08-18,Argentinos Jrs,Godoy Cruz,2.97
+2509,2018-08-19,River Plate,Belgrano,0.0
+2510,2018-08-19,San Martin S.J.,Patronato,2.22
+2511,2018-08-19,Colon Santa FE,Tigre,0.0
+2512,2018-08-19,Aldosivi,Huracan,0.0
+2513,2018-08-19,San Lorenzo,Lanus,0.0
+2514,2018-08-20,Racing Club,Velez Sarsfield,1.97
+2515,2018-08-20,Estudiantes L.P.,Boca Juniors,0.0
+2516,2018-08-20,San Martin T.,Union de Santa Fe,2.88
+2517,2018-08-24,Belgrano,Estudiantes L.P.,2.16
+2518,2018-08-24,Patronato,Racing Club,0.0
+2519,2018-08-25,Atl. Tucuman,Colon Santa FE,0.0
+2520,2018-08-25,Independiente,Defensa y Justicia,0.0
+2521,2018-08-25,Gimnasia L.P.,Talleres Cordoba,0.0
+2522,2018-08-25,Tigre,San Martin S.J.,0.0
+2523,2018-08-26,River Plate,Argentinos Jrs,0.0
+2524,2018-08-26,Velez Sarsfield,Banfield,0.0
+2525,2018-08-26,Lanus,Aldosivi,0.0
+2526,2018-08-26,Rosario Central,San Martin T.,1.59
+2527,2018-08-27,Huracan,Boca Juniors,0.0
+2528,2018-08-27,Godoy Cruz,Newells Old Boys,2.14
+2529,2018-08-28,Union de Santa Fe,San Lorenzo,0.0
+2530,2018-08-31,Argentinos Jrs,Lanus,0.0
+2531,2018-01-09,San Martin S.J.,Huracan,0.0
+2532,2018-01-09,Defensa y Justicia,Belgrano,0.0
+2533,2018-01-09,Banfield,Patronato,1.88
+2534,2018-01-09,Talleres Cordoba,Godoy Cruz,2.08
+2535,2018-02-09,San Lorenzo,River Plate,0.0
+2536,2018-02-09,Racing Club,Rosario Central,2.01
+2537,2018-02-09,Estudiantes L.P.,Independiente,2.81
+2538,2018-02-09,Aldosivi,Tigre,0.0
+2539,2018-02-09,Colon Santa FE,Union de Santa Fe,2.82
+2540,2018-03-09,Boca Juniors,Velez Sarsfield,1.71
+2541,2018-03-09,Newells Old Boys,Atl. Tucuman,0.0
+2542,2018-04-09,San Martin T.,Gimnasia L.P.,0.0
+2543,2018-09-14,Estudiantes L.P.,Aldosivi,0.0
+2544,2018-09-15,Atl. Tucuman,Tigre,2.13
+2545,2018-09-15,Independiente,Colon Santa FE,2.02
+2546,2018-09-15,River Plate,San Martin S.J.,1.32
+2547,2018-09-15,Belgrano,Newells Old Boys,2.99
+2548,2018-09-16,Argentinos Jrs,Boca Juniors,2.2
+2549,2018-09-16,Patronato,Gimnasia L.P.,0.0
+2550,2018-09-16,Velez Sarsfield,San Martin T.,1.78
+2551,2018-09-16,Union de Santa Fe,Talleres Cordoba,2.1
+2552,2018-09-16,Lanus,Racing Club,2.11
+2553,2018-09-17,Godoy Cruz,San Lorenzo,0.0
+2554,2018-09-17,Huracan,Banfield,0.0
+2555,2018-09-18,Rosario Central,Defensa y Justicia,0.0
+2556,2018-09-21,San Lorenzo,Patronato,1.74
+2557,2018-09-22,Colon Santa FE,Godoy Cruz,0.0
+2558,2018-09-22,Newells Old Boys,Lanus,2.0
+2559,2018-09-22,Talleres Cordoba,Velez Sarsfield,2.83
+2560,2018-09-23,Banfield,Independiente,0.0
+2561,2018-09-23,San Martin T.,Argentinos Jrs,2.91
+2562,2018-09-23,Tigre,Huracan,0.0
+2563,2018-09-23,Gimnasia L.P.,Rosario Central,2.86
+2564,2018-09-23,San Martin S.J.,Atl. Tucuman,0.0
+2565,2018-09-23,Boca Juniors,River Plate,0.0
+2566,2018-09-24,Aldosivi,Belgrano,0.0
+2567,2018-09-25,Racing Club,Union de Santa Fe,1.79
+2568,2018-09-28,Independiente,Tigre,3.07
+2569,2018-09-29,Lanus,River Plate,2.06
+2570,2018-09-30,Argentinos Jrs,Racing Club,2.1
+2571,2018-09-30,Patronato,Talleres Cordoba,0.0
+2572,2018-09-30,Union de Santa Fe,Gimnasia L.P.,1.75
+2573,2018-09-30,Belgrano,Huracan,0.0
+2574,2018-01-10,Boca Juniors,Colon Santa FE,1.66
+2575,2018-01-10,Godoy Cruz,Defensa y Justicia,0.0
+2576,2018-02-10,San Martin T.,Banfield,2.87
+2577,2018-02-10,Velez Sarsfield,Aldosivi,1.68
+2578,2018-06-10,Aldosivi,San Martin T.,2.23
+2579,2018-06-10,Gimnasia L.P.,Godoy Cruz,2.13
+2580,2018-06-10,San Martin S.J.,Velez Sarsfield,0.0
+2581,2018-07-10,Patronato,Independiente,1.81
+2582,2018-07-10,Banfield,San Lorenzo,0.0
+2583,2018-07-10,Atl. Tucuman,Lanus,0.0
+2584,2018-07-10,Rosario Central,Union de Santa Fe,0.0
+2585,2018-07-10,Talleres Cordoba,Belgrano,0.0
+2586,2018-07-10,Racing Club,Boca Juniors,3.08
+2587,2018-08-10,Tigre,Estudiantes L.P.,0.0
+2588,2018-09-10,Colon Santa FE,Newells Old Boys,0.0
+2589,2018-10-19,Defensa y Justicia,Talleres Cordoba,1.9
+2590,2018-10-19,Velez Sarsfield,Gimnasia L.P.,1.83
+2591,2018-10-20,Colon Santa FE,River Plate,0.0
+2592,2018-10-20,Godoy Cruz,Aldosivi,2.0
+2593,2018-10-20,Lanus,Patronato,1.85
+2594,2018-10-20,Boca Juniors,Rosario Central,0.0
+2595,2018-10-21,Newells Old Boys,Tigre,2.14
+2596,2018-10-21,Estudiantes L.P.,Atl. Tucuman,2.91
+2597,2018-10-21,Argentinos Jrs,Union de Santa Fe,0.0
+2598,2018-10-21,Independiente,Huracan,1.93
+2599,2018-10-22,San Martin T.,Racing Club,0.0
+2600,2018-10-22,Belgrano,Banfield,2.77
+2601,2018-10-23,San Lorenzo,San Martin S.J.,1.62
+2602,2018-10-24,Estudiantes L.P.,Newells Old Boys,0.0
+2603,2018-10-26,Tigre,Lanus,3.0
+2604,2018-10-27,Huracan,Colon Santa FE,0.0
+2605,2018-10-27,River Plate,Aldosivi,1.53
+2606,2018-10-27,Gimnasia L.P.,Boca Juniors,0.0
+2607,2018-10-28,Talleres Cordoba,San Martin T.,0.0
+2608,2018-10-28,Union de Santa Fe,Godoy Cruz,0.0
+2609,2018-10-28,Racing Club,San Lorenzo,1.66
+2610,2018-10-28,Patronato,Rosario Central,0.0
+2611,2018-10-28,Velez Sarsfield,Belgrano,1.6
+2612,2018-10-28,Banfield,Estudiantes L.P.,0.0
+2613,2018-10-28,Atl. Tucuman,Independiente,0.0
+2614,2018-10-29,Newells Old Boys,Argentinos Jrs,0.0
+2615,2018-10-30,San Martin S.J.,Defensa y Justicia,0.0
+2616,2018-02-11,Belgrano,Gimnasia L.P.,0.0
+2617,2018-03-11,Union de Santa Fe,Patronato,0.0
+2618,2018-03-11,Aldosivi,Banfield,0.0
+2619,2018-03-11,Godoy Cruz,Atl. Tucuman,0.0
+2620,2018-03-11,Estudiantes L.P.,River Plate,0.0
+2621,2018-03-11,Boca Juniors,Tigre,1.71
+2622,2018-04-11,Argentinos Jrs,Independiente,2.07
+2623,2018-04-11,Rosario Central,Colon Santa FE,2.92
+2624,2018-04-11,San Lorenzo,Talleres Cordoba,0.0
+2625,2018-04-11,Racing Club,Newells Old Boys,1.56
+2626,2018-04-11,San Martin T.,San Martin S.J.,1.98
+2627,2018-05-11,Defensa y Justicia,Velez Sarsfield,2.25
+2628,2018-06-11,Lanus,Huracan,0.0
+2629,2018-07-11,Independiente,San Martin T.,1.39
+2630,2018-09-11,Talleres Cordoba,Aldosivi,0.0
+2631,2018-10-11,Atl. Tucuman,Rosario Central,1.79
+2632,2018-10-11,Colon Santa FE,Estudiantes L.P.,2.86
+2633,2018-11-11,Independiente,Belgrano,1.53
+2634,2018-11-11,Gimnasia L.P.,Racing Club,2.07
+2635,2018-11-11,Banfield,Lanus,0.0
+2636,2018-12-11,Tigre,Argentinos Jrs,1.96
+2637,2018-12-11,Huracan,Godoy Cruz,0.0
+2638,2018-12-11,Newells Old Boys,Defensa y Justicia,2.93
+2639,2018-11-13,Patronato,San Martin T.,2.99
+2640,2018-11-13,Velez Sarsfield,San Lorenzo,0.0
+2641,2018-11-17,Boca Juniors,Patronato,1.37
+2642,2018-11-18,San Lorenzo,Atl. Tucuman,0.0
+2643,2018-11-18,Defensa y Justicia,Estudiantes L.P.,0.0
+2644,2018-11-21,Gimnasia L.P.,San Martin S.J.,0.0
+2645,2018-11-23,Belgrano,Atl. Tucuman,0.0
+2646,2018-11-24,Argentinos Jrs,Talleres Cordoba,0.0
+2647,2018-11-24,Rosario Central,Estudiantes L.P.,0.0
+2648,2018-11-25,Union de Santa Fe,Velez Sarsfield,0.0
+2649,2018-11-25,Aldosivi,Newells Old Boys,0.0
+2650,2018-11-25,San Martin T.,Colon Santa FE,2.9
+2651,2018-11-26,Racing Club,Banfield,0.0
+2652,2018-11-26,Defensa y Justicia,Tigre,1.54
+2653,2018-11-27,Lanus,Independiente,0.0
+2654,2018-11-28,Rosario Central,San Martin S.J.,1.76
+2655,2018-11-30,Colon Santa FE,Belgrano,0.0
+2656,2018-01-12,Newells Old Boys,Patronato,1.59
+2657,2018-01-12,Estudiantes L.P.,Lanus,2.8
+2658,2018-01-12,Atl. Tucuman,San Martin T.,0.0
+2659,2018-02-12,Banfield,Argentinos Jrs,0.0
+2660,2018-02-12,Aldosivi,San Lorenzo,2.91
+2661,2018-02-12,Independiente,Boca Juniors,0.0
+2662,2018-03-12,River Plate,Gimnasia L.P.,1.41
+2663,2018-03-12,Tigre,Godoy Cruz,0.0
+2664,2018-03-12,San Martin S.J.,Union de Santa Fe,0.0
+2665,2018-03-12,Velez Sarsfield,Rosario Central,1.35
+2666,2018-04-12,Huracan,Defensa y Justicia,2.85
+2667,2018-04-12,Talleres Cordoba,Racing Club,2.16
+2668,2018-08-12,San Martin T.,Newells Old Boys,0.0
+2669,2018-08-12,San Lorenzo,Estudiantes L.P.,2.88
+2670,2018-08-12,Union de Santa Fe,Banfield,0.0
+2671,2018-08-12,Defensa y Justicia,Colon Santa FE,1.74
+2672,2018-08-12,Lanus,Talleres Cordoba,2.19
+2673,2018-09-12,Godoy Cruz,Independiente,3.1
+2674,2018-09-12,Argentinos Jrs,Aldosivi,0.0
+2675,2018-09-12,Gimnasia L.P.,Huracan,2.87
+2676,2018-10-12,Racing Club,San Martin S.J.,1.24
+2677,2018-10-12,Patronato,Velez Sarsfield,0.0
+2678,2018-11-12,Belgrano,Tigre,0.0
+2679,2019-01-19,River Plate,Defensa y Justicia,0.0
+2680,2019-01-20,San Lorenzo,Huracan,2.96
+2681,2019-01-24,River Plate,Union de Santa Fe,0.0
+2682,2019-01-25,Banfield,San Martin S.J.,0.0
+2683,2019-01-25,Godoy Cruz,Lanus,0.0
+2684,2019-01-26,Defensa y Justicia,San Lorenzo,1.8
+2685,2019-01-26,Huracan,Rosario Central,0.0
+2686,2019-01-26,Tigre,San Martin T.,0.0
+2687,2019-01-26,Atl. Tucuman,Gimnasia L.P.,1.89
+2688,2019-01-27,Aldosivi,Racing Club,1.87
+2689,2019-01-27,Belgrano,Union de Santa Fe,2.73
+2690,2019-01-27,Independiente,Talleres Cordoba,0.0
+2691,2019-01-27,River Plate,Patronato,0.0
+2692,2019-01-28,Newells Old Boys,Boca Juniors,2.98
+2693,2019-01-28,Colon Santa FE,Argentinos Jrs,2.13
+2694,2019-01-29,Estudiantes L.P.,Velez Sarsfield,0.0
+2695,2019-01-31,Godoy Cruz,River Plate,1.81
+2696,2019-01-02,San Martin S.J.,Boca Juniors,1.71
+2697,2019-01-02,Gimnasia L.P.,Tigre,0.0
+2698,2019-02-02,San Martin T.,Defensa y Justicia,2.09
+2699,2019-02-02,Talleres Cordoba,Banfield,2.25
+2700,2019-02-02,San Lorenzo,Independiente,3.02
+2701,2019-02-02,Argentinos Jrs,Belgrano,0.0
+2702,2019-02-02,Lanus,Colon Santa FE,1.92
+2703,2019-03-02,Rosario Central,Aldosivi,0.0
+2704,2019-03-02,Boca Juniors,Godoy Cruz,1.28
+2705,2019-03-02,Union de Santa Fe,Newells Old Boys,2.91
+2706,2019-03-02,Racing Club,Huracan,1.44
+2707,2019-04-02,Velez Sarsfield,River Plate,0.0
+2708,2019-04-02,Patronato,Atl. Tucuman,0.0
+2709,2019-05-02,San Martin S.J.,Estudiantes L.P.,0.0
+2710,2019-08-02,Tigre,Banfield,3.05
+2711,2019-09-02,Huracan,Velez Sarsfield,0.0
+2712,2019-09-02,Lanus,Gimnasia L.P.,1.91
+2713,2019-09-02,Estudiantes L.P.,Patronato,2.17
+2714,2019-09-02,Atl. Tucuman,Talleres Cordoba,0.0
+2715,2019-09-02,Independiente,Union de Santa Fe,1.91
+2716,2019-10-02,Godoy Cruz,San Martin T.,2.11
+2717,2019-10-02,Newells Old Boys,Rosario Central,0.0
+2718,2019-10-02,River Plate,Racing Club,2.14
+2719,2019-11-02,Belgrano,Boca Juniors,0.0
+2720,2019-11-02,Defensa y Justicia,Argentinos Jrs,1.55
+2721,2019-12-02,Aldosivi,San Martin S.J.,2.0
+2722,2019-02-15,Rosario Central,River Plate,0.0
+2723,2019-02-15,Union de Santa Fe,Atl. Tucuman,2.01
+2724,2019-02-15,Velez Sarsfield,Colon Santa FE,0.0
+2725,2019-02-16,San Martin T.,Belgrano,2.91
+2726,2019-02-16,San Lorenzo,Newells Old Boys,2.89
+2727,2019-02-16,Gimnasia L.P.,Defensa y Justicia,1.92
+2728,2019-02-16,Patronato,Aldosivi,2.98
+2729,2019-02-17,San Martin S.J.,Independiente,0.0
+2730,2019-02-17,Rosario Central,Tigre,0.0
+2731,2019-02-17,Talleres Cordoba,Huracan,2.8
+2732,2019-02-17,Boca Juniors,Lanus,1.59
+2733,2019-02-18,Banfield,River Plate,0.0
+2734,2019-02-18,Argentinos Jrs,Estudiantes L.P.,0.0
+2735,2019-02-19,Racing Club,Godoy Cruz,1.35
+2736,2019-02-21,Boca Juniors,Atl. Tucuman,0.0
+2737,2019-02-22,Tigre,Patronato,1.9
+2738,2019-02-23,Colon Santa FE,Banfield,0.0
+2739,2019-02-23,Lanus,Rosario Central,2.15
+2740,2019-02-23,Godoy Cruz,Velez Sarsfield,2.18
+2741,2019-02-23,Huracan,Union de Santa Fe,0.0
+2742,2019-02-23,Belgrano,San Lorenzo,2.79
+2743,2019-02-24,Independiente,Racing Club,0.0
+2744,2019-02-24,River Plate,San Martin T.,1.21
+2745,2019-02-24,Atl. Tucuman,Argentinos Jrs,0.0
+2746,2019-02-24,Estudiantes L.P.,Talleres Cordoba,0.0
+2747,2019-02-25,Defensa y Justicia,Boca Juniors,0.0
+2748,2019-02-25,Aldosivi,Gimnasia L.P.,0.0
+2749,2019-02-26,Newells Old Boys,San Martin S.J.,1.77
+2750,2019-01-03,San Lorenzo,Argentinos Jrs,0.0
+2751,2019-02-03,Union de Santa Fe,Boca Juniors,0.0
+2752,2019-02-03,Rosario Central,Belgrano,2.72
+2753,2019-02-03,San Martin S.J.,Godoy Cruz,2.98
+2754,2019-02-03,San Martin T.,Lanus,0.0
+2755,2019-03-03,River Plate,Newells Old Boys,1.71
+2756,2019-03-03,Patronato,Huracan,2.16
+2757,2019-03-03,Talleres Cordoba,Colon Santa FE,2.23
+2758,2019-03-03,Racing Club,Estudiantes L.P.,1.41
+2759,2019-04-03,Gimnasia L.P.,Independiente,0.0
+2760,2019-04-03,Banfield,Atl. Tucuman,0.0
+2761,2019-04-03,Velez Sarsfield,Tigre,0.0
+2762,2019-05-03,Aldosivi,Defensa y Justicia,2.11
+2763,2019-08-03,Lanus,San Martin S.J.,0.0
+2764,2019-09-03,Belgrano,Patronato,2.06
+2765,2019-09-03,Godoy Cruz,Rosario Central,0.0
+2766,2019-09-03,Newells Old Boys,Talleres Cordoba,0.0
+2767,2019-09-03,Colon Santa FE,Racing Club,0.0
+2768,2019-10-03,Boca Juniors,San Lorenzo,1.65
+2769,2019-10-03,Estudiantes L.P.,Gimnasia L.P.,0.0
+2770,2019-10-03,Huracan,San Martin T.,0.0
+2771,2019-10-03,Independiente,Aldosivi,1.62
+2772,2019-11-03,Atl. Tucuman,River Plate,1.91
+2773,2019-11-03,Tigre,Union de Santa Fe,3.06
+2774,2019-12-03,Argentinos Jrs,Velez Sarsfield,0.0
+2775,2019-12-03,Defensa y Justicia,Banfield,1.67
+2776,2019-03-15,Gimnasia L.P.,Newells Old Boys,0.0
+2777,2019-03-16,Aldosivi,Colon Santa FE,0.0
+2778,2019-03-16,Velez Sarsfield,Atl. Tucuman,1.68
+2779,2019-03-16,Union de Santa Fe,Lanus,2.21
+2780,2019-03-16,San Martin S.J.,Argentinos Jrs,0.0
+2781,2019-03-16,Racing Club,Belgrano,1.45
+2782,2019-03-17,Patronato,Defensa y Justicia,0.0
+2783,2019-03-17,Talleres Cordoba,Tigre,0.0
+2784,2019-03-17,Rosario Central,San Lorenzo,0.0
+2785,2019-03-17,River Plate,Independiente,1.69
+2786,2019-03-17,San Martin T.,Boca Juniors,1.72
+2787,2019-03-18,Banfield,Godoy Cruz,0.0
+2788,2019-03-19,Huracan,Estudiantes L.P.,0.0
+2789,2019-03-23,Colon Santa FE,San Lorenzo,2.79
+2790,2019-03-29,Newells Old Boys,Huracan,1.94
+2791,2019-03-30,Boca Juniors,Banfield,1.52
+2792,2019-03-30,San Lorenzo,Gimnasia L.P.,2.98
+2793,2019-03-30,Godoy Cruz,Patronato,0.0
+2794,2019-03-30,Independiente,Velez Sarsfield,0.0
+2795,2019-03-30,Talleres Cordoba,River Plate,2.09
+2796,2019-03-31,Atl. Tucuman,Aldosivi,2.03
+2797,2019-03-31,Argentinos Jrs,Rosario Central,0.0
+2798,2019-03-31,Lanus,Belgrano,2.03
+2799,2019-03-31,Defensa y Justicia,Union de Santa Fe,0.0
+2800,2019-03-31,Tigre,Racing Club,0.0
+2801,2019-01-04,Estudiantes L.P.,San Martin T.,0.0
+2802,2019-02-04,Colon Santa FE,San Martin S.J.,3.07
+2803,2019-06-04,San Martin T.,San Lorenzo,3.02
+2804,2019-06-04,Gimnasia L.P.,Colon Santa FE,0.0
+2805,2019-06-04,Banfield,Newells Old Boys,0.0
+2806,2019-06-04,Union de Santa Fe,Estudiantes L.P.,0.0
+2807,2019-06-04,Velez Sarsfield,Lanus,0.0
+2808,2019-07-04,Aldosivi,Boca Juniors,3.07
+2809,2019-07-04,Huracan,Atl. Tucuman,2.2
+2810,2019-07-04,Rosario Central,Independiente,2.18
+2811,2019-07-04,Belgrano,Godoy Cruz,1.48
+2812,2019-07-04,Patronato,Argentinos Jrs,1.85
+2813,2019-07-04,River Plate,Tigre,0.0
+2814,2019-07-04,San Martin S.J.,Talleres Cordoba,0.0
+2815,2019-07-04,Racing Club,Defensa y Justicia,3.1
+2816,2019-07-27,Racing Club,Union de Santa Fe,0.0
+2817,2019-07-27,Colon Santa FE,Patronato,0.0
+2818,2019-07-27,San Lorenzo,Godoy Cruz,1.87
+2819,2019-07-27,Lanus,Gimnasia L.P.,0.0
+2820,2019-07-28,Argentinos Jrs,River Plate,2.99
+2821,2019-07-28,Estudiantes L.P.,Aldosivi,1.93
+2822,2019-07-28,Newells Old Boys,Central Cordoba,1.74
+2823,2019-07-28,Talleres Cordoba,Velez Sarsfield,0.0
+2824,2019-07-28,Defensa y Justicia,Independiente,0.0
+2825,2019-07-29,Boca Juniors,Huracan,0.0
+2826,2019-07-29,Arsenal Sarandi,Banfield,0.0
+2827,2019-07-30,Atl. Tucuman,Rosario Central,0.0
+2828,2019-03-08,Huracan,Colon Santa FE,0.0
+2829,2019-03-08,Aldosivi,Argentinos Jrs,2.9
+2830,2019-03-08,Rosario Central,Talleres Cordoba,2.15
+2831,2019-03-08,Central Cordoba,Atl. Tucuman,0.0
+2832,2019-04-08,Velez Sarsfield,Racing Club,2.91
+2833,2019-04-08,Union de Santa Fe,Defensa y Justicia,2.19
+2834,2019-04-08,Gimnasia L.P.,San Lorenzo,0.0
+2835,2019-04-08,Banfield,Estudiantes L.P.,2.14
+2836,2019-04-08,River Plate,Lanus,1.64
+2837,2019-05-08,Patronato,Boca Juniors,1.97
+2838,2019-06-08,Godoy Cruz,Arsenal Sarandi,0.0
+2839,2019-08-16,Argentinos Jrs,Banfield,0.0
+2840,2019-08-17,Talleres Cordoba,Central Cordoba,0.0
+2841,2019-08-17,Newells Old Boys,Union de Santa Fe,2.21
+2842,2019-08-17,San Lorenzo,Rosario Central,0.0
+2843,2019-08-18,Racing Club,River Plate,0.0
+2844,2019-08-18,Patronato,Huracan,0.0
+2845,2019-08-18,Defensa y Justicia,Arsenal Sarandi,0.0
+2846,2019-08-18,Lanus,Velez Sarsfield,0.0
+2847,2019-08-19,Boca Juniors,Aldosivi,1.34
+2848,2019-08-19,Atl. Tucuman,Godoy Cruz,2.08
+2849,2019-08-19,Colon Santa FE,Gimnasia L.P.,0.0
+2850,2019-08-20,Estudiantes L.P.,Independiente,0.0
+2851,2019-08-24,Arsenal Sarandi,San Lorenzo,0.0
+2852,2019-08-24,Gimnasia L.P.,Defensa y Justicia,0.0
+2853,2019-08-24,Velez Sarsfield,Newells Old Boys,2.06
+2854,2019-08-24,Rosario Central,Patronato,0.0
+2855,2019-08-25,Independiente,Colon Santa FE,1.72
+2856,2019-08-25,Godoy Cruz,Estudiantes L.P.,0.0
+2857,2019-08-25,Union de Santa Fe,Lanus,0.0
+2858,2019-08-25,Central Cordoba,Racing Club,0.0
+2859,2019-08-25,River Plate,Talleres Cordoba,0.0
+2860,2019-08-26,Banfield,Boca Juniors,0.0
+2861,2019-08-26,Aldosivi,Atl. Tucuman,0.0
+2862,2019-08-27,Huracan,Argentinos Jrs,2.88
+2863,2019-08-30,Lanus,Central Cordoba,1.66
+2864,2019-08-31,Defensa y Justicia,Banfield,2.93
+2865,2019-08-31,Estudiantes L.P.,Velez Sarsfield,0.0
+2866,2019-08-31,Argentinos Jrs,Gimnasia L.P.,1.98
+2867,2019-08-31,San Lorenzo,Union de Santa Fe,1.87
+2868,2019-08-31,Patronato,Independiente,0.0
+2869,2019-01-09,Racing Club,Godoy Cruz,1.5
+2870,2019-01-09,Atl. Tucuman,Arsenal Sarandi,0.0
+2871,2019-01-09,Colon Santa FE,Rosario Central,2.83
+2872,2019-01-09,Newells Old Boys,Huracan,1.71
+2873,2019-01-09,Talleres Cordoba,Aldosivi,1.72
+2874,2019-01-09,River Plate,Boca Juniors,0.0
+2875,2019-09-14,Arsenal Sarandi,Union de Santa Fe,2.16
+2876,2019-09-14,Central Cordoba,Defensa y Justicia,0.0
+2877,2019-09-14,Godoy Cruz,Argentinos Jrs,0.0
+2878,2019-09-14,Colon Santa FE,San Lorenzo,0.0
+2879,2019-09-15,Huracan,River Plate,1.47
+2880,2019-09-15,Gimnasia L.P.,Racing Club,0.0
+2881,2019-09-15,Banfield,Talleres Cordoba,0.0
+2882,2019-09-15,Rosario Central,Newells Old Boys,2.86
+2883,2019-09-15,Independiente,Lanus,0.0
+2884,2019-09-16,Boca Juniors,Estudiantes L.P.,1.83
+2885,2019-09-16,Aldosivi,Patronato,2.76
+2886,2019-09-17,Velez Sarsfield,Atl. Tucuman,1.57
+2887,2019-09-20,Union de Santa Fe,Rosario Central,2.86
+2888,2019-09-21,Argentinos Jrs,Central Cordoba,1.71
+2889,2019-09-21,Estudiantes L.P.,Patronato,1.96
+2890,2019-09-21,Defensa y Justicia,Huracan,0.0
+2891,2019-09-21,San Lorenzo,Boca Juniors,0.0
+2892,2019-09-22,Atl. Tucuman,Independiente,0.0
+2893,2019-09-22,Newells Old Boys,Aldosivi,1.49
+2894,2019-09-22,Godoy Cruz,Banfield,2.09
+2895,2019-09-22,Lanus,Colon Santa FE,1.48
+2896,2019-09-22,Racing Club,Arsenal Sarandi,1.72
+2897,2019-09-23,River Plate,Velez Sarsfield,0.0
+2898,2019-09-24,Talleres Cordoba,Gimnasia L.P.,1.89
+2899,2019-09-27,Aldosivi,Union de Santa Fe,0.0
+2900,2019-09-28,Patronato,Lanus,3.05
+2901,2019-09-28,Arsenal Sarandi,Estudiantes L.P.,0.0
+2902,2019-09-28,Gimnasia L.P.,River Plate,1.95
+2903,2019-09-29,Boca Juniors,Newells Old Boys,0.0
+2904,2019-09-29,Banfield,San Lorenzo,0.0
+2905,2019-09-29,Huracan,Atl. Tucuman,3.0
+2906,2019-09-29,Velez Sarsfield,Defensa y Justicia,0.0
+2907,2019-09-29,Rosario Central,Racing Club,3.0
+2908,2019-09-30,Independiente,Talleres Cordoba,1.76
+2909,2019-09-30,Central Cordoba,Godoy Cruz,1.91
+2910,2019-01-10,Colon Santa FE,Argentinos Jrs,0.0
+2911,2019-04-10,Newells Old Boys,Banfield,0.0
+2912,2019-05-10,Atl. Tucuman,Talleres Cordoba,0.0
+2913,2019-05-10,Argentinos Jrs,Arsenal Sarandi,2.02
+2914,2019-05-10,Godoy Cruz,Gimnasia L.P.,0.0
+2915,2019-05-10,San Lorenzo,Central Cordoba,0.0
+2916,2019-05-10,Estudiantes L.P.,Huracan,0.0
+2917,2019-06-10,Racing Club,Aldosivi,1.42
+2918,2019-06-10,Velez Sarsfield,Independiente,0.0
+2919,2019-06-10,Lanus,Rosario Central,0.0
+2920,2019-06-10,Union de Santa Fe,Colon Santa FE,0.0
+2921,2019-06-10,River Plate,Patronato,1.18
+2922,2019-07-10,Defensa y Justicia,Boca Juniors,2.19
+2923,2019-10-18,Arsenal Sarandi,River Plate,0.0
+2924,2019-10-19,Boca Juniors,Racing Club,0.0
+2925,2019-10-19,Banfield,Atl. Tucuman,0.0
+2926,2019-10-19,Independiente,Argentinos Jrs,0.0
+2927,2019-10-19,Patronato,Newells Old Boys,0.0
+2928,2019-10-20,Talleres Cordoba,Lanus,0.0
+2929,2019-10-20,Aldosivi,Defensa y Justicia,0.0
+2930,2019-10-20,Gimnasia L.P.,Union de Santa Fe,0.0
+2931,2019-10-20,Huracan,San Lorenzo,0.0
+2932,2019-10-20,Rosario Central,Velez Sarsfield,0.0
+2933,2019-10-21,Central Cordoba,Estudiantes L.P.,0.0
+2934,2019-10-22,Colon Santa FE,Godoy Cruz,1.56
+2935,2019-10-29,Godoy Cruz,Aldosivi,2.16
+2936,2019-10-29,Estudiantes L.P.,Rosario Central,0.0
+2937,2019-10-29,Atl. Tucuman,Patronato,2.16
+2938,2019-10-29,Newells Old Boys,Gimnasia L.P.,0.0
+2939,2019-10-30,River Plate,Colon Santa FE,1.24
+2940,2019-10-30,Argentinos Jrs,Talleres Cordoba,1.99
+2941,2019-10-30,San Lorenzo,Defensa y Justicia,0.0
+2942,2019-10-30,Union de Santa Fe,Independiente,2.88
+2943,2019-10-31,Racing Club,Banfield,0.0
+2944,2019-10-31,Arsenal Sarandi,Central Cordoba,0.0
+2945,2019-10-31,Velez Sarsfield,Huracan,0.0
+2946,2019-01-11,Lanus,Boca Juniors,0.0
+2947,2019-02-11,Colon Santa FE,Atl. Tucuman,2.15
+2948,2019-02-11,Gimnasia L.P.,Estudiantes L.P.,0.0
+2949,2019-02-11,Rosario Central,Godoy Cruz,1.61
+2950,2019-02-11,Aldosivi,River Plate,1.41
+2951,2019-03-11,Boca Juniors,Arsenal Sarandi,1.56
+2952,2019-03-11,Banfield,Union de Santa Fe,2.95
+2953,2019-03-11,Talleres Cordoba,Newells Old Boys,0.0
+2954,2019-03-11,Patronato,Racing Club,2.93
+2955,2019-03-11,Independiente,San Lorenzo,1.86
+2956,2019-04-11,Defensa y Justicia,Argentinos Jrs,2.85
+2957,2019-05-11,Central Cordoba,Velez Sarsfield,0.0
+2958,2019-05-11,Huracan,Lanus,0.0
+2959,2019-08-11,Estudiantes L.P.,Talleres Cordoba,2.11
+2960,2019-09-11,Union de Santa Fe,Atl. Tucuman,0.0
+2961,2019-09-11,Lanus,Banfield,0.0
+2962,2019-09-11,San Lorenzo,Argentinos Jrs,0.0
+2963,2019-09-11,Godoy Cruz,Independiente,2.05
+2964,2019-10-11,Central Cordoba,Patronato,2.2
+2965,2019-10-11,River Plate,Rosario Central,0.0
+2966,2019-10-11,Aldosivi,Gimnasia L.P.,0.0
+2967,2019-10-11,Newells Old Boys,Defensa y Justicia,0.0
+2968,2019-10-11,Racing Club,Huracan,1.72
+2969,2019-10-11,Velez Sarsfield,Boca Juniors,2.95
+2970,2019-11-23,Defensa y Justicia,Lanus,0.0
+2971,2019-11-23,Huracan,Central Cordoba,2.96
+2972,2019-11-24,Atl. Tucuman,San Lorenzo,2.91
+2973,2019-11-24,Boca Juniors,Union de Santa Fe,1.5
+2974,2019-11-24,Banfield,Velez Sarsfield,0.0
+2975,2019-11-24,Gimnasia L.P.,Arsenal Sarandi,0.0
+2976,2019-11-25,Talleres Cordoba,Racing Club,2.82
+2977,2019-11-25,Colon Santa FE,Estudiantes L.P.,0.0
+2978,2019-11-25,Patronato,Godoy Cruz,0.0
+2979,2019-11-26,Argentinos Jrs,Newells Old Boys,0.0
+2980,2019-11-26,Rosario Central,Aldosivi,1.53
+2981,2019-11-29,Banfield,Gimnasia L.P.,0.0
+2982,2019-11-30,Racing Club,Defensa y Justicia,3.08
+2983,2019-11-30,Estudiantes L.P.,Atl. Tucuman,0.0
+2984,2019-11-30,Boca Juniors,Argentinos Jrs,0.0
+2985,2019-01-12,Newells Old Boys,River Plate,1.97
+2986,2019-01-12,San Lorenzo,Patronato,1.76
+2987,2019-01-12,Godoy Cruz,Talleres Cordoba,2.12
+2988,2019-01-12,Velez Sarsfield,Colon Santa FE,1.63
+2989,2019-02-12,Aldosivi,Independiente,0.0
+2990,2019-02-12,Central Cordoba,Rosario Central,2.99
+2991,2019-02-12,Arsenal Sarandi,Lanus,3.28
+2992,2019-03-12,Union de Santa Fe,Huracan,1.88
+2993,2019-06-12,Colon Santa FE,Aldosivi,0.0
+2994,2019-07-12,Independiente,Banfield,0.0
+2995,2019-07-12,Huracan,Arsenal Sarandi,0.0
+2996,2019-07-12,Atl. Tucuman,Newells Old Boys,2.95
+2997,2019-07-12,Talleres Cordoba,Union de Santa Fe,0.0
+2998,2019-08-12,Lanus,Racing Club,0.0
+2999,2019-08-12,Defensa y Justicia,Godoy Cruz,1.34
+3000,2019-08-12,Gimnasia L.P.,Central Cordoba,1.84
+3001,2019-08-12,Rosario Central,Boca Juniors,0.0
+3002,2019-09-12,River Plate,San Lorenzo,0.0
+3003,2019-09-12,Patronato,Velez Sarsfield,1.97
+3004,2019-10-12,Argentinos Jrs,Estudiantes L.P.,2.88
+3005,2019-12-13,Arsenal Sarandi,Colon Santa FE,1.63
+3006,2019-12-13,Independiente,Newells Old Boys,0.0
+3007,2020-01-19,Independiente,River Plate,1.94
+3008,2020-01-24,Aldosivi,Lanus,0.0
+3009,2020-01-24,Gimnasia L.P.,Velez Sarsfield,2.98
+3010,2020-01-25,Rosario Central,Huracan,1.65
+3011,2020-01-25,Union de Santa Fe,Argentinos Jrs,0.0
+3012,2020-01-25,Arsenal Sarandi,Newells Old Boys,3.19
+3013,2020-01-25,Central Cordoba,Colon Santa FE,2.14
+3014,2020-01-25,San Lorenzo,Estudiantes L.P.,2.75
+3015,2020-01-26,Godoy Cruz,River Plate,1.25
+3016,2020-01-26,Banfield,Patronato,0.0
+3017,2020-01-26,Defensa y Justicia,Talleres Cordoba,0.0
+3018,2020-01-26,Racing Club,Atl. Tucuman,0.0
+3019,2020-01-27,Boca Juniors,Independiente,0.0
+3020,2020-01-31,Velez Sarsfield,Aldosivi,0.0
+3021,2020-01-02,Huracan,Gimnasia L.P.,2.88
+3022,2020-01-02,Independiente,Rosario Central,1.86
+3023,2020-01-02,Atl. Tucuman,Defensa y Justicia,2.99
+3024,2020-01-02,Estudiantes L.P.,Union de Santa Fe,1.83
+3025,2020-02-02,Argentinos Jrs,Racing Club,2.91
+3026,2020-02-02,River Plate,Central Cordoba,1.21
+3027,2020-02-02,Colon Santa FE,Banfield,0.0
+3028,2020-02-02,Lanus,Godoy Cruz,1.39
+3029,2020-03-02,Talleres Cordoba,Boca Juniors,0.0
+3030,2020-03-02,Patronato,Arsenal Sarandi,3.21
+3031,2020-04-02,Newells Old Boys,San Lorenzo,1.93
+3032,2020-07-02,Aldosivi,Central Cordoba,0.0
+3033,2020-08-02,Argentinos Jrs,Lanus,2.84
+3034,2020-08-02,Defensa y Justicia,Colon Santa FE,0.0
+3035,2020-08-02,Gimnasia L.P.,Patronato,0.0
+3036,2020-08-02,Banfield,Rosario Central,2.91
+3037,2020-08-02,Newells Old Boys,Estudiantes L.P.,0.0
+3038,2020-09-02,Boca Juniors,Atl. Tucuman,1.27
+3039,2020-09-02,San Lorenzo,Velez Sarsfield,0.0
+3040,2020-09-02,Racing Club,Independiente,0.0
+3041,2020-10-02,Union de Santa Fe,River Plate,1.59
+3042,2020-10-02,Arsenal Sarandi,Talleres Cordoba,0.0
+3043,2020-11-02,Godoy Cruz,Huracan,0.0
+3044,2020-02-14,Patronato,Union de Santa Fe,0.0
+3045,2020-02-15,Colon Santa FE,Racing Club,2.98
+3046,2020-02-15,Huracan,Aldosivi,0.0
+3047,2020-02-15,Atl. Tucuman,Argentinos Jrs,0.0
+3048,2020-02-15,Rosario Central,Gimnasia L.P.,2.0
+3049,2020-02-16,Talleres Cordoba,San Lorenzo,2.16
+3050,2020-02-16,Lanus,Newells Old Boys,2.87
+3051,2020-02-16,River Plate,Banfield,1.35
+3052,2020-02-17,Central Cordoba,Boca Juniors,1.9
+3053,2020-02-17,Estudiantes L.P.,Defensa y Justicia,0.0
+3054,2020-02-18,Independiente,Arsenal Sarandi,0.0
+3055,2020-02-21,Banfield,Aldosivi,0.0
+3056,2020-02-22,Argentinos Jrs,Patronato,0.0
+3057,2020-02-22,San Lorenzo,Racing Club,0.0
+3058,2020-02-22,Independiente,Gimnasia L.P.,0.0
+3059,2020-02-23,Newells Old Boys,Colon Santa FE,1.65
+3060,2020-02-23,Atl. Tucuman,Lanus,0.0
+3061,2020-02-23,Arsenal Sarandi,Velez Sarsfield,0.0
+3062,2020-02-23,Boca Juniors,Godoy Cruz,1.15
+3063,2020-02-24,Estudiantes L.P.,River Plate,1.74
+3064,2020-02-24,Defensa y Justicia,Rosario Central,2.14
+3065,2020-02-25,Union de Santa Fe,Central Cordoba,0.0
+3066,2020-02-25,Talleres Cordoba,Huracan,1.69
+3067,2020-02-28,Racing Club,Newells Old Boys,2.96
+3068,2020-02-29,Colon Santa FE,Boca Juniors,1.54
+3069,2020-02-29,Gimnasia L.P.,Atl. Tucuman,1.83
+3070,2020-02-29,River Plate,Defensa y Justicia,0.0
+3071,2020-01-03,Central Cordoba,Banfield,2.87
+3072,2020-01-03,Godoy Cruz,Union de Santa Fe,0.0
+3073,2020-01-03,Aldosivi,San Lorenzo,0.0
+3074,2020-01-03,Lanus,Estudiantes L.P.,0.0
+3075,2020-01-03,Rosario Central,Arsenal Sarandi,1.93
+3076,2020-02-03,Velez Sarsfield,Argentinos Jrs,1.88
+3077,2020-02-03,Patronato,Talleres Cordoba,0.0
+3078,2020-03-03,Huracan,Independiente,0.0
+3079,2020-04-03,Velez Sarsfield,Godoy Cruz,0.0
+3080,2020-06-03,Arsenal Sarandi,Aldosivi,1.96
+3081,2020-07-03,Argentinos Jrs,Rosario Central,0.0
+3082,2020-07-03,Banfield,Huracan,0.0
+3083,2020-07-03,Defensa y Justicia,Patronato,1.77
+3084,2020-08-03,Atl. Tucuman,River Plate,0.0
+3085,2020-08-03,Boca Juniors,Gimnasia L.P.,1.51
+3086,2020-08-03,San Lorenzo,Lanus,0.0
+3087,2020-08-03,Independiente,Central Cordoba,1.71
+3088,2020-09-03,Newells Old Boys,Godoy Cruz,0.0
+3089,2020-09-03,Talleres Cordoba,Colon Santa FE,1.58
+3090,2020-09-03,Union de Santa Fe,Velez Sarsfield,0.0
+3091,2020-10-03,Estudiantes L.P.,Racing Club,0.0
+3092,2020-10-30,Gimnasia L.P.,Patronato,1.9
+3093,2020-10-31,Talleres Cordoba,Newells Old Boys,0.0
+3094,2020-10-31,Aldosivi,Estudiantes L.P.,2.94
+3095,2020-10-31,Velez Sarsfield,Huracan,0.0
+3096,2020-10-31,Argentinos Jrs,San Lorenzo,2.89
+3097,2020-01-11,Lanus,Boca Juniors,1.56
+3098,2020-01-11,Defensa y Justicia,Colon Santa FE,0.0
+3099,2020-01-11,Union de Santa Fe,Arsenal Sarandi,2.94
+3100,2020-01-11,Racing Club,Atl. Tucuman,0.0
+3101,2020-01-11,Central Cordoba,Independiente,0.0
+3102,2020-03-11,Rosario Central,Godoy Cruz,1.8
+3103,2020-04-11,River Plate,Banfield,0.0
+3104,2020-06-11,Patronato,Huracan,0.0
+3105,2020-07-11,Argentinos Jrs,Aldosivi,0.0
+3106,2020-07-11,Banfield,Godoy Cruz,1.75
+3107,2020-07-11,San Lorenzo,Estudiantes L.P.,0.0
+3108,2020-08-11,River Plate,Rosario Central,1.44
+3109,2020-08-11,Arsenal Sarandi,Atl. Tucuman,0.0
+3110,2020-08-11,Gimnasia L.P.,Velez Sarsfield,2.92
+3111,2020-08-11,Union de Santa Fe,Racing Club,0.0
+3112,2020-09-11,Newells Old Boys,Boca Juniors,1.82
+3113,2020-09-11,Independiente,Colon Santa FE,0.0
+3114,2020-09-11,Talleres Cordoba,Lanus,0.0
+3115,2020-10-11,Central Cordoba,Defensa y Justicia,3.04
+3116,2020-11-13,Rosario Central,Banfield,0.0
+3117,2020-11-14,Atl. Tucuman,Union de Santa Fe,0.0
+3118,2020-11-14,Aldosivi,San Lorenzo,0.0
+3119,2020-11-14,Lanus,Newells Old Boys,0.0
+3120,2020-11-14,Racing Club,Arsenal Sarandi,0.0
+3121,2020-11-15,Godoy Cruz,River Plate,1.55
+3122,2020-11-15,Huracan,Gimnasia L.P.,0.0
+3123,2020-11-15,Estudiantes L.P.,Argentinos Jrs,0.0
+3124,2020-11-15,Defensa y Justicia,Independiente,0.0
+3125,2020-11-16,Boca Juniors,Talleres Cordoba,0.0
+3126,2020-11-16,Velez Sarsfield,Patronato,1.65
+3127,2020-11-17,Colon Santa FE,Central Cordoba,2.15
+3128,2020-11-20,Atl. Tucuman,Racing Club,1.76
+3129,2020-11-20,Arsenal Sarandi,Union de Santa Fe,0.0
+3130,2020-11-20,Boca Juniors,Lanus,0.0
+3131,2020-11-21,Banfield,River Plate,0.0
+3132,2020-11-21,Colon Santa FE,Defensa y Justicia,2.11
+3133,2020-11-21,Huracan,Velez Sarsfield,0.0
+3134,2020-11-22,Independiente,Central Cordoba,0.0
+3135,2020-11-22,Estudiantes L.P.,Aldosivi,0.0
+3136,2020-11-22,Patronato,Gimnasia L.P.,0.0
+3137,2020-11-23,San Lorenzo,Argentinos Jrs,0.0
+3138,2020-11-23,Godoy Cruz,Rosario Central,2.07
+3139,2020-11-24,Newells Old Boys,Talleres Cordoba,3.32
+3140,2020-11-28,Racing Club,Union de Santa Fe,0.0
+3141,2020-11-28,Colon Santa FE,Independiente,0.0
+3142,2020-11-28,Velez Sarsfield,Gimnasia L.P.,0.0
+3143,2020-11-29,Godoy Cruz,Banfield,0.0
+3144,2020-11-29,Rosario Central,River Plate,1.94
+3145,2020-11-29,Defensa y Justicia,Central Cordoba,0.0
+3146,2020-11-29,Boca Juniors,Newells Old Boys,1.6
+3147,2020-11-30,Huracan,Patronato,1.86
+3148,2020-11-30,Lanus,Talleres Cordoba,0.0
+3149,2020-11-30,Aldosivi,Argentinos Jrs,0.0
+3150,2020-11-30,Atl. Tucuman,Arsenal Sarandi,2.13
+3151,2020-01-12,Estudiantes L.P.,San Lorenzo,2.85
+3152,2020-04-12,Central Cordoba,Colon Santa FE,0.0
+3153,2020-05-12,Banfield,Rosario Central,0.0
+3154,2020-05-12,Arsenal Sarandi,Racing Club,0.0
+3155,2020-05-12,Union de Santa Fe,Atl. Tucuman,0.0
+3156,2020-05-12,Gimnasia L.P.,Huracan,0.0
+3157,2020-05-12,Patronato,Velez Sarsfield,0.0
+3158,2020-06-12,River Plate,Godoy Cruz,1.36
+3159,2020-06-12,Independiente,Defensa y Justicia,1.94
+3160,2020-07-12,Newells Old Boys,Lanus,2.17
+3161,2020-07-12,Talleres Cordoba,Boca Juniors,2.98
+3162,2020-07-12,Argentinos Jrs,Estudiantes L.P.,1.94
+3163,2020-07-12,San Lorenzo,Aldosivi,3.01
+3164,2020-12-12,Velez Sarsfield,Racing Club,0.0
+3165,2020-12-12,Colon Santa FE,Gimnasia L.P.,0.0
+3166,2020-12-12,Newells Old Boys,Estudiantes L.P.,2.07
+3167,2020-12-12,Boca Juniors,Arsenal Sarandi,0.0
+3168,2020-12-13,San Lorenzo,Talleres Cordoba,0.0
+3169,2020-12-13,Aldosivi,Lanus,0.0
+3170,2020-12-13,Union de Santa Fe,Defensa y Justicia,0.0
+3171,2020-12-13,River Plate,Argentinos Jrs,0.0
+3172,2020-12-14,Huracan,Independiente,0.0
+3173,2020-12-14,Rosario Central,Patronato,0.0
+3174,2020-12-14,Central Cordoba,Godoy Cruz,3.15
+3175,2020-12-15,Atl. Tucuman,Banfield,0.0
+3176,2020-12-19,Arsenal Sarandi,Argentinos Jrs,0.0
+3177,2020-12-19,Patronato,Aldosivi,0.0
+3178,2020-12-19,Godoy Cruz,Newells Old Boys,0.0
+3179,2020-12-19,San Lorenzo,Colon Santa FE,3.05
+3180,2020-12-20,Talleres Cordoba,Atl. Tucuman,0.0
+3181,2020-12-20,Lanus,Defensa y Justicia,0.0
+3182,2020-12-20,Estudiantes L.P.,Racing Club,0.0
+3183,2020-12-20,Independiente,Boca Juniors,0.0
+3184,2020-12-21,Huracan,River Plate,1.55
+3185,2020-12-21,Central Cordoba,Velez Sarsfield,0.0
+3186,2020-12-21,Rosario Central,Union de Santa Fe,3.48
+3187,2020-12-22,Banfield,Gimnasia L.P.,0.0
+3188,2020-12-27,Defensa y Justicia,Patronato,1.56
+3189,2020-12-27,Racing Club,Godoy Cruz,1.57
+3190,2020-12-27,Boca Juniors,Huracan,1.61
+3191,2020-12-28,River Plate,Arsenal Sarandi,1.24
+3192,2020-12-28,Newells Old Boys,Central Cordoba,1.68
+3193,2020-12-28,Argentinos Jrs,Independiente,0.0
+3194,2020-12-28,Velez Sarsfield,Estudiantes L.P.,0.0
+3195,2020-12-29,Colon Santa FE,Banfield,0.0
+3196,2020-12-29,Gimnasia L.P.,Talleres Cordoba,2.89
+3197,2020-12-29,Aldosivi,Rosario Central,0.0
+3198,2020-12-29,Union de Santa Fe,Lanus,2.0
+3199,2020-12-30,Atl. Tucuman,San Lorenzo,0.0
+3200,2021-02-01,Rosario Central,Defensa y Justicia,2.14
+3201,2021-03-01,Boca Juniors,River Plate,3.05
+3202,2021-03-01,Independiente,Arsenal Sarandi,0.0
+3203,2021-03-01,Newells Old Boys,Velez Sarsfield,0.0
+3204,2021-03-01,Patronato,Lanus,0.0
+3205,2021-04-01,Central Cordoba,Racing Club,0.0
+3206,2021-04-01,Aldosivi,Union de Santa Fe,2.1
+3207,2021-04-01,San Lorenzo,Gimnasia L.P.,0.0
+3208,2021-05-01,Talleres Cordoba,Banfield,0.0
+3209,2021-05-01,Godoy Cruz,Estudiantes L.P.,0.0
+3210,2021-05-01,Huracan,Argentinos Jrs,0.0
+3211,2021-06-01,Atl. Tucuman,Colon Santa FE,0.0
+3212,2021-09-01,Lanus,Rosario Central,0.0
+3213,2021-09-01,Union de Santa Fe,Patronato,0.0
+3214,2021-09-01,Racing Club,Newells Old Boys,0.0
+3215,2021-09-01,Velez Sarsfield,Godoy Cruz,1.49
+3216,2021-10-01,Argentinos Jrs,Boca Juniors,0.0
+3217,2021-10-01,River Plate,Independiente,0.0
+3218,2021-10-01,Arsenal Sarandi,Huracan,0.0
+3219,2021-11-01,Banfield,San Lorenzo,1.58
+3220,2021-11-01,Colon Santa FE,Talleres Cordoba,0.0
+3221,2021-11-01,Gimnasia L.P.,Atl. Tucuman,0.0
+3222,2021-12-01,Estudiantes L.P.,Central Cordoba,0.0
+3223,2021-01-14,Defensa y Justicia,Aldosivi,0.0
+3224,2021-01-17,Velez Sarsfield,Rosario Central,2.01
+3225,2021-01-18,Banfield,Boca Juniors,0.0
+3226,2021-12-02,Banfield,Racing Club,0.0
+3227,2021-02-13,Central Cordoba,Colon Santa FE,0.0
+3228,2021-02-13,Union de Santa Fe,Atl. Tucuman,3.21
+3229,2021-02-13,Aldosivi,Godoy Cruz,0.0
+3230,2021-02-13,Talleres Cordoba,Patronato,1.67
+3231,2021-02-13,Velez Sarsfield,Newells Old Boys,2.05
+3232,2021-02-14,San Lorenzo,Arsenal Sarandi,2.14
+3233,2021-02-14,Defensa y Justicia,Huracan,1.74
+3234,2021-02-14,Boca Juniors,Gimnasia L.P.,0.0
+3235,2021-02-15,Estudiantes L.P.,River Plate,0.0
+3236,2021-02-15,Rosario Central,Argentinos Jrs,2.16
+3237,2021-02-16,Independiente,Lanus,0.0
+3238,2021-02-19,Gimnasia L.P.,Talleres Cordoba,0.0
+3239,2021-02-20,Arsenal Sarandi,Banfield,1.74
+3240,2021-02-20,Godoy Cruz,Estudiantes L.P.,2.17
+3241,2021-02-20,Lanus,Defensa y Justicia,0.0
+3242,2021-02-20,Racing Club,Aldosivi,0.0
+3243,2021-02-21,River Plate,Rosario Central,1.31
+3244,2021-02-21,Argentinos Jrs,Platense,0.0
+3245,2021-02-21,Sarmiento Junin,Velez Sarsfield,1.99
+3246,2021-02-21,Patronato,Independiente,2.1
+3247,2021-02-22,Newells Old Boys,Boca Juniors,1.93
+3248,2021-02-22,Atl. Tucuman,Central Cordoba,0.0
+3249,2021-02-22,Huracan,Union de Santa Fe,3.13
+3250,2021-02-23,Colon Santa FE,San Lorenzo,0.0
+3251,2021-02-26,Aldosivi,Arsenal Sarandi,0.0
+3252,2021-02-26,Defensa y Justicia,Patronato,1.45
+3253,2021-02-27,Argentinos Jrs,Velez Sarsfield,2.08
+3254,2021-02-27,Banfield,Colon Santa FE,0.0
+3255,2021-02-27,Talleres Cordoba,Newells Old Boys,0.0
+3256,2021-02-27,Independiente,Gimnasia L.P.,0.0
+3257,2021-02-28,San Lorenzo,Central Cordoba,0.0
+3258,2021-02-28,Platense,River Plate,1.3
+3259,2021-02-28,Estudiantes L.P.,Racing Club,3.0
+3260,2021-01-03,Boca Juniors,Sarmiento Junin,0.0
+3261,2021-01-03,Union de Santa Fe,Lanus,0.0
+3262,2021-02-03,Rosario Central,Godoy Cruz,0.0
+3263,2021-05-03,Newells Old Boys,Independiente,0.0
+3264,2021-06-03,Central Cordoba,Banfield,0.0
+3265,2021-06-03,Godoy Cruz,Platense,0.0
+3266,2021-06-03,Sarmiento Junin,Talleres Cordoba,3.06
+3267,2021-06-03,Colon Santa FE,Aldosivi,1.68
+3268,2021-06-03,Lanus,Atl. Tucuman,1.53
+3269,2021-07-03,San Lorenzo,Huracan,0.0
+3270,2021-07-03,Arsenal Sarandi,Estudiantes L.P.,2.14
+3271,2021-07-03,Gimnasia L.P.,Defensa y Justicia,3.07
+3272,2021-07-03,Patronato,Union de Santa Fe,0.0
+3273,2021-08-03,Velez Sarsfield,Boca Juniors,0.0
+3274,2021-08-03,Racing Club,Rosario Central,2.17
+3275,2021-09-03,River Plate,Argentinos Jrs,0.0
+3276,2021-10-03,Platense,Sarmiento Junin,3.0
+3277,2021-12-03,Aldosivi,Central Cordoba,0.0
+3278,2021-03-13,Huracan,Lanus,0.0
+3279,2021-03-13,Union de Santa Fe,Gimnasia L.P.,3.02
+3280,2021-03-13,Platense,Racing Club,2.1
+3281,2021-03-13,Talleres Cordoba,Velez Sarsfield,0.0
+3282,2021-03-13,Argentinos Jrs,Godoy Cruz,2.0
+3283,2021-03-13,Defensa y Justicia,Newells Old Boys,1.92
+3284,2021-03-14,Estudiantes L.P.,Colon Santa FE,0.0
+3285,2021-03-14,Boca Juniors,River Plate,3.07
+3286,2021-03-15,Banfield,San Lorenzo,0.0
+3287,2021-03-15,Atl. Tucuman,Patronato,2.16
+3288,2021-03-15,Rosario Central,Arsenal Sarandi,1.84
+3289,2021-03-16,Independiente,Sarmiento Junin,1.64
+3290,2021-03-19,Newells Old Boys,Union de Santa Fe,3.28
+3291,2021-03-20,Central Cordoba,Estudiantes L.P.,3.03
+3292,2021-03-20,Gimnasia L.P.,Atl. Tucuman,1.8
+3293,2021-03-20,Patronato,Huracan,0.0
+3294,2021-03-20,Banfield,Lanus,0.0
+3295,2021-03-20,Velez Sarsfield,Independiente,0.0
+3296,2021-03-21,Godoy Cruz,River Plate,1.36
+3297,2021-03-21,Sarmiento Junin,Defensa y Justicia,0.0
+3298,2021-03-21,Colon Santa FE,Rosario Central,0.0
+3299,2021-03-21,San Lorenzo,Aldosivi,0.0
+3300,2021-03-22,Boca Juniors,Talleres Cordoba,0.0
+3301,2021-03-22,Arsenal Sarandi,Platense,3.18
+3302,2021-03-23,Racing Club,Argentinos Jrs,0.0
+3303,2021-03-24,Atl. Tucuman,Huracan,3.23
+3304,2021-03-26,Lanus,Patronato,1.73
+3305,2021-03-27,Union de Santa Fe,Sarmiento Junin,0.0
+3306,2021-03-27,Platense,Colon Santa FE,2.14
+3307,2021-03-27,Aldosivi,Banfield,0.0
+3308,2021-03-27,Argentinos Jrs,Arsenal Sarandi,1.93
+3309,2021-03-28,Rosario Central,Central Cordoba,3.11
+3310,2021-03-28,Talleres Cordoba,Godoy Cruz,0.0
+3311,2021-03-28,Defensa y Justicia,Velez Sarsfield,3.22
+3312,2021-03-28,River Plate,Racing Club,0.0
+3313,2021-03-29,Independiente,Boca Juniors,0.0
+3314,2021-03-29,Estudiantes L.P.,San Lorenzo,0.0
+3315,2021-03-30,Atl. Tucuman,Newells Old Boys,3.01
+3316,2021-03-30,Huracan,Gimnasia L.P.,0.0
+3317,2021-02-04,Patronato,Aldosivi,0.0
+3318,2021-02-04,San Lorenzo,Rosario Central,2.1
+3319,2021-03-04,Central Cordoba,Platense,0.0
+3320,2021-03-04,Talleres Cordoba,Independiente,0.0
+3321,2021-03-04,Gimnasia L.P.,Lanus,2.01
+3322,2021-03-04,Sarmiento Junin,Atl. Tucuman,0.0
+3323,2021-03-04,Boca Juniors,Defensa y Justicia,1.9
+3324,2021-04-04,Arsenal Sarandi,River Plate,0.0
+3325,2021-04-04,Newells Old Boys,Huracan,2.98
+3326,2021-04-04,Colon Santa FE,Argentinos Jrs,0.0
+3327,2021-04-04,Velez Sarsfield,Union de Santa Fe,1.99
+3328,2021-05-04,Racing Club,Godoy Cruz,0.0
+3329,2021-06-04,Banfield,Estudiantes L.P.,0.0
+3330,2021-10-04,Platense,San Lorenzo,1.88
+3331,2021-10-04,Estudiantes L.P.,Aldosivi,1.93
+3332,2021-10-04,Defensa y Justicia,Talleres Cordoba,3.2
+3333,2021-11-04,Racing Club,Independiente,0.0
+3334,2021-11-04,Godoy Cruz,Arsenal Sarandi,0.0
+3335,2021-11-04,Argentinos Jrs,Central Cordoba,0.0
+3336,2021-11-04,Patronato,Gimnasia L.P.,0.0
+3337,2021-11-04,Rosario Central,Banfield,1.61
+3338,2021-11-04,Union de Santa Fe,Boca Juniors,0.0
+3339,2021-12-04,River Plate,Colon Santa FE,1.42
+3340,2021-12-04,Huracan,Sarmiento Junin,2.07
+3341,2021-12-04,Lanus,Newells Old Boys,0.0
+3342,2021-04-13,Atl. Tucuman,Velez Sarsfield,0.0
+3343,2021-04-16,Talleres Cordoba,Union de Santa Fe,2.15
+3344,2021-04-16,Aldosivi,Rosario Central,0.0
+3345,2021-04-16,Velez Sarsfield,Huracan,1.91
+3346,2021-04-17,Central Cordoba,River Plate,1.41
+3347,2021-04-17,Sarmiento Junin,Lanus,0.0
+3348,2021-04-17,San Lorenzo,Argentinos Jrs,3.06
+3349,2021-04-17,Boca Juniors,Atl. Tucuman,1.52
+3350,2021-04-18,Newells Old Boys,Patronato,1.87
+3351,2021-04-18,Arsenal Sarandi,Racing Club,0.0
+3352,2021-04-18,Estudiantes L.P.,Gimnasia L.P.,0.0
+3353,2021-04-18,Independiente,Defensa y Justicia,0.0
+3354,2021-04-19,Colon Santa FE,Godoy Cruz,0.0
+3355,2021-04-19,Banfield,Platense,0.0
+3356,2021-04-24,Godoy Cruz,Central Cordoba,0.0
+3357,2021-04-24,Patronato,Sarmiento Junin,0.0
+3358,2021-04-24,Argentinos Jrs,Banfield,2.96
+3359,2021-04-24,Huracan,Boca Juniors,1.89
+3360,2021-04-25,Union de Santa Fe,Independiente,2.97
+3361,2021-04-25,Lanus,Velez Sarsfield,0.0
+3362,2021-04-25,Defensa y Justicia,Arsenal Sarandi,0.0
+3363,2021-04-25,Racing Club,Colon Santa FE,0.0
+3364,2021-04-25,River Plate,San Lorenzo,0.0
+3365,2021-04-26,Atl. Tucuman,Talleres Cordoba,0.0
+3366,2021-04-26,Rosario Central,Estudiantes L.P.,0.0
+3367,2021-04-26,Platense,Aldosivi,0.0
+3368,2021-04-26,Gimnasia L.P.,Newells Old Boys,1.97
+3369,2021-04-30,Velez Sarsfield,Patronato,1.77
+3370,2021-01-05,Colon Santa FE,Arsenal Sarandi,1.37
+3371,2021-02-05,Boca Juniors,Lanus,1.71
+3372,2021-02-05,Defensa y Justicia,Union de Santa Fe,2.08
+3373,2021-02-05,Independiente,Atl. Tucuman,0.0
+3374,2021-02-05,San Lorenzo,Godoy Cruz,1.86
+3375,2021-02-05,Talleres Cordoba,Huracan,0.0
+3376,2021-02-05,Banfield,River Plate,0.0
+3377,2021-02-05,Aldosivi,Argentinos Jrs,0.0
+3378,2021-02-05,Central Cordoba,Racing Club,0.0
+3379,2021-03-05,Rosario Central,Newells Old Boys,2.17
+3380,2021-03-05,Sarmiento Junin,Gimnasia L.P.,0.0
+3381,2021-03-05,Estudiantes L.P.,Platense,1.52
+3382,2021-08-05,Godoy Cruz,Banfield,1.7
+3383,2021-08-05,Atl. Tucuman,Defensa y Justicia,1.17
+3384,2021-08-05,Gimnasia L.P.,Velez Sarsfield,0.0
+3385,2021-08-05,Patronato,Boca Juniors,0.0
+3386,2021-09-05,Arsenal Sarandi,Central Cordoba,0.0
+3387,2021-09-05,Argentinos Jrs,Estudiantes L.P.,0.0
+3388,2021-09-05,Platense,Rosario Central,0.0
+3389,2021-09-05,Racing Club,San Lorenzo,0.0
+3390,2021-09-05,River Plate,Aldosivi,1.2
+3391,2021-09-05,Colon Santa FE,Union de Santa Fe,0.0
+3392,2021-09-05,Huracan,Independiente,2.07
+3393,2021-09-05,Lanus,Talleres Cordoba,0.0
+3394,2021-10-05,Newells Old Boys,Sarmiento Junin,0.0
+3395,2021-05-15,Estudiantes L.P.,Independiente,2.95
+3396,2021-05-16,Colon Santa FE,Talleres Cordoba,3.18
+3397,2021-05-16,Velez Sarsfield,Racing Club,3.18
+3398,2021-05-16,Boca Juniors,River Plate,0.0
+3399,2021-05-31,Racing Club,Boca Juniors,0.0
+3400,2021-05-31,Independiente,Colon Santa FE,0.0
+3401,2021-04-06,Colon Santa FE,Racing Club,0.0
+3402,2021-07-16,Union de Santa Fe,Boca Juniors,2.91
+3403,2021-07-17,Sarmiento Junin,Estudiantes L.P.,0.0
+3404,2021-07-17,Aldosivi,Patronato,0.0
+3405,2021-07-17,Lanus,Atl. Tucuman,2.15
+3406,2021-07-17,Newells Old Boys,Talleres Cordoba,0.0
+3407,2021-07-17,Gimnasia L.P.,Platense,0.0
+3408,2021-07-18,Velez Sarsfield,Racing Club,2.95
+3409,2021-07-18,Huracan,Defensa y Justicia,0.0
+3410,2021-07-18,Arsenal Sarandi,San Lorenzo,3.03
+3411,2021-07-18,River Plate,Colon Santa FE,0.0
+3412,2021-07-19,Independiente,Argentinos Jrs,0.0
+3413,2021-07-19,Central Cordoba,Banfield,2.93
+3414,2021-07-20,Godoy Cruz,Rosario Central,0.0
+3415,2021-07-23,Atl. Tucuman,Huracan,0.0
+3416,2021-07-24,Platense,Aldosivi,0.0
+3417,2021-07-24,Colon Santa FE,Lanus,0.0
+3418,2021-07-24,San Lorenzo,Central Cordoba,0.0
+3419,2021-07-24,Racing Club,Gimnasia L.P.,0.0
+3420,2021-07-25,Banfield,Boca Juniors,0.0
+3421,2021-07-25,Defensa y Justicia,Godoy Cruz,0.0
+3422,2021-07-25,Patronato,Sarmiento Junin,2.11
+3423,2021-07-25,Rosario Central,Velez Sarsfield,0.0
+3424,2021-07-25,River Plate,Union de Santa Fe,1.36
+3425,2021-07-26,Estudiantes L.P.,Independiente,0.0
+3426,2021-07-26,Talleres Cordoba,Arsenal Sarandi,1.6
+3427,2021-07-27,Argentinos Jrs,Newells Old Boys,2.19
+3428,2021-07-27,Huracan,Colon Santa FE,3.12
+3429,2021-07-27,Aldosivi,Racing Club,2.13
+3430,2021-07-28,Boca Juniors,San Lorenzo,0.0
+3431,2021-07-28,Godoy Cruz,Atl. Tucuman,0.0
+3432,2021-07-28,Union de Santa Fe,Banfield,0.0
+3433,2021-07-28,Sarmiento Junin,Platense,0.0
+3434,2021-07-28,Velez Sarsfield,Defensa y Justicia,0.0
+3435,2021-07-28,Independiente,Patronato,1.9
+3436,2021-07-29,Lanus,River Plate,1.53
+3437,2021-07-29,Central Cordoba,Talleres Cordoba,0.0
+3438,2021-07-29,Arsenal Sarandi,Argentinos Jrs,0.0
+3439,2021-07-29,Gimnasia L.P.,Rosario Central,0.0
+3440,2021-07-30,Newells Old Boys,Estudiantes L.P.,0.0
+3441,2021-07-31,Colon Santa FE,Godoy Cruz,1.78
+3442,2021-07-31,Lanus,Union de Santa Fe,0.0
+3443,2021-07-31,Racing Club,Sarmiento Junin,1.69
+3444,2021-01-08,Platense,Independiente,0.0
+3445,2021-01-08,Defensa y Justicia,Gimnasia L.P.,0.0
+3446,2021-01-08,Talleres Cordoba,Boca Juniors,2.82
+3447,2021-01-08,River Plate,Huracan,0.0
+3448,2021-02-08,San Lorenzo,Banfield,2.93
+3449,2021-02-08,Argentinos Jrs,Central Cordoba,0.0
+3450,2021-02-08,Patronato,Newells Old Boys,2.95
+3451,2021-02-08,Estudiantes L.P.,Arsenal Sarandi,1.71
+3452,2021-02-08,Rosario Central,Aldosivi,0.0
+3453,2021-03-08,Atl. Tucuman,Velez Sarsfield,3.15
+3454,2021-06-08,Sarmiento Junin,Rosario Central,0.0
+3455,2021-07-08,Newells Old Boys,Platense,1.84
+3456,2021-07-08,Banfield,Talleres Cordoba,0.0
+3457,2021-07-08,Union de Santa Fe,San Lorenzo,0.0
+3458,2021-07-08,Huracan,Lanus,0.0
+3459,2021-08-08,Godoy Cruz,River Plate,0.0
+3460,2021-08-08,Gimnasia L.P.,Atl. Tucuman,0.0
+3461,2021-08-08,Velez Sarsfield,Colon Santa FE,0.0
+3462,2021-08-08,Boca Juniors,Argentinos Jrs,0.0
+3463,2021-09-08,Independiente,Racing Club,0.0
+3464,2021-09-08,Aldosivi,Defensa y Justicia,0.0
+3465,2021-09-08,Arsenal Sarandi,Patronato,2.98
+3466,2021-10-08,Central Cordoba,Estudiantes L.P.,2.19
+3467,2021-08-13,Colon Santa FE,Gimnasia L.P.,1.83
+3468,2021-08-14,Huracan,Union de Santa Fe,2.83
+3469,2021-08-14,Atl. Tucuman,Aldosivi,0.0
+3470,2021-08-14,Argentinos Jrs,Banfield,2.22
+3471,2021-08-14,River Plate,Velez Sarsfield,1.76
+3472,2021-08-15,Rosario Central,Independiente,1.81
+3473,2021-08-15,Patronato,Central Cordoba,0.0
+3474,2021-08-15,Platense,Arsenal Sarandi,0.0
+3475,2021-08-15,Estudiantes L.P.,Boca Juniors,0.0
+3476,2021-08-16,Racing Club,Newells Old Boys,1.96
+3477,2021-08-16,Talleres Cordoba,San Lorenzo,1.92
+3478,2021-08-17,Defensa y Justicia,Sarmiento Junin,2.02
+3479,2021-08-17,Lanus,Godoy Cruz,1.85
+3480,2021-08-20,Aldosivi,Colon Santa FE,0.0
+3481,2021-08-20,Banfield,Estudiantes L.P.,2.98
+3482,2021-08-20,Sarmiento Junin,Atl. Tucuman,0.0
+3483,2021-08-21,Independiente,Defensa y Justicia,0.0
+3484,2021-08-21,Central Cordoba,Platense,0.0
+3485,2021-08-21,Godoy Cruz,Huracan,3.21
+3486,2021-08-21,Velez Sarsfield,Lanus,2.14
+3487,2021-08-21,Arsenal Sarandi,Racing Club,1.96
+3488,2021-08-22,Boca Juniors,Patronato,1.73
+3489,2021-08-22,Union de Santa Fe,Talleres Cordoba,0.0
+3490,2021-08-22,Newells Old Boys,Rosario Central,3.23
+3491,2021-08-22,San Lorenzo,Argentinos Jrs,2.05
+3492,2021-08-23,Gimnasia L.P.,River Plate,0.0
+3493,2021-08-24,Patronato,Banfield,2.87
+3494,2021-08-24,Colon Santa FE,Sarmiento Junin,0.0
+3495,2021-08-24,Atl. Tucuman,Independiente,0.0
+3496,2021-08-25,Racing Club,Central Cordoba,0.0
+3497,2021-08-25,Rosario Central,Arsenal Sarandi,2.03
+3498,2021-08-25,Defensa y Justicia,Newells Old Boys,1.96
+3499,2021-08-25,Lanus,Gimnasia L.P.,1.93
+3500,2021-08-25,Huracan,Velez Sarsfield,3.0
+3501,2021-08-26,Platense,Boca Juniors,2.15
+3502,2021-08-26,Godoy Cruz,Union de Santa Fe,0.0
+3503,2021-08-26,Argentinos Jrs,Talleres Cordoba,0.0
+3504,2021-08-26,Estudiantes L.P.,San Lorenzo,1.78
+3505,2021-08-27,River Plate,Aldosivi,1.31
+3506,2021-08-28,Gimnasia L.P.,Huracan,2.95
+3507,2021-08-28,Banfield,Platense,0.0
+3508,2021-08-29,Independiente,Colon Santa FE,2.11
+3509,2021-08-29,Arsenal Sarandi,Defensa y Justicia,0.0
+3510,2021-08-29,Aldosivi,Lanus,0.0
+3511,2021-08-29,Central Cordoba,Rosario Central,0.0
+3512,2021-08-29,Velez Sarsfield,Godoy Cruz,1.53
+3513,2021-08-30,Boca Juniors,Racing Club,0.0
+3514,2021-08-30,Newells Old Boys,Atl. Tucuman,0.0
+3515,2021-08-30,Union de Santa Fe,Argentinos Jrs,0.0
+3516,2021-08-30,San Lorenzo,Patronato,0.0
+3517,2021-08-30,Sarmiento Junin,River Plate,1.92
+3518,2021-08-31,Talleres Cordoba,Estudiantes L.P.,0.0
+3519,2021-03-09,Defensa y Justicia,Central Cordoba,0.0
+3520,2021-04-09,Huracan,Aldosivi,0.0
+3521,2021-04-09,Atl. Tucuman,Arsenal Sarandi,0.0
+3522,2021-04-09,Colon Santa FE,Newells Old Boys,3.29
+3523,2021-04-09,Lanus,Sarmiento Junin,0.0
+3524,2021-04-09,Platense,San Lorenzo,3.05
+3525,2021-05-09,Rosario Central,Boca Juniors,2.17
+3526,2021-05-09,Godoy Cruz,Gimnasia L.P.,0.0
+3527,2021-05-09,Patronato,Talleres Cordoba,3.04
+3528,2021-05-09,Racing Club,Banfield,3.03
+3529,2021-06-09,River Plate,Independiente,3.09
+3530,2021-06-09,Estudiantes L.P.,Argentinos Jrs,2.89
+3531,2021-07-09,Velez Sarsfield,Union de Santa Fe,1.89
+3532,2021-09-13,Aldosivi,Godoy Cruz,0.0
+3533,2021-09-13,Sarmiento Junin,Huracan,2.96
+3534,2021-09-13,Independiente,Lanus,0.0
+3535,2021-09-13,San Lorenzo,Racing Club,2.92
+3536,2021-09-14,Gimnasia L.P.,Velez Sarsfield,0.0
+3537,2021-09-14,Talleres Cordoba,Platense,1.7
+3538,2021-09-14,Arsenal Sarandi,Colon Santa FE,0.0
+3539,2021-09-14,Central Cordoba,Atl. Tucuman,0.0
+3540,2021-09-15,Boca Juniors,Defensa y Justicia,0.0
+3541,2021-09-15,Union de Santa Fe,Estudiantes L.P.,2.19
+3542,2021-09-15,Argentinos Jrs,Patronato,0.0
+3543,2021-09-15,Banfield,Rosario Central,0.0
+3544,2021-09-16,Newells Old Boys,River Plate,1.57
+3545,2021-09-18,Godoy Cruz,Sarmiento Junin,0.0
+3546,2021-09-18,Velez Sarsfield,Aldosivi,1.43
+3547,2021-09-18,Racing Club,Talleres Cordoba,0.0
+3548,2021-09-19,Atl. Tucuman,Boca Juniors,0.0
+3549,2021-09-19,Patronato,Estudiantes L.P.,2.03
+3550,2021-09-19,Colon Santa FE,Central Cordoba,2.13
+3551,2021-09-19,Platense,Argentinos Jrs,0.0
+3552,2021-09-19,Huracan,Independiente,0.0
+3553,2021-09-20,River Plate,Arsenal Sarandi,1.25
+3554,2021-09-20,Gimnasia L.P.,Union de Santa Fe,0.0
+3555,2021-09-20,Lanus,Newells Old Boys,0.0
+3556,2021-09-20,Rosario Central,San Lorenzo,2.14
+3557,2021-09-21,Defensa y Justicia,Banfield,3.04
+3558,2021-09-24,Sarmiento Junin,Velez Sarsfield,1.92
+3559,2021-09-25,Estudiantes L.P.,Platense,0.0
+3560,2021-09-25,Aldosivi,Gimnasia L.P.,0.0
+3561,2021-09-25,Arsenal Sarandi,Lanus,0.0
+3562,2021-09-25,Talleres Cordoba,Rosario Central,1.68
+3563,2021-09-25,Banfield,Atl. Tucuman,2.06
+3564,2021-09-26,Central Cordoba,River Plate,1.61
+3565,2021-09-26,Union de Santa Fe,Patronato,0.0
+3566,2021-09-26,San Lorenzo,Defensa y Justicia,0.0
+3567,2021-09-26,Independiente,Godoy Cruz,0.0
+3568,2021-09-27,Boca Juniors,Colon Santa FE,1.75
+3569,2021-09-27,Argentinos Jrs,Racing Club,0.0
+3570,2021-09-28,Newells Old Boys,Huracan,0.0
+3571,2021-01-10,Aldosivi,Union de Santa Fe,0.0
+3572,2021-02-10,Lanus,Central Cordoba,1.98
+3573,2021-02-10,Godoy Cruz,Newells Old Boys,0.0
+3574,2021-02-10,Platense,Patronato,2.93
+3575,2021-02-10,Huracan,Arsenal Sarandi,1.86
+3576,2021-02-10,Atl. Tucuman,San Lorenzo,0.0
+3577,2021-03-10,Velez Sarsfield,Independiente,0.0
+3578,2021-03-10,Gimnasia L.P.,Sarmiento Junin,0.0
+3579,2021-03-10,Rosario Central,Argentinos Jrs,0.0
+3580,2021-03-10,River Plate,Boca Juniors,0.0
+3581,2021-04-10,Racing Club,Estudiantes L.P.,2.83
+3582,2021-04-10,Defensa y Justicia,Talleres Cordoba,0.0
+3583,2021-05-10,Colon Santa FE,Banfield,2.97
+3584,2021-08-10,Union de Santa Fe,Platense,0.0
+3585,2021-08-10,Central Cordoba,Huracan,0.0
+3586,2021-08-10,Estudiantes L.P.,Rosario Central,0.0
+3587,2021-09-10,Newells Old Boys,Velez Sarsfield,1.92
+3588,2021-09-10,Argentinos Jrs,Defensa y Justicia,0.0
+3589,2021-09-10,Sarmiento Junin,Aldosivi,0.0
+3590,2021-09-10,Patronato,Racing Club,0.0
+3591,2021-09-10,Banfield,River Plate,0.0
+3592,2021-10-10,Boca Juniors,Lanus,1.74
+3593,2021-11-10,Arsenal Sarandi,Godoy Cruz,3.29
+3594,2021-11-10,San Lorenzo,Colon Santa FE,0.0
+3595,2021-11-10,Independiente,Gimnasia L.P.,0.0
+3596,2021-12-10,Talleres Cordoba,Atl. Tucuman,1.54
+3597,2021-10-15,Godoy Cruz,Central Cordoba,0.0
+3598,2021-10-15,Rosario Central,Patronato,0.0
+3599,2021-10-15,Racing Club,Platense,0.0
+3600,2021-10-16,Defensa y Justicia,Estudiantes L.P.,0.0
+3601,2021-10-16,Velez Sarsfield,Arsenal Sarandi,0.0
+3602,2021-10-16,Sarmiento Junin,Union de Santa Fe,0.0
+3603,2021-10-16,Gimnasia L.P.,Newells Old Boys,2.12
+3604,2021-10-16,Lanus,Banfield,3.15
+3605,2021-10-17,Huracan,Boca Juniors,0.0
+3606,2021-10-17,Atl. Tucuman,Argentinos Jrs,0.0
+3607,2021-10-17,Colon Santa FE,Talleres Cordoba,0.0
+3608,2021-10-17,Aldosivi,Independiente,0.0
+3609,2021-10-18,River Plate,San Lorenzo,1.38
+3610,2021-10-19,Platense,Rosario Central,3.22
+3611,2021-10-19,Union de Santa Fe,Racing Club,2.96
+3612,2021-10-19,Patronato,Defensa y Justicia,3.04
+3613,2021-10-20,Central Cordoba,Velez Sarsfield,1.98
+3614,2021-10-20,Arsenal Sarandi,Gimnasia L.P.,0.0
+3615,2021-10-20,San Lorenzo,Lanus,0.0
+3616,2021-10-20,Banfield,Huracan,0.0
+3617,2021-10-20,Estudiantes L.P.,Atl. Tucuman,0.0
+3618,2021-10-21,Boca Juniors,Godoy Cruz,1.69
+3619,2021-10-21,Argentinos Jrs,Colon Santa FE,0.0
+3620,2021-10-21,Newells Old Boys,Aldosivi,0.0
+3621,2021-10-21,Independiente,Sarmiento Junin,0.0
+3622,2021-10-22,Talleres Cordoba,River Plate,0.0
+3623,2021-10-23,Gimnasia L.P.,Central Cordoba,0.0
+3624,2021-10-23,Defensa y Justicia,Platense,1.85
+3625,2021-10-24,Rosario Central,Racing Club,2.11
+3626,2021-10-24,Colon Santa FE,Estudiantes L.P.,0.0
+3627,2021-10-24,Godoy Cruz,Banfield,1.98
+3628,2021-10-24,Huracan,San Lorenzo,1.93
+3629,2021-10-25,Velez Sarsfield,Boca Juniors,0.0
+3630,2021-10-25,Aldosivi,Arsenal Sarandi,0.0
+3631,2021-10-25,Sarmiento Junin,Newells Old Boys,0.0
+3632,2021-10-25,Atl. Tucuman,Patronato,0.0
+3633,2021-10-25,Lanus,Talleres Cordoba,3.19
+3634,2021-10-25,River Plate,Argentinos Jrs,1.75
+3635,2021-10-26,Independiente,Union de Santa Fe,2.19
+3636,2021-10-29,Racing Club,Defensa y Justicia,0.0
+3637,2021-10-30,Argentinos Jrs,Lanus,0.0
+3638,2021-10-30,Arsenal Sarandi,Sarmiento Junin,0.0
+3639,2021-10-30,Platense,Atl. Tucuman,0.0
+3640,2021-10-30,Banfield,Velez Sarsfield,0.0
+3641,2021-10-30,Talleres Cordoba,Huracan,1.92
+3642,2021-10-31,Boca Juniors,Gimnasia L.P.,0.0
+3643,2021-10-31,San Lorenzo,Godoy Cruz,0.0
+3644,2021-10-31,Union de Santa Fe,Rosario Central,1.9
+3645,2021-10-31,Newells Old Boys,Independiente,0.0
+3646,2021-10-31,Estudiantes L.P.,River Plate,0.0
+3647,2021-01-11,Patronato,Colon Santa FE,0.0
+3648,2021-02-11,Central Cordoba,Aldosivi,0.0
+3649,2021-05-11,Defensa y Justicia,Rosario Central,1.69
+3650,2021-06-11,Lanus,Estudiantes L.P.,3.26
+3651,2021-06-11,Colon Santa FE,Platense,1.88
+3652,2021-06-11,Godoy Cruz,Talleres Cordoba,0.0
+3653,2021-06-11,Independiente,Arsenal Sarandi,1.68
+3654,2021-06-11,Atl. Tucuman,Racing Club,0.0
+3655,2021-07-11,Gimnasia L.P.,Banfield,0.0
+3656,2021-07-11,Sarmiento Junin,Central Cordoba,0.0
+3657,2021-07-11,Velez Sarsfield,San Lorenzo,1.61
+3658,2021-07-11,River Plate,Patronato,1.33
+3659,2021-08-11,Newells Old Boys,Union de Santa Fe,0.0
+3660,2021-08-11,Huracan,Argentinos Jrs,2.98
+3661,2021-09-11,Aldosivi,Boca Juniors,1.63
+3662,2021-11-18,Union de Santa Fe,Defensa y Justicia,0.0
+3663,2021-11-18,Patronato,Lanus,0.0
+3664,2021-11-19,Banfield,Aldosivi,0.0
+3665,2021-11-19,Estudiantes L.P.,Huracan,0.0
+3666,2021-11-19,San Lorenzo,Gimnasia L.P.,0.0
+3667,2021-11-20,Argentinos Jrs,Godoy Cruz,0.0
+3668,2021-11-20,Talleres Cordoba,Velez Sarsfield,2.96
+3669,2021-11-20,Rosario Central,Atl. Tucuman,1.9
+3670,2021-11-20,Boca Juniors,Sarmiento Junin,1.36
+3671,2021-11-21,Central Cordoba,Independiente,0.0
+3672,2021-11-21,Arsenal Sarandi,Newells Old Boys,0.0
+3673,2021-11-21,Racing Club,Colon Santa FE,0.0
+3674,2021-11-22,Platense,River Plate,1.4
+3675,2021-11-23,Gimnasia L.P.,Talleres Cordoba,0.0
+3676,2021-11-23,Huracan,Patronato,1.86
+3677,2021-11-23,Aldosivi,San Lorenzo,0.0
+3678,2021-11-24,Godoy Cruz,Estudiantes L.P.,0.0
+3679,2021-11-24,Velez Sarsfield,Argentinos Jrs,2.04
+3680,2021-11-24,Newells Old Boys,Central Cordoba,0.0
+3681,2021-11-24,Sarmiento Junin,Banfield,3.12
+3682,2021-11-24,Atl. Tucuman,Defensa y Justicia,2.0
+3683,2021-11-25,Independiente,Boca Juniors,0.0
+3684,2021-11-25,Arsenal Sarandi,Union de Santa Fe,0.0
+3685,2021-11-25,Colon Santa FE,Rosario Central,0.0
+3686,2021-11-25,Lanus,Platense,0.0
+3687,2021-11-26,River Plate,Racing Club,1.38
+3688,2021-11-27,Talleres Cordoba,Aldosivi,1.44
+3689,2021-11-27,Patronato,Godoy Cruz,0.0
+3690,2021-11-28,Estudiantes L.P.,Velez Sarsfield,0.0
+3691,2021-11-28,Rosario Central,River Plate,0.0
+3692,2021-11-28,Argentinos Jrs,Gimnasia L.P.,1.94
+3693,2021-11-28,Defensa y Justicia,Colon Santa FE,0.0
+3694,2021-11-29,Union de Santa Fe,Atl. Tucuman,1.6
+3695,2021-11-29,Racing Club,Lanus,0.0
+3696,2021-11-30,Central Cordoba,Arsenal Sarandi,1.56
+3697,2021-11-30,Platense,Huracan,0.0
+3698,2021-11-30,San Lorenzo,Sarmiento Junin,1.99
+3699,2021-11-30,Boca Juniors,Newells Old Boys,0.0
+3700,2021-01-12,Banfield,Independiente,0.0
+3701,2021-03-12,Central Cordoba,Union de Santa Fe,0.0
+3702,2021-03-12,Colon Santa FE,Atl. Tucuman,1.76
+3703,2021-04-12,Velez Sarsfield,Patronato,0.0
+3704,2021-04-12,Arsenal Sarandi,Boca Juniors,0.0
+3705,2021-04-12,Godoy Cruz,Platense,0.0
+3706,2021-04-12,Sarmiento Junin,Talleres Cordoba,0.0
+3707,2021-05-12,Huracan,Racing Club,2.09
+3708,2021-05-12,Lanus,Rosario Central,0.0
+3709,2021-05-12,Gimnasia L.P.,Estudiantes L.P.,3.0
+3710,2021-05-12,Independiente,San Lorenzo,0.0
+3711,2021-06-12,River Plate,Defensa y Justicia,0.0
+3712,2021-06-12,Aldosivi,Argentinos Jrs,0.0
+3713,2021-07-12,Newells Old Boys,Banfield,3.13
+3714,2021-10-12,Platense,Velez Sarsfield,0.0
+3715,2021-11-12,Estudiantes L.P.,Aldosivi,0.0
+3716,2021-11-12,Argentinos Jrs,Sarmiento Junin,1.43
+3717,2021-11-12,Patronato,Gimnasia L.P.,3.2
+3718,2021-11-12,Racing Club,Godoy Cruz,1.9
+3719,2021-11-12,Rosario Central,Huracan,0.0
+3720,2021-11-12,Union de Santa Fe,Colon Santa FE,2.03
+3721,2021-11-12,Atl. Tucuman,River Plate,0.0
+3722,2021-12-12,Boca Juniors,Central Cordoba,1.83
+3723,2021-12-12,San Lorenzo,Newells Old Boys,2.05
+3724,2021-12-12,Defensa y Justicia,Lanus,1.93
+3725,2021-12-13,Talleres Cordoba,Independiente,0.0
+3726,2021-12-13,Banfield,Arsenal Sarandi,0.0
+3727,2022-10-02,Patronato,Argentinos Jrs,0.0
+3728,2022-10-02,Sarmiento Junin,Atl. Tucuman,2.18
+3729,2022-11-02,Central Cordoba,Barracas Central,1.49
+3730,2022-11-02,Newells Old Boys,Defensa y Justicia,0.0
+3731,2022-11-02,Arsenal Sarandi,Rosario Central,3.14
+3732,2022-11-02,Godoy Cruz,Tigre,3.15
+3733,2022-11-02,Velez Sarsfield,Aldosivi,1.45
+3734,2022-12-02,Banfield,San Lorenzo,0.0
+3735,2022-12-02,Huracan,Lanus,0.0
+3736,2022-12-02,Union de Santa Fe,River Plate,0.0
+3737,2022-02-13,Estudiantes L.P.,Independiente,0.0
+3738,2022-02-13,Racing Club,Gimnasia L.P.,0.0
+3739,2022-02-13,Platense,Talleres Cordoba,0.0
+3740,2022-02-14,Boca Juniors,Colon Santa FE,0.0
+3741,2022-02-15,Argentinos Jrs,Newells Old Boys,1.95
+3742,2022-02-15,Independiente,Arsenal Sarandi,1.64
+3743,2022-02-15,Rosario Central,Velez Sarsfield,0.0
+3744,2022-02-16,Huracan,Estudiantes L.P.,0.0
+3745,2022-02-16,Lanus,Barracas Central,1.59
+3746,2022-02-16,Tigre,Central Cordoba,3.05
+3747,2022-02-16,Aldosivi,Boca Juniors,1.64
+3748,2022-02-17,River Plate,Patronato,1.23
+3749,2022-02-17,Colon Santa FE,Godoy Cruz,0.0
+3750,2022-02-17,Gimnasia L.P.,San Lorenzo,0.0
+3751,2022-02-17,Defensa y Justicia,Racing Club,0.0
+3752,2022-02-17,Sarmiento Junin,Banfield,2.91
+3753,2022-02-18,Atl. Tucuman,Platense,3.25
+3754,2022-02-18,Talleres Cordoba,Union de Santa Fe,2.88

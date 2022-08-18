@@ -1,0 +1,3756 @@
+,Date,Home,Away,Bet
+0,2012-03-08,Arsenal Sarandi,Union de Santa Fe,H
+1,2012-04-08,Velez Sarsfield,Argentinos Jrs,H
+2,2012-04-08,Racing Club,Atl. Rafaela,H
+3,2012-04-08,Colon Santa FE,Lanus,D
+4,2012-04-08,Quilmes,Boca Juniors,D
+5,2012-05-08,Newells Old Boys,Independiente,H
+6,2012-05-08,Godoy Cruz,All Boys,H
+7,2012-05-08,San Lorenzo,San Martin S.J.,H
+8,2012-05-08,River Plate,Belgrano,H
+9,2012-07-08,Tigre,Estudiantes L.P.,D
+10,2012-10-08,San Martin S.J.,Colon Santa FE,D
+11,2012-11-08,Lanus,Newells Old Boys,D
+12,2012-11-08,Estudiantes L.P.,River Plate,D
+13,2012-11-08,All Boys,Quilmes,D
+14,2012-11-08,Belgrano,San Lorenzo,D
+15,2012-12-08,Argentinos Jrs,Racing Club,D
+16,2012-12-08,Union de Santa Fe,Godoy Cruz,D
+17,2012-08-13,Boca Juniors,Tigre,H
+18,2012-08-13,Atl. Rafaela,Arsenal Sarandi,D
+19,2012-08-14,Independiente,Velez Sarsfield,D
+20,2012-08-18,Boca Juniors,All Boys,H
+21,2012-08-18,Colon Santa FE,Belgrano,H
+22,2012-08-19,San Lorenzo,Estudiantes L.P.,D
+23,2012-08-19,Racing Club,Independiente,D
+24,2012-08-19,Godoy Cruz,Atl. Rafaela,H
+25,2012-08-19,Velez Sarsfield,Lanus,H
+26,2012-08-19,Tigre,River Plate,D
+27,2012-08-20,Quilmes,Union de Santa Fe,H
+28,2012-08-20,Arsenal Sarandi,Argentinos Jrs,H
+29,2012-08-20,Newells Old Boys,San Martin S.J.,H
+30,2012-08-25,All Boys,Tigre,D
+31,2012-08-25,Union de Santa Fe,Boca Juniors,D
+32,2012-08-25,Argentinos Jrs,Godoy Cruz,D
+33,2012-08-26,Independiente,Arsenal Sarandi,D
+34,2012-08-26,Atl. Rafaela,Quilmes,D
+35,2012-08-26,Belgrano,Newells Old Boys,D
+36,2012-08-26,Lanus,Racing Club,H
+37,2012-08-26,San Martin S.J.,Velez Sarsfield,D
+38,2012-08-26,River Plate,San Lorenzo,H
+39,2012-08-27,Estudiantes L.P.,Colon Santa FE,D
+40,2012-01-09,All Boys,Union de Santa Fe,H
+41,2012-01-09,Newells Old Boys,Estudiantes L.P.,H
+42,2012-01-09,Arsenal Sarandi,Lanus,D
+43,2012-02-09,Velez Sarsfield,Belgrano,H
+44,2012-02-09,Tigre,San Lorenzo,D
+45,2012-02-09,Boca Juniors,Atl. Rafaela,H
+46,2012-02-09,Godoy Cruz,Independiente,H
+47,2012-03-09,Colon Santa FE,River Plate,D
+48,2012-03-09,Quilmes,Argentinos Jrs,H
+49,2012-04-09,Racing Club,San Martin S.J.,H
+50,2012-08-09,San Martin S.J.,Arsenal Sarandi,D
+51,2012-08-09,Atl. Rafaela,All Boys,D
+52,2012-08-09,Estudiantes L.P.,Velez Sarsfield,D
+53,2012-09-09,San Lorenzo,Colon Santa FE,D
+54,2012-09-09,Argentinos Jrs,Boca Juniors,D
+55,2012-09-09,Belgrano,Racing Club,D
+56,2012-09-09,Independiente,Quilmes,D
+57,2012-10-09,River Plate,Newells Old Boys,H
+58,2012-10-09,Union de Santa Fe,Tigre,D
+59,2012-10-09,Lanus,Godoy Cruz,H
+60,2012-09-15,Tigre,Colon Santa FE,D
+61,2012-09-15,All Boys,Argentinos Jrs,D
+62,2012-09-15,Godoy Cruz,San Martin S.J.,H
+63,2012-09-16,Racing Club,Estudiantes L.P.,D
+64,2012-09-16,Boca Juniors,Independiente,H
+65,2012-09-16,Newells Old Boys,San Lorenzo,H
+66,2012-09-16,Arsenal Sarandi,Belgrano,D
+67,2012-09-17,Velez Sarsfield,River Plate,H
+68,2012-09-17,Union de Santa Fe,Atl. Rafaela,D
+69,2012-09-18,Quilmes,Lanus,D
+70,2012-09-21,Belgrano,Godoy Cruz,D
+71,2012-09-22,Atl. Rafaela,Tigre,D
+72,2012-09-22,Argentinos Jrs,Union de Santa Fe,H
+73,2012-09-22,San Lorenzo,Velez Sarsfield,D
+74,2012-09-23,Independiente,All Boys,D
+75,2012-09-23,River Plate,Racing Club,H
+76,2012-09-23,Colon Santa FE,Newells Old Boys,D
+77,2012-09-23,San Martin S.J.,Quilmes,D
+78,2012-09-23,Lanus,Boca Juniors,D
+79,2012-09-24,Estudiantes L.P.,Arsenal Sarandi,H
+80,2012-09-28,Quilmes,Belgrano,D
+81,2012-09-29,All Boys,Lanus,D
+82,2012-09-29,Godoy Cruz,Estudiantes L.P.,D
+83,2012-09-29,Atl. Rafaela,Argentinos Jrs,D
+84,2012-09-30,Racing Club,San Lorenzo,D
+85,2012-09-30,Arsenal Sarandi,River Plate,D
+86,2012-09-30,Tigre,Newells Old Boys,D
+87,2012-09-30,Union de Santa Fe,Independiente,D
+88,2012-09-30,Velez Sarsfield,Colon Santa FE,H
+89,2012-09-30,Boca Juniors,San Martin S.J.,H
+90,2012-05-10,Lanus,Union de Santa Fe,H
+91,2012-06-10,Argentinos Jrs,Tigre,H
+92,2012-06-10,San Martin S.J.,All Boys,D
+93,2012-06-10,San Lorenzo,Arsenal Sarandi,D
+94,2012-06-10,Estudiantes L.P.,Quilmes,H
+95,2012-07-10,Colon Santa FE,Racing Club,D
+96,2012-07-10,Belgrano,Boca Juniors,D
+97,2012-07-10,Independiente,Atl. Rafaela,D
+98,2012-07-10,Newells Old Boys,Velez Sarsfield,D
+99,2012-07-10,River Plate,Godoy Cruz,H
+100,2012-10-19,Arsenal Sarandi,Colon Santa FE,D
+101,2012-10-20,Argentinos Jrs,Independiente,D
+102,2012-10-20,All Boys,Belgrano,D
+103,2012-10-20,Union de Santa Fe,San Martin S.J.,D
+104,2012-10-20,Godoy Cruz,San Lorenzo,H
+105,2012-10-20,Tigre,Velez Sarsfield,A
+106,2012-10-21,Racing Club,Newells Old Boys,D
+107,2012-10-21,Quilmes,River Plate,A
+108,2012-10-21,Atl. Rafaela,Lanus,D
+109,2012-10-21,Boca Juniors,Estudiantes L.P.,H
+110,2012-10-27,San Lorenzo,Quilmes,H
+111,2012-10-27,San Martin S.J.,Atl. Rafaela,H
+112,2012-10-27,Estudiantes L.P.,All Boys,H
+113,2012-10-27,Newells Old Boys,Arsenal Sarandi,H
+114,2012-10-28,Velez Sarsfield,Racing Club,H
+115,2012-10-28,River Plate,Boca Juniors,D
+116,2012-10-28,Belgrano,Union de Santa Fe,H
+117,2012-10-28,Lanus,Argentinos Jrs,H
+118,2012-10-29,Colon Santa FE,Godoy Cruz,H
+119,2012-02-11,Atl. Rafaela,Belgrano,D
+120,2012-03-11,Argentinos Jrs,San Martin S.J.,D
+121,2012-03-11,Union de Santa Fe,Estudiantes L.P.,D
+122,2012-03-11,Boca Juniors,San Lorenzo,H
+123,2012-03-11,Arsenal Sarandi,Velez Sarsfield,D
+124,2012-04-11,Godoy Cruz,Newells Old Boys,D
+125,2012-04-11,Quilmes,Colon Santa FE,D
+126,2012-04-11,All Boys,River Plate,D
+127,2012-05-11,Tigre,Racing Club,D
+128,2012-06-11,Independiente,Lanus,D
+129,2012-09-11,Belgrano,Argentinos Jrs,H
+130,2012-09-11,Newells Old Boys,Quilmes,H
+131,2012-10-11,Velez Sarsfield,Godoy Cruz,H
+132,2012-10-11,San Lorenzo,All Boys,D
+133,2012-10-11,River Plate,Union de Santa Fe,H
+134,2012-10-11,Estudiantes L.P.,Atl. Rafaela,H
+135,2012-11-11,Lanus,Tigre,H
+136,2012-11-11,San Martin S.J.,Independiente,H
+137,2012-11-11,Colon Santa FE,Boca Juniors,D
+138,2012-11-11,Racing Club,Arsenal Sarandi,H
+139,2012-11-13,Argentinos Jrs,Estudiantes L.P.,D
+140,2012-11-13,Union de Santa Fe,San Lorenzo,D
+141,2012-11-14,Quilmes,Velez Sarsfield,A
+142,2012-11-14,All Boys,Colon Santa FE,D
+143,2012-11-15,Atl. Rafaela,River Plate,D
+144,2012-11-15,Godoy Cruz,Racing Club,D
+145,2012-11-15,Lanus,San Martin S.J.,H
+146,2012-11-16,Boca Juniors,Newells Old Boys,D
+147,2012-11-16,Tigre,Arsenal Sarandi,D
+148,2012-11-17,San Lorenzo,Atl. Rafaela,H
+149,2012-11-17,Estudiantes L.P.,Independiente,H
+150,2012-11-18,Arsenal Sarandi,Godoy Cruz,H
+151,2012-11-18,Colon Santa FE,Union de Santa Fe,H
+152,2012-11-18,San Martin S.J.,Tigre,H
+153,2012-11-18,Newells Old Boys,All Boys,H
+154,2012-11-18,Velez Sarsfield,Boca Juniors,H
+155,2012-11-19,Belgrano,Lanus,D
+156,2012-11-19,Racing Club,Quilmes,H
+157,2012-11-20,River Plate,Argentinos Jrs,H
+158,2012-11-24,Independiente,River Plate,D
+159,2012-11-24,Union de Santa Fe,Newells Old Boys,A
+160,2012-11-24,San Martin S.J.,Belgrano,D
+161,2012-11-25,Argentinos Jrs,San Lorenzo,D
+162,2012-11-25,All Boys,Velez Sarsfield,A
+163,2012-11-25,Lanus,Estudiantes L.P.,H
+164,2012-11-25,Tigre,Godoy Cruz,H
+165,2012-11-25,Boca Juniors,Racing Club,D
+166,2012-11-26,Quilmes,Arsenal Sarandi,D
+167,2012-11-27,Atl. Rafaela,Colon Santa FE,D
+168,2012-11-28,Independiente,Belgrano,D
+169,2012-01-12,Godoy Cruz,Quilmes,H
+170,2012-01-12,Colon Santa FE,Argentinos Jrs,H
+171,2012-02-12,Racing Club,All Boys,H
+172,2012-02-12,Belgrano,Tigre,H
+173,2012-02-12,River Plate,Lanus,D
+174,2012-02-12,Velez Sarsfield,Union de Santa Fe,H
+175,2012-02-12,San Lorenzo,Independiente,H
+176,2012-02-12,Arsenal Sarandi,Boca Juniors,D
+177,2012-03-12,Newells Old Boys,Atl. Rafaela,H
+178,2012-03-12,Estudiantes L.P.,San Martin S.J.,H
+179,2012-07-12,All Boys,Arsenal Sarandi,D
+180,2012-08-12,Union de Santa Fe,Racing Club,A
+181,2012-08-12,Argentinos Jrs,Newells Old Boys,D
+182,2012-08-12,Boca Juniors,Godoy Cruz,H
+183,2012-08-12,Atl. Rafaela,Velez Sarsfield,A
+184,2012-08-12,Belgrano,Estudiantes L.P.,D
+185,2012-09-12,Lanus,San Lorenzo,H
+186,2012-09-12,Independiente,Colon Santa FE,D
+187,2012-09-12,San Martin S.J.,River Plate,D
+188,2013-03-02,Independiente,Tigre,H
+189,2013-08-02,Union de Santa Fe,Arsenal Sarandi,D
+190,2013-09-02,Argentinos Jrs,Velez Sarsfield,A
+191,2013-09-02,All Boys,Godoy Cruz,D
+192,2013-09-02,Estudiantes L.P.,Tigre,H
+193,2013-09-02,Boca Juniors,Quilmes,H
+194,2013-10-02,San Martin S.J.,San Lorenzo,D
+195,2013-10-02,Atl. Rafaela,Racing Club,D
+196,2013-10-02,Independiente,Newells Old Boys,D
+197,2013-10-02,Belgrano,River Plate,D
+198,2013-11-02,Lanus,Colon Santa FE,H
+199,2013-02-13,Quilmes,Tigre,D
+200,2013-02-16,Racing Club,Argentinos Jrs,H
+201,2013-02-16,Godoy Cruz,Union de Santa Fe,H
+202,2013-02-16,San Lorenzo,Belgrano,H
+203,2013-02-16,Colon Santa FE,San Martin S.J.,H
+204,2013-02-16,Velez Sarsfield,Independiente,H
+205,2013-02-17,Tigre,Boca Juniors,D
+206,2013-02-17,Quilmes,All Boys,D
+207,2013-02-17,Newells Old Boys,Lanus,D
+208,2013-02-17,River Plate,Estudiantes L.P.,H
+209,2013-02-18,Arsenal Sarandi,Atl. Rafaela,H
+210,2013-02-22,Argentinos Jrs,Arsenal Sarandi,D
+211,2013-02-23,Estudiantes L.P.,San Lorenzo,D
+212,2013-02-23,Union de Santa Fe,Quilmes,D
+213,2013-02-23,All Boys,Boca Juniors,D
+214,2013-02-23,Lanus,Velez Sarsfield,H
+215,2013-02-24,Atl. Rafaela,Godoy Cruz,H
+216,2013-02-24,Independiente,Racing Club,D
+217,2013-02-24,Belgrano,Colon Santa FE,D
+218,2013-02-24,River Plate,Tigre,H
+219,2013-02-26,San Martin S.J.,Newells Old Boys,D
+220,2013-01-03,Quilmes,Atl. Rafaela,H
+221,2013-02-03,Newells Old Boys,Belgrano,H
+222,2013-02-03,Colon Santa FE,Estudiantes L.P.,D
+223,2013-02-03,Arsenal Sarandi,Independiente,D
+224,2013-03-03,Godoy Cruz,Argentinos Jrs,H
+225,2013-03-03,San Lorenzo,River Plate,D
+226,2013-03-03,Tigre,All Boys,D
+227,2013-03-03,Racing Club,Lanus,D
+228,2013-03-03,Boca Juniors,Union de Santa Fe,H
+229,2013-05-03,Velez Sarsfield,San Martin S.J.,H
+230,2013-08-03,Belgrano,Velez Sarsfield,D
+231,2013-09-03,Independiente,Godoy Cruz,H
+232,2013-09-03,Union de Santa Fe,All Boys,D
+233,2013-09-03,Estudiantes L.P.,Newells Old Boys,H
+234,2013-09-03,San Martin S.J.,Racing Club,D
+235,2013-10-03,San Lorenzo,Tigre,H
+236,2013-10-03,River Plate,Colon Santa FE,H
+237,2013-10-03,Atl. Rafaela,Boca Juniors,D
+238,2013-11-03,Lanus,Arsenal Sarandi,H
+239,2013-12-03,Argentinos Jrs,Quilmes,D
+240,2013-03-16,Tigre,Union de Santa Fe,H
+241,2013-03-16,Colon Santa FE,San Lorenzo,D
+242,2013-03-16,Quilmes,Independiente,D
+243,2013-03-17,Godoy Cruz,Lanus,D
+244,2013-03-17,Newells Old Boys,River Plate,D
+245,2013-03-17,Racing Club,Belgrano,H
+246,2013-03-17,Velez Sarsfield,Estudiantes L.P.,H
+247,2013-03-17,Boca Juniors,Argentinos Jrs,H
+248,2013-03-18,Arsenal Sarandi,San Martin S.J.,H
+249,2013-03-19,All Boys,Atl. Rafaela,D
+250,2013-03-29,Colon Santa FE,Tigre,H
+251,2013-03-30,Belgrano,Arsenal Sarandi,D
+252,2013-03-30,Argentinos Jrs,All Boys,D
+253,2013-03-30,River Plate,Velez Sarsfield,D
+254,2013-03-30,Estudiantes L.P.,Racing Club,D
+255,2013-03-31,Independiente,Boca Juniors,D
+256,2013-03-31,San Martin S.J.,Godoy Cruz,D
+257,2013-03-31,Atl. Rafaela,Union de Santa Fe,H
+258,2013-03-31,San Lorenzo,Newells Old Boys,D
+259,2013-01-04,Lanus,Quilmes,H
+260,2013-06-04,All Boys,Independiente,D
+261,2013-06-04,Tigre,Atl. Rafaela,D
+262,2013-06-04,Velez Sarsfield,San Lorenzo,H
+263,2013-06-04,Union de Santa Fe,Argentinos Jrs,D
+264,2013-06-04,Godoy Cruz,Belgrano,D
+265,2013-07-04,Quilmes,San Martin S.J.,H
+266,2013-07-04,Racing Club,River Plate,D
+267,2013-07-04,Newells Old Boys,Colon Santa FE,H
+268,2013-08-04,Boca Juniors,Lanus,D
+269,2013-09-04,Arsenal Sarandi,Estudiantes L.P.,D
+270,2013-12-04,Independiente,Union de Santa Fe,H
+271,2013-04-13,Argentinos Jrs,Atl. Rafaela,D
+272,2013-04-13,San Martin S.J.,Boca Juniors,D
+273,2013-04-13,San Lorenzo,Racing Club,D
+274,2013-04-14,Lanus,All Boys,H
+275,2013-04-14,Estudiantes L.P.,Godoy Cruz,H
+276,2013-04-14,Colon Santa FE,Velez Sarsfield,D
+277,2013-04-14,Newells Old Boys,Tigre,H
+278,2013-04-15,River Plate,Arsenal Sarandi,H
+279,2013-04-16,Belgrano,Quilmes,H
+280,2013-04-19,Velez Sarsfield,Newells Old Boys,D
+281,2013-04-20,Racing Club,Colon Santa FE,H
+282,2013-04-20,All Boys,San Martin S.J.,H
+283,2013-04-21,Quilmes,Estudiantes L.P.,D
+284,2013-04-21,Atl. Rafaela,Independiente,D
+285,2013-04-21,Arsenal Sarandi,San Lorenzo,D
+286,2013-04-21,Boca Juniors,Belgrano,D
+287,2013-04-22,Godoy Cruz,River Plate,D
+288,2013-04-22,Union de Santa Fe,Lanus,A
+289,2013-04-23,Tigre,Argentinos Jrs,D
+290,2013-04-27,Estudiantes L.P.,Boca Juniors,H
+291,2013-04-27,San Lorenzo,Godoy Cruz,H
+292,2013-04-27,Colon Santa FE,Arsenal Sarandi,H
+293,2013-04-28,San Martin S.J.,Union de Santa Fe,H
+294,2013-04-28,Independiente,Argentinos Jrs,H
+295,2013-04-28,Newells Old Boys,Racing Club,H
+296,2013-04-29,River Plate,Quilmes,H
+297,2013-04-29,Belgrano,All Boys,H
+298,2013-04-30,Lanus,Atl. Rafaela,H
+299,2013-03-05,Godoy Cruz,Colon Santa FE,D
+300,2013-04-05,Quilmes,San Lorenzo,D
+301,2013-04-05,Union de Santa Fe,Belgrano,D
+302,2013-04-05,Argentinos Jrs,Lanus,A
+303,2013-05-05,Racing Club,Velez Sarsfield,D
+304,2013-05-05,Tigre,Independiente,D
+305,2013-05-05,Boca Juniors,River Plate,D
+306,2013-06-05,Atl. Rafaela,San Martin S.J.,H
+307,2013-06-05,All Boys,Estudiantes L.P.,D
+308,2013-07-05,Arsenal Sarandi,Newells Old Boys,D
+309,2013-09-05,Velez Sarsfield,Tigre,H
+310,2013-11-05,Belgrano,Atl. Rafaela,H
+311,2013-11-05,San Lorenzo,Boca Juniors,H
+312,2013-11-05,Newells Old Boys,Godoy Cruz,H
+313,2013-11-05,Velez Sarsfield,Arsenal Sarandi,D
+314,2013-12-05,Racing Club,Tigre,H
+315,2013-12-05,Lanus,Independiente,H
+316,2013-12-05,San Martin S.J.,Argentinos Jrs,H
+317,2013-12-05,Colon Santa FE,Quilmes,H
+318,2013-05-13,River Plate,All Boys,H
+319,2013-05-14,Estudiantes L.P.,Union de Santa Fe,H
+320,2013-05-18,Arsenal Sarandi,Racing Club,D
+321,2013-05-18,Atl. Rafaela,Estudiantes L.P.,D
+322,2013-05-18,Godoy Cruz,Velez Sarsfield,D
+323,2013-05-18,Quilmes,Newells Old Boys,D
+324,2013-05-19,Boca Juniors,Colon Santa FE,D
+325,2013-05-19,Independiente,San Martin S.J.,H
+326,2013-05-19,Union de Santa Fe,River Plate,A
+327,2013-05-20,All Boys,San Lorenzo,D
+328,2013-05-20,Argentinos Jrs,Belgrano,D
+329,2013-05-21,Tigre,Lanus,A
+330,2013-05-24,Colon Santa FE,All Boys,H
+331,2013-05-25,Velez Sarsfield,Quilmes,H
+332,2013-05-26,Belgrano,Independiente,D
+333,2013-05-26,Racing Club,Godoy Cruz,H
+334,2013-05-26,San Martin S.J.,Lanus,D
+335,2013-05-26,River Plate,Atl. Rafaela,H
+336,2013-05-27,Newells Old Boys,Boca Juniors,H
+337,2013-05-27,Arsenal Sarandi,Tigre,H
+338,2013-05-27,Estudiantes L.P.,Argentinos Jrs,H
+339,2013-05-28,San Lorenzo,Union de Santa Fe,H
+340,2013-01-06,Quilmes,Racing Club,H
+341,2013-01-06,Independiente,Estudiantes L.P.,H
+342,2013-01-06,Godoy Cruz,Arsenal Sarandi,H
+343,2013-02-06,Atl. Rafaela,San Lorenzo,D
+344,2013-02-06,Union de Santa Fe,Colon Santa FE,D
+345,2013-02-06,Lanus,Belgrano,H
+346,2013-02-06,Boca Juniors,Velez Sarsfield,D
+347,2013-03-06,Argentinos Jrs,River Plate,A
+348,2013-03-06,Tigre,San Martin S.J.,D
+349,2013-04-06,All Boys,Newells Old Boys,A
+350,2013-08-06,Belgrano,San Martin S.J.,D
+351,2013-08-06,Arsenal Sarandi,Quilmes,D
+352,2013-08-06,Godoy Cruz,Tigre,H
+353,2013-09-06,River Plate,Independiente,H
+354,2013-09-06,Colon Santa FE,Atl. Rafaela,D
+355,2013-10-06,Racing Club,Boca Juniors,D
+356,2013-10-06,Newells Old Boys,Union de Santa Fe,H
+357,2013-11-06,San Lorenzo,Argentinos Jrs,H
+358,2013-12-06,Velez Sarsfield,All Boys,H
+359,2013-06-15,Tigre,Belgrano,D
+360,2013-06-15,Argentinos Jrs,Colon Santa FE,H
+361,2013-06-15,Independiente,San Lorenzo,D
+362,2013-06-15,San Martin S.J.,Estudiantes L.P.,H
+363,2013-06-16,Union de Santa Fe,Velez Sarsfield,A
+364,2013-06-16,All Boys,Racing Club,D
+365,2013-06-16,Atl. Rafaela,Newells Old Boys,A
+366,2013-06-16,Boca Juniors,Arsenal Sarandi,H
+367,2013-06-17,Lanus,River Plate,D
+368,2013-06-18,Quilmes,Godoy Cruz,H
+369,2013-06-19,Estudiantes L.P.,Lanus,D
+370,2013-06-22,Racing Club,Union de Santa Fe,H
+371,2013-06-22,Estudiantes L.P.,Belgrano,D
+372,2013-06-22,Tigre,Quilmes,D
+373,2013-06-23,Colon Santa FE,Independiente,H
+374,2013-06-23,Newells Old Boys,Argentinos Jrs,H
+375,2013-06-23,River Plate,San Martin S.J.,D
+376,2013-06-23,Velez Sarsfield,Atl. Rafaela,H
+377,2013-06-23,Arsenal Sarandi,All Boys,H
+378,2013-06-23,San Lorenzo,Lanus,D
+379,2013-06-24,Godoy Cruz,Boca Juniors,H
+380,2013-06-29,Velez Sarsfield,Newells Old Boys,D
+381,2013-02-08,Godoy Cruz,Argentinos Jrs,H
+382,2013-03-08,Arsenal Sarandi,Estudiantes L.P.,D
+383,2013-03-08,All Boys,Atl. Rafaela,H
+384,2013-03-08,Tigre,Velez Sarsfield,D
+385,2013-04-08,Colon Santa FE,Racing Club,D
+386,2013-04-08,San Lorenzo,Olimpo Bahia Blanca,H
+387,2013-04-08,Lanus,Belgrano,H
+388,2013-04-08,Gimnasia L.P.,River Plate,D
+389,2013-05-08,Rosario Central,Quilmes,H
+390,2013-07-08,Argentinos Jrs,Colon Santa FE,D
+391,2013-07-08,Belgrano,Boca Juniors,D
+392,2013-08-08,Estudiantes L.P.,All Boys,H
+393,2013-08-08,Atl. Rafaela,Lanus,A
+394,2013-08-08,Quilmes,Godoy Cruz,D
+395,2013-09-08,Velez Sarsfield,Arsenal Sarandi,H
+396,2013-09-08,Olimpo Bahia Blanca,Tigre,D
+397,2013-09-08,Racing Club,San Lorenzo,D
+398,2013-10-08,River Plate,Rosario Central,H
+399,2013-08-13,Boca Juniors,Newells Old Boys,H
+400,2013-08-16,Arsenal Sarandi,Olimpo Bahia Blanca,H
+401,2013-08-17,Colon Santa FE,Quilmes,H
+402,2013-08-17,Gimnasia L.P.,Rosario Central,D
+403,2013-08-18,San Lorenzo,Argentinos Jrs,H
+404,2013-08-18,Newells Old Boys,Belgrano,H
+405,2013-08-18,Tigre,Racing Club,D
+406,2013-08-18,Boca Juniors,Atl. Rafaela,H
+407,2013-08-19,Godoy Cruz,River Plate,D
+408,2013-08-19,All Boys,Velez Sarsfield,D
+409,2013-08-20,Lanus,Estudiantes L.P.,H
+410,2013-08-23,Belgrano,Gimnasia L.P.,D
+411,2013-08-23,Atl. Rafaela,Newells Old Boys,D
+412,2013-08-24,Racing Club,Arsenal Sarandi,D
+413,2013-08-24,Velez Sarsfield,Lanus,D
+414,2013-08-24,Argentinos Jrs,Tigre,D
+415,2013-08-24,Rosario Central,Godoy Cruz,H
+416,2013-08-25,Olimpo Bahia Blanca,All Boys,D
+417,2013-08-25,River Plate,Colon Santa FE,H
+418,2013-08-26,Estudiantes L.P.,Boca Juniors,D
+419,2013-08-27,Quilmes,San Lorenzo,D
+420,2013-08-27,Newells Old Boys,Gimnasia L.P.,H
+421,2013-08-31,Newells Old Boys,Estudiantes L.P.,H
+422,2013-08-31,Tigre,Quilmes,D
+423,2013-01-09,All Boys,Racing Club,D
+424,2013-01-09,Gimnasia L.P.,Godoy Cruz,H
+425,2013-01-09,Colon Santa FE,Rosario Central,D
+426,2013-01-09,Boca Juniors,Velez Sarsfield,D
+427,2013-02-09,San Lorenzo,River Plate,D
+428,2013-02-09,Arsenal Sarandi,Argentinos Jrs,H
+429,2013-02-09,Belgrano,Atl. Rafaela,H
+430,2013-03-09,Lanus,Olimpo Bahia Blanca,H
+431,2013-07-09,Velez Sarsfield,Newells Old Boys,D
+432,2013-07-09,Estudiantes L.P.,Belgrano,H
+433,2013-07-09,Godoy Cruz,Colon Santa FE,H
+434,2013-07-09,Argentinos Jrs,All Boys,D
+435,2013-07-09,Atl. Rafaela,Gimnasia L.P.,D
+436,2013-08-09,Racing Club,Lanus,D
+437,2013-08-09,Quilmes,Arsenal Sarandi,D
+438,2013-08-09,Rosario Central,San Lorenzo,D
+439,2013-08-09,River Plate,Tigre,H
+440,2013-09-09,Olimpo Bahia Blanca,Boca Juniors,D
+441,2013-09-13,Lanus,Argentinos Jrs,H
+442,2013-09-14,Belgrano,Velez Sarsfield,D
+443,2013-09-14,Newells Old Boys,Olimpo Bahia Blanca,H
+444,2013-09-14,All Boys,Quilmes,H
+445,2013-09-15,San Lorenzo,Godoy Cruz,H
+446,2013-09-15,Atl. Rafaela,Estudiantes L.P.,D
+447,2013-09-15,Tigre,Rosario Central,D
+448,2013-09-15,Boca Juniors,Racing Club,H
+449,2013-09-16,Arsenal Sarandi,River Plate,D
+450,2013-09-17,Gimnasia L.P.,Colon Santa FE,H
+451,2013-09-20,Godoy Cruz,Tigre,H
+452,2013-09-21,Racing Club,Newells Old Boys,D
+453,2013-09-21,Olimpo Bahia Blanca,Belgrano,D
+454,2013-09-22,Rosario Central,Arsenal Sarandi,H
+455,2013-09-22,Quilmes,Lanus,A
+456,2013-09-22,Colon Santa FE,San Lorenzo,D
+457,2013-09-22,Estudiantes L.P.,Gimnasia L.P.,D
+458,2013-09-22,Argentinos Jrs,Boca Juniors,D
+459,2013-09-23,River Plate,All Boys,H
+460,2013-09-24,Velez Sarsfield,Atl. Rafaela,H
+461,2013-09-27,Arsenal Sarandi,Godoy Cruz,H
+462,2013-09-27,All Boys,Rosario Central,D
+463,2013-09-28,Estudiantes L.P.,Velez Sarsfield,D
+464,2013-09-28,San Lorenzo,Gimnasia L.P.,H
+465,2013-09-28,Atl. Rafaela,Olimpo Bahia Blanca,H
+466,2013-09-29,Newells Old Boys,Argentinos Jrs,H
+467,2013-09-29,Tigre,Colon Santa FE,H
+468,2013-09-29,Belgrano,Racing Club,H
+469,2013-09-29,Boca Juniors,Quilmes,H
+470,2013-09-30,Lanus,River Plate,H
+471,2013-04-10,Argentinos Jrs,Belgrano,D
+472,2013-05-10,Olimpo Bahia Blanca,Estudiantes L.P.,D
+473,2013-05-10,Quilmes,Newells Old Boys,A
+474,2013-06-10,San Lorenzo,Tigre,H
+475,2013-06-10,River Plate,Boca Juniors,D
+476,2013-07-10,Racing Club,Atl. Rafaela,H
+477,2013-07-10,Colon Santa FE,Arsenal Sarandi,D
+478,2013-07-10,Godoy Cruz,All Boys,H
+479,2013-07-10,Gimnasia L.P.,Velez Sarsfield,D
+480,2013-08-10,Rosario Central,Lanus,D
+481,2013-12-10,All Boys,Colon Santa FE,H
+482,2013-12-10,Atl. Rafaela,Argentinos Jrs,H
+483,2013-12-10,Belgrano,Quilmes,H
+484,2013-10-13,Arsenal Sarandi,San Lorenzo,D
+485,2013-10-13,Estudiantes L.P.,Racing Club,H
+486,2013-10-13,Velez Sarsfield,Olimpo Bahia Blanca,H
+487,2013-10-13,Boca Juniors,Rosario Central,H
+488,2013-10-14,Newells Old Boys,River Plate,H
+489,2013-10-14,Tigre,Gimnasia L.P.,D
+490,2013-10-15,Lanus,Godoy Cruz,H
+491,2013-10-18,Quilmes,Atl. Rafaela,D
+492,2013-10-18,Argentinos Jrs,Estudiantes L.P.,D
+493,2013-10-19,Racing Club,Velez Sarsfield,A
+494,2013-10-19,Colon Santa FE,Lanus,D
+495,2013-10-20,San Lorenzo,All Boys,H
+496,2013-10-20,Gimnasia L.P.,Olimpo Bahia Blanca,H
+497,2013-10-20,Rosario Central,Newells Old Boys,D
+498,2013-10-20,Tigre,Arsenal Sarandi,D
+499,2013-10-20,River Plate,Belgrano,H
+500,2013-10-21,Godoy Cruz,Boca Juniors,D
+501,2013-10-23,Velez Sarsfield,Argentinos Jrs,H
+502,2013-10-23,All Boys,Tigre,H
+503,2013-10-23,Atl. Rafaela,River Plate,D
+504,2013-10-24,Lanus,San Lorenzo,D
+505,2013-10-25,Belgrano,Rosario Central,D
+506,2013-10-25,Newells Old Boys,Godoy Cruz,H
+507,2013-10-25,Boca Juniors,Colon Santa FE,H
+508,2013-10-26,Arsenal Sarandi,Gimnasia L.P.,H
+509,2013-10-28,Estudiantes L.P.,Quilmes,H
+510,2013-10-28,Olimpo Bahia Blanca,Racing Club,H
+511,2013-01-11,Arsenal Sarandi,All Boys,H
+512,2013-01-11,Colon Santa FE,Newells Old Boys,A
+513,2013-02-11,Argentinos Jrs,Olimpo Bahia Blanca,D
+514,2013-02-11,Rosario Central,Atl. Rafaela,H
+515,2013-02-11,Godoy Cruz,Belgrano,D
+516,2013-02-11,Gimnasia L.P.,Racing Club,H
+517,2013-03-11,Quilmes,Velez Sarsfield,D
+518,2013-03-11,Tigre,Lanus,D
+519,2013-03-11,San Lorenzo,Boca Juniors,H
+520,2013-04-11,River Plate,Estudiantes L.P.,D
+521,2013-08-11,Atl. Rafaela,Godoy Cruz,D
+522,2013-09-11,Olimpo Bahia Blanca,Quilmes,D
+523,2013-09-11,All Boys,Gimnasia L.P.,D
+524,2013-09-11,Estudiantes L.P.,Rosario Central,H
+525,2013-09-11,Newells Old Boys,San Lorenzo,H
+526,2013-10-11,Belgrano,Colon Santa FE,H
+527,2013-10-11,Boca Juniors,Tigre,H
+528,2013-10-11,Racing Club,Argentinos Jrs,D
+529,2013-11-11,Velez Sarsfield,River Plate,H
+530,2013-11-11,Lanus,Arsenal Sarandi,H
+531,2013-11-15,Gimnasia L.P.,Argentinos Jrs,H
+532,2013-11-16,All Boys,Lanus,D
+533,2013-11-16,Godoy Cruz,Estudiantes L.P.,D
+534,2013-11-16,Quilmes,Racing Club,D
+535,2013-11-16,San Lorenzo,Belgrano,H
+536,2013-11-17,Rosario Central,Velez Sarsfield,H
+537,2013-11-17,River Plate,Olimpo Bahia Blanca,H
+538,2013-11-18,Arsenal Sarandi,Boca Juniors,D
+539,2013-11-18,Tigre,Newells Old Boys,A
+540,2013-11-18,Colon Santa FE,Atl. Rafaela,D
+541,2013-11-22,Velez Sarsfield,Godoy Cruz,H
+542,2013-11-23,Argentinos Jrs,Quilmes,H
+543,2013-11-23,Olimpo Bahia Blanca,Rosario Central,D
+544,2013-11-23,Atl. Rafaela,San Lorenzo,D
+545,2013-11-24,Lanus,Gimnasia L.P.,H
+546,2013-11-24,Boca Juniors,All Boys,H
+547,2013-11-24,Newells Old Boys,Arsenal Sarandi,H
+548,2013-11-25,Racing Club,River Plate,D
+549,2013-11-25,Estudiantes L.P.,Colon Santa FE,H
+550,2013-11-26,Belgrano,Tigre,H
+551,2013-11-29,Godoy Cruz,Olimpo Bahia Blanca,H
+552,2013-11-29,Rosario Central,Racing Club,H
+553,2013-11-30,Colon Santa FE,Velez Sarsfield,A
+554,2013-11-30,Tigre,Atl. Rafaela,H
+555,2013-11-30,Arsenal Sarandi,Belgrano,H
+556,2013-11-30,All Boys,Newells Old Boys,A
+557,2013-01-12,Gimnasia L.P.,Quilmes,H
+558,2013-01-12,San Lorenzo,Estudiantes L.P.,H
+559,2013-01-12,Lanus,Boca Juniors,D
+560,2013-02-12,River Plate,Argentinos Jrs,H
+561,2013-06-12,Belgrano,All Boys,H
+562,2013-06-12,Racing Club,Godoy Cruz,H
+563,2013-07-12,Argentinos Jrs,Rosario Central,D
+564,2013-07-12,Atl. Rafaela,Arsenal Sarandi,D
+565,2013-08-12,Estudiantes L.P.,Tigre,H
+566,2013-08-12,Boca Juniors,Gimnasia L.P.,H
+567,2013-09-12,Quilmes,River Plate,D
+568,2013-09-12,Olimpo Bahia Blanca,Colon Santa FE,H
+569,2013-12-15,Newells Old Boys,Lanus,H
+570,2013-12-15,Velez Sarsfield,San Lorenzo,D
+571,2014-07-02,Estudiantes L.P.,Arsenal Sarandi,D
+572,2014-07-02,Velez Sarsfield,Tigre,H
+573,2014-08-02,Olimpo Bahia Blanca,San Lorenzo,D
+574,2014-08-02,Argentinos Jrs,Godoy Cruz,D
+575,2014-08-02,Atl. Rafaela,All Boys,H
+576,2014-08-02,Racing Club,Colon Santa FE,H
+577,2014-09-02,Quilmes,Rosario Central,D
+578,2014-09-02,Newells Old Boys,Boca Juniors,H
+579,2014-10-02,River Plate,Gimnasia L.P.,H
+580,2014-11-02,Belgrano,Lanus,D
+581,2014-02-14,Godoy Cruz,Quilmes,H
+582,2014-02-15,All Boys,Estudiantes L.P.,D
+583,2014-02-15,Arsenal Sarandi,Velez Sarsfield,D
+584,2014-02-15,Tigre,Olimpo Bahia Blanca,H
+585,2014-02-15,San Lorenzo,Racing Club,H
+586,2014-02-16,Colon Santa FE,Argentinos Jrs,D
+587,2014-02-16,Gimnasia L.P.,Newells Old Boys,D
+588,2014-02-16,Lanus,Atl. Rafaela,H
+589,2014-02-16,Rosario Central,River Plate,D
+590,2014-02-17,Boca Juniors,Belgrano,H
+591,2014-02-18,Olimpo Bahia Blanca,Arsenal Sarandi,D
+592,2014-02-18,Velez Sarsfield,All Boys,H
+593,2014-02-19,Racing Club,Tigre,H
+594,2014-02-19,Quilmes,Colon Santa FE,H
+595,2014-02-19,Argentinos Jrs,San Lorenzo,A
+596,2014-02-19,Estudiantes L.P.,Lanus,D
+597,2014-02-20,River Plate,Godoy Cruz,H
+598,2014-02-20,Belgrano,Newells Old Boys,D
+599,2014-02-20,Rosario Central,Gimnasia L.P.,H
+600,2014-02-21,Atl. Rafaela,Boca Juniors,D
+601,2014-02-22,Lanus,Velez Sarsfield,D
+602,2014-02-22,All Boys,Olimpo Bahia Blanca,D
+603,2014-02-22,Arsenal Sarandi,Racing Club,D
+604,2014-02-23,Newells Old Boys,Atl. Rafaela,H
+605,2014-02-23,San Lorenzo,Quilmes,H
+606,2014-02-23,Boca Juniors,Estudiantes L.P.,D
+607,2014-02-24,Colon Santa FE,River Plate,D
+608,2014-02-24,Godoy Cruz,Rosario Central,D
+609,2014-02-24,Tigre,Argentinos Jrs,H
+610,2014-02-25,Gimnasia L.P.,Belgrano,H
+611,2014-02-28,Godoy Cruz,Gimnasia L.P.,H
+612,2014-02-28,Racing Club,All Boys,H
+613,2014-01-03,Velez Sarsfield,Boca Juniors,H
+614,2014-01-03,Atl. Rafaela,Belgrano,D
+615,2014-01-03,Argentinos Jrs,Arsenal Sarandi,D
+616,2014-01-03,Rosario Central,Colon Santa FE,H
+617,2014-02-03,Olimpo Bahia Blanca,Lanus,D
+618,2014-02-03,Quilmes,Tigre,D
+619,2014-02-03,River Plate,San Lorenzo,D
+620,2014-03-03,Estudiantes L.P.,Newells Old Boys,D
+621,2014-04-03,Colon Santa FE,Godoy Cruz,D
+622,2014-04-03,Gimnasia L.P.,Atl. Rafaela,H
+623,2014-05-03,All Boys,Argentinos Jrs,H
+624,2014-05-03,Belgrano,Estudiantes L.P.,D
+625,2014-05-03,Lanus,Racing Club,H
+626,2014-05-03,Boca Juniors,Olimpo Bahia Blanca,H
+627,2014-06-03,Newells Old Boys,Velez Sarsfield,D
+628,2014-06-03,Arsenal Sarandi,Quilmes,H
+629,2014-06-03,San Lorenzo,Rosario Central,H
+630,2014-07-03,Tigre,River Plate,D
+631,2014-08-03,Argentinos Jrs,Lanus,A
+632,2014-08-03,Colon Santa FE,Gimnasia L.P.,D
+633,2014-08-03,Estudiantes L.P.,Atl. Rafaela,H
+634,2014-09-03,Velez Sarsfield,Belgrano,H
+635,2014-09-03,Godoy Cruz,San Lorenzo,H
+636,2014-09-03,Olimpo Bahia Blanca,Newells Old Boys,D
+637,2014-09-03,River Plate,Arsenal Sarandi,H
+638,2014-10-03,Racing Club,Boca Juniors,D
+639,2014-10-03,Quilmes,All Boys,H
+640,2014-11-03,Rosario Central,Tigre,H
+641,2014-03-14,Atl. Rafaela,Velez Sarsfield,D
+642,2014-03-15,Tigre,Godoy Cruz,D
+643,2014-03-15,Belgrano,Olimpo Bahia Blanca,H
+644,2014-03-15,San Lorenzo,Colon Santa FE,H
+645,2014-03-16,Gimnasia L.P.,Estudiantes L.P.,D
+646,2014-03-16,Arsenal Sarandi,Rosario Central,D
+647,2014-03-16,Newells Old Boys,Racing Club,H
+648,2014-03-16,Boca Juniors,Argentinos Jrs,H
+649,2014-03-17,All Boys,River Plate,A
+650,2014-03-17,Lanus,Quilmes,H
+651,2014-03-21,Olimpo Bahia Blanca,Atl. Rafaela,H
+652,2014-03-21,Colon Santa FE,Tigre,D
+653,2014-03-22,Racing Club,Belgrano,D
+654,2014-03-22,Argentinos Jrs,Newells Old Boys,D
+655,2014-03-22,Rosario Central,All Boys,H
+656,2014-03-22,Velez Sarsfield,Estudiantes L.P.,H
+657,2014-03-23,Godoy Cruz,Arsenal Sarandi,H
+658,2014-03-23,Gimnasia L.P.,San Lorenzo,D
+659,2014-03-23,River Plate,Lanus,H
+660,2014-03-24,Quilmes,Boca Juniors,A
+661,2014-03-28,All Boys,Godoy Cruz,D
+662,2014-03-28,Estudiantes L.P.,Olimpo Bahia Blanca,H
+663,2014-03-29,Belgrano,Argentinos Jrs,H
+664,2014-03-29,Velez Sarsfield,Gimnasia L.P.,H
+665,2014-03-29,Newells Old Boys,Quilmes,H
+666,2014-03-29,Atl. Rafaela,Racing Club,D
+667,2014-03-30,Lanus,Rosario Central,H
+668,2014-03-30,Arsenal Sarandi,Colon Santa FE,H
+669,2014-03-30,Boca Juniors,River Plate,D
+670,2014-03-31,Tigre,San Lorenzo,D
+671,2014-01-04,Quilmes,Belgrano,D
+672,2014-01-04,Olimpo Bahia Blanca,Velez Sarsfield,D
+673,2014-01-04,Argentinos Jrs,Atl. Rafaela,H
+674,2014-02-04,Racing Club,Estudiantes L.P.,D
+675,2014-02-04,Godoy Cruz,Lanus,D
+676,2014-02-04,Colon Santa FE,All Boys,H
+677,2014-02-04,Rosario Central,Boca Juniors,H
+678,2014-03-04,River Plate,Newells Old Boys,H
+679,2014-03-04,Gimnasia L.P.,Tigre,H
+680,2014-04-04,San Lorenzo,Arsenal Sarandi,H
+681,2014-05-04,Lanus,Colon Santa FE,H
+682,2014-06-04,Velez Sarsfield,Racing Club,H
+683,2014-06-04,Newells Old Boys,Rosario Central,D
+684,2014-06-04,Atl. Rafaela,Quilmes,H
+685,2014-06-04,All Boys,San Lorenzo,D
+686,2014-06-04,Arsenal Sarandi,Tigre,H
+687,2014-06-04,Boca Juniors,Godoy Cruz,H
+688,2014-07-04,Belgrano,River Plate,D
+689,2014-08-04,Estudiantes L.P.,Argentinos Jrs,H
+690,2014-08-04,Olimpo Bahia Blanca,Gimnasia L.P.,D
+691,2014-11-04,Tigre,All Boys,H
+692,2014-12-04,Rosario Central,Belgrano,H
+693,2014-12-04,Quilmes,Estudiantes L.P.,D
+694,2014-12-04,Argentinos Jrs,Velez Sarsfield,A
+695,2014-12-04,Racing Club,Olimpo Bahia Blanca,H
+696,2014-04-13,San Lorenzo,Lanus,H
+697,2014-04-13,Gimnasia L.P.,Arsenal Sarandi,H
+698,2014-04-13,Godoy Cruz,Newells Old Boys,D
+699,2014-04-13,River Plate,Atl. Rafaela,H
+700,2014-04-14,Colon Santa FE,Boca Juniors,D
+701,2014-04-15,Olimpo Bahia Blanca,Argentinos Jrs,H
+702,2014-04-15,Velez Sarsfield,Quilmes,H
+703,2014-04-16,Atl. Rafaela,Rosario Central,D
+704,2014-04-16,Estudiantes L.P.,River Plate,D
+705,2014-04-16,Newells Old Boys,Colon Santa FE,H
+706,2014-04-17,Boca Juniors,San Lorenzo,D
+707,2014-04-17,All Boys,Arsenal Sarandi,D
+708,2014-04-17,Belgrano,Godoy Cruz,D
+709,2014-04-18,Racing Club,Gimnasia L.P.,D
+710,2014-04-19,Rosario Central,Estudiantes L.P.,D
+711,2014-04-19,Quilmes,Olimpo Bahia Blanca,D
+712,2014-04-20,San Lorenzo,Newells Old Boys,D
+713,2014-04-20,Colon Santa FE,Belgrano,D
+714,2014-04-20,Argentinos Jrs,Racing Club,D
+715,2014-04-20,Arsenal Sarandi,Lanus,D
+716,2014-04-20,River Plate,Velez Sarsfield,H
+717,2014-04-21,Tigre,Boca Juniors,D
+718,2014-04-21,Godoy Cruz,Atl. Rafaela,H
+719,2014-04-21,Gimnasia L.P.,All Boys,H
+720,2014-04-25,Newells Old Boys,Tigre,H
+721,2014-04-26,Belgrano,San Lorenzo,D
+722,2014-04-26,Atl. Rafaela,Colon Santa FE,H
+723,2014-04-26,Argentinos Jrs,Gimnasia L.P.,D
+724,2014-04-26,Velez Sarsfield,Rosario Central,D
+725,2014-04-27,Racing Club,Quilmes,H
+726,2014-04-27,Estudiantes L.P.,Godoy Cruz,H
+727,2014-04-27,Lanus,All Boys,H
+728,2014-04-27,Boca Juniors,Arsenal Sarandi,H
+729,2014-04-28,Olimpo Bahia Blanca,River Plate,D
+730,2014-01-05,Lanus,Tigre,H
+731,2014-03-05,Quilmes,Argentinos Jrs,H
+732,2014-03-05,Colon Santa FE,Estudiantes L.P.,D
+733,2014-03-05,Rosario Central,Olimpo Bahia Blanca,H
+734,2014-03-05,Godoy Cruz,Velez Sarsfield,H
+735,2014-04-05,San Lorenzo,Atl. Rafaela,H
+736,2014-04-05,Arsenal Sarandi,Newells Old Boys,D
+737,2014-04-05,Gimnasia L.P.,Lanus,H
+738,2014-04-05,River Plate,Racing Club,H
+739,2014-05-05,All Boys,Boca Juniors,D
+740,2014-06-05,Tigre,Belgrano,H
+741,2014-09-05,Olimpo Bahia Blanca,Godoy Cruz,D
+742,2014-10-05,Estudiantes L.P.,San Lorenzo,H
+743,2014-10-05,Newells Old Boys,All Boys,H
+744,2014-10-05,Atl. Rafaela,Tigre,D
+745,2014-10-05,Velez Sarsfield,Colon Santa FE,H
+746,2014-11-05,Racing Club,Rosario Central,D
+747,2014-11-05,Belgrano,Arsenal Sarandi,H
+748,2014-11-05,Quilmes,Gimnasia L.P.,D
+749,2014-11-05,Boca Juniors,Lanus,H
+750,2014-12-05,Argentinos Jrs,River Plate,A
+751,2014-05-17,All Boys,Belgrano,D
+752,2014-05-18,Rosario Central,Argentinos Jrs,H
+753,2014-05-18,Arsenal Sarandi,Atl. Rafaela,D
+754,2014-05-18,Colon Santa FE,Olimpo Bahia Blanca,H
+755,2014-05-18,Godoy Cruz,Racing Club,H
+756,2014-05-18,Gimnasia L.P.,Boca Juniors,H
+757,2014-05-18,River Plate,Quilmes,H
+758,2014-05-18,Tigre,Estudiantes L.P.,A
+759,2014-05-19,Lanus,Newells Old Boys,H
+760,2014-05-20,San Lorenzo,Velez Sarsfield,H
+761,2014-05-24,Colon Santa FE,Atl. Rafaela,D
+762,2014-05-25,San Lorenzo,River Plate,D
+763,2015-01-29,Boca Juniors,Velez Sarsfield,H
+764,2014-08-08,Godoy Cruz,Banfield,D
+765,2014-09-08,Rosario Central,Quilmes,H
+766,2014-10-08,Defensa y Justicia,Racing Club,D
+767,2014-10-08,Independiente,Atl. Rafaela,H
+768,2014-10-08,Boca Juniors,Newells Old Boys,D
+769,2014-11-08,Gimnasia L.P.,River Plate,D
+770,2014-11-08,Arsenal Sarandi,Estudiantes L.P.,D
+771,2014-12-08,Tigre,Velez Sarsfield,D
+772,2014-08-13,Lanus,Belgrano,H
+773,2014-08-16,Newells Old Boys,Gimnasia L.P.,H
+774,2014-08-16,Olimpo Bahia Blanca,Tigre,D
+775,2014-08-16,Banfield,Defensa y Justicia,H
+776,2014-08-16,Velez Sarsfield,Arsenal Sarandi,H
+777,2014-08-17,Estudiantes L.P.,Independiente,H
+778,2014-08-17,Racing Club,San Lorenzo,D
+779,2014-08-17,River Plate,Rosario Central,H
+780,2014-08-18,Belgrano,Boca Juniors,D
+781,2014-08-18,Quilmes,Godoy Cruz,H
+782,2014-08-19,Atl. Rafaela,Lanus,D
+783,2014-08-22,Arsenal Sarandi,Olimpo Bahia Blanca,D
+784,2014-08-23,Tigre,Racing Club,D
+785,2014-08-23,Gimnasia L.P.,Rosario Central,H
+786,2014-08-23,Newells Old Boys,Belgrano,H
+787,2014-08-24,Independiente,Velez Sarsfield,D
+788,2014-08-24,San Lorenzo,Banfield,H
+789,2014-08-24,Lanus,Estudiantes L.P.,D
+790,2014-08-24,Defensa y Justicia,Quilmes,H
+791,2014-08-24,Boca Juniors,Atl. Rafaela,H
+792,2014-08-25,Godoy Cruz,River Plate,D
+793,2014-08-26,Belgrano,Gimnasia L.P.,H
+794,2014-08-26,Olimpo Bahia Blanca,Independiente,D
+795,2014-08-27,Racing Club,Arsenal Sarandi,H
+796,2014-08-27,Atl. Rafaela,Newells Old Boys,D
+797,2014-08-27,Rosario Central,Godoy Cruz,H
+798,2014-08-27,River Plate,Defensa y Justicia,H
+799,2014-08-28,Estudiantes L.P.,Boca Juniors,H
+800,2014-08-28,Banfield,Tigre,H
+801,2014-08-28,Velez Sarsfield,Lanus,D
+802,2014-08-29,Quilmes,San Lorenzo,D
+803,2014-08-30,Gimnasia L.P.,Godoy Cruz,H
+804,2014-08-30,Defensa y Justicia,Rosario Central,H
+805,2014-08-31,Newells Old Boys,Estudiantes L.P.,H
+806,2014-08-31,Belgrano,Atl. Rafaela,H
+807,2014-08-31,Independiente,Racing Club,D
+808,2014-08-31,Boca Juniors,Velez Sarsfield,D
+809,2014-01-09,San Lorenzo,River Plate,D
+810,2014-01-09,Lanus,Olimpo Bahia Blanca,H
+811,2014-01-09,Arsenal Sarandi,Banfield,D
+812,2014-02-09,Tigre,Quilmes,H
+813,2014-06-09,Atl. Rafaela,Gimnasia L.P.,D
+814,2014-06-09,Velez Sarsfield,Newells Old Boys,H
+815,2014-06-09,Estudiantes L.P.,Belgrano,H
+816,2014-07-09,Banfield,Independiente,D
+817,2014-07-09,Rosario Central,San Lorenzo,D
+818,2014-07-09,Godoy Cruz,Defensa y Justicia,D
+819,2014-07-09,Racing Club,Lanus,D
+820,2014-07-09,River Plate,Tigre,H
+821,2014-08-09,Olimpo Bahia Blanca,Boca Juniors,D
+822,2014-09-09,Quilmes,Arsenal Sarandi,D
+823,2014-09-13,Gimnasia L.P.,Defensa y Justicia,D
+824,2014-09-13,San Lorenzo,Godoy Cruz,H
+825,2014-09-13,Tigre,Rosario Central,D
+826,2014-09-13,Atl. Rafaela,Estudiantes L.P.,H
+827,2014-09-14,Independiente,Quilmes,H
+828,2014-09-14,Lanus,Banfield,H
+829,2014-09-14,Belgrano,Velez Sarsfield,D
+830,2014-09-16,Newells Old Boys,Olimpo Bahia Blanca,H
+831,2014-09-20,Quilmes,Lanus,A
+832,2014-09-20,Estudiantes L.P.,Gimnasia L.P.,H
+833,2014-09-20,Olimpo Bahia Blanca,Belgrano,D
+834,2014-09-21,Velez Sarsfield,Atl. Rafaela,H
+835,2014-09-21,Rosario Central,Arsenal Sarandi,H
+836,2014-09-21,Banfield,Boca Juniors,D
+837,2014-09-22,River Plate,Independiente,H
+838,2014-09-22,Defensa y Justicia,San Lorenzo,D
+839,2014-09-23,Racing Club,Newells Old Boys,D
+840,2014-09-25,Boca Juniors,Racing Club,H
+841,2014-09-25,Arsenal Sarandi,River Plate,A
+842,2014-09-26,Estudiantes L.P.,Velez Sarsfield,H
+843,2014-09-27,Atl. Rafaela,Olimpo Bahia Blanca,H
+844,2014-09-27,Independiente,Rosario Central,H
+845,2014-09-28,San Lorenzo,Gimnasia L.P.,H
+846,2014-09-28,Tigre,Defensa y Justicia,D
+847,2014-09-28,Belgrano,Racing Club,H
+848,2014-09-28,Boca Juniors,Quilmes,H
+849,2014-09-29,Lanus,River Plate,D
+850,2014-09-29,Arsenal Sarandi,Godoy Cruz,H
+851,2014-09-30,Newells Old Boys,Banfield,H
+852,2014-01-10,San Lorenzo,Olimpo Bahia Blanca,H
+853,2014-04-10,Gimnasia L.P.,Velez Sarsfield,D
+854,2014-04-10,Banfield,Belgrano,H
+855,2014-04-10,San Lorenzo,Tigre,H
+856,2014-04-10,Defensa y Justicia,Arsenal Sarandi,H
+857,2014-05-10,Olimpo Bahia Blanca,Estudiantes L.P.,D
+858,2014-05-10,Quilmes,Newells Old Boys,D
+859,2014-05-10,River Plate,Boca Juniors,H
+860,2014-06-10,Racing Club,Atl. Rafaela,H
+861,2014-06-10,Rosario Central,Lanus,D
+862,2014-07-10,Godoy Cruz,Independiente,D
+863,2014-10-10,Tigre,Gimnasia L.P.,D
+864,2014-11-10,Lanus,Godoy Cruz,H
+865,2014-11-10,Velez Sarsfield,Olimpo Bahia Blanca,H
+866,2014-11-10,Belgrano,Quilmes,H
+867,2014-12-10,Estudiantes L.P.,Racing Club,H
+868,2014-12-10,Atl. Rafaela,Banfield,D
+869,2014-12-10,Independiente,Defensa y Justicia,D
+870,2014-12-10,Boca Juniors,Rosario Central,H
+871,2014-10-13,Newells Old Boys,River Plate,D
+872,2014-10-14,Arsenal Sarandi,San Lorenzo,D
+873,2014-10-15,Godoy Cruz,Tigre,H
+874,2014-10-17,Gimnasia L.P.,Olimpo Bahia Blanca,H
+875,2014-10-18,Quilmes,Atl. Rafaela,D
+876,2014-10-18,Banfield,Estudiantes L.P.,H
+877,2014-10-18,San Lorenzo,Independiente,H
+878,2014-10-19,Defensa y Justicia,Lanus,H
+879,2014-10-19,Rosario Central,Newells Old Boys,D
+880,2014-10-19,Racing Club,Velez Sarsfield,H
+881,2014-10-19,River Plate,Belgrano,H
+882,2014-10-20,Godoy Cruz,Boca Juniors,D
+883,2014-10-21,Tigre,Arsenal Sarandi,H
+884,2014-10-25,Belgrano,Rosario Central,H
+885,2014-10-25,Independiente,Tigre,H
+886,2014-10-25,Velez Sarsfield,Banfield,H
+887,2014-10-25,Newells Old Boys,Godoy Cruz,H
+888,2014-10-26,Olimpo Bahia Blanca,Racing Club,D
+889,2014-10-26,Estudiantes L.P.,Quilmes,H
+890,2014-10-26,Lanus,San Lorenzo,H
+891,2014-10-26,Boca Juniors,Defensa y Justicia,H
+892,2014-10-27,Atl. Rafaela,River Plate,A
+893,2014-10-27,Arsenal Sarandi,Gimnasia L.P.,D
+894,2014-10-31,Banfield,Olimpo Bahia Blanca,H
+895,2014-01-11,Godoy Cruz,Belgrano,D
+896,2014-01-11,Gimnasia L.P.,Racing Club,D
+897,2014-01-11,Quilmes,Velez Sarsfield,D
+898,2014-01-11,Rosario Central,Atl. Rafaela,H
+899,2014-02-11,San Lorenzo,Boca Juniors,D
+900,2014-07-11,Lanus,Arsenal Sarandi,H
+901,2014-08-11,Atl. Rafaela,Godoy Cruz,H
+902,2014-08-11,Olimpo Bahia Blanca,Quilmes,H
+903,2014-08-11,Belgrano,Defensa y Justicia,H
+904,2014-08-11,Independiente,Gimnasia L.P.,H
+905,2014-09-11,Estudiantes L.P.,Rosario Central,H
+906,2014-09-11,Racing Club,Banfield,H
+907,2014-09-11,Boca Juniors,Tigre,H
+908,2014-10-11,Velez Sarsfield,River Plate,A
+909,2014-10-11,Newells Old Boys,San Lorenzo,H
+910,2014-12-11,Tigre,Lanus,D
+911,2014-12-11,River Plate,Estudiantes L.P.,H
+912,2014-11-13,Arsenal Sarandi,Independiente,D
+913,2014-11-14,Defensa y Justicia,Atl. Rafaela,H
+914,2014-11-15,Rosario Central,Velez Sarsfield,D
+915,2014-11-15,Gimnasia L.P.,Banfield,H
+916,2014-11-15,San Lorenzo,Belgrano,H
+917,2014-11-15,Quilmes,Racing Club,A
+918,2014-11-16,Godoy Cruz,Estudiantes L.P.,D
+919,2014-11-16,Tigre,Newells Old Boys,D
+920,2014-11-16,River Plate,Olimpo Bahia Blanca,H
+921,2014-11-17,Arsenal Sarandi,Boca Juniors,D
+922,2014-11-17,Independiente,Lanus,D
+923,2014-11-20,Defensa y Justicia,Newells Old Boys,D
+924,2014-11-21,Banfield,Quilmes,H
+925,2014-11-22,Atl. Rafaela,San Lorenzo,D
+926,2014-11-22,Olimpo Bahia Blanca,Rosario Central,H
+927,2014-11-22,Velez Sarsfield,Godoy Cruz,H
+928,2014-11-22,Lanus,Gimnasia L.P.,H
+929,2014-11-23,Belgrano,Tigre,H
+930,2014-11-23,Estudiantes L.P.,Defensa y Justicia,H
+931,2014-11-23,Boca Juniors,Independiente,D
+932,2014-11-24,Racing Club,River Plate,D
+933,2014-11-25,Newells Old Boys,Arsenal Sarandi,H
+934,2014-11-28,Gimnasia L.P.,Quilmes,H
+935,2014-11-28,Defensa y Justicia,Velez Sarsfield,D
+936,2014-11-29,San Lorenzo,Estudiantes L.P.,D
+937,2014-11-30,Independiente,Newells Old Boys,H
+938,2014-11-30,Rosario Central,Racing Club,A
+939,2014-11-30,Tigre,Atl. Rafaela,H
+940,2014-11-30,River Plate,Banfield,H
+941,2014-01-12,Lanus,Boca Juniors,H
+942,2014-01-12,Godoy Cruz,Olimpo Bahia Blanca,H
+943,2014-01-12,Arsenal Sarandi,Belgrano,D
+944,2014-05-12,Estudiantes L.P.,Tigre,H
+945,2014-05-12,Velez Sarsfield,San Lorenzo,H
+946,2014-06-12,Atl. Rafaela,Arsenal Sarandi,H
+947,2014-06-12,Banfield,Rosario Central,H
+948,2014-06-12,Olimpo Bahia Blanca,Defensa y Justicia,D
+949,2014-07-12,Belgrano,Independiente,H
+950,2014-07-12,Newells Old Boys,Lanus,H
+951,2014-07-12,Boca Juniors,Gimnasia L.P.,H
+952,2014-12-14,Quilmes,River Plate,A
+953,2014-12-14,Racing Club,Godoy Cruz,H
+954,2015-02-13,Velez Sarsfield,Aldosivi,H
+955,2015-02-14,Racing Club,Rosario Central,H
+956,2015-02-14,Gimnasia L.P.,Defensa y Justicia,H
+957,2015-02-14,San Lorenzo,Colon Santa FE,H
+958,2015-02-14,Godoy Cruz,San Martin S.J.,H
+959,2015-02-14,Newells Old Boys,Independiente,H
+960,2015-02-14,Banfield,Temperley,H
+961,2015-02-15,Crucero del Norte,Tigre,D
+962,2015-02-15,Quilmes,Lanus,D
+963,2015-02-15,Union de Santa Fe,Huracan,D
+964,2015-02-15,Boca Juniors,Olimpo Bahia Blanca,H
+965,2015-02-15,Argentinos Jrs,Atl. Rafaela,D
+966,2015-02-16,Sarmiento Junin,River Plate,A
+967,2015-02-16,Arsenal Sarandi,Estudiantes L.P.,D
+968,2015-02-17,Belgrano,Nueva Chicago,H
+969,2015-02-21,Atl. Rafaela,Banfield,D
+970,2015-02-21,Huracan,Arsenal Sarandi,H
+971,2015-02-21,Estudiantes L.P.,Godoy Cruz,H
+972,2015-02-21,Rosario Central,Tigre,H
+973,2015-02-21,Olimpo Bahia Blanca,Racing Club,D
+974,2015-02-21,Velez Sarsfield,Crucero del Norte,H
+975,2015-02-22,San Martin S.J.,Gimnasia L.P.,D
+976,2015-02-22,Aldosivi,Newells Old Boys,D
+977,2015-02-22,Independiente,Sarmiento Junin,H
+978,2015-02-22,Nueva Chicago,Union de Santa Fe,D
+979,2015-02-22,River Plate,Quilmes,H
+980,2015-02-22,Colon Santa FE,Argentinos Jrs,H
+981,2015-02-23,Temperley,Boca Juniors,A
+982,2015-02-23,Lanus,Belgrano,H
+983,2015-02-24,Defensa y Justicia,San Lorenzo,D
+984,2015-02-27,Arsenal Sarandi,Nueva Chicago,H
+985,2015-02-28,Godoy Cruz,Huracan,H
+986,2015-02-28,Tigre,Olimpo Bahia Blanca,H
+987,2015-02-28,Crucero del Norte,Rosario Central,D
+988,2015-02-28,Union de Santa Fe,Lanus,D
+989,2015-02-28,Quilmes,Independiente,D
+990,2015-02-28,San Lorenzo,San Martin S.J.,H
+991,2015-01-03,Gimnasia L.P.,Estudiantes L.P.,D
+992,2015-01-03,Boca Juniors,Atl. Rafaela,H
+993,2015-01-03,Argentinos Jrs,Defensa y Justicia,D
+994,2015-01-03,Racing Club,Temperley,H
+995,2015-02-03,Belgrano,River Plate,D
+996,2015-02-03,Sarmiento Junin,Aldosivi,H
+997,2015-02-03,Banfield,Colon Santa FE,H
+998,2015-03-03,Newells Old Boys,Velez Sarsfield,D
+999,2015-06-03,Huracan,Gimnasia L.P.,D
+1000,2015-07-03,Atl. Rafaela,Racing Club,D
+1001,2015-07-03,Nueva Chicago,Godoy Cruz,D
+1002,2015-07-03,Olimpo Bahia Blanca,Rosario Central,D
+1003,2015-07-03,Aldosivi,Quilmes,H
+1004,2015-07-03,Independiente,Belgrano,H
+1005,2015-07-03,Newells Old Boys,Crucero del Norte,H
+1006,2015-08-03,Defensa y Justicia,Banfield,D
+1007,2015-08-03,Lanus,Arsenal Sarandi,H
+1008,2015-08-03,Velez Sarsfield,Sarmiento Junin,H
+1009,2015-08-03,River Plate,Union de Santa Fe,H
+1010,2015-08-03,San Martin S.J.,Argentinos Jrs,H
+1011,2015-09-03,Colon Santa FE,Boca Juniors,A
+1012,2015-09-03,Temperley,Tigre,D
+1013,2015-10-03,Estudiantes L.P.,San Lorenzo,D
+1014,2015-03-13,Crucero del Norte,Olimpo Bahia Blanca,D
+1015,2015-03-14,Racing Club,Colon Santa FE,H
+1016,2015-03-14,Banfield,San Martin S.J.,H
+1017,2015-03-14,Boca Juniors,Defensa y Justicia,H
+1018,2015-03-14,Union de Santa Fe,Independiente,D
+1019,2015-03-14,Sarmiento Junin,Newells Old Boys,D
+1020,2015-03-15,Quilmes,Velez Sarsfield,D
+1021,2015-03-15,Argentinos Jrs,Estudiantes L.P.,D
+1022,2015-03-15,San Lorenzo,Huracan,H
+1023,2015-03-15,Tigre,Atl. Rafaela,H
+1024,2015-03-16,Godoy Cruz,Lanus,D
+1025,2015-03-16,Rosario Central,Temperley,H
+1026,2015-03-16,Belgrano,Aldosivi,H
+1027,2015-03-17,Arsenal Sarandi,River Plate,A
+1028,2015-03-17,Gimnasia L.P.,Nueva Chicago,H
+1029,2015-03-20,Newells Old Boys,Quilmes,H
+1030,2015-03-21,Lanus,Gimnasia L.P.,H
+1031,2015-03-21,Colon Santa FE,Tigre,D
+1032,2015-03-21,Velez Sarsfield,Belgrano,H
+1033,2015-03-21,Independiente,Arsenal Sarandi,H
+1034,2015-03-21,Huracan,Argentinos Jrs,H
+1035,2015-03-21,Sarmiento Junin,Crucero del Norte,H
+1036,2015-03-22,Atl. Rafaela,Rosario Central,D
+1037,2015-03-22,Defensa y Justicia,Racing Club,D
+1038,2015-03-22,Estudiantes L.P.,Banfield,H
+1039,2015-03-22,River Plate,Godoy Cruz,H
+1040,2015-03-23,San Martin S.J.,Boca Juniors,A
+1041,2015-03-23,Nueva Chicago,San Lorenzo,A
+1042,2015-03-23,Aldosivi,Union de Santa Fe,D
+1043,2015-03-24,Temperley,Olimpo Bahia Blanca,D
+1044,2015-03-27,Quilmes,Sarmiento Junin,H
+1045,2015-03-28,Rosario Central,Colon Santa FE,H
+1046,2015-03-28,Olimpo Bahia Blanca,Atl. Rafaela,H
+1047,2015-03-28,Banfield,Huracan,H
+1048,2015-03-28,Godoy Cruz,Independiente,D
+1049,2015-03-28,San Lorenzo,Lanus,H
+1050,2015-03-29,Crucero del Norte,Temperley,D
+1051,2015-03-29,Belgrano,Newells Old Boys,H
+1052,2015-03-29,Racing Club,San Martin S.J.,H
+1053,2015-03-29,Boca Juniors,Estudiantes L.P.,H
+1054,2015-03-29,Union de Santa Fe,Velez Sarsfield,D
+1055,2015-03-30,Gimnasia L.P.,River Plate,A
+1056,2015-03-31,Argentinos Jrs,Nueva Chicago,H
+1057,2015-03-31,Tigre,Defensa y Justicia,H
+1058,2015-03-04,Sarmiento Junin,Belgrano,D
+1059,2015-04-04,Estudiantes L.P.,Racing Club,D
+1060,2015-04-04,Atl. Rafaela,Temperley,H
+1061,2015-04-04,Defensa y Justicia,Rosario Central,D
+1062,2015-04-04,Aldosivi,Godoy Cruz,H
+1063,2015-05-04,Independiente,Gimnasia L.P.,H
+1064,2015-05-04,Velez Sarsfield,Arsenal Sarandi,H
+1065,2015-05-04,River Plate,San Lorenzo,H
+1066,2015-05-04,Lanus,Argentinos Jrs,H
+1067,2015-05-04,Colon Santa FE,Olimpo Bahia Blanca,D
+1068,2015-05-04,Huracan,Boca Juniors,A
+1069,2015-06-04,Quilmes,Crucero del Norte,H
+1070,2015-06-04,San Martin S.J.,Tigre,D
+1071,2015-06-04,Nueva Chicago,Banfield,A
+1072,2015-07-04,Newells Old Boys,Union de Santa Fe,H
+1073,2015-10-04,Crucero del Norte,Atl. Rafaela,D
+1074,2015-11-04,Temperley,Colon Santa FE,D
+1075,2015-11-04,Godoy Cruz,Velez Sarsfield,D
+1076,2015-11-04,Gimnasia L.P.,Aldosivi,H
+1077,2015-11-04,Rosario Central,San Martin S.J.,H
+1078,2015-12-04,Racing Club,Huracan,H
+1079,2015-12-04,San Lorenzo,Independiente,H
+1080,2015-12-04,Banfield,Lanus,H
+1081,2015-12-04,Olimpo Bahia Blanca,Defensa y Justicia,D
+1082,2015-12-04,Union de Santa Fe,Sarmiento Junin,H
+1083,2015-12-04,Boca Juniors,Nueva Chicago,H
+1084,2015-04-13,Argentinos Jrs,River Plate,A
+1085,2015-04-13,Arsenal Sarandi,Newells Old Boys,D
+1086,2015-04-14,Tigre,Estudiantes L.P.,D
+1087,2015-04-14,Belgrano,Quilmes,H
+1088,2015-04-18,Estudiantes L.P.,Rosario Central,D
+1089,2015-04-18,Sarmiento Junin,Arsenal Sarandi,D
+1090,2015-04-18,Huracan,Tigre,D
+1091,2015-04-18,Defensa y Justicia,Temperley,H
+1092,2015-04-19,Independiente,Argentinos Jrs,H
+1093,2015-04-19,Velez Sarsfield,Gimnasia L.P.,H
+1094,2015-04-19,Belgrano,Crucero del Norte,H
+1095,2015-04-19,Nueva Chicago,Racing Club,A
+1096,2015-04-19,Aldosivi,San Lorenzo,D
+1097,2015-04-19,River Plate,Banfield,H
+1098,2015-04-19,San Martin S.J.,Olimpo Bahia Blanca,D
+1099,2015-04-20,Lanus,Boca Juniors,A
+1100,2015-04-21,Quilmes,Union de Santa Fe,D
+1101,2015-04-21,Colon Santa FE,Atl. Rafaela,D
+1102,2015-04-22,Newells Old Boys,Godoy Cruz,H
+1103,2015-04-25,Arsenal Sarandi,Aldosivi,H
+1104,2015-04-30,Godoy Cruz,Sarmiento Junin,H
+1105,2015-02-05,Olimpo Bahia Blanca,Estudiantes L.P.,D
+1106,2015-02-05,Gimnasia L.P.,Newells Old Boys,H
+1107,2015-02-05,San Lorenzo,Velez Sarsfield,H
+1108,2015-02-05,Argentinos Jrs,Aldosivi,D
+1109,2015-03-05,Racing Club,Lanus,H
+1110,2015-03-05,Rosario Central,Huracan,H
+1111,2015-03-05,Atl. Rafaela,Defensa y Justicia,H
+1112,2015-03-05,Banfield,Independiente,D
+1113,2015-03-05,Tigre,Nueva Chicago,H
+1114,2015-03-05,Boca Juniors,River Plate,D
+1115,2015-04-05,Union de Santa Fe,Belgrano,D
+1116,2015-04-05,Arsenal Sarandi,Quilmes,H
+1117,2015-05-05,Crucero del Norte,Colon Santa FE,D
+1118,2015-05-05,Temperley,San Martin S.J.,H
+1119,2015-08-05,Nueva Chicago,Rosario Central,A
+1120,2015-09-05,Lanus,Tigre,H
+1121,2015-09-05,Estudiantes L.P.,Temperley,H
+1122,2015-09-05,Quilmes,Godoy Cruz,D
+1123,2015-09-05,Huracan,Olimpo Bahia Blanca,H
+1124,2015-09-05,Union de Santa Fe,Crucero del Norte,H
+1125,2015-10-05,Newells Old Boys,San Lorenzo,D
+1126,2015-10-05,Velez Sarsfield,Argentinos Jrs,H
+1127,2015-10-05,Aldosivi,Banfield,D
+1128,2015-10-05,Belgrano,Arsenal Sarandi,H
+1129,2015-10-05,River Plate,Racing Club,H
+1130,2015-11-05,San Martin S.J.,Atl. Rafaela,H
+1131,2015-11-05,Independiente,Boca Juniors,D
+1132,2015-11-05,Sarmiento Junin,Gimnasia L.P.,D
+1133,2015-12-05,Defensa y Justicia,Colon Santa FE,H
+1134,2015-05-22,Gimnasia L.P.,Quilmes,H
+1135,2015-05-23,Crucero del Norte,Defensa y Justicia,D
+1136,2015-05-23,Temperley,Huracan,D
+1137,2015-05-23,Arsenal Sarandi,Union de Santa Fe,D
+1138,2015-05-23,Rosario Central,Lanus,H
+1139,2015-05-23,Colon Santa FE,San Martin S.J.,D
+1140,2015-05-23,Banfield,Velez Sarsfield,H
+1141,2015-05-23,Olimpo Bahia Blanca,Nueva Chicago,H
+1142,2015-05-24,San Lorenzo,Sarmiento Junin,H
+1143,2015-05-24,Atl. Rafaela,Estudiantes L.P.,D
+1144,2015-05-24,Racing Club,Independiente,D
+1145,2015-05-24,Argentinos Jrs,Newells Old Boys,D
+1146,2015-05-24,Boca Juniors,Aldosivi,H
+1147,2015-05-24,Godoy Cruz,Belgrano,D
+1148,2015-05-30,Quilmes,San Lorenzo,A
+1149,2015-05-30,Nueva Chicago,Temperley,D
+1150,2015-05-30,Sarmiento Junin,Argentinos Jrs,H
+1151,2015-05-30,Belgrano,Gimnasia L.P.,H
+1152,2015-05-31,Independiente,Tigre,H
+1153,2015-05-31,Newells Old Boys,Banfield,D
+1154,2015-05-31,Union de Santa Fe,Godoy Cruz,H
+1155,2015-05-31,Aldosivi,Racing Club,D
+1156,2015-05-31,San Martin S.J.,Defensa y Justicia,H
+1157,2015-05-31,River Plate,Rosario Central,H
+1158,2015-05-31,Estudiantes L.P.,Colon Santa FE,H
+1159,2015-01-06,Velez Sarsfield,Boca Juniors,A
+1160,2015-01-06,Arsenal Sarandi,Crucero del Norte,H
+1161,2015-02-06,Huracan,Atl. Rafaela,D
+1162,2015-02-06,Lanus,Olimpo Bahia Blanca,H
+1163,2015-05-06,Gimnasia L.P.,Union de Santa Fe,H
+1164,2015-06-06,Banfield,Sarmiento Junin,H
+1165,2015-06-06,Argentinos Jrs,Quilmes,D
+1166,2015-06-06,Colon Santa FE,Huracan,D
+1167,2015-06-06,Temperley,Lanus,A
+1168,2015-06-06,San Lorenzo,Belgrano,H
+1169,2015-07-06,Crucero del Norte,San Martin S.J.,D
+1170,2015-07-06,Rosario Central,Independiente,H
+1171,2015-07-06,Atl. Rafaela,Nueva Chicago,H
+1172,2015-07-06,Racing Club,Velez Sarsfield,H
+1173,2015-07-06,Boca Juniors,Newells Old Boys,H
+1174,2015-08-06,Godoy Cruz,Arsenal Sarandi,H
+1175,2015-08-06,Olimpo Bahia Blanca,River Plate,A
+1176,2015-08-06,Tigre,Aldosivi,H
+1177,2015-09-06,Defensa y Justicia,Estudiantes L.P.,D
+1178,2015-09-07,Tigre,River Plate,D
+1179,2015-10-07,Arsenal Sarandi,Gimnasia L.P.,D
+1180,2015-11-07,Estudiantes L.P.,San Martin S.J.,H
+1181,2015-11-07,Belgrano,Argentinos Jrs,H
+1182,2015-11-07,River Plate,Temperley,H
+1183,2015-11-07,Quilmes,Banfield,D
+1184,2015-11-07,Union de Santa Fe,San Lorenzo,D
+1185,2015-12-07,Huracan,Defensa y Justicia,D
+1186,2015-12-07,Lanus,Atl. Rafaela,H
+1187,2015-12-07,Nueva Chicago,Colon Santa FE,D
+1188,2015-12-07,Independiente,Olimpo Bahia Blanca,H
+1189,2015-12-07,Newells Old Boys,Racing Club,D
+1190,2015-12-07,Godoy Cruz,Crucero del Norte,H
+1191,2015-07-13,Sarmiento Junin,Boca Juniors,A
+1192,2015-07-13,Aldosivi,Rosario Central,A
+1193,2015-07-14,Velez Sarsfield,Tigre,D
+1194,2015-07-17,San Lorenzo,Arsenal Sarandi,H
+1195,2015-07-18,Banfield,Belgrano,D
+1196,2015-07-18,Olimpo Bahia Blanca,Aldosivi,D
+1197,2015-07-18,Boca Juniors,Quilmes,H
+1198,2015-07-18,Defensa y Justicia,Nueva Chicago,H
+1199,2015-07-18,Atl. Rafaela,River Plate,D
+1200,2015-07-19,Racing Club,Sarmiento Junin,H
+1201,2015-07-19,Colon Santa FE,Lanus,D
+1202,2015-07-19,San Martin S.J.,Huracan,D
+1203,2015-07-19,Tigre,Newells Old Boys,D
+1204,2015-07-19,Rosario Central,Velez Sarsfield,H
+1205,2015-07-20,Temperley,Independiente,D
+1206,2015-07-20,Gimnasia L.P.,Godoy Cruz,H
+1207,2015-07-21,Crucero del Norte,Estudiantes L.P.,A
+1208,2015-07-21,Argentinos Jrs,Union de Santa Fe,D
+1209,2015-07-25,Aldosivi,Temperley,H
+1210,2015-07-25,Gimnasia L.P.,Crucero del Norte,H
+1211,2015-07-25,Sarmiento Junin,Tigre,D
+1212,2015-07-25,River Plate,Colon Santa FE,H
+1213,2015-07-25,Union de Santa Fe,Banfield,D
+1214,2015-07-26,Independiente,Atl. Rafaela,H
+1215,2015-07-26,Velez Sarsfield,Olimpo Bahia Blanca,H
+1216,2015-07-26,Godoy Cruz,San Lorenzo,D
+1217,2015-07-26,Newells Old Boys,Rosario Central,D
+1218,2015-07-26,Quilmes,Racing Club,A
+1219,2015-07-26,Huracan,Estudiantes L.P.,D
+1220,2015-07-26,Lanus,Defensa y Justicia,H
+1221,2015-07-27,Belgrano,Boca Juniors,D
+1222,2015-07-27,Nueva Chicago,San Martin S.J.,D
+1223,2015-07-27,Arsenal Sarandi,Argentinos Jrs,D
+1224,2015-07-31,Atl. Rafaela,Aldosivi,D
+1225,2015-01-08,Temperley,Velez Sarsfield,D
+1226,2015-01-08,Argentinos Jrs,Godoy Cruz,D
+1227,2015-01-08,Estudiantes L.P.,Nueva Chicago,H
+1228,2015-01-08,San Lorenzo,Gimnasia L.P.,H
+1229,2015-02-08,Colon Santa FE,Independiente,A
+1230,2015-02-08,Rosario Central,Sarmiento Junin,H
+1231,2015-02-08,Olimpo Bahia Blanca,Newells Old Boys,D
+1232,2015-02-08,Racing Club,Belgrano,H
+1233,2015-02-08,Crucero del Norte,Huracan,D
+1234,2015-02-08,Boca Juniors,Union de Santa Fe,H
+1235,2015-03-08,Tigre,Quilmes,H
+1236,2015-04-08,Banfield,Arsenal Sarandi,H
+1237,2015-12-08,San Martin S.J.,Lanus,D
+1238,2015-08-14,Sarmiento Junin,Olimpo Bahia Blanca,D
+1239,2015-08-15,Belgrano,Tigre,H
+1240,2015-08-15,Independiente,Defensa y Justicia,H
+1241,2015-08-15,Nueva Chicago,Huracan,D
+1242,2015-08-15,Godoy Cruz,Banfield,D
+1243,2015-08-15,Aldosivi,Colon Santa FE,H
+1244,2015-08-15,Union de Santa Fe,Racing Club,D
+1245,2015-08-16,Lanus,Estudiantes L.P.,D
+1246,2015-08-16,Gimnasia L.P.,Argentinos Jrs,H
+1247,2015-08-16,San Lorenzo,Crucero del Norte,H
+1248,2015-08-16,Velez Sarsfield,Atl. Rafaela,H
+1249,2015-08-16,Newells Old Boys,Temperley,H
+1250,2015-08-17,Arsenal Sarandi,Boca Juniors,A
+1251,2015-08-17,River Plate,San Martin S.J.,H
+1252,2015-08-18,Quilmes,Rosario Central,D
+1253,2015-08-22,Atl. Rafaela,Newells Old Boys,D
+1254,2015-08-22,Banfield,Gimnasia L.P.,D
+1255,2015-08-22,Olimpo Bahia Blanca,Quilmes,D
+1256,2015-08-22,Racing Club,Arsenal Sarandi,H
+1257,2015-08-22,Colon Santa FE,Velez Sarsfield,D
+1258,2015-08-22,San Martin S.J.,Independiente,D
+1259,2015-08-23,Argentinos Jrs,San Lorenzo,A
+1260,2015-08-23,Crucero del Norte,Nueva Chicago,H
+1261,2015-08-23,Huracan,Lanus,D
+1262,2015-08-23,Rosario Central,Belgrano,H
+1263,2015-08-23,Tigre,Union de Santa Fe,H
+1264,2015-08-23,Boca Juniors,Godoy Cruz,H
+1265,2015-08-24,Estudiantes L.P.,River Plate,D
+1266,2015-08-25,Defensa y Justicia,Aldosivi,H
+1267,2015-08-25,Temperley,Sarmiento Junin,D
+1268,2015-08-29,Argentinos Jrs,Crucero del Norte,H
+1269,2015-08-29,Quilmes,Temperley,H
+1270,2015-08-29,Aldosivi,San Martin S.J.,D
+1271,2015-08-29,Gimnasia L.P.,Boca Juniors,D
+1272,2015-08-30,Newells Old Boys,Colon Santa FE,H
+1273,2015-08-30,Velez Sarsfield,Defensa y Justicia,D
+1274,2015-08-30,Arsenal Sarandi,Tigre,D
+1275,2015-08-30,San Lorenzo,Banfield,H
+1276,2015-08-30,Sarmiento Junin,Atl. Rafaela,H
+1277,2015-08-30,River Plate,Huracan,H
+1278,2015-08-30,Union de Santa Fe,Rosario Central,D
+1279,2015-08-31,Independiente,Estudiantes L.P.,D
+1280,2015-01-09,Belgrano,Olimpo Bahia Blanca,H
+1281,2015-01-09,Lanus,Nueva Chicago,H
+1282,2015-04-09,Banfield,Argentinos Jrs,H
+1283,2015-04-09,Tigre,Godoy Cruz,H
+1284,2015-05-09,Crucero del Norte,Lanus,A
+1285,2015-05-09,Rosario Central,Arsenal Sarandi,H
+1286,2015-05-09,Colon Santa FE,Sarmiento Junin,D
+1287,2015-05-09,Huracan,Independiente,D
+1288,2015-05-09,Defensa y Justicia,Newells Old Boys,D
+1289,2015-06-09,Temperley,Belgrano,D
+1290,2015-06-09,Nueva Chicago,River Plate,A
+1291,2015-06-09,San Martin S.J.,Velez Sarsfield,D
+1292,2015-06-09,Boca Juniors,San Lorenzo,H
+1293,2015-06-09,Olimpo Bahia Blanca,Union de Santa Fe,H
+1294,2015-07-09,Racing Club,Gimnasia L.P.,D
+1295,2015-08-09,Atl. Rafaela,Quilmes,D
+1296,2015-08-09,Estudiantes L.P.,Aldosivi,H
+1297,2015-12-09,Defensa y Justicia,Arsenal Sarandi,H
+1298,2015-12-09,Nueva Chicago,Argentinos Jrs,D
+1299,2015-12-09,Independiente,Racing Club,D
+1300,2015-12-09,San Martin S.J.,Godoy Cruz,D
+1301,2015-12-09,Huracan,San Lorenzo,D
+1302,2015-12-09,Olimpo Bahia Blanca,Sarmiento Junin,D
+1303,2015-09-13,Atl. Rafaela,Belgrano,D
+1304,2015-09-13,Tigre,Velez Sarsfield,H
+1305,2015-09-13,Rosario Central,Newells Old Boys,H
+1306,2015-09-13,Estudiantes L.P.,Gimnasia L.P.,D
+1307,2015-09-13,Colon Santa FE,Union de Santa Fe,D
+1308,2015-09-13,River Plate,Boca Juniors,D
+1309,2015-09-14,Lanus,Banfield,D
+1310,2015-09-14,Aldosivi,Crucero del Norte,H
+1311,2015-09-15,Temperley,Quilmes,D
+1312,2015-09-19,Sarmiento Junin,Defensa y Justicia,D
+1313,2015-09-19,Aldosivi,Huracan,D
+1314,2015-09-19,Argentinos Jrs,Boca Juniors,A
+1315,2015-09-19,Godoy Cruz,Rosario Central,D
+1316,2015-09-19,Independiente,Nueva Chicago,H
+1317,2015-09-19,Gimnasia L.P.,Tigre,H
+1318,2015-09-19,Newells Old Boys,San Martin S.J.,H
+1319,2015-09-20,Velez Sarsfield,Estudiantes L.P.,D
+1320,2015-09-20,Arsenal Sarandi,Olimpo Bahia Blanca,D
+1321,2015-09-20,Banfield,Crucero del Norte,H
+1322,2015-09-20,Union de Santa Fe,Temperley,H
+1323,2015-09-20,River Plate,Lanus,H
+1324,2015-09-21,San Lorenzo,Racing Club,H
+1325,2015-09-22,Belgrano,Atl. Rafaela,H
+1326,2015-09-22,Quilmes,Colon Santa FE,H
+1327,2015-09-26,Olimpo Bahia Blanca,Godoy Cruz,D
+1328,2015-09-26,Atl. Rafaela,Union de Santa Fe,D
+1329,2015-09-26,Nueva Chicago,Aldosivi,D
+1330,2015-09-26,Tigre,San Lorenzo,D
+1331,2015-09-26,Colon Santa FE,Belgrano,D
+1332,2015-09-27,Crucero del Norte,River Plate,A
+1333,2015-09-27,Racing Club,Argentinos Jrs,H
+1334,2015-09-27,Huracan,Velez Sarsfield,D
+1335,2015-09-27,Rosario Central,Gimnasia L.P.,H
+1336,2015-09-27,Defensa y Justicia,Quilmes,H
+1337,2015-09-27,Boca Juniors,Banfield,H
+1338,2015-09-27,San Martin S.J.,Sarmiento Junin,H
+1339,2015-09-28,Lanus,Independiente,D
+1340,2015-09-28,Temperley,Arsenal Sarandi,D
+1341,2015-09-29,Estudiantes L.P.,Newells Old Boys,H
+1342,2015-09-30,Godoy Cruz,Racing Club,D
+1343,2015-03-10,Belgrano,Defensa y Justicia,H
+1344,2015-03-10,Quilmes,San Martin S.J.,H
+1345,2015-03-10,Arsenal Sarandi,Atl. Rafaela,H
+1346,2015-03-10,Sarmiento Junin,Estudiantes L.P.,D
+1347,2015-03-10,Argentinos Jrs,Tigre,D
+1348,2015-03-10,San Lorenzo,Rosario Central,D
+1349,2015-04-10,Gimnasia L.P.,Olimpo Bahia Blanca,H
+1350,2015-04-10,Velez Sarsfield,Nueva Chicago,H
+1351,2015-04-10,Union de Santa Fe,Colon Santa FE,H
+1352,2015-04-10,Godoy Cruz,Temperley,H
+1353,2015-04-10,Boca Juniors,Crucero del Norte,H
+1354,2015-04-10,Newells Old Boys,Huracan,H
+1355,2015-05-10,Independiente,River Plate,D
+1356,2015-06-10,Aldosivi,Lanus,D
+1357,2015-06-10,Banfield,Racing Club,D
+1358,2015-10-15,Defensa y Justicia,River Plate,D
+1359,2015-10-17,Huracan,Sarmiento Junin,H
+1360,2015-10-17,Crucero del Norte,Independiente,A
+1361,2015-10-17,Nueva Chicago,Newells Old Boys,D
+1362,2015-10-17,Atl. Rafaela,Godoy Cruz,D
+1363,2015-10-17,Colon Santa FE,Arsenal Sarandi,D
+1364,2015-10-17,San Martin S.J.,Belgrano,D
+1365,2015-10-18,Estudiantes L.P.,Quilmes,H
+1366,2015-10-18,Lanus,Velez Sarsfield,H
+1367,2015-10-18,Olimpo Bahia Blanca,San Lorenzo,D
+1368,2015-10-18,Rosario Central,Argentinos Jrs,H
+1369,2015-10-18,Tigre,Banfield,D
+1370,2015-10-18,River Plate,Aldosivi,H
+1371,2015-10-19,Racing Club,Boca Juniors,D
+1372,2015-10-20,Defensa y Justicia,Union de Santa Fe,H
+1373,2015-10-20,Temperley,Gimnasia L.P.,D
+1374,2015-10-31,Godoy Cruz,Colon Santa FE,H
+1375,2015-10-31,Sarmiento Junin,Nueva Chicago,H
+1376,2015-10-31,Belgrano,Estudiantes L.P.,D
+1377,2015-10-31,Gimnasia L.P.,Atl. Rafaela,H
+1378,2015-10-31,Velez Sarsfield,River Plate,D
+1379,2015-10-31,Union de Santa Fe,San Martin S.J.,H
+1380,2015-10-31,Racing Club,Crucero del Norte,H
+1381,2015-01-11,Newells Old Boys,Lanus,D
+1382,2015-01-11,Quilmes,Huracan,H
+1383,2015-01-11,Banfield,Rosario Central,D
+1384,2015-01-11,Boca Juniors,Tigre,H
+1385,2015-01-11,San Lorenzo,Temperley,H
+1386,2015-02-11,Aldosivi,Independiente,A
+1387,2015-02-11,Arsenal Sarandi,Defensa y Justicia,D
+1388,2015-03-11,Argentinos Jrs,Olimpo Bahia Blanca,D
+1389,2015-07-11,Lanus,Sarmiento Junin,H
+1390,2015-07-11,Defensa y Justicia,Godoy Cruz,H
+1391,2015-07-11,Colon Santa FE,Gimnasia L.P.,D
+1392,2015-07-11,San Martin S.J.,Arsenal Sarandi,H
+1393,2015-07-11,Estudiantes L.P.,Union de Santa Fe,H
+1394,2015-07-11,Olimpo Bahia Blanca,Banfield,D
+1395,2015-08-11,River Plate,Newells Old Boys,D
+1396,2015-08-11,Atl. Rafaela,San Lorenzo,A
+1397,2015-08-11,Rosario Central,Boca Juniors,H
+1398,2015-08-11,Tigre,Racing Club,D
+1399,2015-09-11,Independiente,Velez Sarsfield,H
+1400,2015-09-11,Huracan,Belgrano,D
+1401,2015-09-11,Nueva Chicago,Quilmes,H
+1402,2015-09-11,Temperley,Argentinos Jrs,D
+1403,2015-09-11,Crucero del Norte,Aldosivi,A
+1404,2015-11-19,Tigre,Colon Santa FE,H
+1405,2015-11-20,Independiente,Belgrano,H
+1406,2015-11-20,Gimnasia L.P.,San Martin S.J.,H
+1407,2015-11-21,Racing Club,Estudiantes L.P.,H
+1408,2015-11-21,Union de Santa Fe,Aldosivi,H
+1409,2015-11-23,Quilmes,Olimpo Bahia Blanca,D
+1410,2015-11-24,Lanus,Newells Old Boys,H
+1411,2015-11-25,Banfield,Argentinos Jrs,H
+1412,2015-11-28,Colon Santa FE,Belgrano,D
+1413,2015-11-28,Olimpo Bahia Blanca,Estudiantes L.P.,D
+1414,2015-11-28,Lanus,Gimnasia L.P.,D
+1415,2015-11-29,Independiente,Racing Club,D
+1416,2015-11-30,Aldosivi,Banfield,D
+1417,2015-05-12,Banfield,Aldosivi,H
+1418,2015-05-12,Belgrano,Colon Santa FE,H
+1419,2015-06-12,Estudiantes L.P.,Olimpo Bahia Blanca,H
+1420,2015-06-12,Racing Club,Independiente,D
+1421,2015-07-12,Gimnasia L.P.,Lanus,H
+1422,2016-05-02,Banfield,Gimnasia L.P.,H
+1423,2016-05-02,Huracan,Atl. Rafaela,H
+1424,2016-06-02,Rosario Central,Godoy Cruz,H
+1425,2016-06-02,Aldosivi,Olimpo Bahia Blanca,D
+1426,2016-06-02,Argentinos Jrs,Tigre,D
+1427,2016-06-02,Patronato,San Lorenzo,D
+1428,2016-06-02,San Martin S.J.,Newells Old Boys,D
+1429,2016-07-02,Temperley,Boca Juniors,A
+1430,2016-07-02,Defensa y Justicia,Union de Santa Fe,H
+1431,2016-07-02,Independiente,Belgrano,H
+1432,2016-07-02,Colon Santa FE,Arsenal Sarandi,H
+1433,2016-08-02,Atl. Tucuman,Racing Club,D
+1434,2016-08-02,Estudiantes L.P.,Lanus,D
+1435,2016-08-02,River Plate,Quilmes,H
+1436,2016-09-02,Sarmiento Junin,Velez Sarsfield,D
+1437,2016-12-02,Arsenal Sarandi,Banfield,D
+1438,2016-12-02,Union de Santa Fe,Temperley,H
+1439,2016-02-13,Godoy Cruz,Independiente,D
+1440,2016-02-13,Quilmes,Colon Santa FE,D
+1441,2016-02-13,Aldosivi,Argentinos Jrs,H
+1442,2016-02-13,Atl. Rafaela,Estudiantes L.P.,D
+1443,2016-02-13,San Lorenzo,Sarmiento Junin,H
+1444,2016-02-14,Racing Club,San Martin S.J.,H
+1445,2016-02-14,Velez Sarsfield,Olimpo Bahia Blanca,H
+1446,2016-02-14,Lanus,Defensa y Justicia,H
+1447,2016-02-14,Rosario Central,Newells Old Boys,H
+1448,2016-02-14,Gimnasia L.P.,Patronato,H
+1449,2016-02-14,Boca Juniors,Atl. Tucuman,H
+1450,2016-02-15,Belgrano,River Plate,D
+1451,2016-02-16,Banfield,Quilmes,H
+1452,2016-02-16,Olimpo Bahia Blanca,San Lorenzo,D
+1453,2016-02-17,Argentinos Jrs,Velez Sarsfield,D
+1454,2016-02-17,Defensa y Justicia,Atl. Rafaela,H
+1455,2016-02-17,Newells Old Boys,Racing Club,D
+1456,2016-02-17,Independiente,Rosario Central,D
+1457,2016-02-17,Patronato,Arsenal Sarandi,H
+1458,2016-02-18,San Martin S.J.,Boca Juniors,A
+1459,2016-02-18,Sarmiento Junin,Gimnasia L.P.,H
+1460,2016-02-18,Estudiantes L.P.,Tigre,H
+1461,2016-02-18,Colon Santa FE,Belgrano,D
+1462,2016-02-18,Temperley,Lanus,A
+1463,2016-02-19,Atl. Tucuman,Union de Santa Fe,H
+1464,2016-02-19,River Plate,Godoy Cruz,H
+1465,2016-02-20,San Lorenzo,Velez Sarsfield,H
+1466,2016-02-20,Gimnasia L.P.,Olimpo Bahia Blanca,H
+1467,2016-02-21,Boca Juniors,Newells Old Boys,H
+1468,2016-02-21,Belgrano,Banfield,H
+1469,2016-02-21,Tigre,Defensa y Justicia,D
+1470,2016-02-21,Godoy Cruz,Colon Santa FE,D
+1471,2016-02-21,Independiente,Racing Club,D
+1472,2016-02-22,Rosario Central,River Plate,H
+1473,2016-02-22,Quilmes,Patronato,D
+1474,2016-02-23,Arsenal Sarandi,Sarmiento Junin,D
+1475,2016-02-23,Union de Santa Fe,San Martin S.J.,H
+1476,2016-02-23,Atl. Rafaela,Temperley,H
+1477,2016-02-24,Aldosivi,Estudiantes L.P.,D
+1478,2016-02-24,Lanus,Atl. Tucuman,H
+1479,2016-02-26,Newells Old Boys,Union de Santa Fe,H
+1480,2016-02-27,Banfield,Godoy Cruz,H
+1481,2016-02-27,Estudiantes L.P.,Argentinos Jrs,H
+1482,2016-02-27,Sarmiento Junin,Quilmes,H
+1483,2016-02-27,Defensa y Justicia,Aldosivi,H
+1484,2016-02-27,Huracan,San Lorenzo,D
+1485,2016-02-28,Patronato,Belgrano,D
+1486,2016-02-28,Colon Santa FE,Rosario Central,D
+1487,2016-02-28,Atl. Tucuman,Atl. Rafaela,H
+1488,2016-02-28,Olimpo Bahia Blanca,Arsenal Sarandi,H
+1489,2016-02-28,Racing Club,Boca Juniors,D
+1490,2016-02-29,San Martin S.J.,Lanus,D
+1491,2016-02-29,Velez Sarsfield,Gimnasia L.P.,D
+1492,2016-01-03,River Plate,Independiente,H
+1493,2016-01-03,Temperley,Tigre,D
+1494,2016-04-03,Quilmes,Olimpo Bahia Blanca,D
+1495,2016-04-03,Argentinos Jrs,Defensa y Justicia,D
+1496,2016-05-03,Arsenal Sarandi,Velez Sarsfield,D
+1497,2016-05-03,Lanus,Newells Old Boys,H
+1498,2016-05-03,Atl. Rafaela,San Martin S.J.,D
+1499,2016-05-03,Huracan,Estudiantes L.P.,D
+1500,2016-05-03,Belgrano,Sarmiento Junin,H
+1501,2016-05-03,Gimnasia L.P.,San Lorenzo,D
+1502,2016-06-03,Independiente,Colon Santa FE,H
+1503,2016-06-03,River Plate,Boca Juniors,D
+1504,2016-06-03,Rosario Central,Banfield,H
+1505,2016-06-03,Aldosivi,Temperley,H
+1506,2016-07-03,Union de Santa Fe,Racing Club,D
+1507,2016-07-03,Tigre,Atl. Tucuman,D
+1508,2016-08-03,Godoy Cruz,Patronato,H
+1509,2016-11-03,Racing Club,Lanus,D
+1510,2016-12-03,Newells Old Boys,Atl. Rafaela,H
+1511,2016-12-03,Defensa y Justicia,Huracan,H
+1512,2016-12-03,Olimpo Bahia Blanca,Belgrano,D
+1513,2016-12-03,Banfield,Independiente,D
+1514,2016-12-03,San Martin S.J.,Tigre,H
+1515,2016-12-03,San Lorenzo,Arsenal Sarandi,H
+1516,2016-03-13,Temperley,Argentinos Jrs,H
+1517,2016-03-13,Estudiantes L.P.,Gimnasia L.P.,D
+1518,2016-03-13,Patronato,Rosario Central,A
+1519,2016-03-13,Atl. Tucuman,Aldosivi,H
+1520,2016-03-13,Colon Santa FE,River Plate,D
+1521,2016-03-14,Sarmiento Junin,Godoy Cruz,D
+1522,2016-03-15,Boca Juniors,Union de Santa Fe,H
+1523,2016-03-17,Tigre,Huracan,D
+1524,2016-03-18,Aldosivi,San Martin S.J.,H
+1525,2016-03-18,Arsenal Sarandi,Gimnasia L.P.,D
+1526,2016-03-19,Estudiantes L.P.,Defensa y Justicia,H
+1527,2016-03-19,Belgrano,Velez Sarsfield,H
+1528,2016-03-19,Colon Santa FE,Union de Santa Fe,H
+1529,2016-03-19,Argentinos Jrs,Atl. Tucuman,D
+1530,2016-03-19,Godoy Cruz,Olimpo Bahia Blanca,H
+1531,2016-03-19,Independiente,Patronato,H
+1532,2016-03-20,Quilmes,San Lorenzo,A
+1533,2016-03-20,River Plate,Banfield,H
+1534,2016-03-20,Huracan,Temperley,H
+1535,2016-03-20,Lanus,Boca Juniors,D
+1536,2016-03-21,Rosario Central,Sarmiento Junin,H
+1537,2016-03-22,Atl. Rafaela,Racing Club,A
+1538,2016-03-22,Tigre,Newells Old Boys,H
+1539,2016-03-24,Huracan,Aldosivi,H
+1540,2016-03-28,Velez Sarsfield,Quilmes,H
+1541,2016-03-29,Argentinos Jrs,Huracan,A
+1542,2016-01-04,Atl. Tucuman,Huracan,H
+1543,2016-02-04,Olimpo Bahia Blanca,Rosario Central,D
+1544,2016-02-04,Temperley,Estudiantes L.P.,A
+1545,2016-02-04,Racing Club,Tigre,H
+1546,2016-02-04,Boca Juniors,Atl. Rafaela,H
+1547,2016-03-04,Banfield,Colon Santa FE,H
+1548,2016-03-04,Patronato,River Plate,D
+1549,2016-03-04,Newells Old Boys,Aldosivi,H
+1550,2016-03-04,San Lorenzo,Belgrano,H
+1551,2016-03-04,San Martin S.J.,Argentinos Jrs,H
+1552,2016-03-04,Defensa y Justicia,Arsenal Sarandi,H
+1553,2016-03-04,Velez Sarsfield,Godoy Cruz,D
+1554,2016-04-04,Sarmiento Junin,Independiente,A
+1555,2016-05-04,Gimnasia L.P.,Quilmes,H
+1556,2016-05-04,Union de Santa Fe,Lanus,D
+1557,2016-09-04,Colon Santa FE,Patronato,H
+1558,2016-09-04,Godoy Cruz,San Lorenzo,D
+1559,2016-09-04,Huracan,San Martin S.J.,H
+1560,2016-09-04,Defensa y Justicia,Temperley,H
+1561,2016-09-04,River Plate,Sarmiento Junin,H
+1562,2016-10-04,Independiente,Olimpo Bahia Blanca,H
+1563,2016-10-04,Banfield,Lanus,D
+1564,2016-10-04,Argentinos Jrs,Newells Old Boys,D
+1565,2016-10-04,Aldosivi,Racing Club,D
+1566,2016-10-04,Rosario Central,Velez Sarsfield,H
+1567,2016-11-04,Belgrano,Gimnasia L.P.,D
+1568,2016-11-04,Tigre,Boca Juniors,D
+1569,2016-11-04,Atl. Rafaela,Union de Santa Fe,D
+1570,2016-11-04,Quilmes,Arsenal Sarandi,D
+1571,2016-12-04,Estudiantes L.P.,Atl. Tucuman,H
+1572,2016-04-15,Sarmiento Junin,Colon Santa FE,D
+1573,2016-04-16,Gimnasia L.P.,Godoy Cruz,H
+1574,2016-04-16,Lanus,Atl. Rafaela,H
+1575,2016-04-16,Atl. Tucuman,Defensa y Justicia,D
+1576,2016-04-16,Newells Old Boys,Huracan,H
+1577,2016-04-16,Boca Juniors,Aldosivi,H
+1578,2016-04-16,Union de Santa Fe,Tigre,D
+1579,2016-04-17,Racing Club,Argentinos Jrs,H
+1580,2016-04-17,San Lorenzo,Rosario Central,H
+1581,2016-04-17,San Martin S.J.,Estudiantes L.P.,D
+1582,2016-04-17,Temperley,Quilmes,D
+1583,2016-04-17,Velez Sarsfield,Independiente,A
+1584,2016-04-18,Olimpo Bahia Blanca,River Plate,D
+1585,2016-04-18,Patronato,Banfield,H
+1586,2016-04-18,Arsenal Sarandi,Belgrano,D
+1587,2016-04-22,Atl. Rafaela,Patronato,D
+1588,2016-04-23,Olimpo Bahia Blanca,Aldosivi,H
+1589,2016-04-23,Velez Sarsfield,Argentinos Jrs,H
+1590,2016-04-23,Union de Santa Fe,Colon Santa FE,D
+1591,2016-04-23,Arsenal Sarandi,Defensa y Justicia,D
+1592,2016-04-23,San Lorenzo,Huracan,H
+1593,2016-04-23,Godoy Cruz,San Martin S.J.,H
+1594,2016-04-23,Lanus,Banfield,H
+1595,2016-04-24,Gimnasia L.P.,Estudiantes L.P.,D
+1596,2016-04-24,Newells Old Boys,Rosario Central,D
+1597,2016-04-24,Boca Juniors,River Plate,H
+1598,2016-04-24,Racing Club,Independiente,D
+1599,2016-04-25,Belgrano,Atl. Tucuman,D
+1600,2016-04-25,Tigre,Sarmiento Junin,H
+1601,2016-04-26,Quilmes,Temperley,D
+1602,2016-04-29,Aldosivi,Union de Santa Fe,H
+1603,2016-04-29,Estudiantes L.P.,Newells Old Boys,H
+1604,2016-04-30,Colon Santa FE,Olimpo Bahia Blanca,H
+1605,2016-04-30,Patronato,Atl. Rafaela,H
+1606,2016-04-30,Independiente,San Lorenzo,H
+1607,2016-04-30,Belgrano,Quilmes,H
+1608,2016-04-30,River Plate,Velez Sarsfield,H
+1609,2016-04-30,Godoy Cruz,Arsenal Sarandi,H
+1610,2016-04-30,Huracan,Racing Club,D
+1611,2016-04-30,Defensa y Justicia,San Martin S.J.,H
+1612,2016-01-05,Argentinos Jrs,Boca Juniors,D
+1613,2016-02-05,Rosario Central,Gimnasia L.P.,D
+1614,2016-02-05,Tigre,Lanus,A
+1615,2016-03-05,Temperley,Atl. Tucuman,D
+1616,2016-04-05,Banfield,Sarmiento Junin,H
+1617,2016-06-05,Union de Santa Fe,Argentinos Jrs,D
+1618,2016-07-05,Quilmes,Godoy Cruz,D
+1619,2016-07-05,Newells Old Boys,Defensa y Justicia,D
+1620,2016-07-05,San Martin S.J.,Temperley,H
+1621,2016-07-05,Velez Sarsfield,Colon Santa FE,D
+1622,2016-07-05,San Lorenzo,River Plate,H
+1623,2016-08-05,Racing Club,Estudiantes L.P.,D
+1624,2016-08-05,Arsenal Sarandi,Rosario Central,H
+1625,2016-08-05,Lanus,Aldosivi,H
+1626,2016-08-05,Atl. Tucuman,Belgrano,H
+1627,2016-08-05,Boca Juniors,Huracan,H
+1628,2016-09-05,Atl. Rafaela,Tigre,D
+1629,2016-09-05,Gimnasia L.P.,Independiente,D
+1630,2016-09-05,Olimpo Bahia Blanca,Banfield,D
+1631,2016-10-05,Sarmiento Junin,Patronato,H
+1632,2016-05-13,Huracan,Union de Santa Fe,H
+1633,2016-05-14,Atl. Tucuman,San Martin S.J.,H
+1634,2016-05-14,Defensa y Justicia,Racing Club,D
+1635,2016-05-14,Colon Santa FE,San Lorenzo,A
+1636,2016-05-14,Godoy Cruz,Belgrano,H
+1637,2016-05-14,River Plate,Gimnasia L.P.,H
+1638,2016-05-15,Independiente,Arsenal Sarandi,H
+1639,2016-05-15,Argentinos Jrs,Lanus,D
+1640,2016-05-15,Sarmiento Junin,Tigre,H
+1641,2016-05-15,Temperley,Newells Old Boys,H
+1642,2016-05-15,Aldosivi,Atl. Rafaela,H
+1643,2016-05-15,Rosario Central,Quilmes,H
+1644,2016-05-16,Estudiantes L.P.,Boca Juniors,H
+1645,2016-05-16,Patronato,Olimpo Bahia Blanca,H
+1646,2016-05-17,Banfield,Velez Sarsfield,D
+1647,2016-05-21,Arsenal Sarandi,River Plate,A
+1648,2016-05-21,Tigre,Aldosivi,H
+1649,2016-05-21,Atl. Rafaela,Argentinos Jrs,D
+1650,2016-05-21,Olimpo Bahia Blanca,Sarmiento Junin,D
+1651,2016-05-21,Racing Club,Temperley,H
+1652,2016-05-22,Quilmes,Independiente,A
+1653,2016-05-22,Velez Sarsfield,Patronato,D
+1654,2016-05-22,San Lorenzo,Banfield,H
+1655,2016-05-22,San Martin S.J.,Godoy Cruz,A
+1656,2016-05-22,Boca Juniors,Defensa y Justicia,D
+1657,2016-05-22,Newells Old Boys,Atl. Tucuman,D
+1658,2016-05-22,Union de Santa Fe,Estudiantes L.P.,A
+1659,2016-05-23,Lanus,Huracan,H
+1660,2016-05-23,Belgrano,Rosario Central,D
+1661,2016-05-24,Gimnasia L.P.,Colon Santa FE,H
+1662,2016-05-28,Godoy Cruz,Estudiantes L.P.,A
+1663,2016-05-29,San Lorenzo,Lanus,D
+1664,2016-08-26,Sarmiento Junin,Arsenal Sarandi,D
+1665,2016-08-27,Godoy Cruz,Huracan,H
+1666,2016-08-27,Gimnasia L.P.,Velez Sarsfield,H
+1667,2016-08-27,Rosario Central,Defensa y Justicia,H
+1668,2016-08-27,Racing Club,Talleres Cordoba,H
+1669,2016-08-27,Atl. Tucuman,Atl. Rafaela,H
+1670,2016-08-28,San Lorenzo,San Martin S.J.,H
+1671,2016-08-28,Tigre,Estudiantes L.P.,D
+1672,2016-08-28,Quilmes,Newells Old Boys,D
+1673,2016-08-28,Belgrano,Independiente,D
+1674,2016-08-28,Union de Santa Fe,Olimpo Bahia Blanca,H
+1675,2016-08-28,River Plate,Banfield,H
+1676,2016-08-29,Lanus,Boca Juniors,D
+1677,2016-08-29,Aldosivi,Colon Santa FE,D
+1678,2016-08-30,Temperley,Patronato,D
+1679,2016-09-09,Patronato,Gimnasia L.P.,D
+1680,2016-10-09,Huracan,Quilmes,H
+1681,2016-10-09,Olimpo Bahia Blanca,Lanus,D
+1682,2016-10-09,Banfield,Colon Santa FE,D
+1683,2016-10-09,San Martin S.J.,Racing Club,D
+1684,2016-10-09,Union de Santa Fe,Aldosivi,H
+1685,2016-10-09,Defensa y Justicia,San Lorenzo,D
+1686,2016-11-09,Independiente,Godoy Cruz,H
+1687,2016-11-09,Newells Old Boys,Tigre,H
+1688,2016-11-09,Velez Sarsfield,Rosario Central,D
+1689,2016-11-09,Estudiantes L.P.,Sarmiento Junin,H
+1690,2016-11-09,Boca Juniors,Belgrano,H
+1691,2016-12-09,Talleres Cordoba,River Plate,A
+1692,2016-12-09,Arsenal Sarandi,Atl. Tucuman,D
+1693,2016-09-13,Atl. Rafaela,Temperley,D
+1694,2016-09-17,Colon Santa FE,Talleres Cordoba,H
+1695,2016-09-17,Lanus,Union de Santa Fe,H
+1696,2016-09-17,San Lorenzo,Velez Sarsfield,H
+1697,2016-09-17,Rosario Central,Patronato,H
+1698,2016-09-17,Aldosivi,Banfield,D
+1699,2016-09-17,Quilmes,Independiente,A
+1700,2016-09-18,Sarmiento Junin,Newells Old Boys,D
+1701,2016-09-18,Atl. Tucuman,Estudiantes L.P.,D
+1702,2016-09-18,Temperley,Arsenal Sarandi,D
+1703,2016-09-18,Belgrano,Olimpo Bahia Blanca,D
+1704,2016-09-18,Godoy Cruz,Boca Juniors,D
+1705,2016-09-18,River Plate,San Martin S.J.,H
+1706,2016-09-19,Racing Club,Defensa y Justicia,H
+1707,2016-09-19,Tigre,Huracan,D
+1708,2016-09-20,Gimnasia L.P.,Atl. Rafaela,H
+1709,2016-09-24,Olimpo Bahia Blanca,Godoy Cruz,D
+1710,2016-09-24,Newells Old Boys,Atl. Tucuman,H
+1711,2016-09-24,Atl. Rafaela,Rosario Central,A
+1712,2016-09-24,Velez Sarsfield,Racing Club,D
+1713,2016-09-25,Independiente,Tigre,H
+1714,2016-09-25,Huracan,Sarmiento Junin,H
+1715,2016-09-25,Estudiantes L.P.,Temperley,H
+1716,2016-09-25,Union de Santa Fe,Belgrano,H
+1717,2016-09-25,Talleres Cordoba,Banfield,H
+1718,2016-09-25,Patronato,San Lorenzo,D
+1719,2016-09-25,Boca Juniors,Quilmes,H
+1720,2016-09-25,Lanus,Aldosivi,H
+1721,2016-09-26,Defensa y Justicia,River Plate,D
+1722,2016-09-26,Arsenal Sarandi,Gimnasia L.P.,D
+1723,2016-09-27,San Martin S.J.,Colon Santa FE,D
+1724,2016-09-30,Quilmes,Olimpo Bahia Blanca,D
+1725,2016-01-10,Godoy Cruz,Union de Santa Fe,H
+1726,2016-01-10,Rosario Central,Arsenal Sarandi,H
+1727,2016-01-10,Aldosivi,Talleres Cordoba,D
+1728,2016-01-10,Temperley,Newells Old Boys,D
+1729,2016-01-10,Racing Club,Patronato,H
+1730,2016-02-10,River Plate,Velez Sarsfield,H
+1731,2016-02-10,San Lorenzo,Atl. Rafaela,H
+1732,2016-02-10,Belgrano,Lanus,D
+1733,2016-02-10,Gimnasia L.P.,Estudiantes L.P.,D
+1734,2016-02-10,Banfield,San Martin S.J.,H
+1735,2016-02-10,Colon Santa FE,Defensa y Justicia,D
+1736,2016-02-10,Sarmiento Junin,Independiente,A
+1737,2016-03-10,Tigre,Boca Juniors,A
+1738,2016-04-10,Atl. Tucuman,Huracan,H
+1739,2016-10-14,Defensa y Justicia,Banfield,H
+1740,2016-10-15,Belgrano,Aldosivi,H
+1741,2016-10-15,Velez Sarsfield,Colon Santa FE,D
+1742,2016-10-15,Atl. Rafaela,Racing Club,A
+1743,2016-10-15,Huracan,Temperley,H
+1744,2016-10-15,Estudiantes L.P.,Rosario Central,D
+1745,2016-10-15,San Martin S.J.,Talleres Cordoba,D
+1746,2016-10-16,Independiente,Atl. Tucuman,H
+1747,2016-10-16,Lanus,Godoy Cruz,H
+1748,2016-10-16,Boca Juniors,Sarmiento Junin,H
+1749,2016-10-16,Olimpo Bahia Blanca,Tigre,D
+1750,2016-10-16,Newells Old Boys,Gimnasia L.P.,H
+1751,2016-10-16,Arsenal Sarandi,San Lorenzo,A
+1752,2016-10-17,Patronato,River Plate,A
+1753,2016-10-18,Union de Santa Fe,Quilmes,H
+1754,2016-10-21,Sarmiento Junin,Olimpo Bahia Blanca,D
+1755,2016-10-22,Talleres Cordoba,Defensa y Justicia,D
+1756,2016-10-22,Quilmes,Lanus,A
+1757,2016-10-22,Godoy Cruz,Belgrano,D
+1758,2016-10-22,Temperley,Independiente,A
+1759,2016-10-22,Colon Santa FE,Patronato,D
+1760,2016-10-22,Racing Club,Arsenal Sarandi,H
+1761,2016-10-23,River Plate,Atl. Rafaela,H
+1762,2016-10-23,Gimnasia L.P.,Huracan,H
+1763,2016-10-23,Banfield,Velez Sarsfield,H
+1764,2016-10-23,Rosario Central,Newells Old Boys,H
+1765,2016-10-23,Tigre,Union de Santa Fe,H
+1766,2016-10-23,San Lorenzo,Estudiantes L.P.,H
+1767,2016-10-24,Atl. Tucuman,Boca Juniors,D
+1768,2016-10-25,Aldosivi,San Martin S.J.,H
+1769,2016-10-28,Olimpo Bahia Blanca,Atl. Tucuman,D
+1770,2016-10-29,Patronato,Banfield,D
+1771,2016-10-29,Velez Sarsfield,Talleres Cordoba,D
+1772,2016-10-29,Belgrano,Quilmes,H
+1773,2016-10-29,Boca Juniors,Temperley,H
+1774,2016-10-29,Independiente,Gimnasia L.P.,H
+1775,2016-10-29,Huracan,Rosario Central,D
+1776,2016-10-30,Estudiantes L.P.,Racing Club,H
+1777,2016-10-30,Lanus,Tigre,H
+1778,2016-10-30,Godoy Cruz,Aldosivi,H
+1779,2016-10-30,Newells Old Boys,San Lorenzo,H
+1780,2016-10-30,Atl. Rafaela,Colon Santa FE,H
+1781,2016-10-30,Arsenal Sarandi,River Plate,A
+1782,2016-10-31,Defensa y Justicia,San Martin S.J.,H
+1783,2016-01-11,Union de Santa Fe,Sarmiento Junin,H
+1784,2016-05-11,Temperley,Olimpo Bahia Blanca,D
+1785,2016-05-11,Quilmes,Godoy Cruz,D
+1786,2016-05-11,River Plate,Estudiantes L.P.,D
+1787,2016-05-11,Sarmiento Junin,Lanus,A
+1788,2016-05-11,Colon Santa FE,Arsenal Sarandi,H
+1789,2016-05-11,Racing Club,Newells Old Boys,H
+1790,2016-05-11,San Martin S.J.,Velez Sarsfield,H
+1791,2016-06-11,Banfield,Atl. Rafaela,H
+1792,2016-06-11,San Lorenzo,Huracan,H
+1793,2016-06-11,Tigre,Belgrano,H
+1794,2016-06-11,Talleres Cordoba,Patronato,H
+1795,2016-06-11,Rosario Central,Independiente,D
+1796,2016-06-11,Gimnasia L.P.,Boca Juniors,A
+1797,2016-07-11,Aldosivi,Defensa y Justicia,D
+1798,2016-09-11,Atl. Tucuman,Union de Santa Fe,H
+1799,2016-11-13,Velez Sarsfield,Defensa y Justicia,D
+1800,2016-11-19,Arsenal Sarandi,Banfield,D
+1801,2016-11-19,Estudiantes L.P.,Colon Santa FE,H
+1802,2016-11-19,Godoy Cruz,Tigre,D
+1803,2016-11-19,Lanus,Atl. Tucuman,H
+1804,2016-11-19,Union de Santa Fe,Temperley,H
+1805,2016-11-19,Huracan,Racing Club,D
+1806,2016-11-20,Belgrano,Sarmiento Junin,H
+1807,2016-11-20,Independiente,San Lorenzo,H
+1808,2016-11-20,Quilmes,Aldosivi,H
+1809,2016-11-20,Boca Juniors,Rosario Central,H
+1810,2016-11-20,Atl. Rafaela,Talleres Cordoba,D
+1811,2016-11-20,Newells Old Boys,River Plate,D
+1812,2016-11-21,Olimpo Bahia Blanca,Gimnasia L.P.,D
+1813,2016-11-22,Patronato,San Martin S.J.,H
+1814,2016-11-25,Temperley,Lanus,A
+1815,2016-11-26,Talleres Cordoba,Arsenal Sarandi,H
+1816,2016-11-26,Colon Santa FE,Newells Old Boys,D
+1817,2016-11-26,Tigre,Quilmes,H
+1818,2016-11-26,Banfield,Estudiantes L.P.,D
+1819,2016-11-26,Atl. Tucuman,Belgrano,H
+1820,2016-11-26,Rosario Central,Olimpo Bahia Blanca,D
+1821,2016-11-27,Aldosivi,Velez Sarsfield,D
+1822,2016-11-27,River Plate,Huracan,H
+1823,2016-11-27,Sarmiento Junin,Godoy Cruz,D
+1824,2016-11-27,San Lorenzo,Boca Juniors,D
+1825,2016-11-27,Racing Club,Independiente,D
+1826,2016-11-28,Defensa y Justicia,Patronato,H
+1827,2016-11-28,Gimnasia L.P.,Union de Santa Fe,D
+1828,2016-11-29,San Martin S.J.,Atl. Rafaela,H
+1829,2016-03-12,Quilmes,Sarmiento Junin,D
+1830,2016-03-12,Huracan,Colon Santa FE,D
+1831,2016-03-12,Atl. Rafaela,Defensa y Justicia,D
+1832,2016-03-12,Newells Old Boys,Banfield,H
+1833,2016-03-12,Tigre,Aldosivi,H
+1834,2016-03-12,Godoy Cruz,Atl. Tucuman,D
+1835,2016-03-12,Olimpo Bahia Blanca,San Lorenzo,D
+1836,2016-04-12,Estudiantes L.P.,Talleres Cordoba,H
+1837,2016-04-12,Union de Santa Fe,Rosario Central,D
+1838,2016-04-12,Boca Juniors,Racing Club,H
+1839,2016-04-12,Patronato,Velez Sarsfield,H
+1840,2016-04-12,Belgrano,Temperley,H
+1841,2016-04-12,Independiente,River Plate,H
+1842,2016-05-12,Arsenal Sarandi,San Martin S.J.,D
+1843,2016-06-12,Lanus,Gimnasia L.P.,H
+1844,2016-09-12,Aldosivi,Patronato,D
+1845,2016-09-12,Sarmiento Junin,Tigre,D
+1846,2016-10-12,Temperley,Godoy Cruz,D
+1847,2016-10-12,San Lorenzo,Union de Santa Fe,H
+1848,2016-10-12,Talleres Cordoba,Newells Old Boys,H
+1849,2016-10-12,Velez Sarsfield,Atl. Rafaela,H
+1850,2016-10-12,Gimnasia L.P.,Belgrano,H
+1851,2016-10-12,Racing Club,Olimpo Bahia Blanca,H
+1852,2016-11-12,River Plate,Boca Juniors,D
+1853,2016-11-12,Banfield,Huracan,H
+1854,2016-11-12,San Martin S.J.,Estudiantes L.P.,A
+1855,2016-11-12,Colon Santa FE,Independiente,D
+1856,2016-11-12,Rosario Central,Lanus,A
+1857,2016-12-12,Atl. Tucuman,Quilmes,H
+1858,2016-12-13,Defensa y Justicia,Arsenal Sarandi,H
+1859,2016-12-16,Huracan,Talleres Cordoba,D
+1860,2016-12-17,Godoy Cruz,Gimnasia L.P.,D
+1861,2016-12-17,Estudiantes L.P.,Defensa y Justicia,H
+1862,2016-12-17,Sarmiento Junin,Aldosivi,H
+1863,2016-12-17,Union de Santa Fe,Racing Club,D
+1864,2016-12-17,Atl. Rafaela,Patronato,H
+1865,2016-12-17,Independiente,Banfield,H
+1866,2016-12-18,Belgrano,Rosario Central,H
+1867,2016-12-18,Lanus,San Lorenzo,H
+1868,2016-12-18,Arsenal Sarandi,Velez Sarsfield,D
+1869,2016-12-18,Boca Juniors,Colon Santa FE,H
+1870,2016-12-18,Newells Old Boys,San Martin S.J.,H
+1871,2016-12-18,Olimpo Bahia Blanca,River Plate,D
+1872,2016-12-19,Quilmes,Temperley,D
+1873,2016-12-20,Tigre,Atl. Tucuman,H
+1874,2017-10-03,Velez Sarsfield,Estudiantes L.P.,D
+1875,2017-11-03,Patronato,Arsenal Sarandi,H
+1876,2017-11-03,Defensa y Justicia,Newells Old Boys,D
+1877,2017-11-03,San Lorenzo,Belgrano,H
+1878,2017-11-03,Banfield,Boca Juniors,A
+1879,2017-11-03,San Martin S.J.,Huracan,H
+1880,2017-12-03,Gimnasia L.P.,Quilmes,H
+1881,2017-12-03,Racing Club,Lanus,H
+1882,2017-12-03,Temperley,Tigre,D
+1883,2017-12-03,River Plate,Union de Santa Fe,H
+1884,2017-12-03,Rosario Central,Godoy Cruz,H
+1885,2017-03-13,Atl. Tucuman,Sarmiento Junin,H
+1886,2017-03-13,Aldosivi,Atl. Rafaela,D
+1887,2017-03-14,Colon Santa FE,Olimpo Bahia Blanca,H
+1888,2017-03-18,Quilmes,Rosario Central,A
+1889,2017-03-18,Union de Santa Fe,Colon Santa FE,H
+1890,2017-03-18,Newells Old Boys,Velez Sarsfield,H
+1891,2017-03-18,Tigre,Gimnasia L.P.,H
+1892,2017-03-18,Independiente,San Martin S.J.,H
+1893,2017-03-18,Huracan,Defensa y Justicia,D
+1894,2017-03-19,Belgrano,Racing Club,D
+1895,2017-03-19,Sarmiento Junin,Temperley,H
+1896,2017-03-19,Estudiantes L.P.,Patronato,H
+1897,2017-03-19,Godoy Cruz,San Lorenzo,D
+1898,2017-03-19,Olimpo Bahia Blanca,Banfield,D
+1899,2017-03-19,Boca Juniors,Talleres Cordoba,H
+1900,2017-03-20,Arsenal Sarandi,Atl. Rafaela,D
+1901,2017-03-21,Atl. Tucuman,Aldosivi,H
+1902,2017-03-22,Lanus,River Plate,D
+1903,2017-03-25,Patronato,Newells Old Boys,D
+1904,2017-03-25,Banfield,Union de Santa Fe,H
+1905,2017-03-25,Rosario Central,Tigre,H
+1906,2017-03-25,San Lorenzo,Quilmes,H
+1907,2017-03-25,Gimnasia L.P.,Sarmiento Junin,H
+1908,2017-03-25,Racing Club,Godoy Cruz,H
+1909,2017-03-25,Atl. Rafaela,Estudiantes L.P.,D
+1910,2017-03-26,Colon Santa FE,Lanus,D
+1911,2017-03-26,San Martin S.J.,Boca Juniors,A
+1912,2017-03-26,River Plate,Belgrano,H
+1913,2017-03-26,Temperley,Atl. Tucuman,D
+1914,2017-03-27,Aldosivi,Arsenal Sarandi,H
+1915,2017-03-27,Velez Sarsfield,Huracan,H
+1916,2017-03-28,Talleres Cordoba,Olimpo Bahia Blanca,H
+1917,2017-01-04,Atl. Tucuman,Gimnasia L.P.,H
+1918,2017-01-04,Independiente,Velez Sarsfield,H
+1919,2017-01-04,Newells Old Boys,Atl. Rafaela,H
+1920,2017-01-04,Temperley,Aldosivi,D
+1921,2017-01-04,Quilmes,Racing Club,A
+1922,2017-01-04,Belgrano,Colon Santa FE,H
+1923,2017-02-04,Boca Juniors,Defensa y Justicia,H
+1924,2017-02-04,Estudiantes L.P.,Arsenal Sarandi,H
+1925,2017-02-04,Lanus,Banfield,H
+1926,2017-02-04,Sarmiento Junin,Rosario Central,D
+1927,2017-02-04,Tigre,San Lorenzo,D
+1928,2017-02-04,Huracan,Patronato,H
+1929,2017-03-04,Godoy Cruz,River Plate,A
+1930,2017-03-04,Olimpo Bahia Blanca,San Martin S.J.,H
+1931,2017-04-04,Union de Santa Fe,Talleres Cordoba,D
+1932,2017-07-04,Aldosivi,Estudiantes L.P.,D
+1933,2017-08-04,Colon Santa FE,Godoy Cruz,H
+1934,2017-08-04,Rosario Central,Atl. Tucuman,H
+1935,2017-08-04,Arsenal Sarandi,Newells Old Boys,A
+1936,2017-08-04,San Lorenzo,Sarmiento Junin,H
+1937,2017-08-04,Atl. Rafaela,Huracan,H
+1938,2017-08-04,Talleres Cordoba,Lanus,D
+1939,2017-09-04,Banfield,Belgrano,H
+1940,2017-09-04,Patronato,Independiente,D
+1941,2017-09-04,San Martin S.J.,Union de Santa Fe,D
+1942,2017-09-04,River Plate,Quilmes,H
+1943,2017-10-04,Velez Sarsfield,Boca Juniors,A
+1944,2017-10-04,Defensa y Justicia,Olimpo Bahia Blanca,H
+1945,2017-11-04,Gimnasia L.P.,Temperley,H
+1946,2017-04-14,Huracan,Arsenal Sarandi,H
+1947,2017-04-15,Lanus,San Martin S.J.,H
+1948,2017-04-15,Newells Old Boys,Estudiantes L.P.,H
+1949,2017-04-15,Belgrano,Talleres Cordoba,D
+1950,2017-04-15,Independiente,Atl. Rafaela,H
+1951,2017-04-15,Olimpo Bahia Blanca,Velez Sarsfield,D
+1952,2017-04-16,Sarmiento Junin,Racing Club,A
+1953,2017-04-16,Godoy Cruz,Banfield,D
+1954,2017-04-16,Atl. Tucuman,San Lorenzo,D
+1955,2017-04-16,Boca Juniors,Patronato,H
+1956,2017-04-16,Quilmes,Colon Santa FE,D
+1957,2017-04-17,Tigre,River Plate,A
+1958,2017-04-17,Union de Santa Fe,Defensa y Justicia,D
+1959,2017-04-17,Temperley,Rosario Central,D
+1960,2017-04-18,Gimnasia L.P.,Aldosivi,H
+1961,2017-04-19,Racing Club,Tigre,H
+1962,2017-04-20,Talleres Cordoba,Independiente,D
+1963,2017-04-22,San Lorenzo,Temperley,H
+1964,2017-04-22,Aldosivi,Newells Old Boys,D
+1965,2017-04-22,Racing Club,Atl. Tucuman,H
+1966,2017-04-22,Banfield,Quilmes,H
+1967,2017-04-22,Defensa y Justicia,Lanus,H
+1968,2017-04-22,Velez Sarsfield,Union de Santa Fe,D
+1969,2017-04-23,Rosario Central,Gimnasia L.P.,H
+1970,2017-04-23,Estudiantes L.P.,Huracan,H
+1971,2017-04-23,Atl. Rafaela,Boca Juniors,A
+1972,2017-04-23,San Martin S.J.,Belgrano,D
+1973,2017-04-23,River Plate,Sarmiento Junin,H
+1974,2017-04-23,Talleres Cordoba,Godoy Cruz,H
+1975,2017-04-24,Arsenal Sarandi,Independiente,A
+1976,2017-04-24,Patronato,Olimpo Bahia Blanca,H
+1977,2017-04-25,Colon Santa FE,Tigre,H
+1978,2017-04-28,Quilmes,Talleres Cordoba,D
+1979,2017-04-29,Independiente,Estudiantes L.P.,H
+1980,2017-04-29,Gimnasia L.P.,San Lorenzo,H
+1981,2017-04-29,Huracan,Newells Old Boys,D
+1982,2017-04-29,Sarmiento Junin,Colon Santa FE,D
+1983,2017-04-29,Tigre,Banfield,D
+1984,2017-04-30,Temperley,Racing Club,A
+1985,2017-04-30,Union de Santa Fe,Patronato,H
+1986,2017-04-30,Godoy Cruz,San Martin S.J.,H
+1987,2017-04-30,Rosario Central,Aldosivi,H
+1988,2017-04-30,Boca Juniors,Arsenal Sarandi,H
+1989,2017-04-30,Olimpo Bahia Blanca,Atl. Rafaela,D
+1990,2017-02-05,Belgrano,Defensa y Justicia,D
+1991,2017-03-05,Lanus,Velez Sarsfield,H
+1992,2017-06-05,San Martin S.J.,Quilmes,H
+1993,2017-06-05,Talleres Cordoba,Tigre,H
+1994,2017-06-05,Patronato,Lanus,A
+1995,2017-06-05,Racing Club,Gimnasia L.P.,H
+1996,2017-06-05,Atl. Rafaela,Union de Santa Fe,H
+1997,2017-07-05,Estudiantes L.P.,Boca Juniors,D
+1998,2017-07-05,River Plate,Temperley,H
+1999,2017-07-05,Aldosivi,Huracan,D
+2000,2017-07-05,Defensa y Justicia,Godoy Cruz,H
+2001,2017-07-05,San Lorenzo,Rosario Central,H
+2002,2017-08-05,Colon Santa FE,Atl. Tucuman,H
+2003,2017-08-05,Newells Old Boys,Independiente,D
+2004,2017-09-05,Banfield,Sarmiento Junin,H
+2005,2017-09-05,Velez Sarsfield,Belgrano,H
+2006,2017-05-13,San Martin S.J.,Godoy Cruz,D
+2007,2017-05-13,Estudiantes L.P.,Gimnasia L.P.,H
+2008,2017-05-13,Talleres Cordoba,Belgrano,H
+2009,2017-05-13,Banfield,Lanus,D
+2010,2017-05-13,Atl. Rafaela,Atl. Tucuman,H
+2011,2017-05-13,Huracan,San Lorenzo,D
+2012,2017-05-13,Olimpo Bahia Blanca,Aldosivi,H
+2013,2017-05-14,Colon Santa FE,Union de Santa Fe,H
+2014,2017-05-14,Newells Old Boys,Rosario Central,D
+2015,2017-05-14,Boca Juniors,River Plate,H
+2016,2017-05-14,Independiente,Racing Club,H
+2017,2017-05-14,Patronato,Sarmiento Junin,H
+2018,2017-05-15,Arsenal Sarandi,Temperley,D
+2019,2017-05-15,Defensa y Justicia,Quilmes,H
+2020,2017-05-16,Velez Sarsfield,Tigre,H
+2021,2017-05-20,Atl. Tucuman,Banfield,D
+2022,2017-05-20,Belgrano,Patronato,H
+2023,2017-05-20,Lanus,Atl. Rafaela,D
+2024,2017-05-20,Sarmiento Junin,Talleres Cordoba,D
+2025,2017-05-20,Boca Juniors,Newells Old Boys,H
+2026,2017-05-20,Tigre,San Martin S.J.,H
+2027,2017-05-21,Union de Santa Fe,Arsenal Sarandi,H
+2028,2017-05-21,Independiente,Huracan,H
+2029,2017-05-21,Godoy Cruz,Velez Sarsfield,D
+2030,2017-05-21,San Lorenzo,Aldosivi,H
+2031,2017-05-21,Temperley,Colon Santa FE,D
+2032,2017-05-21,Quilmes,Defensa y Justicia,A
+2033,2017-05-22,Rosario Central,Racing Club,H
+2034,2017-05-22,Olimpo Bahia Blanca,Estudiantes L.P.,D
+2035,2017-05-23,Gimnasia L.P.,River Plate,A
+2036,2017-05-26,Aldosivi,Independiente,A
+2037,2017-05-27,Colon Santa FE,Gimnasia L.P.,H
+2038,2017-05-27,Banfield,Temperley,H
+2039,2017-05-27,Newells Old Boys,Olimpo Bahia Blanca,H
+2040,2017-05-27,Huracan,Boca Juniors,A
+2041,2017-05-27,San Martin S.J.,Sarmiento Junin,H
+2042,2017-05-28,Racing Club,San Lorenzo,D
+2043,2017-05-28,Defensa y Justicia,Tigre,H
+2044,2017-05-28,Arsenal Sarandi,Lanus,A
+2045,2017-05-28,Talleres Cordoba,Atl. Tucuman,H
+2046,2017-05-28,River Plate,Rosario Central,H
+2047,2017-05-28,Atl. Rafaela,Belgrano,H
+2048,2017-05-29,Patronato,Godoy Cruz,D
+2049,2017-05-29,Estudiantes L.P.,Union de Santa Fe,H
+2050,2017-05-30,Velez Sarsfield,Quilmes,H
+2051,2017-01-06,Atl. Tucuman,River Plate,A
+2052,2017-01-06,Arsenal Sarandi,Olimpo Bahia Blanca,D
+2053,2017-02-06,Sarmiento Junin,Defensa y Justicia,A
+2054,2017-03-06,Godoy Cruz,Atl. Rafaela,H
+2055,2017-03-06,Tigre,Velez Sarsfield,D
+2056,2017-03-06,Temperley,Talleres Cordoba,A
+2057,2017-03-06,Rosario Central,Colon Santa FE,H
+2058,2017-03-06,Union de Santa Fe,Newells Old Boys,D
+2059,2017-04-06,Lanus,Estudiantes L.P.,D
+2060,2017-04-06,San Lorenzo,River Plate,D
+2061,2017-04-06,Gimnasia L.P.,Banfield,D
+2062,2017-04-06,Belgrano,Arsenal Sarandi,H
+2063,2017-04-06,Olimpo Bahia Blanca,Huracan,D
+2064,2017-04-06,Atl. Tucuman,San Martin S.J.,H
+2065,2017-04-06,Boca Juniors,Independiente,D
+2066,2017-05-06,Quilmes,Patronato,D
+2067,2017-06-06,Racing Club,Aldosivi,H
+2068,2017-06-15,Defensa y Justicia,Independiente,D
+2069,2017-06-16,Colon Santa FE,San Lorenzo,D
+2070,2017-06-16,San Martin S.J.,Temperley,H
+2071,2017-06-16,Huracan,Union de Santa Fe,H
+2072,2017-06-17,Talleres Cordoba,Gimnasia L.P.,H
+2073,2017-06-17,Banfield,Rosario Central,D
+2074,2017-06-17,Arsenal Sarandi,Godoy Cruz,D
+2075,2017-06-17,Estudiantes L.P.,Belgrano,H
+2076,2017-06-17,Atl. Rafaela,Quilmes,H
+2077,2017-06-17,Aldosivi,Boca Juniors,A
+2078,2017-06-17,Velez Sarsfield,Sarmiento Junin,H
+2079,2017-06-18,Newells Old Boys,Lanus,D
+2080,2017-06-18,Patronato,Tigre,D
+2081,2017-06-18,Independiente,Olimpo Bahia Blanca,H
+2082,2017-06-18,Defensa y Justicia,Atl. Tucuman,H
+2083,2017-06-18,River Plate,Racing Club,H
+2084,2017-06-20,San Lorenzo,Banfield,H
+2085,2017-06-20,Gimnasia L.P.,San Martin S.J.,H
+2086,2017-06-21,Rosario Central,Talleres Cordoba,H
+2087,2017-06-21,Quilmes,Arsenal Sarandi,A
+2088,2017-06-21,Temperley,Defensa y Justicia,A
+2089,2017-06-21,Racing Club,Colon Santa FE,H
+2090,2017-06-21,Olimpo Bahia Blanca,Boca Juniors,D
+2091,2017-06-22,River Plate,Aldosivi,H
+2092,2017-06-22,Belgrano,Newells Old Boys,A
+2093,2017-06-22,Lanus,Huracan,H
+2094,2017-06-22,Sarmiento Junin,Patronato,D
+2095,2017-06-22,Godoy Cruz,Estudiantes L.P.,D
+2096,2017-06-22,Tigre,Atl. Rafaela,H
+2097,2017-06-23,Atl. Tucuman,Velez Sarsfield,D
+2098,2017-06-23,Union de Santa Fe,Independiente,A
+2099,2017-06-24,Defensa y Justicia,Gimnasia L.P.,H
+2100,2017-06-24,San Martin S.J.,Rosario Central,D
+2101,2017-06-25,Boca Juniors,Union de Santa Fe,H
+2102,2017-06-25,Atl. Rafaela,Sarmiento Junin,H
+2103,2017-06-25,Banfield,Racing Club,H
+2104,2017-06-26,Colon Santa FE,River Plate,D
+2105,2017-06-26,Arsenal Sarandi,Tigre,D
+2106,2017-06-26,Patronato,Atl. Tucuman,D
+2107,2017-06-27,Aldosivi,Olimpo Bahia Blanca,D
+2108,2017-06-27,Huracan,Belgrano,H
+2109,2017-06-27,Velez Sarsfield,Temperley,D
+2110,2017-06-27,Estudiantes L.P.,Quilmes,H
+2111,2017-06-27,Newells Old Boys,Godoy Cruz,H
+2112,2017-06-28,Independiente,Lanus,H
+2113,2017-06-28,Talleres Cordoba,San Lorenzo,D
+2114,2017-08-25,Tigre,Velez Sarsfield,D
+2115,2017-08-26,Banfield,Belgrano,H
+2116,2017-08-26,Defensa y Justicia,Gimnasia L.P.,H
+2117,2017-08-26,Colon Santa FE,Rosario Central,D
+2118,2017-08-26,Talleres Cordoba,Lanus,D
+2119,2017-08-27,Independiente,Huracan,H
+2120,2017-08-27,San Martin S.J.,Patronato,H
+2121,2017-08-27,Atl. Tucuman,Godoy Cruz,D
+2122,2017-08-27,San Lorenzo,Racing Club,D
+2123,2017-08-27,Boca Juniors,Olimpo Bahia Blanca,H
+2124,2017-08-28,Temperley,River Plate,A
+2125,2017-08-28,Newells Old Boys,Union de Santa Fe,H
+2126,2017-08-29,Estudiantes L.P.,Arsenal Sarandi,H
+2127,2017-08-09,Arsenal Sarandi,Colon Santa FE,D
+2128,2017-08-09,Velez Sarsfield,Atl. Tucuman,H
+2129,2017-09-09,Olimpo Bahia Blanca,Independiente,D
+2130,2017-09-09,Belgrano,San Martin S.J.,H
+2131,2017-09-09,Estudiantes L.P.,Defensa y Justicia,H
+2132,2017-09-09,Patronato,Argentinos Jrs,D
+2133,2017-10-09,Racing Club,Temperley,H
+2134,2017-10-09,Chacarita Juniors,Tigre,D
+2135,2017-10-09,Godoy Cruz,Talleres Cordoba,D
+2136,2017-10-09,Rosario Central,San Lorenzo,H
+2137,2017-10-09,River Plate,Banfield,H
+2138,2017-11-09,Lanus,Boca Juniors,A
+2139,2017-11-09,Union de Santa Fe,Gimnasia L.P.,H
+2140,2017-12-09,Huracan,Newells Old Boys,H
+2141,2017-09-15,Tigre,Patronato,H
+2142,2017-09-16,Colon Santa FE,Estudiantes L.P.,D
+2143,2017-09-16,Argentinos Jrs,Belgrano,D
+2144,2017-09-16,Defensa y Justicia,Union de Santa Fe,H
+2145,2017-09-16,Newells Old Boys,Olimpo Bahia Blanca,H
+2146,2017-09-16,San Lorenzo,Arsenal Sarandi,H
+2147,2017-09-17,Independiente,Lanus,H
+2148,2017-09-17,Talleres Cordoba,Velez Sarsfield,H
+2149,2017-09-17,Atl. Tucuman,Chacarita Juniors,H
+2150,2017-09-17,Banfield,Racing Club,H
+2151,2017-09-17,Boca Juniors,Godoy Cruz,H
+2152,2017-09-18,San Martin S.J.,River Plate,D
+2153,2017-09-18,Gimnasia L.P.,Huracan,D
+2154,2017-09-19,Temperley,Rosario Central,A
+2155,2017-09-22,Belgrano,Tigre,H
+2156,2017-09-23,Patronato,Atl. Tucuman,D
+2157,2017-09-23,Arsenal Sarandi,Temperley,H
+2158,2017-09-23,Huracan,Union de Santa Fe,H
+2159,2017-09-23,Chacarita Juniors,Talleres Cordoba,A
+2160,2017-09-23,Velez Sarsfield,Boca Juniors,A
+2161,2017-09-24,Godoy Cruz,Independiente,D
+2162,2017-09-24,Colon Santa FE,Defensa y Justicia,D
+2163,2017-09-24,Olimpo Bahia Blanca,Gimnasia L.P.,H
+2164,2017-09-24,Rosario Central,Banfield,H
+2165,2017-09-24,River Plate,Argentinos Jrs,H
+2166,2017-09-25,Racing Club,San Martin S.J.,H
+2167,2017-09-25,Lanus,Newells Old Boys,H
+2168,2017-09-26,Estudiantes L.P.,San Lorenzo,D
+2169,2017-09-29,Defensa y Justicia,Huracan,H
+2170,2017-09-29,Union de Santa Fe,Olimpo Bahia Blanca,H
+2171,2017-09-30,Atl. Tucuman,Belgrano,D
+2172,2017-09-30,San Lorenzo,Colon Santa FE,H
+2173,2017-09-30,Temperley,Estudiantes L.P.,A
+2174,2017-09-30,Gimnasia L.P.,Lanus,D
+2175,2017-01-10,Argentinos Jrs,Racing Club,D
+2176,2017-01-10,Talleres Cordoba,Patronato,H
+2177,2017-01-10,San Martin S.J.,Rosario Central,D
+2178,2017-01-10,Independiente,Velez Sarsfield,H
+2179,2017-01-10,Boca Juniors,Chacarita Juniors,H
+2180,2017-02-10,Tigre,River Plate,A
+2181,2017-02-10,Banfield,Arsenal Sarandi,H
+2182,2017-03-10,Newells Old Boys,Godoy Cruz,H
+2183,2017-08-10,Argentinos Jrs,Chacarita Juniors,H
+2184,2017-10-13,Lanus,Union de Santa Fe,H
+2185,2017-10-14,San Lorenzo,Defensa y Justicia,H
+2186,2017-10-14,Colon Santa FE,Temperley,H
+2187,2017-10-14,Rosario Central,Argentinos Jrs,H
+2188,2017-10-14,Estudiantes L.P.,Banfield,H
+2189,2017-10-14,Velez Sarsfield,Newells Old Boys,H
+2190,2017-10-15,Racing Club,Tigre,H
+2191,2017-10-15,Chacarita Juniors,Independiente,A
+2192,2017-10-15,Godoy Cruz,Gimnasia L.P.,H
+2193,2017-10-15,Belgrano,Talleres Cordoba,D
+2194,2017-10-15,River Plate,Atl. Tucuman,H
+2195,2017-10-16,Patronato,Boca Juniors,A
+2196,2017-10-16,Olimpo Bahia Blanca,Huracan,D
+2197,2017-10-17,Arsenal Sarandi,San Martin S.J.,D
+2198,2017-10-27,Banfield,Colon Santa FE,H
+2199,2017-10-28,Argentinos Jrs,Arsenal Sarandi,H
+2200,2017-10-28,Huracan,Lanus,H
+2201,2017-10-28,Union de Santa Fe,Godoy Cruz,H
+2202,2017-10-28,San Martin S.J.,Estudiantes L.P.,D
+2203,2017-10-28,Atl. Tucuman,Racing Club,D
+2204,2017-10-29,Talleres Cordoba,River Plate,H
+2205,2017-10-29,Newells Old Boys,Chacarita Juniors,H
+2206,2017-10-29,Gimnasia L.P.,Velez Sarsfield,D
+2207,2017-10-29,Temperley,San Lorenzo,A
+2208,2017-10-29,Boca Juniors,Belgrano,H
+2209,2017-10-29,Independiente,Patronato,H
+2210,2017-10-30,Defensa y Justicia,Olimpo Bahia Blanca,H
+2211,2017-10-31,Tigre,Rosario Central,D
+2212,2017-03-11,Chacarita Juniors,Gimnasia L.P.,D
+2213,2017-04-11,Godoy Cruz,Huracan,D
+2214,2017-04-11,Colon Santa FE,San Martin S.J.,H
+2215,2017-04-11,Lanus,Olimpo Bahia Blanca,H
+2216,2017-04-11,San Lorenzo,Banfield,H
+2217,2017-04-11,Rosario Central,Atl. Tucuman,H
+2218,2017-05-11,Racing Club,Talleres Cordoba,D
+2219,2017-05-11,Temperley,Defensa y Justicia,A
+2220,2017-05-11,Belgrano,Independiente,D
+2221,2017-05-11,Estudiantes L.P.,Argentinos Jrs,H
+2222,2017-05-11,River Plate,Boca Juniors,D
+2223,2017-06-11,Arsenal Sarandi,Tigre,D
+2224,2017-06-11,Patronato,Newells Old Boys,D
+2225,2017-07-11,Velez Sarsfield,Union de Santa Fe,D
+2226,2017-11-17,Argentinos Jrs,Colon Santa FE,D
+2227,2017-11-17,Atl. Tucuman,Arsenal Sarandi,H
+2228,2017-11-18,Newells Old Boys,Belgrano,D
+2229,2017-11-18,Banfield,Temperley,H
+2230,2017-11-18,Defensa y Justicia,Lanus,H
+2231,2017-11-18,San Martin S.J.,San Lorenzo,D
+2232,2017-11-19,Independiente,River Plate,D
+2233,2017-11-19,Tigre,Estudiantes L.P.,D
+2234,2017-11-19,Union de Santa Fe,Chacarita Juniors,H
+2235,2017-11-19,Boca Juniors,Racing Club,H
+2236,2017-11-20,Talleres Cordoba,Rosario Central,H
+2237,2017-11-20,Gimnasia L.P.,Patronato,H
+2238,2017-11-20,Olimpo Bahia Blanca,Godoy Cruz,D
+2239,2017-11-21,Huracan,Velez Sarsfield,H
+2240,2017-11-22,River Plate,Union de Santa Fe,H
+2241,2017-11-23,Velez Sarsfield,Godoy Cruz,H
+2242,2017-11-24,Banfield,Defensa y Justicia,D
+2243,2017-11-24,Chacarita Juniors,Huracan,D
+2244,2017-11-25,Colon Santa FE,Tigre,H
+2245,2017-11-25,Belgrano,Gimnasia L.P.,H
+2246,2017-11-25,Patronato,Union de Santa Fe,A
+2247,2017-11-25,San Lorenzo,Argentinos Jrs,H
+2248,2017-11-26,Racing Club,Independiente,D
+2249,2017-11-26,Estudiantes L.P.,Atl. Tucuman,H
+2250,2017-11-26,River Plate,Newells Old Boys,H
+2251,2017-11-27,Rosario Central,Boca Juniors,D
+2252,2017-11-27,Arsenal Sarandi,Talleres Cordoba,A
+2253,2017-11-27,Velez Sarsfield,Olimpo Bahia Blanca,H
+2254,2017-11-28,Temperley,San Martin S.J.,D
+2255,2017-11-30,San Lorenzo,Atl. Tucuman,H
+2256,2017-01-12,Union de Santa Fe,Belgrano,H
+2257,2017-01-12,Defensa y Justicia,Godoy Cruz,H
+2258,2017-02-12,Huracan,Patronato,H
+2259,2017-02-12,Argentinos Jrs,Temperley,H
+2260,2017-02-12,Olimpo Bahia Blanca,Chacarita Juniors,H
+2261,2017-03-12,Newells Old Boys,Racing Club,D
+2262,2017-03-12,Talleres Cordoba,Estudiantes L.P.,H
+2263,2017-03-12,Tigre,San Lorenzo,D
+2264,2017-03-12,Boca Juniors,Arsenal Sarandi,H
+2265,2017-04-12,Gimnasia L.P.,River Plate,A
+2266,2017-04-12,Lanus,Velez Sarsfield,H
+2267,2017-04-12,Atl. Tucuman,Colon Santa FE,D
+2268,2017-05-12,San Martin S.J.,Banfield,D
+2269,2017-08-12,Temperley,Tigre,D
+2270,2017-08-12,Patronato,Olimpo Bahia Blanca,D
+2271,2017-09-12,Belgrano,Huracan,D
+2272,2017-09-12,Banfield,Argentinos Jrs,D
+2273,2017-10-12,Arsenal Sarandi,Independiente,D
+2274,2017-10-12,Rosario Central,Newells Old Boys,H
+2275,2017-10-12,Colon Santa FE,Talleres Cordoba,D
+2276,2017-10-12,Racing Club,Gimnasia L.P.,H
+2277,2017-11-12,Estudiantes L.P.,Boca Juniors,D
+2278,2017-11-12,San Martin S.J.,Defensa y Justicia,D
+2279,2017-12-12,Chacarita Juniors,Lanus,D
+2280,2018-01-25,Independiente,Rosario Central,H
+2281,2018-01-26,Godoy Cruz,Chacarita Juniors,H
+2282,2018-01-26,Tigre,Banfield,D
+2283,2018-01-27,Talleres Cordoba,San Lorenzo,H
+2284,2018-01-27,Defensa y Justicia,Velez Sarsfield,H
+2285,2018-01-27,Newells Old Boys,Arsenal Sarandi,H
+2286,2018-01-27,Lanus,Patronato,H
+2287,2018-01-28,Boca Juniors,Colon Santa FE,H
+2288,2018-01-28,Argentinos Jrs,San Martin S.J.,H
+2289,2018-01-28,Olimpo Bahia Blanca,Belgrano,D
+2290,2018-01-28,Huracan,River Plate,A
+2291,2018-01-29,Union de Santa Fe,Racing Club,H
+2292,2018-01-29,Atl. Tucuman,Temperley,H
+2293,2018-01-29,Gimnasia L.P.,Rosario Central,D
+2294,2018-01-30,Independiente,Estudiantes L.P.,H
+2295,2018-02-02,Argentinos Jrs,Defensa y Justicia,D
+2296,2018-02-02,Patronato,Godoy Cruz,D
+2297,2018-03-02,Belgrano,Lanus,H
+2298,2018-03-02,Banfield,Atl. Tucuman,D
+2299,2018-03-02,Rosario Central,Union de Santa Fe,D
+2300,2018-03-02,Colon Santa FE,Independiente,D
+2301,2018-04-02,River Plate,Olimpo Bahia Blanca,H
+2302,2018-04-02,Arsenal Sarandi,Gimnasia L.P.,D
+2303,2018-04-02,Estudiantes L.P.,Newells Old Boys,H
+2304,2018-04-02,San Lorenzo,Boca Juniors,D
+2305,2018-05-02,Racing Club,Huracan,H
+2306,2018-05-02,Chacarita Juniors,Velez Sarsfield,D
+2307,2018-05-02,Temperley,Talleres Cordoba,A
+2308,2018-06-02,San Martin S.J.,Tigre,D
+2309,2018-08-02,Godoy Cruz,Lanus,H
+2310,2018-09-02,Defensa y Justicia,Chacarita Juniors,H
+2311,2018-09-02,Union de Santa Fe,Arsenal Sarandi,H
+2312,2018-10-02,Newells Old Boys,Colon Santa FE,H
+2313,2018-10-02,Gimnasia L.P.,Estudiantes L.P.,D
+2314,2018-10-02,Velez Sarsfield,Patronato,H
+2315,2018-10-02,Olimpo Bahia Blanca,Racing Club,A
+2316,2018-11-02,Godoy Cruz,Belgrano,H
+2317,2018-11-02,Talleres Cordoba,Banfield,H
+2318,2018-11-02,Boca Juniors,Temperley,H
+2319,2018-12-02,Lanus,River Plate,A
+2320,2018-12-02,Atl. Tucuman,San Martin S.J.,H
+2321,2018-12-02,Tigre,Argentinos Jrs,D
+2322,2018-02-13,Huracan,Rosario Central,D
+2323,2018-02-16,Estudiantes L.P.,Union de Santa Fe,H
+2324,2018-02-16,Racing Club,Lanus,H
+2325,2018-02-17,Belgrano,Velez Sarsfield,D
+2326,2018-02-17,Argentinos Jrs,Atl. Tucuman,H
+2327,2018-02-17,San Lorenzo,Newells Old Boys,H
+2328,2018-02-17,Temperley,Independiente,A
+2329,2018-02-18,Rosario Central,Olimpo Bahia Blanca,H
+2330,2018-02-18,Arsenal Sarandi,Huracan,D
+2331,2018-02-18,San Martin S.J.,Talleres Cordoba,D
+2332,2018-02-18,River Plate,Godoy Cruz,H
+2333,2018-02-19,Banfield,Boca Juniors,A
+2334,2018-02-19,Patronato,Chacarita Juniors,H
+2335,2018-02-19,Tigre,Defensa y Justicia,D
+2336,2018-02-20,Colon Santa FE,Gimnasia L.P.,H
+2337,2018-02-23,Huracan,Estudiantes L.P.,D
+2338,2018-02-23,Olimpo Bahia Blanca,Arsenal Sarandi,D
+2339,2018-02-24,Godoy Cruz,Racing Club,D
+2340,2018-02-24,Defensa y Justicia,Patronato,H
+2341,2018-02-24,Lanus,Rosario Central,A
+2342,2018-02-24,Velez Sarsfield,River Plate,D
+2343,2018-02-25,Atl. Tucuman,Tigre,D
+2344,2018-02-25,Chacarita Juniors,Belgrano,D
+2345,2018-02-25,Independiente,Banfield,H
+2346,2018-02-25,Boca Juniors,San Martin S.J.,H
+2347,2018-02-25,Union de Santa Fe,Colon Santa FE,H
+2348,2018-02-26,Newells Old Boys,Temperley,H
+2349,2018-02-26,Talleres Cordoba,Argentinos Jrs,H
+2350,2018-02-27,Gimnasia L.P.,San Lorenzo,D
+2351,2018-02-03,Arsenal Sarandi,Lanus,D
+2352,2018-02-03,Belgrano,Patronato,H
+2353,2018-03-03,Colon Santa FE,Huracan,H
+2354,2018-03-03,San Lorenzo,Union de Santa Fe,D
+2355,2018-03-03,Tigre,Talleres Cordoba,D
+2356,2018-03-03,Rosario Central,Godoy Cruz,H
+2357,2018-04-03,Temperley,Gimnasia L.P.,D
+2358,2018-04-03,Atl. Tucuman,Defensa y Justicia,D
+2359,2018-04-03,Banfield,Newells Old Boys,D
+2360,2018-04-03,River Plate,Chacarita Juniors,H
+2361,2018-05-03,Racing Club,Velez Sarsfield,H
+2362,2018-05-03,Estudiantes L.P.,Olimpo Bahia Blanca,H
+2363,2018-05-03,San Martin S.J.,Independiente,A
+2364,2018-06-03,Argentinos Jrs,Boca Juniors,A
+2365,2018-09-03,Gimnasia L.P.,Banfield,D
+2366,2018-09-03,Godoy Cruz,Arsenal Sarandi,H
+2367,2018-10-03,Talleres Cordoba,Atl. Tucuman,H
+2368,2018-10-03,Chacarita Juniors,Racing Club,A
+2369,2018-10-03,Olimpo Bahia Blanca,Colon Santa FE,D
+2370,2018-10-03,Boca Juniors,Tigre,H
+2371,2018-11-03,Patronato,River Plate,A
+2372,2018-11-03,Huracan,San Lorenzo,D
+2373,2018-11-03,Lanus,Estudiantes L.P.,A
+2374,2018-11-03,Velez Sarsfield,Rosario Central,D
+2375,2018-12-03,Independiente,Argentinos Jrs,H
+2376,2018-12-03,Defensa y Justicia,Belgrano,H
+2377,2018-12-03,Union de Santa Fe,Temperley,H
+2378,2018-03-13,Newells Old Boys,San Martin S.J.,H
+2379,2018-03-16,Rosario Central,Chacarita Juniors,H
+2380,2018-03-17,Colon Santa FE,Lanus,H
+2381,2018-03-17,Argentinos Jrs,Newells Old Boys,H
+2382,2018-03-17,Temperley,Huracan,D
+2383,2018-03-17,San Martin S.J.,Gimnasia L.P.,D
+2384,2018-03-17,San Lorenzo,Olimpo Bahia Blanca,H
+2385,2018-03-17,Talleres Cordoba,Defensa y Justicia,H
+2386,2018-03-18,Racing Club,Patronato,H
+2387,2018-03-18,Arsenal Sarandi,Velez Sarsfield,A
+2388,2018-03-18,Estudiantes L.P.,Godoy Cruz,H
+2389,2018-03-18,Atl. Tucuman,Boca Juniors,A
+2390,2018-03-18,River Plate,Belgrano,H
+2391,2018-03-19,Banfield,Union de Santa Fe,D
+2392,2018-03-20,Tigre,Independiente,D
+2393,2018-03-30,Huracan,Banfield,D
+2394,2018-03-31,Belgrano,Racing Club,D
+2395,2018-03-31,Newells Old Boys,Tigre,D
+2396,2018-03-31,Velez Sarsfield,Estudiantes L.P.,D
+2397,2018-03-31,Gimnasia L.P.,Argentinos Jrs,D
+2398,2018-03-31,Union de Santa Fe,San Martin S.J.,H
+2399,2018-01-04,Independiente,Atl. Tucuman,H
+2400,2018-01-04,Defensa y Justicia,River Plate,D
+2401,2018-01-04,Chacarita Juniors,Arsenal Sarandi,D
+2402,2018-01-04,Patronato,Rosario Central,D
+2403,2018-01-04,Boca Juniors,Talleres Cordoba,H
+2404,2018-02-04,Lanus,San Lorenzo,D
+2405,2018-02-04,Olimpo Bahia Blanca,Temperley,D
+2406,2018-03-04,Godoy Cruz,Colon Santa FE,H
+2407,2018-05-04,Independiente,San Lorenzo,H
+2408,2018-06-04,Tigre,Gimnasia L.P.,H
+2409,2018-07-04,Argentinos Jrs,Union de Santa Fe,D
+2410,2018-07-04,Rosario Central,Belgrano,H
+2411,2018-07-04,Temperley,Lanus,D
+2412,2018-07-04,Banfield,Olimpo Bahia Blanca,H
+2413,2018-08-04,Boca Juniors,Defensa y Justicia,H
+2414,2018-08-04,San Lorenzo,Godoy Cruz,H
+2415,2018-08-04,San Martin S.J.,Huracan,D
+2416,2018-08-04,Atl. Tucuman,Newells Old Boys,H
+2417,2018-08-04,Talleres Cordoba,Independiente,H
+2418,2018-09-04,Racing Club,River Plate,D
+2419,2018-09-04,Arsenal Sarandi,Patronato,D
+2420,2018-10-04,Estudiantes L.P.,Chacarita Juniors,H
+2421,2018-04-13,Gimnasia L.P.,Atl. Tucuman,D
+2422,2018-04-14,Huracan,Argentinos Jrs,D
+2423,2018-04-14,Godoy Cruz,Temperley,H
+2424,2018-04-14,Olimpo Bahia Blanca,San Martin S.J.,D
+2425,2018-04-14,Lanus,Banfield,D
+2426,2018-04-14,Belgrano,Arsenal Sarandi,H
+2427,2018-04-15,Defensa y Justicia,Racing Club,D
+2428,2018-04-15,Union de Santa Fe,Tigre,H
+2429,2018-04-15,Patronato,Estudiantes L.P.,A
+2430,2018-04-15,Chacarita Juniors,Colon Santa FE,D
+2431,2018-04-15,River Plate,Rosario Central,H
+2432,2018-04-16,Independiente,Boca Juniors,D
+2433,2018-04-16,Newells Old Boys,Talleres Cordoba,D
+2434,2018-04-17,Velez Sarsfield,San Lorenzo,D
+2435,2018-04-20,Argentinos Jrs,Olimpo Bahia Blanca,H
+2436,2018-04-21,Estudiantes L.P.,Belgrano,D
+2437,2018-04-21,San Martin S.J.,Lanus,D
+2438,2018-04-21,Temperley,Velez Sarsfield,A
+2439,2018-04-21,Talleres Cordoba,Gimnasia L.P.,H
+2440,2018-04-21,Banfield,Godoy Cruz,D
+2441,2018-04-22,San Lorenzo,Chacarita Juniors,H
+2442,2018-04-22,Tigre,Huracan,D
+2443,2018-04-22,Rosario Central,Racing Club,D
+2444,2018-04-22,Atl. Tucuman,Union de Santa Fe,D
+2445,2018-04-22,Arsenal Sarandi,River Plate,A
+2446,2018-04-23,Boca Juniors,Newells Old Boys,H
+2447,2018-04-23,Colon Santa FE,Patronato,H
+2448,2018-04-24,Independiente,Defensa y Justicia,H
+2449,2018-04-27,Chacarita Juniors,Temperley,H
+2450,2018-04-28,Godoy Cruz,San Martin S.J.,H
+2451,2018-04-28,Defensa y Justicia,Rosario Central,H
+2452,2018-04-28,Velez Sarsfield,Banfield,H
+2453,2018-04-28,Newells Old Boys,Independiente,D
+2454,2018-04-28,Lanus,Argentinos Jrs,D
+2455,2018-04-29,Huracan,Atl. Tucuman,H
+2456,2018-04-29,Patronato,San Lorenzo,D
+2457,2018-04-29,Belgrano,Colon Santa FE,H
+2458,2018-04-30,Union de Santa Fe,Talleres Cordoba,D
+2459,2018-01-05,Olimpo Bahia Blanca,Tigre,A
+2460,2018-04-05,San Martin S.J.,Velez Sarsfield,A
+2461,2018-05-05,San Lorenzo,Belgrano,D
+2462,2018-05-05,Argentinos Jrs,Godoy Cruz,H
+2463,2018-05-05,Arsenal Sarandi,Rosario Central,A
+2464,2018-05-05,Newells Old Boys,Defensa y Justicia,D
+2465,2018-05-05,Talleres Cordoba,Huracan,H
+2466,2018-06-05,Atl. Tucuman,Olimpo Bahia Blanca,H
+2467,2018-06-05,Temperley,Patronato,D
+2468,2018-06-05,Independiente,Gimnasia L.P.,H
+2469,2018-06-05,Tigre,Lanus,H
+2470,2018-06-05,Boca Juniors,Union de Santa Fe,H
+2471,2018-07-05,Estudiantes L.P.,Racing Club,D
+2472,2018-07-05,Banfield,Chacarita Juniors,H
+2473,2018-08-05,Colon Santa FE,River Plate,A
+2474,2018-09-05,Racing Club,Arsenal Sarandi,H
+2475,2018-09-05,Gimnasia L.P.,Boca Juniors,A
+2476,2018-10-05,Colon Santa FE,Velez Sarsfield,D
+2477,2018-11-05,River Plate,Estudiantes L.P.,H
+2478,2018-11-05,Chacarita Juniors,San Martin S.J.,D
+2479,2018-12-05,Lanus,Atl. Tucuman,H
+2480,2018-12-05,Huracan,Boca Juniors,H
+2481,2018-12-05,Patronato,Banfield,D
+2482,2018-12-05,Defensa y Justicia,Arsenal Sarandi,H
+2483,2018-12-05,Olimpo Bahia Blanca,Talleres Cordoba,A
+2484,2018-12-05,Union de Santa Fe,Independiente,D
+2485,2018-05-13,Belgrano,Temperley,H
+2486,2018-05-13,Godoy Cruz,Tigre,H
+2487,2018-05-14,Velez Sarsfield,Argentinos Jrs,H
+2488,2018-05-14,Racing Club,Colon Santa FE,H
+2489,2018-05-14,Rosario Central,Estudiantes L.P.,H
+2490,2018-05-15,Gimnasia L.P.,Newells Old Boys,D
+2491,2018-05-15,River Plate,San Lorenzo,H
+2492,2018-10-08,Velez Sarsfield,Newells Old Boys,H
+2493,2018-11-08,Tigre,San Lorenzo,D
+2494,2018-11-08,Gimnasia L.P.,Argentinos Jrs,D
+2495,2018-11-08,Union de Santa Fe,Aldosivi,H
+2496,2018-11-08,Patronato,Colon Santa FE,D
+2497,2018-12-08,Belgrano,San Martin S.J.,H
+2498,2018-12-08,Boca Juniors,Talleres Cordoba,H
+2499,2018-12-08,Godoy Cruz,Estudiantes L.P.,D
+2500,2018-12-08,Lanus,Defensa y Justicia,D
+2501,2018-12-08,Rosario Central,Banfield,H
+2502,2018-08-13,Huracan,River Plate,A
+2503,2018-08-14,Atl. Tucuman,Racing Club,D
+2504,2018-08-17,Talleres Cordoba,Rosario Central,D
+2505,2018-08-18,Newells Old Boys,Independiente,D
+2506,2018-08-18,Defensa y Justicia,Atl. Tucuman,H
+2507,2018-08-18,Banfield,Gimnasia L.P.,D
+2508,2018-08-18,Argentinos Jrs,Godoy Cruz,D
+2509,2018-08-19,River Plate,Belgrano,H
+2510,2018-08-19,San Martin S.J.,Patronato,H
+2511,2018-08-19,Colon Santa FE,Tigre,H
+2512,2018-08-19,Aldosivi,Huracan,D
+2513,2018-08-19,San Lorenzo,Lanus,H
+2514,2018-08-20,Racing Club,Velez Sarsfield,H
+2515,2018-08-20,Estudiantes L.P.,Boca Juniors,A
+2516,2018-08-20,San Martin T.,Union de Santa Fe,D
+2517,2018-08-24,Belgrano,Estudiantes L.P.,H
+2518,2018-08-24,Patronato,Racing Club,D
+2519,2018-08-25,Atl. Tucuman,Colon Santa FE,D
+2520,2018-08-25,Independiente,Defensa y Justicia,D
+2521,2018-08-25,Gimnasia L.P.,Talleres Cordoba,D
+2522,2018-08-25,Tigre,San Martin S.J.,H
+2523,2018-08-26,River Plate,Argentinos Jrs,H
+2524,2018-08-26,Velez Sarsfield,Banfield,H
+2525,2018-08-26,Lanus,Aldosivi,H
+2526,2018-08-26,Rosario Central,San Martin T.,H
+2527,2018-08-27,Huracan,Boca Juniors,A
+2528,2018-08-27,Godoy Cruz,Newells Old Boys,H
+2529,2018-08-28,Union de Santa Fe,San Lorenzo,H
+2530,2018-08-31,Argentinos Jrs,Lanus,D
+2531,2018-01-09,San Martin S.J.,Huracan,D
+2532,2018-01-09,Defensa y Justicia,Belgrano,H
+2533,2018-01-09,Banfield,Patronato,H
+2534,2018-01-09,Talleres Cordoba,Godoy Cruz,H
+2535,2018-02-09,San Lorenzo,River Plate,A
+2536,2018-02-09,Racing Club,Rosario Central,H
+2537,2018-02-09,Estudiantes L.P.,Independiente,D
+2538,2018-02-09,Aldosivi,Tigre,D
+2539,2018-02-09,Colon Santa FE,Union de Santa Fe,D
+2540,2018-03-09,Boca Juniors,Velez Sarsfield,H
+2541,2018-03-09,Newells Old Boys,Atl. Tucuman,H
+2542,2018-04-09,San Martin T.,Gimnasia L.P.,H
+2543,2018-09-14,Estudiantes L.P.,Aldosivi,H
+2544,2018-09-15,Atl. Tucuman,Tigre,H
+2545,2018-09-15,Independiente,Colon Santa FE,H
+2546,2018-09-15,River Plate,San Martin S.J.,H
+2547,2018-09-15,Belgrano,Newells Old Boys,D
+2548,2018-09-16,Argentinos Jrs,Boca Juniors,A
+2549,2018-09-16,Patronato,Gimnasia L.P.,D
+2550,2018-09-16,Velez Sarsfield,San Martin T.,H
+2551,2018-09-16,Union de Santa Fe,Talleres Cordoba,H
+2552,2018-09-16,Lanus,Racing Club,A
+2553,2018-09-17,Godoy Cruz,San Lorenzo,D
+2554,2018-09-17,Huracan,Banfield,D
+2555,2018-09-18,Rosario Central,Defensa y Justicia,D
+2556,2018-09-21,San Lorenzo,Patronato,H
+2557,2018-09-22,Colon Santa FE,Godoy Cruz,D
+2558,2018-09-22,Newells Old Boys,Lanus,H
+2559,2018-09-22,Talleres Cordoba,Velez Sarsfield,D
+2560,2018-09-23,Banfield,Independiente,A
+2561,2018-09-23,San Martin T.,Argentinos Jrs,D
+2562,2018-09-23,Tigre,Huracan,D
+2563,2018-09-23,Gimnasia L.P.,Rosario Central,D
+2564,2018-09-23,San Martin S.J.,Atl. Tucuman,D
+2565,2018-09-23,Boca Juniors,River Plate,D
+2566,2018-09-24,Aldosivi,Belgrano,D
+2567,2018-09-25,Racing Club,Union de Santa Fe,H
+2568,2018-09-28,Independiente,Tigre,D
+2569,2018-09-29,Lanus,River Plate,A
+2570,2018-09-30,Argentinos Jrs,Racing Club,A
+2571,2018-09-30,Patronato,Talleres Cordoba,D
+2572,2018-09-30,Union de Santa Fe,Gimnasia L.P.,H
+2573,2018-09-30,Belgrano,Huracan,D
+2574,2018-01-10,Boca Juniors,Colon Santa FE,H
+2575,2018-01-10,Godoy Cruz,Defensa y Justicia,D
+2576,2018-02-10,San Martin T.,Banfield,D
+2577,2018-02-10,Velez Sarsfield,Aldosivi,H
+2578,2018-06-10,Aldosivi,San Martin T.,H
+2579,2018-06-10,Gimnasia L.P.,Godoy Cruz,H
+2580,2018-06-10,San Martin S.J.,Velez Sarsfield,A
+2581,2018-07-10,Patronato,Independiente,A
+2582,2018-07-10,Banfield,San Lorenzo,D
+2583,2018-07-10,Atl. Tucuman,Lanus,H
+2584,2018-07-10,Rosario Central,Union de Santa Fe,D
+2585,2018-07-10,Talleres Cordoba,Belgrano,D
+2586,2018-07-10,Racing Club,Boca Juniors,D
+2587,2018-08-10,Tigre,Estudiantes L.P.,D
+2588,2018-09-10,Colon Santa FE,Newells Old Boys,D
+2589,2018-10-19,Defensa y Justicia,Talleres Cordoba,H
+2590,2018-10-19,Velez Sarsfield,Gimnasia L.P.,H
+2591,2018-10-20,Colon Santa FE,River Plate,D
+2592,2018-10-20,Godoy Cruz,Aldosivi,H
+2593,2018-10-20,Lanus,Patronato,H
+2594,2018-10-20,Boca Juniors,Rosario Central,H
+2595,2018-10-21,Newells Old Boys,Tigre,H
+2596,2018-10-21,Estudiantes L.P.,Atl. Tucuman,D
+2597,2018-10-21,Argentinos Jrs,Union de Santa Fe,D
+2598,2018-10-21,Independiente,Huracan,H
+2599,2018-10-22,San Martin T.,Racing Club,A
+2600,2018-10-22,Belgrano,Banfield,D
+2601,2018-10-23,San Lorenzo,San Martin S.J.,H
+2602,2018-10-24,Estudiantes L.P.,Newells Old Boys,D
+2603,2018-10-26,Tigre,Lanus,D
+2604,2018-10-27,Huracan,Colon Santa FE,D
+2605,2018-10-27,River Plate,Aldosivi,H
+2606,2018-10-27,Gimnasia L.P.,Boca Juniors,D
+2607,2018-10-28,Talleres Cordoba,San Martin T.,H
+2608,2018-10-28,Union de Santa Fe,Godoy Cruz,H
+2609,2018-10-28,Racing Club,San Lorenzo,H
+2610,2018-10-28,Patronato,Rosario Central,D
+2611,2018-10-28,Velez Sarsfield,Belgrano,H
+2612,2018-10-28,Banfield,Estudiantes L.P.,H
+2613,2018-10-28,Atl. Tucuman,Independiente,D
+2614,2018-10-29,Newells Old Boys,Argentinos Jrs,D
+2615,2018-10-30,San Martin S.J.,Defensa y Justicia,D
+2616,2018-02-11,Belgrano,Gimnasia L.P.,D
+2617,2018-03-11,Union de Santa Fe,Patronato,H
+2618,2018-03-11,Aldosivi,Banfield,D
+2619,2018-03-11,Godoy Cruz,Atl. Tucuman,D
+2620,2018-03-11,Estudiantes L.P.,River Plate,D
+2621,2018-03-11,Boca Juniors,Tigre,H
+2622,2018-04-11,Argentinos Jrs,Independiente,A
+2623,2018-04-11,Rosario Central,Colon Santa FE,D
+2624,2018-04-11,San Lorenzo,Talleres Cordoba,H
+2625,2018-04-11,Racing Club,Newells Old Boys,H
+2626,2018-04-11,San Martin T.,San Martin S.J.,H
+2627,2018-05-11,Defensa y Justicia,Velez Sarsfield,H
+2628,2018-06-11,Lanus,Huracan,D
+2629,2018-07-11,Independiente,San Martin T.,H
+2630,2018-09-11,Talleres Cordoba,Aldosivi,H
+2631,2018-10-11,Atl. Tucuman,Rosario Central,H
+2632,2018-10-11,Colon Santa FE,Estudiantes L.P.,D
+2633,2018-11-11,Independiente,Belgrano,H
+2634,2018-11-11,Gimnasia L.P.,Racing Club,A
+2635,2018-11-11,Banfield,Lanus,H
+2636,2018-12-11,Tigre,Argentinos Jrs,H
+2637,2018-12-11,Huracan,Godoy Cruz,D
+2638,2018-12-11,Newells Old Boys,Defensa y Justicia,D
+2639,2018-11-13,Patronato,San Martin T.,D
+2640,2018-11-13,Velez Sarsfield,San Lorenzo,H
+2641,2018-11-17,Boca Juniors,Patronato,H
+2642,2018-11-18,San Lorenzo,Atl. Tucuman,D
+2643,2018-11-18,Defensa y Justicia,Estudiantes L.P.,H
+2644,2018-11-21,Gimnasia L.P.,San Martin S.J.,H
+2645,2018-11-23,Belgrano,Atl. Tucuman,D
+2646,2018-11-24,Argentinos Jrs,Talleres Cordoba,D
+2647,2018-11-24,Rosario Central,Estudiantes L.P.,D
+2648,2018-11-25,Union de Santa Fe,Velez Sarsfield,D
+2649,2018-11-25,Aldosivi,Newells Old Boys,D
+2650,2018-11-25,San Martin T.,Colon Santa FE,D
+2651,2018-11-26,Racing Club,Banfield,H
+2652,2018-11-26,Defensa y Justicia,Tigre,H
+2653,2018-11-27,Lanus,Independiente,A
+2654,2018-11-28,Rosario Central,San Martin S.J.,H
+2655,2018-11-30,Colon Santa FE,Belgrano,H
+2656,2018-01-12,Newells Old Boys,Patronato,H
+2657,2018-01-12,Estudiantes L.P.,Lanus,D
+2658,2018-01-12,Atl. Tucuman,San Martin T.,H
+2659,2018-02-12,Banfield,Argentinos Jrs,H
+2660,2018-02-12,Aldosivi,San Lorenzo,D
+2661,2018-02-12,Independiente,Boca Juniors,D
+2662,2018-03-12,River Plate,Gimnasia L.P.,H
+2663,2018-03-12,Tigre,Godoy Cruz,D
+2664,2018-03-12,San Martin S.J.,Union de Santa Fe,D
+2665,2018-03-12,Velez Sarsfield,Rosario Central,H
+2666,2018-04-12,Huracan,Defensa y Justicia,D
+2667,2018-04-12,Talleres Cordoba,Racing Club,A
+2668,2018-08-12,San Martin T.,Newells Old Boys,D
+2669,2018-08-12,San Lorenzo,Estudiantes L.P.,D
+2670,2018-08-12,Union de Santa Fe,Banfield,H
+2671,2018-08-12,Defensa y Justicia,Colon Santa FE,H
+2672,2018-08-12,Lanus,Talleres Cordoba,H
+2673,2018-09-12,Godoy Cruz,Independiente,D
+2674,2018-09-12,Argentinos Jrs,Aldosivi,D
+2675,2018-09-12,Gimnasia L.P.,Huracan,D
+2676,2018-10-12,Racing Club,San Martin S.J.,H
+2677,2018-10-12,Patronato,Velez Sarsfield,A
+2678,2018-11-12,Belgrano,Tigre,H
+2679,2019-01-19,River Plate,Defensa y Justicia,H
+2680,2019-01-20,San Lorenzo,Huracan,D
+2681,2019-01-24,River Plate,Union de Santa Fe,H
+2682,2019-01-25,Banfield,San Martin S.J.,H
+2683,2019-01-25,Godoy Cruz,Lanus,D
+2684,2019-01-26,Defensa y Justicia,San Lorenzo,H
+2685,2019-01-26,Huracan,Rosario Central,D
+2686,2019-01-26,Tigre,San Martin T.,H
+2687,2019-01-26,Atl. Tucuman,Gimnasia L.P.,H
+2688,2019-01-27,Aldosivi,Racing Club,A
+2689,2019-01-27,Belgrano,Union de Santa Fe,D
+2690,2019-01-27,Independiente,Talleres Cordoba,H
+2691,2019-01-27,River Plate,Patronato,H
+2692,2019-01-28,Newells Old Boys,Boca Juniors,D
+2693,2019-01-28,Colon Santa FE,Argentinos Jrs,H
+2694,2019-01-29,Estudiantes L.P.,Velez Sarsfield,D
+2695,2019-01-31,Godoy Cruz,River Plate,A
+2696,2019-01-02,San Martin S.J.,Boca Juniors,A
+2697,2019-01-02,Gimnasia L.P.,Tigre,D
+2698,2019-02-02,San Martin T.,Defensa y Justicia,A
+2699,2019-02-02,Talleres Cordoba,Banfield,H
+2700,2019-02-02,San Lorenzo,Independiente,D
+2701,2019-02-02,Argentinos Jrs,Belgrano,H
+2702,2019-02-02,Lanus,Colon Santa FE,H
+2703,2019-03-02,Rosario Central,Aldosivi,H
+2704,2019-03-02,Boca Juniors,Godoy Cruz,H
+2705,2019-03-02,Union de Santa Fe,Newells Old Boys,D
+2706,2019-03-02,Racing Club,Huracan,H
+2707,2019-04-02,Velez Sarsfield,River Plate,D
+2708,2019-04-02,Patronato,Atl. Tucuman,D
+2709,2019-05-02,San Martin S.J.,Estudiantes L.P.,D
+2710,2019-08-02,Tigre,Banfield,D
+2711,2019-09-02,Huracan,Velez Sarsfield,A
+2712,2019-09-02,Lanus,Gimnasia L.P.,H
+2713,2019-09-02,Estudiantes L.P.,Patronato,H
+2714,2019-09-02,Atl. Tucuman,Talleres Cordoba,H
+2715,2019-09-02,Independiente,Union de Santa Fe,H
+2716,2019-10-02,Godoy Cruz,San Martin T.,H
+2717,2019-10-02,Newells Old Boys,Rosario Central,H
+2718,2019-10-02,River Plate,Racing Club,H
+2719,2019-11-02,Belgrano,Boca Juniors,A
+2720,2019-11-02,Defensa y Justicia,Argentinos Jrs,H
+2721,2019-12-02,Aldosivi,San Martin S.J.,H
+2722,2019-02-15,Rosario Central,River Plate,A
+2723,2019-02-15,Union de Santa Fe,Atl. Tucuman,H
+2724,2019-02-15,Velez Sarsfield,Colon Santa FE,H
+2725,2019-02-16,San Martin T.,Belgrano,D
+2726,2019-02-16,San Lorenzo,Newells Old Boys,D
+2727,2019-02-16,Gimnasia L.P.,Defensa y Justicia,A
+2728,2019-02-16,Patronato,Aldosivi,D
+2729,2019-02-17,San Martin S.J.,Independiente,A
+2730,2019-02-17,Rosario Central,Tigre,H
+2731,2019-02-17,Talleres Cordoba,Huracan,D
+2732,2019-02-17,Boca Juniors,Lanus,H
+2733,2019-02-18,Banfield,River Plate,A
+2734,2019-02-18,Argentinos Jrs,Estudiantes L.P.,D
+2735,2019-02-19,Racing Club,Godoy Cruz,H
+2736,2019-02-21,Boca Juniors,Atl. Tucuman,H
+2737,2019-02-22,Tigre,Patronato,H
+2738,2019-02-23,Colon Santa FE,Banfield,D
+2739,2019-02-23,Lanus,Rosario Central,H
+2740,2019-02-23,Godoy Cruz,Velez Sarsfield,A
+2741,2019-02-23,Huracan,Union de Santa Fe,D
+2742,2019-02-23,Belgrano,San Lorenzo,D
+2743,2019-02-24,Independiente,Racing Club,D
+2744,2019-02-24,River Plate,San Martin T.,H
+2745,2019-02-24,Atl. Tucuman,Argentinos Jrs,H
+2746,2019-02-24,Estudiantes L.P.,Talleres Cordoba,H
+2747,2019-02-25,Defensa y Justicia,Boca Juniors,D
+2748,2019-02-25,Aldosivi,Gimnasia L.P.,H
+2749,2019-02-26,Newells Old Boys,San Martin S.J.,H
+2750,2019-01-03,San Lorenzo,Argentinos Jrs,H
+2751,2019-02-03,Union de Santa Fe,Boca Juniors,D
+2752,2019-02-03,Rosario Central,Belgrano,D
+2753,2019-02-03,San Martin S.J.,Godoy Cruz,D
+2754,2019-02-03,San Martin T.,Lanus,D
+2755,2019-03-03,River Plate,Newells Old Boys,H
+2756,2019-03-03,Patronato,Huracan,H
+2757,2019-03-03,Talleres Cordoba,Colon Santa FE,H
+2758,2019-03-03,Racing Club,Estudiantes L.P.,H
+2759,2019-04-03,Gimnasia L.P.,Independiente,A
+2760,2019-04-03,Banfield,Atl. Tucuman,H
+2761,2019-04-03,Velez Sarsfield,Tigre,H
+2762,2019-05-03,Aldosivi,Defensa y Justicia,A
+2763,2019-08-03,Lanus,San Martin S.J.,H
+2764,2019-09-03,Belgrano,Patronato,H
+2765,2019-09-03,Godoy Cruz,Rosario Central,H
+2766,2019-09-03,Newells Old Boys,Talleres Cordoba,H
+2767,2019-09-03,Colon Santa FE,Racing Club,A
+2768,2019-10-03,Boca Juniors,San Lorenzo,H
+2769,2019-10-03,Estudiantes L.P.,Gimnasia L.P.,D
+2770,2019-10-03,Huracan,San Martin T.,D
+2771,2019-10-03,Independiente,Aldosivi,H
+2772,2019-11-03,Atl. Tucuman,River Plate,A
+2773,2019-11-03,Tigre,Union de Santa Fe,D
+2774,2019-12-03,Argentinos Jrs,Velez Sarsfield,A
+2775,2019-12-03,Defensa y Justicia,Banfield,H
+2776,2019-03-15,Gimnasia L.P.,Newells Old Boys,D
+2777,2019-03-16,Aldosivi,Colon Santa FE,D
+2778,2019-03-16,Velez Sarsfield,Atl. Tucuman,H
+2779,2019-03-16,Union de Santa Fe,Lanus,H
+2780,2019-03-16,San Martin S.J.,Argentinos Jrs,D
+2781,2019-03-16,Racing Club,Belgrano,H
+2782,2019-03-17,Patronato,Defensa y Justicia,A
+2783,2019-03-17,Talleres Cordoba,Tigre,H
+2784,2019-03-17,Rosario Central,San Lorenzo,D
+2785,2019-03-17,River Plate,Independiente,H
+2786,2019-03-17,San Martin T.,Boca Juniors,A
+2787,2019-03-18,Banfield,Godoy Cruz,H
+2788,2019-03-19,Huracan,Estudiantes L.P.,H
+2789,2019-03-23,Colon Santa FE,San Lorenzo,D
+2790,2019-03-29,Newells Old Boys,Huracan,H
+2791,2019-03-30,Boca Juniors,Banfield,H
+2792,2019-03-30,San Lorenzo,Gimnasia L.P.,D
+2793,2019-03-30,Godoy Cruz,Patronato,D
+2794,2019-03-30,Independiente,Velez Sarsfield,D
+2795,2019-03-30,Talleres Cordoba,River Plate,A
+2796,2019-03-31,Atl. Tucuman,Aldosivi,H
+2797,2019-03-31,Argentinos Jrs,Rosario Central,D
+2798,2019-03-31,Lanus,Belgrano,H
+2799,2019-03-31,Defensa y Justicia,Union de Santa Fe,H
+2800,2019-03-31,Tigre,Racing Club,A
+2801,2019-01-04,Estudiantes L.P.,San Martin T.,H
+2802,2019-02-04,Colon Santa FE,San Martin S.J.,D
+2803,2019-06-04,San Martin T.,San Lorenzo,D
+2804,2019-06-04,Gimnasia L.P.,Colon Santa FE,D
+2805,2019-06-04,Banfield,Newells Old Boys,H
+2806,2019-06-04,Union de Santa Fe,Estudiantes L.P.,H
+2807,2019-06-04,Velez Sarsfield,Lanus,D
+2808,2019-07-04,Aldosivi,Boca Juniors,D
+2809,2019-07-04,Huracan,Atl. Tucuman,H
+2810,2019-07-04,Rosario Central,Independiente,A
+2811,2019-07-04,Belgrano,Godoy Cruz,H
+2812,2019-07-04,Patronato,Argentinos Jrs,H
+2813,2019-07-04,River Plate,Tigre,H
+2814,2019-07-04,San Martin S.J.,Talleres Cordoba,D
+2815,2019-07-04,Racing Club,Defensa y Justicia,D
+2816,2019-07-27,Racing Club,Union de Santa Fe,H
+2817,2019-07-27,Colon Santa FE,Patronato,H
+2818,2019-07-27,San Lorenzo,Godoy Cruz,H
+2819,2019-07-27,Lanus,Gimnasia L.P.,H
+2820,2019-07-28,Argentinos Jrs,River Plate,D
+2821,2019-07-28,Estudiantes L.P.,Aldosivi,H
+2822,2019-07-28,Newells Old Boys,Central Cordoba,H
+2823,2019-07-28,Talleres Cordoba,Velez Sarsfield,D
+2824,2019-07-28,Defensa y Justicia,Independiente,D
+2825,2019-07-29,Boca Juniors,Huracan,H
+2826,2019-07-29,Arsenal Sarandi,Banfield,D
+2827,2019-07-30,Atl. Tucuman,Rosario Central,D
+2828,2019-03-08,Huracan,Colon Santa FE,D
+2829,2019-03-08,Aldosivi,Argentinos Jrs,D
+2830,2019-03-08,Rosario Central,Talleres Cordoba,H
+2831,2019-03-08,Central Cordoba,Atl. Tucuman,D
+2832,2019-04-08,Velez Sarsfield,Racing Club,D
+2833,2019-04-08,Union de Santa Fe,Defensa y Justicia,H
+2834,2019-04-08,Gimnasia L.P.,San Lorenzo,D
+2835,2019-04-08,Banfield,Estudiantes L.P.,H
+2836,2019-04-08,River Plate,Lanus,H
+2837,2019-05-08,Patronato,Boca Juniors,A
+2838,2019-06-08,Godoy Cruz,Arsenal Sarandi,H
+2839,2019-08-16,Argentinos Jrs,Banfield,D
+2840,2019-08-17,Talleres Cordoba,Central Cordoba,H
+2841,2019-08-17,Newells Old Boys,Union de Santa Fe,H
+2842,2019-08-17,San Lorenzo,Rosario Central,H
+2843,2019-08-18,Racing Club,River Plate,D
+2844,2019-08-18,Patronato,Huracan,D
+2845,2019-08-18,Defensa y Justicia,Arsenal Sarandi,D
+2846,2019-08-18,Lanus,Velez Sarsfield,D
+2847,2019-08-19,Boca Juniors,Aldosivi,H
+2848,2019-08-19,Atl. Tucuman,Godoy Cruz,H
+2849,2019-08-19,Colon Santa FE,Gimnasia L.P.,D
+2850,2019-08-20,Estudiantes L.P.,Independiente,D
+2851,2019-08-24,Arsenal Sarandi,San Lorenzo,D
+2852,2019-08-24,Gimnasia L.P.,Defensa y Justicia,H
+2853,2019-08-24,Velez Sarsfield,Newells Old Boys,H
+2854,2019-08-24,Rosario Central,Patronato,H
+2855,2019-08-25,Independiente,Colon Santa FE,H
+2856,2019-08-25,Godoy Cruz,Estudiantes L.P.,D
+2857,2019-08-25,Union de Santa Fe,Lanus,D
+2858,2019-08-25,Central Cordoba,Racing Club,A
+2859,2019-08-25,River Plate,Talleres Cordoba,H
+2860,2019-08-26,Banfield,Boca Juniors,D
+2861,2019-08-26,Aldosivi,Atl. Tucuman,D
+2862,2019-08-27,Huracan,Argentinos Jrs,D
+2863,2019-08-30,Lanus,Central Cordoba,H
+2864,2019-08-31,Defensa y Justicia,Banfield,D
+2865,2019-08-31,Estudiantes L.P.,Velez Sarsfield,D
+2866,2019-08-31,Argentinos Jrs,Gimnasia L.P.,H
+2867,2019-08-31,San Lorenzo,Union de Santa Fe,H
+2868,2019-08-31,Patronato,Independiente,A
+2869,2019-01-09,Racing Club,Godoy Cruz,H
+2870,2019-01-09,Atl. Tucuman,Arsenal Sarandi,D
+2871,2019-01-09,Colon Santa FE,Rosario Central,D
+2872,2019-01-09,Newells Old Boys,Huracan,H
+2873,2019-01-09,Talleres Cordoba,Aldosivi,H
+2874,2019-01-09,River Plate,Boca Juniors,H
+2875,2019-09-14,Arsenal Sarandi,Union de Santa Fe,H
+2876,2019-09-14,Central Cordoba,Defensa y Justicia,D
+2877,2019-09-14,Godoy Cruz,Argentinos Jrs,D
+2878,2019-09-14,Colon Santa FE,San Lorenzo,D
+2879,2019-09-15,Huracan,River Plate,A
+2880,2019-09-15,Gimnasia L.P.,Racing Club,D
+2881,2019-09-15,Banfield,Talleres Cordoba,H
+2882,2019-09-15,Rosario Central,Newells Old Boys,D
+2883,2019-09-15,Independiente,Lanus,H
+2884,2019-09-16,Boca Juniors,Estudiantes L.P.,H
+2885,2019-09-16,Aldosivi,Patronato,D
+2886,2019-09-17,Velez Sarsfield,Atl. Tucuman,H
+2887,2019-09-20,Union de Santa Fe,Rosario Central,D
+2888,2019-09-21,Argentinos Jrs,Central Cordoba,H
+2889,2019-09-21,Estudiantes L.P.,Patronato,H
+2890,2019-09-21,Defensa y Justicia,Huracan,H
+2891,2019-09-21,San Lorenzo,Boca Juniors,D
+2892,2019-09-22,Atl. Tucuman,Independiente,D
+2893,2019-09-22,Newells Old Boys,Aldosivi,H
+2894,2019-09-22,Godoy Cruz,Banfield,A
+2895,2019-09-22,Lanus,Colon Santa FE,H
+2896,2019-09-22,Racing Club,Arsenal Sarandi,H
+2897,2019-09-23,River Plate,Velez Sarsfield,H
+2898,2019-09-24,Talleres Cordoba,Gimnasia L.P.,H
+2899,2019-09-27,Aldosivi,Union de Santa Fe,D
+2900,2019-09-28,Patronato,Lanus,D
+2901,2019-09-28,Arsenal Sarandi,Estudiantes L.P.,D
+2902,2019-09-28,Gimnasia L.P.,River Plate,A
+2903,2019-09-29,Boca Juniors,Newells Old Boys,H
+2904,2019-09-29,Banfield,San Lorenzo,D
+2905,2019-09-29,Huracan,Atl. Tucuman,D
+2906,2019-09-29,Velez Sarsfield,Defensa y Justicia,H
+2907,2019-09-29,Rosario Central,Racing Club,D
+2908,2019-09-30,Independiente,Talleres Cordoba,H
+2909,2019-09-30,Central Cordoba,Godoy Cruz,H
+2910,2019-01-10,Colon Santa FE,Argentinos Jrs,D
+2911,2019-04-10,Newells Old Boys,Banfield,H
+2912,2019-05-10,Atl. Tucuman,Talleres Cordoba,D
+2913,2019-05-10,Argentinos Jrs,Arsenal Sarandi,H
+2914,2019-05-10,Godoy Cruz,Gimnasia L.P.,D
+2915,2019-05-10,San Lorenzo,Central Cordoba,H
+2916,2019-05-10,Estudiantes L.P.,Huracan,H
+2917,2019-06-10,Racing Club,Aldosivi,H
+2918,2019-06-10,Velez Sarsfield,Independiente,D
+2919,2019-06-10,Lanus,Rosario Central,H
+2920,2019-06-10,Union de Santa Fe,Colon Santa FE,D
+2921,2019-06-10,River Plate,Patronato,H
+2922,2019-07-10,Defensa y Justicia,Boca Juniors,A
+2923,2019-10-18,Arsenal Sarandi,River Plate,A
+2924,2019-10-19,Boca Juniors,Racing Club,D
+2925,2019-10-19,Banfield,Atl. Tucuman,H
+2926,2019-10-19,Independiente,Argentinos Jrs,H
+2927,2019-10-19,Patronato,Newells Old Boys,D
+2928,2019-10-20,Talleres Cordoba,Lanus,D
+2929,2019-10-20,Aldosivi,Defensa y Justicia,D
+2930,2019-10-20,Gimnasia L.P.,Union de Santa Fe,D
+2931,2019-10-20,Huracan,San Lorenzo,D
+2932,2019-10-20,Rosario Central,Velez Sarsfield,D
+2933,2019-10-21,Central Cordoba,Estudiantes L.P.,D
+2934,2019-10-22,Colon Santa FE,Godoy Cruz,H
+2935,2019-10-29,Godoy Cruz,Aldosivi,H
+2936,2019-10-29,Estudiantes L.P.,Rosario Central,D
+2937,2019-10-29,Atl. Tucuman,Patronato,H
+2938,2019-10-29,Newells Old Boys,Gimnasia L.P.,H
+2939,2019-10-30,River Plate,Colon Santa FE,H
+2940,2019-10-30,Argentinos Jrs,Talleres Cordoba,H
+2941,2019-10-30,San Lorenzo,Defensa y Justicia,D
+2942,2019-10-30,Union de Santa Fe,Independiente,D
+2943,2019-10-31,Racing Club,Banfield,H
+2944,2019-10-31,Arsenal Sarandi,Central Cordoba,H
+2945,2019-10-31,Velez Sarsfield,Huracan,H
+2946,2019-01-11,Lanus,Boca Juniors,D
+2947,2019-02-11,Colon Santa FE,Atl. Tucuman,A
+2948,2019-02-11,Gimnasia L.P.,Estudiantes L.P.,D
+2949,2019-02-11,Rosario Central,Godoy Cruz,H
+2950,2019-02-11,Aldosivi,River Plate,A
+2951,2019-03-11,Boca Juniors,Arsenal Sarandi,H
+2952,2019-03-11,Banfield,Union de Santa Fe,D
+2953,2019-03-11,Talleres Cordoba,Newells Old Boys,D
+2954,2019-03-11,Patronato,Racing Club,D
+2955,2019-03-11,Independiente,San Lorenzo,H
+2956,2019-04-11,Defensa y Justicia,Argentinos Jrs,D
+2957,2019-05-11,Central Cordoba,Velez Sarsfield,A
+2958,2019-05-11,Huracan,Lanus,D
+2959,2019-08-11,Estudiantes L.P.,Talleres Cordoba,H
+2960,2019-09-11,Union de Santa Fe,Atl. Tucuman,H
+2961,2019-09-11,Lanus,Banfield,H
+2962,2019-09-11,San Lorenzo,Argentinos Jrs,D
+2963,2019-09-11,Godoy Cruz,Independiente,A
+2964,2019-10-11,Central Cordoba,Patronato,H
+2965,2019-10-11,River Plate,Rosario Central,H
+2966,2019-10-11,Aldosivi,Gimnasia L.P.,D
+2967,2019-10-11,Newells Old Boys,Defensa y Justicia,D
+2968,2019-10-11,Racing Club,Huracan,H
+2969,2019-10-11,Velez Sarsfield,Boca Juniors,D
+2970,2019-11-23,Defensa y Justicia,Lanus,D
+2971,2019-11-23,Huracan,Central Cordoba,D
+2972,2019-11-24,Atl. Tucuman,San Lorenzo,D
+2973,2019-11-24,Boca Juniors,Union de Santa Fe,H
+2974,2019-11-24,Banfield,Velez Sarsfield,D
+2975,2019-11-24,Gimnasia L.P.,Arsenal Sarandi,H
+2976,2019-11-25,Talleres Cordoba,Racing Club,D
+2977,2019-11-25,Colon Santa FE,Estudiantes L.P.,D
+2978,2019-11-25,Patronato,Godoy Cruz,H
+2979,2019-11-26,Argentinos Jrs,Newells Old Boys,D
+2980,2019-11-26,Rosario Central,Aldosivi,H
+2981,2019-11-29,Banfield,Gimnasia L.P.,H
+2982,2019-11-30,Racing Club,Defensa y Justicia,D
+2983,2019-11-30,Estudiantes L.P.,Atl. Tucuman,H
+2984,2019-11-30,Boca Juniors,Argentinos Jrs,H
+2985,2019-01-12,Newells Old Boys,River Plate,A
+2986,2019-01-12,San Lorenzo,Patronato,H
+2987,2019-01-12,Godoy Cruz,Talleres Cordoba,A
+2988,2019-01-12,Velez Sarsfield,Colon Santa FE,H
+2989,2019-02-12,Aldosivi,Independiente,A
+2990,2019-02-12,Central Cordoba,Rosario Central,D
+2991,2019-02-12,Arsenal Sarandi,Lanus,D
+2992,2019-03-12,Union de Santa Fe,Huracan,H
+2993,2019-06-12,Colon Santa FE,Aldosivi,H
+2994,2019-07-12,Independiente,Banfield,H
+2995,2019-07-12,Huracan,Arsenal Sarandi,D
+2996,2019-07-12,Atl. Tucuman,Newells Old Boys,D
+2997,2019-07-12,Talleres Cordoba,Union de Santa Fe,H
+2998,2019-08-12,Lanus,Racing Club,D
+2999,2019-08-12,Defensa y Justicia,Godoy Cruz,H
+3000,2019-08-12,Gimnasia L.P.,Central Cordoba,H
+3001,2019-08-12,Rosario Central,Boca Juniors,D
+3002,2019-09-12,River Plate,San Lorenzo,H
+3003,2019-09-12,Patronato,Velez Sarsfield,A
+3004,2019-10-12,Argentinos Jrs,Estudiantes L.P.,D
+3005,2019-12-13,Arsenal Sarandi,Colon Santa FE,H
+3006,2019-12-13,Independiente,Newells Old Boys,H
+3007,2020-01-19,Independiente,River Plate,A
+3008,2020-01-24,Aldosivi,Lanus,A
+3009,2020-01-24,Gimnasia L.P.,Velez Sarsfield,D
+3010,2020-01-25,Rosario Central,Huracan,H
+3011,2020-01-25,Union de Santa Fe,Argentinos Jrs,D
+3012,2020-01-25,Arsenal Sarandi,Newells Old Boys,D
+3013,2020-01-25,Central Cordoba,Colon Santa FE,H
+3014,2020-01-25,San Lorenzo,Estudiantes L.P.,D
+3015,2020-01-26,Godoy Cruz,River Plate,A
+3016,2020-01-26,Banfield,Patronato,H
+3017,2020-01-26,Defensa y Justicia,Talleres Cordoba,D
+3018,2020-01-26,Racing Club,Atl. Tucuman,H
+3019,2020-01-27,Boca Juniors,Independiente,H
+3020,2020-01-31,Velez Sarsfield,Aldosivi,H
+3021,2020-01-02,Huracan,Gimnasia L.P.,D
+3022,2020-01-02,Independiente,Rosario Central,H
+3023,2020-01-02,Atl. Tucuman,Defensa y Justicia,D
+3024,2020-01-02,Estudiantes L.P.,Union de Santa Fe,H
+3025,2020-02-02,Argentinos Jrs,Racing Club,D
+3026,2020-02-02,River Plate,Central Cordoba,H
+3027,2020-02-02,Colon Santa FE,Banfield,D
+3028,2020-02-02,Lanus,Godoy Cruz,H
+3029,2020-03-02,Talleres Cordoba,Boca Juniors,D
+3030,2020-03-02,Patronato,Arsenal Sarandi,D
+3031,2020-04-02,Newells Old Boys,San Lorenzo,H
+3032,2020-07-02,Aldosivi,Central Cordoba,D
+3033,2020-08-02,Argentinos Jrs,Lanus,D
+3034,2020-08-02,Defensa y Justicia,Colon Santa FE,H
+3035,2020-08-02,Gimnasia L.P.,Patronato,H
+3036,2020-08-02,Banfield,Rosario Central,D
+3037,2020-08-02,Newells Old Boys,Estudiantes L.P.,H
+3038,2020-09-02,Boca Juniors,Atl. Tucuman,H
+3039,2020-09-02,San Lorenzo,Velez Sarsfield,D
+3040,2020-09-02,Racing Club,Independiente,D
+3041,2020-10-02,Union de Santa Fe,River Plate,A
+3042,2020-10-02,Arsenal Sarandi,Talleres Cordoba,H
+3043,2020-11-02,Godoy Cruz,Huracan,D
+3044,2020-02-14,Patronato,Union de Santa Fe,D
+3045,2020-02-15,Colon Santa FE,Racing Club,D
+3046,2020-02-15,Huracan,Aldosivi,D
+3047,2020-02-15,Atl. Tucuman,Argentinos Jrs,D
+3048,2020-02-15,Rosario Central,Gimnasia L.P.,H
+3049,2020-02-16,Talleres Cordoba,San Lorenzo,H
+3050,2020-02-16,Lanus,Newells Old Boys,D
+3051,2020-02-16,River Plate,Banfield,H
+3052,2020-02-17,Central Cordoba,Boca Juniors,A
+3053,2020-02-17,Estudiantes L.P.,Defensa y Justicia,D
+3054,2020-02-18,Independiente,Arsenal Sarandi,H
+3055,2020-02-21,Banfield,Aldosivi,H
+3056,2020-02-22,Argentinos Jrs,Patronato,H
+3057,2020-02-22,San Lorenzo,Racing Club,D
+3058,2020-02-22,Independiente,Gimnasia L.P.,H
+3059,2020-02-23,Newells Old Boys,Colon Santa FE,H
+3060,2020-02-23,Atl. Tucuman,Lanus,A
+3061,2020-02-23,Arsenal Sarandi,Velez Sarsfield,D
+3062,2020-02-23,Boca Juniors,Godoy Cruz,H
+3063,2020-02-24,Estudiantes L.P.,River Plate,A
+3064,2020-02-24,Defensa y Justicia,Rosario Central,H
+3065,2020-02-25,Union de Santa Fe,Central Cordoba,H
+3066,2020-02-25,Talleres Cordoba,Huracan,H
+3067,2020-02-28,Racing Club,Newells Old Boys,D
+3068,2020-02-29,Colon Santa FE,Boca Juniors,A
+3069,2020-02-29,Gimnasia L.P.,Atl. Tucuman,H
+3070,2020-02-29,River Plate,Defensa y Justicia,H
+3071,2020-01-03,Central Cordoba,Banfield,D
+3072,2020-01-03,Godoy Cruz,Union de Santa Fe,D
+3073,2020-01-03,Aldosivi,San Lorenzo,D
+3074,2020-01-03,Lanus,Estudiantes L.P.,H
+3075,2020-01-03,Rosario Central,Arsenal Sarandi,H
+3076,2020-02-03,Velez Sarsfield,Argentinos Jrs,H
+3077,2020-02-03,Patronato,Talleres Cordoba,D
+3078,2020-03-03,Huracan,Independiente,A
+3079,2020-04-03,Velez Sarsfield,Godoy Cruz,H
+3080,2020-06-03,Arsenal Sarandi,Aldosivi,H
+3081,2020-07-03,Argentinos Jrs,Rosario Central,D
+3082,2020-07-03,Banfield,Huracan,H
+3083,2020-07-03,Defensa y Justicia,Patronato,H
+3084,2020-08-03,Atl. Tucuman,River Plate,A
+3085,2020-08-03,Boca Juniors,Gimnasia L.P.,H
+3086,2020-08-03,San Lorenzo,Lanus,D
+3087,2020-08-03,Independiente,Central Cordoba,H
+3088,2020-09-03,Newells Old Boys,Godoy Cruz,H
+3089,2020-09-03,Talleres Cordoba,Colon Santa FE,H
+3090,2020-09-03,Union de Santa Fe,Velez Sarsfield,D
+3091,2020-10-03,Estudiantes L.P.,Racing Club,D
+3092,2020-10-30,Gimnasia L.P.,Patronato,H
+3093,2020-10-31,Talleres Cordoba,Newells Old Boys,D
+3094,2020-10-31,Aldosivi,Estudiantes L.P.,D
+3095,2020-10-31,Velez Sarsfield,Huracan,H
+3096,2020-10-31,Argentinos Jrs,San Lorenzo,D
+3097,2020-01-11,Lanus,Boca Juniors,A
+3098,2020-01-11,Defensa y Justicia,Colon Santa FE,H
+3099,2020-01-11,Union de Santa Fe,Arsenal Sarandi,D
+3100,2020-01-11,Racing Club,Atl. Tucuman,H
+3101,2020-01-11,Central Cordoba,Independiente,D
+3102,2020-03-11,Rosario Central,Godoy Cruz,H
+3103,2020-04-11,River Plate,Banfield,H
+3104,2020-06-11,Patronato,Huracan,D
+3105,2020-07-11,Argentinos Jrs,Aldosivi,H
+3106,2020-07-11,Banfield,Godoy Cruz,H
+3107,2020-07-11,San Lorenzo,Estudiantes L.P.,D
+3108,2020-08-11,River Plate,Rosario Central,H
+3109,2020-08-11,Arsenal Sarandi,Atl. Tucuman,H
+3110,2020-08-11,Gimnasia L.P.,Velez Sarsfield,D
+3111,2020-08-11,Union de Santa Fe,Racing Club,A
+3112,2020-09-11,Newells Old Boys,Boca Juniors,A
+3113,2020-09-11,Independiente,Colon Santa FE,H
+3114,2020-09-11,Talleres Cordoba,Lanus,H
+3115,2020-10-11,Central Cordoba,Defensa y Justicia,D
+3116,2020-11-13,Rosario Central,Banfield,D
+3117,2020-11-14,Atl. Tucuman,Union de Santa Fe,D
+3118,2020-11-14,Aldosivi,San Lorenzo,D
+3119,2020-11-14,Lanus,Newells Old Boys,D
+3120,2020-11-14,Racing Club,Arsenal Sarandi,H
+3121,2020-11-15,Godoy Cruz,River Plate,A
+3122,2020-11-15,Huracan,Gimnasia L.P.,A
+3123,2020-11-15,Estudiantes L.P.,Argentinos Jrs,D
+3124,2020-11-15,Defensa y Justicia,Independiente,H
+3125,2020-11-16,Boca Juniors,Talleres Cordoba,H
+3126,2020-11-16,Velez Sarsfield,Patronato,H
+3127,2020-11-17,Colon Santa FE,Central Cordoba,H
+3128,2020-11-20,Atl. Tucuman,Racing Club,H
+3129,2020-11-20,Arsenal Sarandi,Union de Santa Fe,H
+3130,2020-11-20,Boca Juniors,Lanus,H
+3131,2020-11-21,Banfield,River Plate,D
+3132,2020-11-21,Colon Santa FE,Defensa y Justicia,H
+3133,2020-11-21,Huracan,Velez Sarsfield,D
+3134,2020-11-22,Independiente,Central Cordoba,H
+3135,2020-11-22,Estudiantes L.P.,Aldosivi,H
+3136,2020-11-22,Patronato,Gimnasia L.P.,A
+3137,2020-11-23,San Lorenzo,Argentinos Jrs,D
+3138,2020-11-23,Godoy Cruz,Rosario Central,A
+3139,2020-11-24,Newells Old Boys,Talleres Cordoba,D
+3140,2020-11-28,Racing Club,Union de Santa Fe,D
+3141,2020-11-28,Colon Santa FE,Independiente,D
+3142,2020-11-28,Velez Sarsfield,Gimnasia L.P.,D
+3143,2020-11-29,Godoy Cruz,Banfield,A
+3144,2020-11-29,Rosario Central,River Plate,A
+3145,2020-11-29,Defensa y Justicia,Central Cordoba,D
+3146,2020-11-29,Boca Juniors,Newells Old Boys,H
+3147,2020-11-30,Huracan,Patronato,H
+3148,2020-11-30,Lanus,Talleres Cordoba,A
+3149,2020-11-30,Aldosivi,Argentinos Jrs,D
+3150,2020-11-30,Atl. Tucuman,Arsenal Sarandi,H
+3151,2020-01-12,Estudiantes L.P.,San Lorenzo,D
+3152,2020-04-12,Central Cordoba,Colon Santa FE,D
+3153,2020-05-12,Banfield,Rosario Central,H
+3154,2020-05-12,Arsenal Sarandi,Racing Club,D
+3155,2020-05-12,Union de Santa Fe,Atl. Tucuman,H
+3156,2020-05-12,Gimnasia L.P.,Huracan,H
+3157,2020-05-12,Patronato,Velez Sarsfield,A
+3158,2020-06-12,River Plate,Godoy Cruz,H
+3159,2020-06-12,Independiente,Defensa y Justicia,H
+3160,2020-07-12,Newells Old Boys,Lanus,H
+3161,2020-07-12,Talleres Cordoba,Boca Juniors,D
+3162,2020-07-12,Argentinos Jrs,Estudiantes L.P.,H
+3163,2020-07-12,San Lorenzo,Aldosivi,D
+3164,2020-12-12,Velez Sarsfield,Racing Club,D
+3165,2020-12-12,Colon Santa FE,Gimnasia L.P.,D
+3166,2020-12-12,Newells Old Boys,Estudiantes L.P.,H
+3167,2020-12-12,Boca Juniors,Arsenal Sarandi,H
+3168,2020-12-13,San Lorenzo,Talleres Cordoba,D
+3169,2020-12-13,Aldosivi,Lanus,H
+3170,2020-12-13,Union de Santa Fe,Defensa y Justicia,H
+3171,2020-12-13,River Plate,Argentinos Jrs,H
+3172,2020-12-14,Huracan,Independiente,D
+3173,2020-12-14,Rosario Central,Patronato,D
+3174,2020-12-14,Central Cordoba,Godoy Cruz,D
+3175,2020-12-15,Atl. Tucuman,Banfield,D
+3176,2020-12-19,Arsenal Sarandi,Argentinos Jrs,D
+3177,2020-12-19,Patronato,Aldosivi,D
+3178,2020-12-19,Godoy Cruz,Newells Old Boys,D
+3179,2020-12-19,San Lorenzo,Colon Santa FE,D
+3180,2020-12-20,Talleres Cordoba,Atl. Tucuman,H
+3181,2020-12-20,Lanus,Defensa y Justicia,A
+3182,2020-12-20,Estudiantes L.P.,Racing Club,H
+3183,2020-12-20,Independiente,Boca Juniors,D
+3184,2020-12-21,Huracan,River Plate,A
+3185,2020-12-21,Central Cordoba,Velez Sarsfield,D
+3186,2020-12-21,Rosario Central,Union de Santa Fe,D
+3187,2020-12-22,Banfield,Gimnasia L.P.,D
+3188,2020-12-27,Defensa y Justicia,Patronato,H
+3189,2020-12-27,Racing Club,Godoy Cruz,H
+3190,2020-12-27,Boca Juniors,Huracan,H
+3191,2020-12-28,River Plate,Arsenal Sarandi,H
+3192,2020-12-28,Newells Old Boys,Central Cordoba,H
+3193,2020-12-28,Argentinos Jrs,Independiente,D
+3194,2020-12-28,Velez Sarsfield,Estudiantes L.P.,D
+3195,2020-12-29,Colon Santa FE,Banfield,D
+3196,2020-12-29,Gimnasia L.P.,Talleres Cordoba,D
+3197,2020-12-29,Aldosivi,Rosario Central,D
+3198,2020-12-29,Union de Santa Fe,Lanus,H
+3199,2020-12-30,Atl. Tucuman,San Lorenzo,D
+3200,2021-02-01,Rosario Central,Defensa y Justicia,H
+3201,2021-03-01,Boca Juniors,River Plate,D
+3202,2021-03-01,Independiente,Arsenal Sarandi,H
+3203,2021-03-01,Newells Old Boys,Velez Sarsfield,H
+3204,2021-03-01,Patronato,Lanus,H
+3205,2021-04-01,Central Cordoba,Racing Club,A
+3206,2021-04-01,Aldosivi,Union de Santa Fe,A
+3207,2021-04-01,San Lorenzo,Gimnasia L.P.,D
+3208,2021-05-01,Talleres Cordoba,Banfield,D
+3209,2021-05-01,Godoy Cruz,Estudiantes L.P.,A
+3210,2021-05-01,Huracan,Argentinos Jrs,D
+3211,2021-06-01,Atl. Tucuman,Colon Santa FE,D
+3212,2021-09-01,Lanus,Rosario Central,D
+3213,2021-09-01,Union de Santa Fe,Patronato,H
+3214,2021-09-01,Racing Club,Newells Old Boys,D
+3215,2021-09-01,Velez Sarsfield,Godoy Cruz,H
+3216,2021-10-01,Argentinos Jrs,Boca Juniors,A
+3217,2021-10-01,River Plate,Independiente,H
+3218,2021-10-01,Arsenal Sarandi,Huracan,D
+3219,2021-11-01,Banfield,San Lorenzo,H
+3220,2021-11-01,Colon Santa FE,Talleres Cordoba,D
+3221,2021-11-01,Gimnasia L.P.,Atl. Tucuman,H
+3222,2021-12-01,Estudiantes L.P.,Central Cordoba,H
+3223,2021-01-14,Defensa y Justicia,Aldosivi,H
+3224,2021-01-17,Velez Sarsfield,Rosario Central,H
+3225,2021-01-18,Banfield,Boca Juniors,A
+3226,2021-12-02,Banfield,Racing Club,D
+3227,2021-02-13,Central Cordoba,Colon Santa FE,D
+3228,2021-02-13,Union de Santa Fe,Atl. Tucuman,D
+3229,2021-02-13,Aldosivi,Godoy Cruz,D
+3230,2021-02-13,Talleres Cordoba,Patronato,H
+3231,2021-02-13,Velez Sarsfield,Newells Old Boys,H
+3232,2021-02-14,San Lorenzo,Arsenal Sarandi,H
+3233,2021-02-14,Defensa y Justicia,Huracan,H
+3234,2021-02-14,Boca Juniors,Gimnasia L.P.,H
+3235,2021-02-15,Estudiantes L.P.,River Plate,A
+3236,2021-02-15,Rosario Central,Argentinos Jrs,H
+3237,2021-02-16,Independiente,Lanus,D
+3238,2021-02-19,Gimnasia L.P.,Talleres Cordoba,D
+3239,2021-02-20,Arsenal Sarandi,Banfield,A
+3240,2021-02-20,Godoy Cruz,Estudiantes L.P.,A
+3241,2021-02-20,Lanus,Defensa y Justicia,D
+3242,2021-02-20,Racing Club,Aldosivi,H
+3243,2021-02-21,River Plate,Rosario Central,H
+3244,2021-02-21,Argentinos Jrs,Platense,D
+3245,2021-02-21,Sarmiento Junin,Velez Sarsfield,A
+3246,2021-02-21,Patronato,Independiente,A
+3247,2021-02-22,Newells Old Boys,Boca Juniors,A
+3248,2021-02-22,Atl. Tucuman,Central Cordoba,D
+3249,2021-02-22,Huracan,Union de Santa Fe,D
+3250,2021-02-23,Colon Santa FE,San Lorenzo,D
+3251,2021-02-26,Aldosivi,Arsenal Sarandi,D
+3252,2021-02-26,Defensa y Justicia,Patronato,H
+3253,2021-02-27,Argentinos Jrs,Velez Sarsfield,A
+3254,2021-02-27,Banfield,Colon Santa FE,H
+3255,2021-02-27,Talleres Cordoba,Newells Old Boys,H
+3256,2021-02-27,Independiente,Gimnasia L.P.,D
+3257,2021-02-28,San Lorenzo,Central Cordoba,H
+3258,2021-02-28,Platense,River Plate,A
+3259,2021-02-28,Estudiantes L.P.,Racing Club,D
+3260,2021-01-03,Boca Juniors,Sarmiento Junin,H
+3261,2021-01-03,Union de Santa Fe,Lanus,D
+3262,2021-02-03,Rosario Central,Godoy Cruz,H
+3263,2021-05-03,Newells Old Boys,Independiente,D
+3264,2021-06-03,Central Cordoba,Banfield,A
+3265,2021-06-03,Godoy Cruz,Platense,D
+3266,2021-06-03,Sarmiento Junin,Talleres Cordoba,D
+3267,2021-06-03,Colon Santa FE,Aldosivi,H
+3268,2021-06-03,Lanus,Atl. Tucuman,H
+3269,2021-07-03,San Lorenzo,Huracan,H
+3270,2021-07-03,Arsenal Sarandi,Estudiantes L.P.,A
+3271,2021-07-03,Gimnasia L.P.,Defensa y Justicia,D
+3272,2021-07-03,Patronato,Union de Santa Fe,D
+3273,2021-08-03,Velez Sarsfield,Boca Juniors,D
+3274,2021-08-03,Racing Club,Rosario Central,H
+3275,2021-09-03,River Plate,Argentinos Jrs,H
+3276,2021-10-03,Platense,Sarmiento Junin,D
+3277,2021-12-03,Aldosivi,Central Cordoba,D
+3278,2021-03-13,Huracan,Lanus,A
+3279,2021-03-13,Union de Santa Fe,Gimnasia L.P.,D
+3280,2021-03-13,Platense,Racing Club,A
+3281,2021-03-13,Talleres Cordoba,Velez Sarsfield,D
+3282,2021-03-13,Argentinos Jrs,Godoy Cruz,H
+3283,2021-03-13,Defensa y Justicia,Newells Old Boys,H
+3284,2021-03-14,Estudiantes L.P.,Colon Santa FE,D
+3285,2021-03-14,Boca Juniors,River Plate,D
+3286,2021-03-15,Banfield,San Lorenzo,H
+3287,2021-03-15,Atl. Tucuman,Patronato,H
+3288,2021-03-15,Rosario Central,Arsenal Sarandi,H
+3289,2021-03-16,Independiente,Sarmiento Junin,H
+3290,2021-03-19,Newells Old Boys,Union de Santa Fe,D
+3291,2021-03-20,Central Cordoba,Estudiantes L.P.,D
+3292,2021-03-20,Gimnasia L.P.,Atl. Tucuman,H
+3293,2021-03-20,Patronato,Huracan,D
+3294,2021-03-20,Banfield,Lanus,D
+3295,2021-03-20,Velez Sarsfield,Independiente,D
+3296,2021-03-21,Godoy Cruz,River Plate,A
+3297,2021-03-21,Sarmiento Junin,Defensa y Justicia,A
+3298,2021-03-21,Colon Santa FE,Rosario Central,H
+3299,2021-03-21,San Lorenzo,Aldosivi,H
+3300,2021-03-22,Boca Juniors,Talleres Cordoba,H
+3301,2021-03-22,Arsenal Sarandi,Platense,D
+3302,2021-03-23,Racing Club,Argentinos Jrs,D
+3303,2021-03-24,Atl. Tucuman,Huracan,D
+3304,2021-03-26,Lanus,Patronato,H
+3305,2021-03-27,Union de Santa Fe,Sarmiento Junin,H
+3306,2021-03-27,Platense,Colon Santa FE,A
+3307,2021-03-27,Aldosivi,Banfield,A
+3308,2021-03-27,Argentinos Jrs,Arsenal Sarandi,H
+3309,2021-03-28,Rosario Central,Central Cordoba,D
+3310,2021-03-28,Talleres Cordoba,Godoy Cruz,H
+3311,2021-03-28,Defensa y Justicia,Velez Sarsfield,D
+3312,2021-03-28,River Plate,Racing Club,H
+3313,2021-03-29,Independiente,Boca Juniors,A
+3314,2021-03-29,Estudiantes L.P.,San Lorenzo,D
+3315,2021-03-30,Atl. Tucuman,Newells Old Boys,D
+3316,2021-03-30,Huracan,Gimnasia L.P.,A
+3317,2021-02-04,Patronato,Aldosivi,D
+3318,2021-02-04,San Lorenzo,Rosario Central,H
+3319,2021-03-04,Central Cordoba,Platense,H
+3320,2021-03-04,Talleres Cordoba,Independiente,D
+3321,2021-03-04,Gimnasia L.P.,Lanus,A
+3322,2021-03-04,Sarmiento Junin,Atl. Tucuman,D
+3323,2021-03-04,Boca Juniors,Defensa y Justicia,H
+3324,2021-04-04,Arsenal Sarandi,River Plate,A
+3325,2021-04-04,Newells Old Boys,Huracan,D
+3326,2021-04-04,Colon Santa FE,Argentinos Jrs,H
+3327,2021-04-04,Velez Sarsfield,Union de Santa Fe,H
+3328,2021-05-04,Racing Club,Godoy Cruz,H
+3329,2021-06-04,Banfield,Estudiantes L.P.,A
+3330,2021-10-04,Platense,San Lorenzo,A
+3331,2021-10-04,Estudiantes L.P.,Aldosivi,H
+3332,2021-10-04,Defensa y Justicia,Talleres Cordoba,D
+3333,2021-11-04,Racing Club,Independiente,D
+3334,2021-11-04,Godoy Cruz,Arsenal Sarandi,H
+3335,2021-11-04,Argentinos Jrs,Central Cordoba,H
+3336,2021-11-04,Patronato,Gimnasia L.P.,D
+3337,2021-11-04,Rosario Central,Banfield,H
+3338,2021-11-04,Union de Santa Fe,Boca Juniors,A
+3339,2021-12-04,River Plate,Colon Santa FE,H
+3340,2021-12-04,Huracan,Sarmiento Junin,H
+3341,2021-12-04,Lanus,Newells Old Boys,H
+3342,2021-04-13,Atl. Tucuman,Velez Sarsfield,A
+3343,2021-04-16,Talleres Cordoba,Union de Santa Fe,H
+3344,2021-04-16,Aldosivi,Rosario Central,D
+3345,2021-04-16,Velez Sarsfield,Huracan,H
+3346,2021-04-17,Central Cordoba,River Plate,A
+3347,2021-04-17,Sarmiento Junin,Lanus,A
+3348,2021-04-17,San Lorenzo,Argentinos Jrs,D
+3349,2021-04-17,Boca Juniors,Atl. Tucuman,H
+3350,2021-04-18,Newells Old Boys,Patronato,H
+3351,2021-04-18,Arsenal Sarandi,Racing Club,A
+3352,2021-04-18,Estudiantes L.P.,Gimnasia L.P.,H
+3353,2021-04-18,Independiente,Defensa y Justicia,D
+3354,2021-04-19,Colon Santa FE,Godoy Cruz,H
+3355,2021-04-19,Banfield,Platense,H
+3356,2021-04-24,Godoy Cruz,Central Cordoba,D
+3357,2021-04-24,Patronato,Sarmiento Junin,D
+3358,2021-04-24,Argentinos Jrs,Banfield,D
+3359,2021-04-24,Huracan,Boca Juniors,A
+3360,2021-04-25,Union de Santa Fe,Independiente,D
+3361,2021-04-25,Lanus,Velez Sarsfield,D
+3362,2021-04-25,Defensa y Justicia,Arsenal Sarandi,H
+3363,2021-04-25,Racing Club,Colon Santa FE,D
+3364,2021-04-25,River Plate,San Lorenzo,H
+3365,2021-04-26,Atl. Tucuman,Talleres Cordoba,D
+3366,2021-04-26,Rosario Central,Estudiantes L.P.,D
+3367,2021-04-26,Platense,Aldosivi,D
+3368,2021-04-26,Gimnasia L.P.,Newells Old Boys,H
+3369,2021-04-30,Velez Sarsfield,Patronato,H
+3370,2021-01-05,Colon Santa FE,Arsenal Sarandi,H
+3371,2021-02-05,Boca Juniors,Lanus,H
+3372,2021-02-05,Defensa y Justicia,Union de Santa Fe,A
+3373,2021-02-05,Independiente,Atl. Tucuman,H
+3374,2021-02-05,San Lorenzo,Godoy Cruz,H
+3375,2021-02-05,Talleres Cordoba,Huracan,H
+3376,2021-02-05,Banfield,River Plate,A
+3377,2021-02-05,Aldosivi,Argentinos Jrs,D
+3378,2021-02-05,Central Cordoba,Racing Club,A
+3379,2021-03-05,Rosario Central,Newells Old Boys,H
+3380,2021-03-05,Sarmiento Junin,Gimnasia L.P.,A
+3381,2021-03-05,Estudiantes L.P.,Platense,H
+3382,2021-08-05,Godoy Cruz,Banfield,A
+3383,2021-08-05,Atl. Tucuman,Defensa y Justicia,H
+3384,2021-08-05,Gimnasia L.P.,Velez Sarsfield,D
+3385,2021-08-05,Patronato,Boca Juniors,A
+3386,2021-09-05,Arsenal Sarandi,Central Cordoba,A
+3387,2021-09-05,Argentinos Jrs,Estudiantes L.P.,D
+3388,2021-09-05,Platense,Rosario Central,A
+3389,2021-09-05,Racing Club,San Lorenzo,D
+3390,2021-09-05,River Plate,Aldosivi,H
+3391,2021-09-05,Colon Santa FE,Union de Santa Fe,H
+3392,2021-09-05,Huracan,Independiente,A
+3393,2021-09-05,Lanus,Talleres Cordoba,D
+3394,2021-10-05,Newells Old Boys,Sarmiento Junin,H
+3395,2021-05-15,Estudiantes L.P.,Independiente,D
+3396,2021-05-16,Colon Santa FE,Talleres Cordoba,D
+3397,2021-05-16,Velez Sarsfield,Racing Club,D
+3398,2021-05-16,Boca Juniors,River Plate,H
+3399,2021-05-31,Racing Club,Boca Juniors,A
+3400,2021-05-31,Independiente,Colon Santa FE,D
+3401,2021-04-06,Colon Santa FE,Racing Club,D
+3402,2021-07-16,Union de Santa Fe,Boca Juniors,D
+3403,2021-07-17,Sarmiento Junin,Estudiantes L.P.,D
+3404,2021-07-17,Aldosivi,Patronato,D
+3405,2021-07-17,Lanus,Atl. Tucuman,H
+3406,2021-07-17,Newells Old Boys,Talleres Cordoba,D
+3407,2021-07-17,Gimnasia L.P.,Platense,H
+3408,2021-07-18,Velez Sarsfield,Racing Club,D
+3409,2021-07-18,Huracan,Defensa y Justicia,D
+3410,2021-07-18,Arsenal Sarandi,San Lorenzo,D
+3411,2021-07-18,River Plate,Colon Santa FE,H
+3412,2021-07-19,Independiente,Argentinos Jrs,H
+3413,2021-07-19,Central Cordoba,Banfield,D
+3414,2021-07-20,Godoy Cruz,Rosario Central,D
+3415,2021-07-23,Atl. Tucuman,Huracan,D
+3416,2021-07-24,Platense,Aldosivi,D
+3417,2021-07-24,Colon Santa FE,Lanus,H
+3418,2021-07-24,San Lorenzo,Central Cordoba,D
+3419,2021-07-24,Racing Club,Gimnasia L.P.,H
+3420,2021-07-25,Banfield,Boca Juniors,H
+3421,2021-07-25,Defensa y Justicia,Godoy Cruz,H
+3422,2021-07-25,Patronato,Sarmiento Junin,H
+3423,2021-07-25,Rosario Central,Velez Sarsfield,D
+3424,2021-07-25,River Plate,Union de Santa Fe,H
+3425,2021-07-26,Estudiantes L.P.,Independiente,D
+3426,2021-07-26,Talleres Cordoba,Arsenal Sarandi,H
+3427,2021-07-27,Argentinos Jrs,Newells Old Boys,H
+3428,2021-07-27,Huracan,Colon Santa FE,D
+3429,2021-07-27,Aldosivi,Racing Club,A
+3430,2021-07-28,Boca Juniors,San Lorenzo,D
+3431,2021-07-28,Godoy Cruz,Atl. Tucuman,D
+3432,2021-07-28,Union de Santa Fe,Banfield,D
+3433,2021-07-28,Sarmiento Junin,Platense,D
+3434,2021-07-28,Velez Sarsfield,Defensa y Justicia,H
+3435,2021-07-28,Independiente,Patronato,H
+3436,2021-07-29,Lanus,River Plate,A
+3437,2021-07-29,Central Cordoba,Talleres Cordoba,D
+3438,2021-07-29,Arsenal Sarandi,Argentinos Jrs,A
+3439,2021-07-29,Gimnasia L.P.,Rosario Central,D
+3440,2021-07-30,Newells Old Boys,Estudiantes L.P.,D
+3441,2021-07-31,Colon Santa FE,Godoy Cruz,H
+3442,2021-07-31,Lanus,Union de Santa Fe,H
+3443,2021-07-31,Racing Club,Sarmiento Junin,H
+3444,2021-01-08,Platense,Independiente,A
+3445,2021-01-08,Defensa y Justicia,Gimnasia L.P.,D
+3446,2021-01-08,Talleres Cordoba,Boca Juniors,D
+3447,2021-01-08,River Plate,Huracan,H
+3448,2021-02-08,San Lorenzo,Banfield,D
+3449,2021-02-08,Argentinos Jrs,Central Cordoba,H
+3450,2021-02-08,Patronato,Newells Old Boys,D
+3451,2021-02-08,Estudiantes L.P.,Arsenal Sarandi,H
+3452,2021-02-08,Rosario Central,Aldosivi,H
+3453,2021-03-08,Atl. Tucuman,Velez Sarsfield,D
+3454,2021-06-08,Sarmiento Junin,Rosario Central,D
+3455,2021-07-08,Newells Old Boys,Platense,H
+3456,2021-07-08,Banfield,Talleres Cordoba,D
+3457,2021-07-08,Union de Santa Fe,San Lorenzo,D
+3458,2021-07-08,Huracan,Lanus,D
+3459,2021-08-08,Godoy Cruz,River Plate,A
+3460,2021-08-08,Gimnasia L.P.,Atl. Tucuman,D
+3461,2021-08-08,Velez Sarsfield,Colon Santa FE,H
+3462,2021-08-08,Boca Juniors,Argentinos Jrs,H
+3463,2021-09-08,Independiente,Racing Club,D
+3464,2021-09-08,Aldosivi,Defensa y Justicia,D
+3465,2021-09-08,Arsenal Sarandi,Patronato,D
+3466,2021-10-08,Central Cordoba,Estudiantes L.P.,A
+3467,2021-08-13,Colon Santa FE,Gimnasia L.P.,H
+3468,2021-08-14,Huracan,Union de Santa Fe,D
+3469,2021-08-14,Atl. Tucuman,Aldosivi,H
+3470,2021-08-14,Argentinos Jrs,Banfield,H
+3471,2021-08-14,River Plate,Velez Sarsfield,H
+3472,2021-08-15,Rosario Central,Independiente,A
+3473,2021-08-15,Patronato,Central Cordoba,D
+3474,2021-08-15,Platense,Arsenal Sarandi,D
+3475,2021-08-15,Estudiantes L.P.,Boca Juniors,D
+3476,2021-08-16,Racing Club,Newells Old Boys,H
+3477,2021-08-16,Talleres Cordoba,San Lorenzo,H
+3478,2021-08-17,Defensa y Justicia,Sarmiento Junin,H
+3479,2021-08-17,Lanus,Godoy Cruz,H
+3480,2021-08-20,Aldosivi,Colon Santa FE,A
+3481,2021-08-20,Banfield,Estudiantes L.P.,D
+3482,2021-08-20,Sarmiento Junin,Atl. Tucuman,D
+3483,2021-08-21,Independiente,Defensa y Justicia,H
+3484,2021-08-21,Central Cordoba,Platense,H
+3485,2021-08-21,Godoy Cruz,Huracan,D
+3486,2021-08-21,Velez Sarsfield,Lanus,H
+3487,2021-08-21,Arsenal Sarandi,Racing Club,A
+3488,2021-08-22,Boca Juniors,Patronato,H
+3489,2021-08-22,Union de Santa Fe,Talleres Cordoba,D
+3490,2021-08-22,Newells Old Boys,Rosario Central,D
+3491,2021-08-22,San Lorenzo,Argentinos Jrs,A
+3492,2021-08-23,Gimnasia L.P.,River Plate,A
+3493,2021-08-24,Patronato,Banfield,D
+3494,2021-08-24,Colon Santa FE,Sarmiento Junin,H
+3495,2021-08-24,Atl. Tucuman,Independiente,D
+3496,2021-08-25,Racing Club,Central Cordoba,H
+3497,2021-08-25,Rosario Central,Arsenal Sarandi,H
+3498,2021-08-25,Defensa y Justicia,Newells Old Boys,H
+3499,2021-08-25,Lanus,Gimnasia L.P.,H
+3500,2021-08-25,Huracan,Velez Sarsfield,D
+3501,2021-08-26,Platense,Boca Juniors,A
+3502,2021-08-26,Godoy Cruz,Union de Santa Fe,D
+3503,2021-08-26,Argentinos Jrs,Talleres Cordoba,H
+3504,2021-08-26,Estudiantes L.P.,San Lorenzo,H
+3505,2021-08-27,River Plate,Aldosivi,H
+3506,2021-08-28,Gimnasia L.P.,Huracan,D
+3507,2021-08-28,Banfield,Platense,H
+3508,2021-08-29,Independiente,Colon Santa FE,H
+3509,2021-08-29,Arsenal Sarandi,Defensa y Justicia,A
+3510,2021-08-29,Aldosivi,Lanus,D
+3511,2021-08-29,Central Cordoba,Rosario Central,D
+3512,2021-08-29,Velez Sarsfield,Godoy Cruz,H
+3513,2021-08-30,Boca Juniors,Racing Club,H
+3514,2021-08-30,Newells Old Boys,Atl. Tucuman,H
+3515,2021-08-30,Union de Santa Fe,Argentinos Jrs,D
+3516,2021-08-30,San Lorenzo,Patronato,D
+3517,2021-08-30,Sarmiento Junin,River Plate,A
+3518,2021-08-31,Talleres Cordoba,Estudiantes L.P.,D
+3519,2021-03-09,Defensa y Justicia,Central Cordoba,H
+3520,2021-04-09,Huracan,Aldosivi,D
+3521,2021-04-09,Atl. Tucuman,Arsenal Sarandi,H
+3522,2021-04-09,Colon Santa FE,Newells Old Boys,D
+3523,2021-04-09,Lanus,Sarmiento Junin,H
+3524,2021-04-09,Platense,San Lorenzo,D
+3525,2021-05-09,Rosario Central,Boca Juniors,A
+3526,2021-05-09,Godoy Cruz,Gimnasia L.P.,D
+3527,2021-05-09,Patronato,Talleres Cordoba,D
+3528,2021-05-09,Racing Club,Banfield,D
+3529,2021-06-09,River Plate,Independiente,D
+3530,2021-06-09,Estudiantes L.P.,Argentinos Jrs,D
+3531,2021-07-09,Velez Sarsfield,Union de Santa Fe,H
+3532,2021-09-13,Aldosivi,Godoy Cruz,D
+3533,2021-09-13,Sarmiento Junin,Huracan,D
+3534,2021-09-13,Independiente,Lanus,H
+3535,2021-09-13,San Lorenzo,Racing Club,D
+3536,2021-09-14,Gimnasia L.P.,Velez Sarsfield,A
+3537,2021-09-14,Talleres Cordoba,Platense,H
+3538,2021-09-14,Arsenal Sarandi,Colon Santa FE,A
+3539,2021-09-14,Central Cordoba,Atl. Tucuman,D
+3540,2021-09-15,Boca Juniors,Defensa y Justicia,H
+3541,2021-09-15,Union de Santa Fe,Estudiantes L.P.,A
+3542,2021-09-15,Argentinos Jrs,Patronato,H
+3543,2021-09-15,Banfield,Rosario Central,D
+3544,2021-09-16,Newells Old Boys,River Plate,A
+3545,2021-09-18,Godoy Cruz,Sarmiento Junin,H
+3546,2021-09-18,Velez Sarsfield,Aldosivi,H
+3547,2021-09-18,Racing Club,Talleres Cordoba,D
+3548,2021-09-19,Atl. Tucuman,Boca Juniors,D
+3549,2021-09-19,Patronato,Estudiantes L.P.,A
+3550,2021-09-19,Colon Santa FE,Central Cordoba,H
+3551,2021-09-19,Platense,Argentinos Jrs,A
+3552,2021-09-19,Huracan,Independiente,D
+3553,2021-09-20,River Plate,Arsenal Sarandi,H
+3554,2021-09-20,Gimnasia L.P.,Union de Santa Fe,D
+3555,2021-09-20,Lanus,Newells Old Boys,H
+3556,2021-09-20,Rosario Central,San Lorenzo,H
+3557,2021-09-21,Defensa y Justicia,Banfield,D
+3558,2021-09-24,Sarmiento Junin,Velez Sarsfield,A
+3559,2021-09-25,Estudiantes L.P.,Platense,H
+3560,2021-09-25,Aldosivi,Gimnasia L.P.,D
+3561,2021-09-25,Arsenal Sarandi,Lanus,A
+3562,2021-09-25,Talleres Cordoba,Rosario Central,H
+3563,2021-09-25,Banfield,Atl. Tucuman,H
+3564,2021-09-26,Central Cordoba,River Plate,A
+3565,2021-09-26,Union de Santa Fe,Patronato,D
+3566,2021-09-26,San Lorenzo,Defensa y Justicia,D
+3567,2021-09-26,Independiente,Godoy Cruz,H
+3568,2021-09-27,Boca Juniors,Colon Santa FE,H
+3569,2021-09-27,Argentinos Jrs,Racing Club,D
+3570,2021-09-28,Newells Old Boys,Huracan,D
+3571,2021-01-10,Aldosivi,Union de Santa Fe,D
+3572,2021-02-10,Lanus,Central Cordoba,H
+3573,2021-02-10,Godoy Cruz,Newells Old Boys,H
+3574,2021-02-10,Platense,Patronato,D
+3575,2021-02-10,Huracan,Arsenal Sarandi,H
+3576,2021-02-10,Atl. Tucuman,San Lorenzo,H
+3577,2021-03-10,Velez Sarsfield,Independiente,H
+3578,2021-03-10,Gimnasia L.P.,Sarmiento Junin,H
+3579,2021-03-10,Rosario Central,Argentinos Jrs,D
+3580,2021-03-10,River Plate,Boca Juniors,D
+3581,2021-04-10,Racing Club,Estudiantes L.P.,D
+3582,2021-04-10,Defensa y Justicia,Talleres Cordoba,D
+3583,2021-05-10,Colon Santa FE,Banfield,D
+3584,2021-08-10,Union de Santa Fe,Platense,H
+3585,2021-08-10,Central Cordoba,Huracan,D
+3586,2021-08-10,Estudiantes L.P.,Rosario Central,H
+3587,2021-09-10,Newells Old Boys,Velez Sarsfield,A
+3588,2021-09-10,Argentinos Jrs,Defensa y Justicia,D
+3589,2021-09-10,Sarmiento Junin,Aldosivi,D
+3590,2021-09-10,Patronato,Racing Club,D
+3591,2021-09-10,Banfield,River Plate,D
+3592,2021-10-10,Boca Juniors,Lanus,H
+3593,2021-11-10,Arsenal Sarandi,Godoy Cruz,D
+3594,2021-11-10,San Lorenzo,Colon Santa FE,D
+3595,2021-11-10,Independiente,Gimnasia L.P.,H
+3596,2021-12-10,Talleres Cordoba,Atl. Tucuman,H
+3597,2021-10-15,Godoy Cruz,Central Cordoba,H
+3598,2021-10-15,Rosario Central,Patronato,D
+3599,2021-10-15,Racing Club,Platense,H
+3600,2021-10-16,Defensa y Justicia,Estudiantes L.P.,D
+3601,2021-10-16,Velez Sarsfield,Arsenal Sarandi,H
+3602,2021-10-16,Sarmiento Junin,Union de Santa Fe,D
+3603,2021-10-16,Gimnasia L.P.,Newells Old Boys,H
+3604,2021-10-16,Lanus,Banfield,D
+3605,2021-10-17,Huracan,Boca Juniors,D
+3606,2021-10-17,Atl. Tucuman,Argentinos Jrs,D
+3607,2021-10-17,Colon Santa FE,Talleres Cordoba,D
+3608,2021-10-17,Aldosivi,Independiente,A
+3609,2021-10-18,River Plate,San Lorenzo,H
+3610,2021-10-19,Platense,Rosario Central,D
+3611,2021-10-19,Union de Santa Fe,Racing Club,D
+3612,2021-10-19,Patronato,Defensa y Justicia,D
+3613,2021-10-20,Central Cordoba,Velez Sarsfield,A
+3614,2021-10-20,Arsenal Sarandi,Gimnasia L.P.,D
+3615,2021-10-20,San Lorenzo,Lanus,D
+3616,2021-10-20,Banfield,Huracan,D
+3617,2021-10-20,Estudiantes L.P.,Atl. Tucuman,H
+3618,2021-10-21,Boca Juniors,Godoy Cruz,H
+3619,2021-10-21,Argentinos Jrs,Colon Santa FE,D
+3620,2021-10-21,Newells Old Boys,Aldosivi,H
+3621,2021-10-21,Independiente,Sarmiento Junin,H
+3622,2021-10-22,Talleres Cordoba,River Plate,D
+3623,2021-10-23,Gimnasia L.P.,Central Cordoba,H
+3624,2021-10-23,Defensa y Justicia,Platense,H
+3625,2021-10-24,Rosario Central,Racing Club,H
+3626,2021-10-24,Colon Santa FE,Estudiantes L.P.,D
+3627,2021-10-24,Godoy Cruz,Banfield,H
+3628,2021-10-24,Huracan,San Lorenzo,H
+3629,2021-10-25,Velez Sarsfield,Boca Juniors,D
+3630,2021-10-25,Aldosivi,Arsenal Sarandi,D
+3631,2021-10-25,Sarmiento Junin,Newells Old Boys,D
+3632,2021-10-25,Atl. Tucuman,Patronato,H
+3633,2021-10-25,Lanus,Talleres Cordoba,D
+3634,2021-10-25,River Plate,Argentinos Jrs,H
+3635,2021-10-26,Independiente,Union de Santa Fe,H
+3636,2021-10-29,Racing Club,Defensa y Justicia,D
+3637,2021-10-30,Argentinos Jrs,Lanus,D
+3638,2021-10-30,Arsenal Sarandi,Sarmiento Junin,D
+3639,2021-10-30,Platense,Atl. Tucuman,D
+3640,2021-10-30,Banfield,Velez Sarsfield,A
+3641,2021-10-30,Talleres Cordoba,Huracan,H
+3642,2021-10-31,Boca Juniors,Gimnasia L.P.,H
+3643,2021-10-31,San Lorenzo,Godoy Cruz,D
+3644,2021-10-31,Union de Santa Fe,Rosario Central,H
+3645,2021-10-31,Newells Old Boys,Independiente,D
+3646,2021-10-31,Estudiantes L.P.,River Plate,A
+3647,2021-01-11,Patronato,Colon Santa FE,D
+3648,2021-02-11,Central Cordoba,Aldosivi,H
+3649,2021-05-11,Defensa y Justicia,Rosario Central,H
+3650,2021-06-11,Lanus,Estudiantes L.P.,D
+3651,2021-06-11,Colon Santa FE,Platense,H
+3652,2021-06-11,Godoy Cruz,Talleres Cordoba,D
+3653,2021-06-11,Independiente,Arsenal Sarandi,H
+3654,2021-06-11,Atl. Tucuman,Racing Club,D
+3655,2021-07-11,Gimnasia L.P.,Banfield,D
+3656,2021-07-11,Sarmiento Junin,Central Cordoba,D
+3657,2021-07-11,Velez Sarsfield,San Lorenzo,H
+3658,2021-07-11,River Plate,Patronato,H
+3659,2021-08-11,Newells Old Boys,Union de Santa Fe,D
+3660,2021-08-11,Huracan,Argentinos Jrs,D
+3661,2021-09-11,Aldosivi,Boca Juniors,A
+3662,2021-11-18,Union de Santa Fe,Defensa y Justicia,D
+3663,2021-11-18,Patronato,Lanus,D
+3664,2021-11-19,Banfield,Aldosivi,H
+3665,2021-11-19,Estudiantes L.P.,Huracan,D
+3666,2021-11-19,San Lorenzo,Gimnasia L.P.,D
+3667,2021-11-20,Argentinos Jrs,Godoy Cruz,H
+3668,2021-11-20,Talleres Cordoba,Velez Sarsfield,D
+3669,2021-11-20,Rosario Central,Atl. Tucuman,H
+3670,2021-11-20,Boca Juniors,Sarmiento Junin,H
+3671,2021-11-21,Central Cordoba,Independiente,D
+3672,2021-11-21,Arsenal Sarandi,Newells Old Boys,D
+3673,2021-11-21,Racing Club,Colon Santa FE,H
+3674,2021-11-22,Platense,River Plate,A
+3675,2021-11-23,Gimnasia L.P.,Talleres Cordoba,D
+3676,2021-11-23,Huracan,Patronato,H
+3677,2021-11-23,Aldosivi,San Lorenzo,D
+3678,2021-11-24,Godoy Cruz,Estudiantes L.P.,D
+3679,2021-11-24,Velez Sarsfield,Argentinos Jrs,H
+3680,2021-11-24,Newells Old Boys,Central Cordoba,D
+3681,2021-11-24,Sarmiento Junin,Banfield,D
+3682,2021-11-24,Atl. Tucuman,Defensa y Justicia,A
+3683,2021-11-25,Independiente,Boca Juniors,D
+3684,2021-11-25,Arsenal Sarandi,Union de Santa Fe,D
+3685,2021-11-25,Colon Santa FE,Rosario Central,D
+3686,2021-11-25,Lanus,Platense,H
+3687,2021-11-26,River Plate,Racing Club,H
+3688,2021-11-27,Talleres Cordoba,Aldosivi,H
+3689,2021-11-27,Patronato,Godoy Cruz,D
+3690,2021-11-28,Estudiantes L.P.,Velez Sarsfield,D
+3691,2021-11-28,Rosario Central,River Plate,A
+3692,2021-11-28,Argentinos Jrs,Gimnasia L.P.,H
+3693,2021-11-28,Defensa y Justicia,Colon Santa FE,H
+3694,2021-11-29,Union de Santa Fe,Atl. Tucuman,H
+3695,2021-11-29,Racing Club,Lanus,D
+3696,2021-11-30,Central Cordoba,Arsenal Sarandi,H
+3697,2021-11-30,Platense,Huracan,A
+3698,2021-11-30,San Lorenzo,Sarmiento Junin,H
+3699,2021-11-30,Boca Juniors,Newells Old Boys,H
+3700,2021-01-12,Banfield,Independiente,D
+3701,2021-03-12,Central Cordoba,Union de Santa Fe,D
+3702,2021-03-12,Colon Santa FE,Atl. Tucuman,H
+3703,2021-04-12,Velez Sarsfield,Patronato,H
+3704,2021-04-12,Arsenal Sarandi,Boca Juniors,A
+3705,2021-04-12,Godoy Cruz,Platense,H
+3706,2021-04-12,Sarmiento Junin,Talleres Cordoba,D
+3707,2021-05-12,Huracan,Racing Club,H
+3708,2021-05-12,Lanus,Rosario Central,H
+3709,2021-05-12,Gimnasia L.P.,Estudiantes L.P.,D
+3710,2021-05-12,Independiente,San Lorenzo,H
+3711,2021-06-12,River Plate,Defensa y Justicia,H
+3712,2021-06-12,Aldosivi,Argentinos Jrs,A
+3713,2021-07-12,Newells Old Boys,Banfield,D
+3714,2021-10-12,Platense,Velez Sarsfield,D
+3715,2021-11-12,Estudiantes L.P.,Aldosivi,H
+3716,2021-11-12,Argentinos Jrs,Sarmiento Junin,H
+3717,2021-11-12,Patronato,Gimnasia L.P.,D
+3718,2021-11-12,Racing Club,Godoy Cruz,H
+3719,2021-11-12,Rosario Central,Huracan,H
+3720,2021-11-12,Union de Santa Fe,Colon Santa FE,H
+3721,2021-11-12,Atl. Tucuman,River Plate,A
+3722,2021-12-12,Boca Juniors,Central Cordoba,H
+3723,2021-12-12,San Lorenzo,Newells Old Boys,H
+3724,2021-12-12,Defensa y Justicia,Lanus,H
+3725,2021-12-13,Talleres Cordoba,Independiente,H
+3726,2021-12-13,Banfield,Arsenal Sarandi,H
+3727,2022-10-02,Patronato,Argentinos Jrs,D
+3728,2022-10-02,Sarmiento Junin,Atl. Tucuman,H
+3729,2022-11-02,Central Cordoba,Barracas Central,H
+3730,2022-11-02,Newells Old Boys,Defensa y Justicia,D
+3731,2022-11-02,Arsenal Sarandi,Rosario Central,D
+3732,2022-11-02,Godoy Cruz,Tigre,D
+3733,2022-11-02,Velez Sarsfield,Aldosivi,H
+3734,2022-12-02,Banfield,San Lorenzo,H
+3735,2022-12-02,Huracan,Lanus,D
+3736,2022-12-02,Union de Santa Fe,River Plate,A
+3737,2022-02-13,Estudiantes L.P.,Independiente,D
+3738,2022-02-13,Racing Club,Gimnasia L.P.,H
+3739,2022-02-13,Platense,Talleres Cordoba,D
+3740,2022-02-14,Boca Juniors,Colon Santa FE,H
+3741,2022-02-15,Argentinos Jrs,Newells Old Boys,H
+3742,2022-02-15,Independiente,Arsenal Sarandi,H
+3743,2022-02-15,Rosario Central,Velez Sarsfield,D
+3744,2022-02-16,Huracan,Estudiantes L.P.,D
+3745,2022-02-16,Lanus,Barracas Central,H
+3746,2022-02-16,Tigre,Central Cordoba,D
+3747,2022-02-16,Aldosivi,Boca Juniors,A
+3748,2022-02-17,River Plate,Patronato,H
+3749,2022-02-17,Colon Santa FE,Godoy Cruz,D
+3750,2022-02-17,Gimnasia L.P.,San Lorenzo,D
+3751,2022-02-17,Defensa y Justicia,Racing Club,H
+3752,2022-02-17,Sarmiento Junin,Banfield,D
+3753,2022-02-18,Atl. Tucuman,Platense,D
+3754,2022-02-18,Talleres Cordoba,Union de Santa Fe,D
